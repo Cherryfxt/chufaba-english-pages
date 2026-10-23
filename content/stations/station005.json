@@ -1,0 +1,2616 @@
+{
+  "station": 5,
+  "type": "new_learning",
+  "phase": "textbook",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 5,
+  "newItems": [
+    {
+      "groupId": "T101",
+      "sourceId": "T101",
+      "sourceIds": [
+        "T101"
+      ],
+      "word": "sandcastle",
+      "meaning": "沙堡",
+      "sourceItems": [
+        {
+          "sourceId": "T101",
+          "sourceKind": "textbook",
+          "expression": "sandcastle",
+          "meaning": "沙堡",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈsændkɑːsl/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 44,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 106,
+          "originalFields": {
+            "序号": 101,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "sandcastle",
+            "音标（教材）": "/ˈsændkɑːsl/",
+            "词性": "n.",
+            "中文释义": "沙堡",
+            "教材课文页": 44,
+            "词表PDF页": 2,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T101",
+          "introducedAtStation": 5
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T101",
+        "word": "sandcastle",
+        "ipa": "/ˈsændkɑːsl/",
+        "focus": "重音在/sænd/；后段/ɑː/拉长，castle中的t按源音标不发音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The children make a sandcastle on the beach.",
+          "zh": "孩子们在海滩上堆沙堡。",
+          "sourceIds": [
+            "T101"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈsændkɑːsl/",
+      "pos": "n.",
+      "unit": "Unit 3",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T102",
+      "sourceId": "T102",
+      "sourceIds": [
+        "T102"
+      ],
+      "word": "follow",
+      "meaning": "按……方式发展",
+      "sourceItems": [
+        {
+          "sourceId": "T102",
+          "sourceKind": "textbook",
+          "expression": "follow",
+          "meaning": "按……方式发展",
+          "partOfSpeech": "v.",
+          "phonetic": "/ˈfɒləʊ/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 107,
+          "originalFields": {
+            "序号": 102,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "follow",
+            "音标（教材）": "/ˈfɒləʊ/",
+            "词性": "v.",
+            "中文释义": "按……方式发展",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T102",
+          "introducedAtStation": 5
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T102",
+        "word": "follow",
+        "ipa": "/ˈfɒləʊ/",
+        "focus": "重读/fɒ/；结尾/əʊ/有滑动，不能读成单独的/ɒ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The weather here follows the same pattern each year.",
+          "zh": "这里的天气每年都按同样的模式变化。",
+          "sourceIds": [
+            "T102"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "pattern",
+          "meaning": "a regular way in which things happen"
+        },
+        {
+          "word": "demand",
+          "meaning": "how much people want or need something"
+        },
+        {
+          "word": "seasonal",
+          "meaning": "connected with a season"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈfɒləʊ/",
+      "pos": "v.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T103",
+      "sourceId": "T103",
+      "sourceIds": [
+        "T103"
+      ],
+      "word": "divide",
+      "meaning": "（使）分开",
+      "sourceItems": [
+        {
+          "sourceId": "T103",
+          "sourceKind": "textbook",
+          "expression": "divide",
+          "meaning": "（使）分开",
+          "partOfSpeech": "v.",
+          "phonetic": "/dɪˈvaɪd/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 108,
+          "originalFields": {
+            "序号": 103,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "divide",
+            "音标（教材）": "/dɪˈvaɪd/",
+            "词性": "v.",
+            "中文释义": "（使）分开",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T103",
+          "introducedAtStation": 5
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T103",
+        "word": "divide",
+        "ipa": "/dɪˈvaɪd/",
+        "focus": "重音在/vaɪd/；/aɪ/有滑动，开头/dɪ/轻短。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We divide the class into two groups.",
+          "zh": "我们把全班分成两组。",
+          "sourceIds": [
+            "T103"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/dɪˈvaɪd/",
+      "pos": "v.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T104",
+      "sourceId": "T104",
+      "sourceIds": [
+        "T104"
+      ],
+      "word": "decide",
+      "meaning": "对……作出抉择；决定",
+      "sourceItems": [
+        {
+          "sourceId": "T104",
+          "sourceKind": "textbook",
+          "expression": "decide",
+          "meaning": "对……作出抉择；决定",
+          "partOfSpeech": "v.",
+          "phonetic": "/dɪˈsaɪd/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 109,
+          "originalFields": {
+            "序号": 104,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "decide",
+            "音标（教材）": "/dɪˈsaɪd/",
+            "词性": "v.",
+            "中文释义": "对……作出抉择；决定",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T104",
+          "introducedAtStation": 5
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T104",
+        "word": "decide",
+        "ipa": "/dɪˈsaɪd/",
+        "focus": "重音在/saɪd/；字母c在这里读/s/，末尾/d/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We decide on a name for our club.",
+          "zh": "我们决定社团的名字。",
+          "sourceIds": [
+            "T104"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/dɪˈsaɪd/",
+      "pos": "v.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T105",
+      "sourceId": "T105",
+      "sourceIds": [
+        "T105"
+      ],
+      "word": "crop",
+      "meaning": "庄稼；作物",
+      "sourceItems": [
+        {
+          "sourceId": "T105",
+          "sourceKind": "textbook",
+          "expression": "crop",
+          "meaning": "庄稼；作物",
+          "partOfSpeech": "n.",
+          "phonetic": "/krɒp/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 110,
+          "originalFields": {
+            "序号": 105,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "crop",
+            "音标（教材）": "/krɒp/",
+            "词性": "n.",
+            "中文释义": "庄稼；作物",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T105",
+          "introducedAtStation": 5
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T105",
+        "word": "crop",
+        "ipa": "/krɒp/",
+        "focus": "开头/kr/连读；/ɒ/短读，最后/p/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Rice is an important crop here.",
+          "zh": "水稻是这里的重要作物。",
+          "sourceIds": [
+            "T105"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/krɒp/",
+      "pos": "n.",
+      "unit": "Unit 3",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T106",
+      "sourceId": "T106",
+      "sourceIds": [
+        "T106"
+      ],
+      "word": "culture",
+      "meaning": "文化；文明",
+      "sourceItems": [
+        {
+          "sourceId": "T106",
+          "sourceKind": "textbook",
+          "expression": "culture",
+          "meaning": "文化；文明",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈkʌltʃə(r)/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 111,
+          "originalFields": {
+            "序号": 106,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "culture",
+            "音标（教材）": "/ˈkʌltʃə(r)/",
+            "词性": "n.",
+            "中文释义": "文化；文明",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T106",
+          "introducedAtStation": 5
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T106",
+        "word": "culture",
+        "ipa": "/ˈkʌltʃə(r)/",
+        "focus": "重读/kʌl/；后段/tʃ/是一个清辅音，最后/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We learn about Chinese culture at school.",
+          "zh": "我们在学校学习中国文化。",
+          "sourceIds": [
+            "T106"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈkʌltʃə(r)/",
+      "pos": "n.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "T031",
+      "sourceId": "T031",
+      "sourceIds": [
+        "T031"
+      ],
+      "word": "rise into",
+      "meaning": "上升到",
+      "sourceItems": [
+        {
+          "sourceId": "T031",
+          "sourceKind": "textbook",
+          "expression": "rise into",
+          "meaning": "上升到",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 1",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 14,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 36,
+          "originalFields": {
+            "序号": 31,
+            "单元": "Unit 1",
+            "类型": "短语",
+            "单词／短语": "rise into",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "上升到",
+            "教材课文页": 14,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T031",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T031",
+        "sourceIds": [
+          "T031"
+        ],
+        "expression": "rise into",
+        "phonetic": "/raɪz ˈɪntuː/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "The balloon rises into the sky.",
+          "zh": "气球升入天空。",
+          "sourceIds": [
+            "T031"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T030",
+      "sourceId": "T030",
+      "sourceIds": [
+        "T030"
+      ],
+      "word": "watch over",
+      "meaning": "照管；监督",
+      "sourceItems": [
+        {
+          "sourceId": "T030",
+          "sourceKind": "textbook",
+          "expression": "watch over",
+          "meaning": "照管；监督",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 1",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 14,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 35,
+          "originalFields": {
+            "序号": 30,
+            "单元": "Unit 1",
+            "类型": "短语",
+            "单词／短语": "watch over",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "照管；监督",
+            "教材课文页": 14,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T030",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T030",
+        "sourceIds": [
+          "T030"
+        ],
+        "expression": "watch over",
+        "phonetic": "/wɒtʃ ˈəʊvə/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Grandma watches over the little children in the garden.",
+          "zh": "奶奶在花园里照看小孩子。",
+          "sourceIds": [
+            "T030"
+          ]
+        },
+        {
+          "en": "A teacher watches over the group during the experiment.",
+          "zh": "一位老师在实验过程中监督小组。",
+          "sourceIds": [
+            "T030"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T029",
+      "sourceId": "T029",
+      "sourceIds": [
+        "T029"
+      ],
+      "word": "modern dance",
+      "meaning": "现代舞",
+      "sourceItems": [
+        {
+          "sourceId": "T029",
+          "sourceKind": "textbook",
+          "expression": "modern dance",
+          "meaning": "现代舞",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 1",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 12,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 34,
+          "originalFields": {
+            "序号": 29,
+            "单元": "Unit 1",
+            "类型": "短语",
+            "单词／短语": "modern dance",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "现代舞",
+            "教材课文页": 12,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T029",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T029",
+        "sourceIds": [
+          "T029"
+        ],
+        "expression": "modern dance",
+        "phonetic": "/ˈmɒdn dɑːns/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "The club teaches modern dance on Fridays.",
+          "zh": "社团每周五教现代舞。",
+          "sourceIds": [
+            "T029"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T028",
+      "sourceId": "T028",
+      "sourceIds": [
+        "T028"
+      ],
+      "word": "medium height",
+      "meaning": "中等身高",
+      "sourceItems": [
+        {
+          "sourceId": "T028",
+          "sourceKind": "textbook",
+          "expression": "medium height",
+          "meaning": "中等身高",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 1",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 11,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 33,
+          "originalFields": {
+            "序号": 28,
+            "单元": "Unit 1",
+            "类型": "短语",
+            "单词／短语": "medium height",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "中等身高",
+            "教材课文页": 11,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T028",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T028",
+        "sourceIds": [
+          "T028"
+        ],
+        "expression": "medium height",
+        "phonetic": "/ˈmiːdiəm haɪt/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "My cousin is of medium height.",
+          "zh": "我的表亲中等身高。",
+          "sourceIds": [
+            "T028"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T036",
+      "sourceId": "T036",
+      "sourceIds": [
+        "T036"
+      ],
+      "word": "take somebody's place",
+      "meaning": "替代某人",
+      "sourceItems": [
+        {
+          "sourceId": "T036",
+          "sourceKind": "textbook",
+          "expression": "take somebody's place",
+          "meaning": "替代某人",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 1",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 15,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 41,
+          "originalFields": {
+            "序号": 36,
+            "单元": "Unit 1",
+            "类型": "短语",
+            "单词／短语": "take somebody's place",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "替代某人",
+            "教材课文页": 15,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T036",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T036",
+        "sourceIds": [
+          "T036"
+        ],
+        "expression": "take somebody's place",
+        "phonetic": "/teɪk ˈsʌmbədiz pleɪs/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "When I am absent, Mia takes my place in the school team.",
+          "zh": "我缺席时，米娅替代我参加校队。",
+          "sourceIds": [
+            "T036"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T035",
+      "sourceId": "T035",
+      "sourceIds": [
+        "T035"
+      ],
+      "word": "come and go",
+      "meaning": "来去",
+      "sourceItems": [
+        {
+          "sourceId": "T035",
+          "sourceKind": "textbook",
+          "expression": "come and go",
+          "meaning": "来去",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 1",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 15,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 40,
+          "originalFields": {
+            "序号": 35,
+            "单元": "Unit 1",
+            "类型": "短语",
+            "单词／短语": "come and go",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "来去",
+            "教材课文页": 15,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T035",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T035",
+        "sourceIds": [
+          "T035"
+        ],
+        "expression": "come and go",
+        "phonetic": "/kʌm ən ɡəʊ/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "People come and go at the busy station.",
+          "zh": "繁忙的车站里，人们来来去去。",
+          "sourceIds": [
+            "T035"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T033",
+      "sourceId": "T033",
+      "sourceIds": [
+        "T033"
+      ],
+      "word": "cry oneself to sleep",
+      "meaning": "哭着入睡",
+      "sourceItems": [
+        {
+          "sourceId": "T033",
+          "sourceKind": "textbook",
+          "expression": "cry oneself to sleep",
+          "meaning": "哭着入睡",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 1",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 14,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 38,
+          "originalFields": {
+            "序号": 33,
+            "单元": "Unit 1",
+            "类型": "短语",
+            "单词／短语": "cry oneself to sleep",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "哭着入睡",
+            "教材课文页": 14,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T033",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T033",
+        "sourceIds": [
+          "T033"
+        ],
+        "expression": "cry oneself to sleep",
+        "phonetic": "/kraɪ wʌnˈself tə sliːp/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "The tired baby girl sometimes cries herself to sleep.",
+          "zh": "那个疲倦的女宝宝有时哭着入睡。",
+          "sourceIds": [
+            "T033"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T032",
+      "sourceId": "T032",
+      "sourceIds": [
+        "T032"
+      ],
+      "word": "cry out",
+      "meaning": "大叫；叫喊",
+      "sourceItems": [
+        {
+          "sourceId": "T032",
+          "sourceKind": "textbook",
+          "expression": "cry out",
+          "meaning": "大叫；叫喊",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 1",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 14,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 37,
+          "originalFields": {
+            "序号": 32,
+            "单元": "Unit 1",
+            "类型": "短语",
+            "单词／短语": "cry out",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "大叫；叫喊",
+            "教材课文页": 14,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T032",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T032",
+        "sourceIds": [
+          "T032"
+        ],
+        "expression": "cry out",
+        "phonetic": "/kraɪ aʊt/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "The fans cry out when their team scores.",
+          "zh": "球队得分时，球迷们大声叫喊。",
+          "sourceIds": [
+            "T032"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 1",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T101",
+      "groupId": "T101",
+      "direction": "zh_to_en",
+      "stem": "沙堡",
+      "options": [
+        {
+          "label": "A",
+          "text": "sandcastle"
+        },
+        {
+          "label": "B",
+          "text": "south"
+        },
+        {
+          "label": "C",
+          "text": "diary"
+        },
+        {
+          "label": "D",
+          "text": "teenager"
+        }
+      ],
+      "answer": "A",
+      "word": "sandcastle",
+      "meaning": "沙堡"
+    },
+    {
+      "id": 2,
+      "sourceId": "T102",
+      "groupId": "T102",
+      "direction": "en_to_zh",
+      "stem": "follow",
+      "options": [
+        {
+          "label": "A",
+          "text": "按……方式发展"
+        },
+        {
+          "label": "B",
+          "text": "替代某人"
+        },
+        {
+          "label": "C",
+          "text": "踢；踹"
+        },
+        {
+          "label": "D",
+          "text": "去睡觉，上床睡觉；上床睡觉"
+        }
+      ],
+      "answer": "A",
+      "word": "follow",
+      "meaning": "按……方式发展"
+    },
+    {
+      "id": 3,
+      "sourceId": "T103",
+      "groupId": "T103",
+      "direction": "zh_to_en",
+      "stem": "（使）分开",
+      "options": [
+        {
+          "label": "A",
+          "text": "have picnics"
+        },
+        {
+          "label": "B",
+          "text": "go to bed"
+        },
+        {
+          "label": "C",
+          "text": "divide"
+        },
+        {
+          "label": "D",
+          "text": "dark"
+        }
+      ],
+      "answer": "C",
+      "word": "divide",
+      "meaning": "（使）分开"
+    },
+    {
+      "id": 4,
+      "sourceId": "T104",
+      "groupId": "T104",
+      "direction": "en_to_zh",
+      "stem": "decide",
+      "options": [
+        {
+          "label": "A",
+          "text": "对……作出抉择；决定"
+        },
+        {
+          "label": "B",
+          "text": "褐色的；乌黑的"
+        },
+        {
+          "label": "C",
+          "text": "按……方式发展"
+        },
+        {
+          "label": "D",
+          "text": "擅长于"
+        }
+      ],
+      "answer": "A",
+      "word": "decide",
+      "meaning": "对……作出抉择；决定"
+    },
+    {
+      "id": 5,
+      "sourceId": "T105",
+      "groupId": "T105",
+      "direction": "zh_to_en",
+      "stem": "庄稼；作物",
+      "options": [
+        {
+          "label": "A",
+          "text": "crop"
+        },
+        {
+          "label": "B",
+          "text": "footprint"
+        },
+        {
+          "label": "C",
+          "text": "do the dishes"
+        },
+        {
+          "label": "D",
+          "text": "presentation"
+        }
+      ],
+      "answer": "A",
+      "word": "crop",
+      "meaning": "庄稼；作物"
+    },
+    {
+      "id": 6,
+      "sourceId": "T106",
+      "groupId": "T106",
+      "direction": "en_to_zh",
+      "stem": "culture",
+      "options": [
+        {
+          "label": "A",
+          "text": "镇；市镇"
+        },
+        {
+          "label": "B",
+          "text": "期待；盼望"
+        },
+        {
+          "label": "C",
+          "text": "文化；文明"
+        },
+        {
+          "label": "D",
+          "text": "角；墙角"
+        }
+      ],
+      "answer": "C",
+      "word": "culture",
+      "meaning": "文化；文明"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T101",
+      "groupId": "T101",
+      "target": "sandcastle",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a small castle made of sand"
+        },
+        {
+          "label": "B",
+          "text": "a house made of ice"
+        },
+        {
+          "label": "C",
+          "text": "a drawing of a tree"
+        },
+        {
+          "label": "D",
+          "text": "a toy boat"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "A",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "sandcastle",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "sandcastle"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "沙堡",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “sandcastle” means “a small castle made of sand”.",
+      "parentExplanation": "本题考查“sandcastle”在本句中的用法；正确英文解释为“a small castle made of sand”。对应源表释义为“沙堡”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T102",
+      "groupId": "T102",
+      "target": "follow",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "divide into groups"
+        },
+        {
+          "label": "B",
+          "text": "write a new name"
+        },
+        {
+          "label": "C",
+          "text": "change or happen in a certain way"
+        },
+        {
+          "label": "D",
+          "text": "make a loud sound"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "follow",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "follow"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "按……方式发展",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “follow” means “change or happen in a certain way”.",
+      "parentExplanation": "本题考查“follow”在本句中的用法；正确英文解释为“change or happen in a certain way”。对应源表释义为“按……方式发展”。",
+      "wordHelp": [
+        {
+          "word": "pattern",
+          "meaning": "a regular way in which things happen"
+        },
+        {
+          "word": "demand",
+          "meaning": "how much people want or need something"
+        },
+        {
+          "word": "seasonal",
+          "meaning": "connected with a season"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T103",
+      "groupId": "T103",
+      "target": "divide",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "kick"
+        },
+        {
+          "label": "B",
+          "text": "decide"
+        },
+        {
+          "label": "C",
+          "text": "divide"
+        },
+        {
+          "label": "D",
+          "text": "gather"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which verb describes what the teacher does to the cards?",
+      "answer": "C",
+      "listenScript": "The teacher has twelve cards. She puts four cards in each of three groups for the teams.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The teacher has twelve cards. She puts four cards in each of three groups for the teams."
+        }
+      ],
+      "explanation": "Putting the cards into three groups is dividing them.",
+      "parentExplanation": "把卡片分成三组，对应divide，而非采集、踢或作决定。",
+      "translation": {
+        "stem": "哪个动词描述老师对卡片的处理？",
+        "listenScript": "老师有十二张卡，把每四张分为一组，组成三组，分给各队。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T103",
+        "T093",
+        "T084",
+        "T104"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T104",
+      "groupId": "T104",
+      "target": "decide",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "decide"
+        },
+        {
+          "label": "B",
+          "text": "follow"
+        },
+        {
+          "label": "C",
+          "text": "divide"
+        },
+        {
+          "label": "D",
+          "text": "gather"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which verb describes making the choice?",
+      "answer": "A",
+      "listenScript": "The club has three possible names. After discussing them, the members choose one name together.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The club has three possible names. After discussing them, the members choose one name together."
+        }
+      ],
+      "explanation": "The members think about the names and make a choice, so they decide.",
+      "parentExplanation": "经过思考选定一个名字，体现decide决定。",
+      "translation": {
+        "stem": "哪个动词描述作出选择？",
+        "listenScript": "俱乐部有三个备选名字，成员们讨论之后一起选定一个。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T104",
+        "T102",
+        "T103",
+        "T093"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T105",
+      "groupId": "T105",
+      "target": "crop",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a plant that people grow for food or other use"
+        },
+        {
+          "label": "B",
+          "text": "a kind of boat"
+        },
+        {
+          "label": "C",
+          "text": "a stone on a beach"
+        },
+        {
+          "label": "D",
+          "text": "a wild animal"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "Rice and corn are two important crops here.\nWhat does “crops” mean here?",
+      "translation": {
+        "stem": "水稻和玉米是这里两种重要的作物。 这里“crops”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “crop” means “a plant that people grow for food or other use”.",
+      "parentExplanation": "本题考查“crop”在本句中的用法；正确英文解释为“a plant that people grow for food or other use”。对应源表释义为“庄稼；作物”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T106",
+      "groupId": "T106",
+      "target": "culture",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the ways of life, ideas and arts of a group of people"
+        },
+        {
+          "label": "B",
+          "text": "the size of a desk"
+        },
+        {
+          "label": "C",
+          "text": "the weather on one day"
+        },
+        {
+          "label": "D",
+          "text": "the colour of one shirt"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "Food, music and stories tell us about a country's culture.\nWhat does “culture” mean here?",
+      "translation": {
+        "stem": "食物、音乐和故事告诉我们一个国家的文化。 这里“culture”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “culture” means “the ways of life, ideas and arts of a group of people”.",
+      "parentExplanation": "本题考查“culture”在本句中的用法；正确英文解释为“the ways of life, ideas and arts of a group of people”。对应源表释义为“文化；文明”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T031",
+      "groupId": "T031",
+      "target": "rise into",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to move down below a surface"
+        },
+        {
+          "label": "B",
+          "text": "to move upwards into a space above"
+        },
+        {
+          "label": "C",
+          "text": "to move along the ground without lifting"
+        },
+        {
+          "label": "D",
+          "text": "to remain at the bottom of a place"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "We watch the red balloon rise into the sky above the park.\nWhat does “rise into” mean here?",
+      "translation": {
+        "stem": "我们看着红气球升入公园上方的天空。 这里“rise into”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “rise into” means “to move upwards into a space above”.",
+      "parentExplanation": "本题考查“rise into”在本句中的用法；正确英文解释为“to move upwards into a space above”。对应源表释义为“上升到”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T030",
+      "groupId": "T030",
+      "target": "watch over",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to copy someone's work in secret"
+        },
+        {
+          "label": "B",
+          "text": "to keep someone safe by watching carefully"
+        },
+        {
+          "label": "C",
+          "text": "to ignore someone who needs support"
+        },
+        {
+          "label": "D",
+          "text": "to walk away from an unfinished activity"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "Mum asks Grandpa to watch over the children and keep them safe while she cooks.\nWhat does “watch over” mean here?",
+      "translation": {
+        "stem": "妈妈请爷爷在她做饭时照看孩子，确保他们安全。 这里“watch over”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “watch over” means “to keep someone safe by watching carefully”.",
+      "parentExplanation": "本题考查“watch over”在本句中的用法；正确英文解释为“to keep someone safe by watching carefully”。对应源表释义为“照管；监督”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T101",
+      "groupId": "T101",
+      "target": "sandcastle",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "sandcastles"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The girls build two s________ from the wet sand on the beach.",
+      "answer": "sandcastles",
+      "hint": "small castles made of sand",
+      "grammar": "Two + plural noun",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use sandcastles after two.",
+      "parentExplanation": "two后用复数sandcastles；教材理解词的拼写属于补充练习。",
+      "translation": {
+        "stem": "女孩们用海滩上的湿沙堆了两座沙堡。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T102",
+      "groupId": "T102",
+      "target": "follow",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "follow"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "These changes f________ the same pattern every year.",
+      "answer": "follow",
+      "hint": "happen in a certain way",
+      "grammar": "Plural subject + base verb",
+      "initialLetter": "f",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Follow means happen in a certain way here.",
+      "parentExplanation": "follow在此指按某种方式发展；复数主语changes用动词原形。",
+      "translation": {
+        "stem": "这些变化每年都按同一种模式发展。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "pattern",
+          "meaning": "a regular way in which things happen"
+        },
+        {
+          "word": "demand",
+          "meaning": "how much people want or need something"
+        },
+        {
+          "word": "seasonal",
+          "meaning": "connected with a season"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T103",
+      "groupId": "T103",
+      "target": "divide",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "divide"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Does Ms Li d________ the class into two groups?",
+      "answer": "divide",
+      "hint": "put people into groups",
+      "grammar": "Does + base verb",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use the base form divide after does.",
+      "parentExplanation": "助动词 Does 后用动词原形 divide；divide the class into two groups 表示把全班分成两组，考查教材“（使）分开”的义项。",
+      "translation": {
+        "stem": "李老师把全班分成两组吗？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T104",
+      "groupId": "T104",
+      "target": "decide",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "decide"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We d________ on a name for our team.",
+      "answer": "decide",
+      "hint": "choose after thinking",
+      "grammar": "Base verb with we",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use decide on to say that people choose something.",
+      "parentExplanation": "decide on 表示选定，主语 we 用原形。",
+      "translation": {
+        "stem": "我们决定队伍的名字。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T105",
+      "groupId": "T105",
+      "target": "crop",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "crop"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Wheat is the main c________ on this farm. People grow it for food.",
+      "answer": "crop",
+      "hint": "a plant grown for food or another use",
+      "grammar": "Singular countable noun",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Crop means a plant grown by people, such as wheat.",
+      "parentExplanation": "此处crop表示种植的庄稼、作物；拼写为教材理解词的补充练习。",
+      "translation": {
+        "stem": "小麦是这座农场的主要作物，人们种植它用作食物。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T106",
+      "groupId": "T106",
+      "target": "culture",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "culture"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Songs, food and festivals can show the c________ of a place.",
+      "answer": "culture",
+      "hint": "the ways of life and ideas of a group",
+      "grammar": "Abstract noun",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Culture includes the ways of life, ideas and arts of a group.",
+      "parentExplanation": "culture概括某群体的生活方式、思想与艺术，符合歌曲、食物、节日的语境。",
+      "translation": {
+        "stem": "歌曲、食物和节日可以展现一个地方的文化。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T029",
+      "groupId": "T029",
+      "target": "modern dance",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "modern dance"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Our club offers ballet and m________. I choose the second class for its free movements.",
+      "answer": "modern dance",
+      "hint": "Name the two-word dance style that uses freer movements than classical ballet.",
+      "grammar": "并列名词短语",
+      "initialLetter": "m",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The contrast with classical ballet identifies modern dance.",
+      "parentExplanation": "与古典芭蕾对比、动作较自由的舞种，填modern dance。",
+      "translation": {
+        "stem": "我们的社团开设芭蕾舞和现代舞。我选择第二门课，因为它的动作自由。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T028",
+      "groupId": "T028",
+      "target": "medium height",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "medium height"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Tom is neither tall nor short. He is of m________.",
+      "answer": "medium height",
+      "hint": "Use the two-word expression for a height between tall and short.",
+      "grammar": "be of medium height",
+      "initialLetter": "m",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Neither tall nor short describes medium height.",
+      "parentExplanation": "既不高也不矮即中等身高；of已经在空前。",
+      "translation": {
+        "stem": "汤姆既不高也不矮。他中等身高。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T036",
+      "groupId": "T036",
+      "target": "take somebody's place",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to do another person's job instead of them"
+        },
+        {
+          "label": "B",
+          "text": "to keep another person from working"
+        },
+        {
+          "label": "C",
+          "text": "to ask another person to do extra work"
+        },
+        {
+          "label": "D",
+          "text": "to move another person's chair"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “take Ella’s place” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 2, \"take Ella’s place\" means \"to do another person's job instead of them\". The surrounding action supports this meaning.",
+      "parentExplanation": "第2句中“take Ella’s place”在语境中表示“替代某人”；句子为“This week she has to visit her grandmother, so Max offers to take Ella’s place for one afternoon.”。",
+      "translation": {
+        "stem": "短文中的“take Ella’s place”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "take Ella’s place"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T035",
+      "groupId": "T035",
+      "target": "come and go",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "arrive and leave repeatedly"
+        },
+        {
+          "label": "B",
+          "text": "remain in one place throughout"
+        },
+        {
+          "label": "C",
+          "text": "stop visiting a place permanently"
+        },
+        {
+          "label": "D",
+          "text": "move in only one direction"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “come and go” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 4, \"come and go\" means \"arrive and leave repeatedly\". The surrounding action supports this meaning.",
+      "parentExplanation": "第4句中“come and go”在语境中表示“来去”；句子为“Pupils come and go as they return old books and choose new ones.”。",
+      "translation": {
+        "stem": "短文中的“come and go”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "come and go"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "How does Max deal with questions he cannot answer?",
+      "explanation": "Sentence 5 says he writes the questions down to ask the librarian later.",
+      "parentExplanation": "第5句明确给出处理方式：记下问题，之后请教管理员。",
+      "translation": {
+        "stem": "马克斯如何处理答不出的问题？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "He hides the returned books behind a closed door."
+        },
+        {
+          "label": "B",
+          "text": "He tells the pupils never to visit the library again."
+        },
+        {
+          "label": "C",
+          "text": "He writes them down to ask the librarian later."
+        },
+        {
+          "label": "D",
+          "text": "He changes the library opening time by himself."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea of the passage?",
+      "explanation": "Max learns the library duties and takes over for Ella for one afternoon.",
+      "parentExplanation": "全文讲马克斯学习工作方法，代替埃拉帮忙一个下午。",
+      "translation": {
+        "stem": "短文的主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A library stops opening because no pupil likes books."
+        },
+        {
+          "label": "B",
+          "text": "A pupil decides to keep all the library books at home."
+        },
+        {
+          "label": "C",
+          "text": "Two pupils argue about who owns the school library."
+        },
+        {
+          "label": "D",
+          "text": "A pupil learns a library job so that he can help a friend."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T033",
+      "groupId": "T033",
+      "target": "cry oneself to sleep",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "sings to make someone else sleep"
+        },
+        {
+          "label": "B",
+          "text": "laughs until she wakes up"
+        },
+        {
+          "label": "C",
+          "text": "stays awake without crying"
+        },
+        {
+          "label": "D",
+          "text": "cries until she falls asleep"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “cries herself to sleep” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 2, \"cries herself to sleep\" means \"cries until she falls asleep\". The surrounding action supports this meaning.",
+      "parentExplanation": "第2句中“cries herself to sleep”在语境中表示“哭着入睡”；句子为“On the first night, she cries herself to sleep after saying goodnight to her parents by phone.”。",
+      "translation": {
+        "stem": "短文中的“cries herself to sleep”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "cries herself to sleep"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T032",
+      "groupId": "T032",
+      "target": "cry out",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "listens without making a sound"
+        },
+        {
+          "label": "B",
+          "text": "speaks in a quiet voice"
+        },
+        {
+          "label": "C",
+          "text": "writes a message silently"
+        },
+        {
+          "label": "D",
+          "text": "shouts loudly and suddenly"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “cries out” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 4, \"cries out\" means \"shouts loudly and suddenly\". The surrounding action supports this meaning.",
+      "parentExplanation": "第4句中“cries out”在语境中表示“大叫；叫喊”；句子为“Later, Mei sees her younger cousin nearly step on a toy and cries out, “Look down!””。",
+      "translation": {
+        "stem": "短文中的“cries out”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "cries out"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why does Mei call out to her cousin?",
+      "explanation": "She sees him nearly step on a toy and tells him to look down.",
+      "parentExplanation": "第4至5句表明，她大喊是提醒表弟注意脚下玩具。",
+      "translation": {
+        "stem": "梅为什么对表弟大喊？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4,
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "She wants to warn him about a toy under his feet."
+        },
+        {
+          "label": "B",
+          "text": "She wants him to end her evening call home."
+        },
+        {
+          "label": "C",
+          "text": "She hopes to wake her aunt in another room."
+        },
+        {
+          "label": "D",
+          "text": "She thinks he lost all the toys."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea of the passage?",
+      "explanation": "Mei misses home but receives support and begins to feel more at ease during the visit.",
+      "parentExplanation": "全文保留梅想家的感受，同时写她在支持与相处中逐渐适应暂住。",
+      "translation": {
+        "stem": "短文的主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "An aunt refuses to let a child speak to her parents."
+        },
+        {
+          "label": "B",
+          "text": "Two cousins decide that they must never play together."
+        },
+        {
+          "label": "C",
+          "text": "A child adjusts to a family visit while still missing home."
+        },
+        {
+          "label": "D",
+          "text": "A child forgets her family as soon as she arrives."
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Ella usually helps at the school library on Friday afternoon. This week she has to visit her grandmother, so Max offers to take Ella’s place for one afternoon. Ella shows him how to check the books and where to put the returned ones. Pupils come and go as they return old books and choose new ones. Max writes down the questions he cannot answer so that he can ask the librarian later. Ella thanks him, and the library can keep its usual opening time.",
+      "parallelText": [
+        {
+          "en": "Ella usually helps at the school library on Friday afternoon.",
+          "zh": "埃拉通常在周五下午去学校图书馆帮忙。"
+        },
+        {
+          "en": "This week she has to visit her grandmother, so Max offers to take Ella’s place for one afternoon.",
+          "zh": "这周她要去看奶奶，因此马克斯主动提出代替埃拉一个下午。"
+        },
+        {
+          "en": "Ella shows him how to check the books and where to put the returned ones.",
+          "zh": "埃拉向他展示如何检查书本，以及把归还的书放在哪里。"
+        },
+        {
+          "en": "Pupils come and go as they return old books and choose new ones.",
+          "zh": "学生们来来往往，还旧书并挑选新书。"
+        },
+        {
+          "en": "Max writes down the questions he cannot answer so that he can ask the librarian later.",
+          "zh": "马克斯把自己答不出的问题记下来，之后询问图书管理员。"
+        },
+        {
+          "en": "Ella thanks him, and the library can keep its usual opening time.",
+          "zh": "埃拉向他道谢，图书馆也得以保持平常的开放时间。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "returned",
+          "meaning": "brought back"
+        },
+        {
+          "word": "librarian",
+          "meaning": "a person who works in a library"
+        },
+        {
+          "word": "usual",
+          "meaning": "normal or happening regularly"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "When Mei first stays at her aunt’s house, she misses her family very much. On the first night, she cries herself to sleep after saying goodnight to her parents by phone. The next morning, her aunt listens to her and helps her plan a call home each evening. Later, Mei sees her younger cousin nearly step on a toy and cries out, “Look down!” Her cousin stops safely, and they put the toys back in the box together. Mei still misses home, but the small plan and the time with her cousin make the visit easier.",
+      "parallelText": [
+        {
+          "en": "When Mei first stays at her aunt’s house, she misses her family very much.",
+          "zh": "梅第一次住在姑姑家时，非常想念家人。"
+        },
+        {
+          "en": "On the first night, she cries herself to sleep after saying goodnight to her parents by phone.",
+          "zh": "第一晚，和父母通电话道晚安后，她哭着睡着了。"
+        },
+        {
+          "en": "The next morning, her aunt listens to her and helps her plan a call home each evening.",
+          "zh": "第二天早上，姑姑听她说话，帮助她安排每天晚上给家里打电话。"
+        },
+        {
+          "en": "Later, Mei sees her younger cousin nearly step on a toy and cries out, “Look down!”",
+          "zh": "后来，梅看见表弟差点踩到玩具，大喊：“看看脚下！”"
+        },
+        {
+          "en": "Her cousin stops safely, and they put the toys back in the box together.",
+          "zh": "表弟安全地停住脚步，他们一起把玩具收回盒子。"
+        },
+        {
+          "en": "Mei still misses home, but the small plan and the time with her cousin make the visit easier.",
+          "zh": "梅仍然想家，但小计划和与表弟相处的时光，让这次暂住轻松了一些。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "nearly",
+          "meaning": "almost"
+        },
+        {
+          "word": "warn",
+          "meaning": "tell someone about a possible danger"
+        },
+        {
+          "word": "adjusts",
+          "meaning": "gets used to a new situation"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S005-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T031",
+      "groupId": "T031",
+      "expression": "rise into",
+      "meaning": "上升到",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 5,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S005-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T030",
+      "groupId": "T030",
+      "expression": "watch over",
+      "meaning": "照管；监督",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 5,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S005-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T029",
+      "groupId": "T029",
+      "expression": "modern dance",
+      "meaning": "现代舞",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 5,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S005-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T028",
+      "groupId": "T028",
+      "expression": "medium height",
+      "meaning": "中等身高",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 5,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S005-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T036",
+      "groupId": "T036",
+      "expression": "take somebody's place",
+      "meaning": "替代某人",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 5,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S005-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T035",
+      "groupId": "T035",
+      "expression": "come and go",
+      "meaning": "来去",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 5,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S005-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T033",
+      "groupId": "T033",
+      "expression": "cry oneself to sleep",
+      "meaning": "哭着入睡",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 5,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S005-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T032",
+      "groupId": "T032",
+      "expression": "cry out",
+      "meaning": "大叫；叫喊",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 5,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

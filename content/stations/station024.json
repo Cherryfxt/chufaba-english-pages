@@ -1,0 +1,2699 @@
+{
+  "station": 24,
+  "type": "new_learning",
+  "phase": "textbook",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 24,
+  "newItems": [
+    {
+      "groupId": "T182",
+      "sourceId": "T182",
+      "sourceIds": [
+        "T182"
+      ],
+      "word": "experiment",
+      "meaning": "实验；试验",
+      "sourceItems": [
+        {
+          "sourceId": "T182",
+          "sourceKind": "textbook",
+          "expression": "experiment",
+          "meaning": "实验；试验",
+          "partOfSpeech": "n.",
+          "phonetic": "/ɪkˈsperɪmənt/",
+          "unit": "Unit 5",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 72,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 187,
+          "originalFields": {
+            "序号": 182,
+            "单元": "Unit 5",
+            "类型": "单词",
+            "单词／短语": "experiment",
+            "音标（教材）": "/ɪkˈsperɪmənt/",
+            "词性": "n.",
+            "中文释义": "实验；试验",
+            "教材课文页": 72,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T182",
+          "introducedAtStation": 24
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T182",
+        "word": "experiment",
+        "ipa": "/ɪkˈsperɪmənt/",
+        "focus": "重音在/spe/；前面的/ɪk/轻读，后段/mənt/中的/ə/弱读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We do an experiment to find out which material keeps water warm.",
+          "zh": "我们做一个实验，找出哪种材料能让水保持温热。",
+          "sourceIds": [
+            "T182"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "material",
+          "meaning": "a substance used to make something"
+        },
+        {
+          "word": "melt",
+          "meaning": "change from a solid to a liquid"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ɪkˈsperɪmənt/",
+      "pos": "n.",
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T183",
+      "sourceId": "T183",
+      "sourceIds": [
+        "T183"
+      ],
+      "word": "prepare",
+      "meaning": "使做好准备；把……预备好",
+      "sourceItems": [
+        {
+          "sourceId": "T183",
+          "sourceKind": "textbook",
+          "expression": "prepare",
+          "meaning": "使做好准备；把……预备好",
+          "partOfSpeech": "v.",
+          "phonetic": "/prɪˈpeə(r)/",
+          "unit": "Unit 5",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 75,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 188,
+          "originalFields": {
+            "序号": 183,
+            "单元": "Unit 5",
+            "类型": "单词",
+            "单词／短语": "prepare",
+            "音标（教材）": "/prɪˈpeə(r)/",
+            "词性": "v.",
+            "中文释义": "使做好准备；把……预备好",
+            "教材课文页": 75,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T183",
+          "introducedAtStation": 24
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T183",
+        "word": "prepare",
+        "ipa": "/prɪˈpeə(r)/",
+        "focus": "开头/prɪ/轻短；重音在/peə/，/eə/有滑动。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We prepare lunch before our guests arrive.",
+          "zh": "我们在客人到来之前准备午饭。",
+          "sourceIds": [
+            "T183"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/prɪˈpeə(r)/",
+      "pos": "v.",
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T184",
+      "sourceId": "T184",
+      "sourceIds": [
+        "T184"
+      ],
+      "word": "dream",
+      "meaning": "n. 梦想；理想；v. 做梦；梦见",
+      "sourceItems": [
+        {
+          "sourceId": "T184",
+          "sourceKind": "textbook",
+          "expression": "dream",
+          "meaning": "n. 梦想；理想；v. 做梦；梦见",
+          "partOfSpeech": "n.；v.",
+          "phonetic": "/driːm/",
+          "unit": "Unit 5",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 76,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 189,
+          "originalFields": {
+            "序号": 184,
+            "单元": "Unit 5",
+            "类型": "单词",
+            "单词／短语": "dream",
+            "音标（教材）": "/driːm/",
+            "词性": "n.；v.",
+            "中文释义": "n. 梦想；理想；v. 做梦；梦见",
+            "教材课文页": 76,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": "原表同一词头分别列n.和v.释义，合并在同一条并保留词性对应。"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T184",
+          "introducedAtStation": 24
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T184",
+        "word": "dream",
+        "ipa": "/driːm/",
+        "focus": "开头/dr/连读；/iː/拉长，最后/m/闭唇收尾。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "My dream is to become a doctor.",
+          "zh": "我的梦想是成为一名医生。",
+          "sourceIds": [
+            "T184"
+          ]
+        },
+        {
+          "en": "I sometimes dream about flying when I am asleep.",
+          "zh": "我睡着时有时会梦见飞翔。",
+          "sourceIds": [
+            "T184"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/driːm/",
+      "pos": "n.；v.",
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T185",
+      "sourceId": "T185",
+      "sourceIds": [
+        "T185"
+      ],
+      "word": "chance",
+      "meaning": "机会；机遇",
+      "sourceItems": [
+        {
+          "sourceId": "T185",
+          "sourceKind": "textbook",
+          "expression": "chance",
+          "meaning": "机会；机遇",
+          "partOfSpeech": "n.",
+          "phonetic": "/tʃɑːns/",
+          "unit": "Unit 5",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 76,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 190,
+          "originalFields": {
+            "序号": 185,
+            "单元": "Unit 5",
+            "类型": "单词",
+            "单词／短语": "chance",
+            "音标（教材）": "/tʃɑːns/",
+            "词性": "n.",
+            "中文释义": "机会；机遇",
+            "教材课文页": 76,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T185",
+          "introducedAtStation": 24
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T185",
+        "word": "chance",
+        "ipa": "/tʃɑːns/",
+        "focus": "/tʃ/是一个清辅音；/ɑː/拉长，结尾/ns/紧接。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The school show gives us a chance to sing on stage.",
+          "zh": "学校演出给了我们登台演唱的机会。",
+          "sourceIds": [
+            "T185"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/tʃɑːns/",
+      "pos": "n.",
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T186",
+      "sourceId": "T186",
+      "sourceIds": [
+        "T186"
+      ],
+      "word": "send",
+      "meaning": "邮寄；发送",
+      "sourceItems": [
+        {
+          "sourceId": "T186",
+          "sourceKind": "textbook",
+          "expression": "send",
+          "meaning": "邮寄；发送",
+          "partOfSpeech": "v.",
+          "phonetic": "/send/",
+          "unit": "Unit 5",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 76,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 191,
+          "originalFields": {
+            "序号": 186,
+            "单元": "Unit 5",
+            "类型": "单词",
+            "单词／短语": "send",
+            "音标（教材）": "/send/",
+            "词性": "v.",
+            "中文释义": "邮寄；发送",
+            "教材课文页": 76,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T186",
+          "introducedAtStation": 24
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T186",
+        "word": "send",
+        "ipa": "/send/",
+        "focus": "/e/短读；末尾/nd/相连，不补元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "I send a letter to my cousin.",
+          "zh": "我给表亲寄了一封信。",
+          "sourceIds": [
+            "T186"
+          ]
+        },
+        {
+          "en": "Mia sends a message to her mother.",
+          "zh": "米娅给妈妈发了一条消息。",
+          "sourceIds": [
+            "T186"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/send/",
+      "pos": "v.",
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T187",
+      "sourceId": "T187",
+      "sourceIds": [
+        "T187"
+      ],
+      "word": "introduction",
+      "meaning": "序言；引言",
+      "sourceItems": [
+        {
+          "sourceId": "T187",
+          "sourceKind": "textbook",
+          "expression": "introduction",
+          "meaning": "序言；引言",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˌɪntrəˈdʌkʃn/",
+          "unit": "Unit 5",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 76,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 192,
+          "originalFields": {
+            "序号": 187,
+            "单元": "Unit 5",
+            "类型": "单词",
+            "单词／短语": "introduction",
+            "音标（教材）": "/ˌɪntrəˈdʌkʃn/",
+            "词性": "n.",
+            "中文释义": "序言；引言",
+            "教材课文页": 76,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T187",
+          "introducedAtStation": 24
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T187",
+        "word": "introduction",
+        "ipa": "/ˌɪntrəˈdʌkʃn/",
+        "focus": "主重音在/dʌk/；开头/ɪn/为次重音，词尾tion轻读成一个音节，保留/ʃ/和/n/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Read the introduction before the first chapter.",
+          "zh": "请在读第一章之前先读引言。",
+          "sourceIds": [
+            "T187"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "chapter",
+          "meaning": "one main section of a book"
+        },
+        {
+          "word": "purpose",
+          "meaning": "the reason for doing something"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˌɪntrəˈdʌkʃn/",
+      "pos": "n.",
+      "unit": "Unit 5",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "T177",
+      "sourceId": "T177",
+      "sourceIds": [
+        "T177"
+      ],
+      "word": "weigh",
+      "meaning": "有……重；重",
+      "sourceItems": [
+        {
+          "sourceId": "T177",
+          "sourceKind": "textbook",
+          "expression": "weigh",
+          "meaning": "有……重；重",
+          "partOfSpeech": "v.",
+          "phonetic": "/weɪ/",
+          "unit": "Unit 5",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 69,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 182,
+          "originalFields": {
+            "序号": 177,
+            "单元": "Unit 5",
+            "类型": "单词",
+            "单词／短语": "weigh",
+            "音标（教材）": "/weɪ/",
+            "词性": "v.",
+            "中文释义": "有……重；重",
+            "教材课文页": 69,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T177",
+          "introducedAtStation": 23
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T177",
+        "word": "weigh",
+        "ipa": "/weɪ/",
+        "focus": "按源音标gh不另发音；元音/eɪ/有滑动。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This bag weighs two kilograms.",
+          "zh": "这个包重两千克。",
+          "sourceIds": [
+            "T177"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "kilogram",
+          "meaning": "a unit of mass equal to 1,000 grams"
+        }
+      ],
+      "notes": null,
+      "ipa": "/weɪ/",
+      "pos": "v.",
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T176",
+      "sourceId": "T176",
+      "sourceIds": [
+        "T176"
+      ],
+      "word": "low",
+      "meaning": "低于通常（或平均）数量（或水平、价值）的",
+      "sourceItems": [
+        {
+          "sourceId": "T176",
+          "sourceKind": "textbook",
+          "expression": "low",
+          "meaning": "低于通常（或平均）数量（或水平、价值）的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ləʊ/",
+          "unit": "Unit 5",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 69,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 181,
+          "originalFields": {
+            "序号": 176,
+            "单元": "Unit 5",
+            "类型": "单词",
+            "单词／短语": "low",
+            "音标（教材）": "/ləʊ/",
+            "词性": "adj.",
+            "中文释义": "低于通常（或平均）数量（或水平、价值）的",
+            "教材课文页": 69,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T176",
+          "introducedAtStation": 23
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T176",
+        "word": "low",
+        "ipa": "/ləʊ/",
+        "focus": "/əʊ/有滑动；开头/l/直接接元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The shop sells good books at low prices.",
+          "zh": "这家商店以低价出售好书。",
+          "sourceIds": [
+            "T176"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "attendance",
+          "meaning": "the number of people present at an event"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ləʊ/",
+      "pos": "adj.",
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T160",
+      "sourceId": "T160",
+      "sourceIds": [
+        "T160"
+      ],
+      "word": "be covered by",
+      "meaning": "被……覆盖",
+      "sourceItems": [
+        {
+          "sourceId": "T160",
+          "sourceKind": "textbook",
+          "expression": "be covered by",
+          "meaning": "被……覆盖",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 4",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 52,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 165,
+          "originalFields": {
+            "序号": 160,
+            "单元": "Unit 4",
+            "类型": "短语",
+            "单词／短语": "be covered by",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "被……覆盖",
+            "教材课文页": 52,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T160",
+          "introducedAtStation": 18
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T160",
+        "sourceIds": [
+          "T160"
+        ],
+        "expression": "be covered by",
+        "phonetic": "/bi ˈkʌvəd baɪ/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "The ground is covered by snow in this picture.",
+          "zh": "这张图中的地面被积雪覆盖。",
+          "sourceIds": [
+            "T160"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "layer",
+          "meaning": "a quantity of something lying on a surface"
+        },
+        {
+          "word": "steps",
+          "meaning": "a series of small levels used to go up or down"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T159",
+      "sourceId": "T159",
+      "sourceIds": [
+        "T159"
+      ],
+      "word": "fact file",
+      "meaning": "事实档案",
+      "sourceItems": [
+        {
+          "sourceId": "T159",
+          "sourceKind": "textbook",
+          "expression": "fact file",
+          "meaning": "事实档案",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 4",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 52,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 164,
+          "originalFields": {
+            "序号": 159,
+            "单元": "Unit 4",
+            "类型": "短语",
+            "单词／短语": "fact file",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "事实档案",
+            "教材课文页": 52,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T159",
+          "introducedAtStation": 18
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T159",
+        "sourceIds": [
+          "T159"
+        ],
+        "expression": "fact file",
+        "phonetic": "/fækt faɪl/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "I make a fact file about pandas for our class project.",
+          "zh": "我为班级项目制作了一份关于熊猫的事实档案。",
+          "sourceIds": [
+            "T159"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "population",
+          "meaning": "the number of people living in a place"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T181",
+      "sourceId": "T181",
+      "sourceIds": [
+        "T181"
+      ],
+      "word": "pass",
+      "meaning": "沿某方向前进；向某方向移动",
+      "sourceItems": [
+        {
+          "sourceId": "T181",
+          "sourceKind": "textbook",
+          "expression": "pass",
+          "meaning": "沿某方向前进；向某方向移动",
+          "partOfSpeech": "v.",
+          "phonetic": "/pɑːs/",
+          "unit": "Unit 5",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 72,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 186,
+          "originalFields": {
+            "序号": 181,
+            "单元": "Unit 5",
+            "类型": "单词",
+            "单词／短语": "pass",
+            "音标（教材）": "/pɑːs/",
+            "词性": "v.",
+            "中文释义": "沿某方向前进；向某方向移动",
+            "教材课文页": 72,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T181",
+          "introducedAtStation": 23
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T181",
+        "word": "pass",
+        "ipa": "/pɑːs/",
+        "focus": "按源读法元音/ɑː/拉长；最后/s/保持清音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "A boat passes under the bridge.",
+          "zh": "一条船从桥下驶过。",
+          "sourceIds": [
+            "T181"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/pɑːs/",
+      "pos": "v.",
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T180",
+      "sourceId": "T180",
+      "sourceIds": [
+        "T180"
+      ],
+      "word": "adventure",
+      "meaning": "冒险；冒险经历；奇遇",
+      "sourceItems": [
+        {
+          "sourceId": "T180",
+          "sourceKind": "textbook",
+          "expression": "adventure",
+          "meaning": "冒险；冒险经历；奇遇",
+          "partOfSpeech": "n.",
+          "phonetic": "/ədˈventʃə(r)/",
+          "unit": "Unit 5",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 72,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 185,
+          "originalFields": {
+            "序号": 180,
+            "单元": "Unit 5",
+            "类型": "单词",
+            "单词／短语": "adventure",
+            "音标（教材）": "/ədˈventʃə(r)/",
+            "词性": "n.",
+            "中文释义": "冒险；冒险经历；奇遇",
+            "教材课文页": 72,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T180",
+          "introducedAtStation": 23
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T180",
+        "word": "adventure",
+        "ipa": "/ədˈventʃə(r)/",
+        "focus": "开头/əd/轻读；重音在/ven/，后段/tʃ/为一个清辅音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The children's night in the forest becomes an adventure.",
+          "zh": "孩子们在森林里度过的一夜变成了一次冒险经历。",
+          "sourceIds": [
+            "T180"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "cave",
+          "meaning": "a large natural hole in rock"
+        },
+        {
+          "word": "involve",
+          "meaning": "include as a part"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ədˈventʃə(r)/",
+      "pos": "n.",
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T179",
+      "sourceId": "T179",
+      "sourceIds": [
+        "T179"
+      ],
+      "word": "facility",
+      "meaning": "设施；设备",
+      "sourceItems": [
+        {
+          "sourceId": "T179",
+          "sourceKind": "textbook",
+          "expression": "facility",
+          "meaning": "设施；设备",
+          "partOfSpeech": "n.",
+          "phonetic": "/fəˈsɪləti/",
+          "unit": "Unit 5",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 72,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 184,
+          "originalFields": {
+            "序号": 179,
+            "单元": "Unit 5",
+            "类型": "单词",
+            "单词／短语": "facility",
+            "音标（教材）": "/fəˈsɪləti/",
+            "词性": "n.",
+            "中文释义": "设施；设备",
+            "教材课文页": 72,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T179",
+          "introducedAtStation": 23
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T179",
+        "word": "facility",
+        "ipa": "/fəˈsɪləti/",
+        "focus": "开头/fə/弱读；重音在/sɪ/，最后/ləti/中的/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Our school has new sports facilities.",
+          "zh": "我们学校有新的体育设施。",
+          "sourceIds": [
+            "T179"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/fəˈsɪləti/",
+      "pos": "n.",
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T178",
+      "sourceId": "T178",
+      "sourceIds": [
+        "T178"
+      ],
+      "word": "breathe",
+      "meaning": "呼吸",
+      "sourceItems": [
+        {
+          "sourceId": "T178",
+          "sourceKind": "textbook",
+          "expression": "breathe",
+          "meaning": "呼吸",
+          "partOfSpeech": "v.",
+          "phonetic": "/briːð/",
+          "unit": "Unit 5",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 69,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 183,
+          "originalFields": {
+            "序号": 178,
+            "单元": "Unit 5",
+            "类型": "单词",
+            "单词／短语": "breathe",
+            "音标（教材）": "/briːð/",
+            "词性": "v.",
+            "中文释义": "呼吸",
+            "教材课文页": 69,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T178",
+          "introducedAtStation": 23
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T178",
+        "word": "breathe",
+        "ipa": "/briːð/",
+        "focus": "/iː/拉长；词尾字母组合th读浊辅音/ð/，不是清辅音/θ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We breathe fresh air in the park.",
+          "zh": "我们在公园里呼吸新鲜空气。",
+          "sourceIds": [
+            "T178"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "lungs",
+          "meaning": "the two body parts that take in air"
+        }
+      ],
+      "notes": null,
+      "ipa": "/briːð/",
+      "pos": "v.",
+      "unit": "Unit 5",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T182",
+      "groupId": "T182",
+      "direction": "zh_to_en",
+      "stem": "实验；试验",
+      "options": [
+        {
+          "label": "A",
+          "text": "peaceful"
+        },
+        {
+          "label": "B",
+          "text": "experiment"
+        },
+        {
+          "label": "C",
+          "text": "crop"
+        },
+        {
+          "label": "D",
+          "text": "take a trip"
+        }
+      ],
+      "answer": "B",
+      "word": "experiment",
+      "meaning": "实验；试验"
+    },
+    {
+      "id": 2,
+      "sourceId": "T183",
+      "groupId": "T183",
+      "direction": "en_to_zh",
+      "stem": "prepare",
+      "options": [
+        {
+          "label": "A",
+          "text": "大叫；叫喊"
+        },
+        {
+          "label": "B",
+          "text": "使做好准备；把……预备好"
+        },
+        {
+          "label": "C",
+          "text": "然而；不过"
+        },
+        {
+          "label": "D",
+          "text": "充满活力"
+        }
+      ],
+      "answer": "B",
+      "word": "prepare",
+      "meaning": "使做好准备；把……预备好"
+    },
+    {
+      "id": 3,
+      "sourceId": "T184",
+      "groupId": "T184",
+      "direction": "zh_to_en",
+      "stem": "n. 梦想；理想；v. 做梦；梦见",
+      "options": [
+        {
+          "label": "A",
+          "text": "take a trip"
+        },
+        {
+          "label": "B",
+          "text": "through"
+        },
+        {
+          "label": "C",
+          "text": "medium height"
+        },
+        {
+          "label": "D",
+          "text": "dream"
+        }
+      ],
+      "answer": "D",
+      "word": "dream",
+      "meaning": "n. 梦想；理想；v. 做梦；梦见"
+    },
+    {
+      "id": 4,
+      "sourceId": "T185",
+      "groupId": "T185",
+      "direction": "en_to_zh",
+      "stem": "chance",
+      "options": [
+        {
+          "label": "A",
+          "text": "地理（学）"
+        },
+        {
+          "label": "B",
+          "text": "来去"
+        },
+        {
+          "label": "C",
+          "text": "机会；机遇"
+        },
+        {
+          "label": "D",
+          "text": "擅长……"
+        }
+      ],
+      "answer": "C",
+      "word": "chance",
+      "meaning": "机会；机遇"
+    },
+    {
+      "id": 5,
+      "sourceId": "T186",
+      "groupId": "T186",
+      "direction": "zh_to_en",
+      "stem": "邮寄；发送",
+      "options": [
+        {
+          "label": "A",
+          "text": "chemical"
+        },
+        {
+          "label": "B",
+          "text": "take part in"
+        },
+        {
+          "label": "C",
+          "text": "send"
+        },
+        {
+          "label": "D",
+          "text": "article"
+        }
+      ],
+      "answer": "C",
+      "word": "send",
+      "meaning": "邮寄；发送"
+    },
+    {
+      "id": 6,
+      "sourceId": "T187",
+      "groupId": "T187",
+      "direction": "en_to_zh",
+      "stem": "introduction",
+      "options": [
+        {
+          "label": "A",
+          "text": "新鲜的"
+        },
+        {
+          "label": "B",
+          "text": "自始至终；从头到尾"
+        },
+        {
+          "label": "C",
+          "text": "序言；引言"
+        },
+        {
+          "label": "D",
+          "text": "支持；维持"
+        }
+      ],
+      "answer": "C",
+      "word": "introduction",
+      "meaning": "序言；引言"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T182",
+      "groupId": "T182",
+      "target": "experiment",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a game played only for fun"
+        },
+        {
+          "label": "B",
+          "text": "a ticket used to enter a park"
+        },
+        {
+          "label": "C",
+          "text": "a letter sent to a friend"
+        },
+        {
+          "label": "D",
+          "text": "a scientific test to learn or check something"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "D",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "experiment",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "experiment"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "实验；试验",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “experiment” means “a scientific test to learn or check something”.",
+      "parentExplanation": "本题考查“experiment”在本句中的用法；正确英文解释为“a scientific test to learn or check something”。对应源表释义为“实验；试验”。",
+      "wordHelp": [
+        {
+          "word": "material",
+          "meaning": "a substance used to make something"
+        },
+        {
+          "word": "melt",
+          "meaning": "change from a solid to a liquid"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T183",
+      "groupId": "T183",
+      "target": "prepare",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to put something in the wrong place"
+        },
+        {
+          "label": "B",
+          "text": "to stop someone from speaking"
+        },
+        {
+          "label": "C",
+          "text": "to leave something behind"
+        },
+        {
+          "label": "D",
+          "text": "to make something ready"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "We need to prepare the room before the guests arrive.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "We need to prepare the room before the guests arrive."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "我们需要在客人到达前把房间准备好。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “prepare” means “to make something ready”.",
+      "parentExplanation": "本题考查“prepare”在本句中的用法；正确英文解释为“to make something ready”。对应源表释义为“使做好准备；把……预备好”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T184",
+      "groupId": "T184",
+      "target": "dream",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "project"
+        },
+        {
+          "label": "B",
+          "text": "chance"
+        },
+        {
+          "label": "C",
+          "text": "solution"
+        },
+        {
+          "label": "D",
+          "text": "dream"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which noun names Nina's long-term wish?",
+      "answer": "D",
+      "listenScript": "Nina keeps drawings of spacecraft above her desk. She hopes to build a machine that can explore the Moon when she is older.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Nina keeps drawings of spacecraft above her desk. She hopes to build a machine that can explore the Moon when she is older."
+        }
+      ],
+      "explanation": "The future goal she hopes to achieve is her dream.",
+      "parentExplanation": "她希望将来实现的理想是dream的名词梦想义，不是睡眠中的梦。",
+      "translation": {
+        "stem": "哪个名词表示妮娜的长远愿望？",
+        "listenScript": "妮娜把航天器的画贴在书桌上方。她希望长大后制造一台能探索月球的机器。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T184",
+        "T185",
+        "T155",
+        "T055"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T185",
+      "groupId": "T185",
+      "target": "chance",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "dream"
+        },
+        {
+          "label": "B",
+          "text": "chance"
+        },
+        {
+          "label": "C",
+          "text": "skill"
+        },
+        {
+          "label": "D",
+          "text": "courage"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which noun names her opportunity to perform?",
+      "answer": "B",
+      "listenScript": "The music teacher invites Mia to play one piece at next week's show. This would be her first school performance.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The music teacher invites Mia to play one piece at next week's show. This would be her first school performance."
+        }
+      ],
+      "explanation": "The invitation gives Mia an opportunity, or chance, to perform.",
+      "parentExplanation": "邀请提供了参与演出的机会，用chance；不是技能本身或保证成功。",
+      "translation": {
+        "stem": "哪个名词表示她获得的演出机会？",
+        "listenScript": "音乐老师邀请米娅在下周演出中弹一首曲子，这将是她第一次在学校演出。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T185",
+        "T184",
+        "T045",
+        "T006"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T186",
+      "groupId": "T186",
+      "target": "send",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to make a letter, message or object go to someone"
+        },
+        {
+          "label": "B",
+          "text": "to break an object into pieces"
+        },
+        {
+          "label": "C",
+          "text": "to draw a picture of a building"
+        },
+        {
+          "label": "D",
+          "text": "to keep a letter without opening it"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "Can you send this letter to my aunt by post?\nWhat does “send” mean here?",
+      "translation": {
+        "stem": "你能把这封信邮寄给我阿姨吗？ 这里“send”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “send” means “to make a letter, message or object go to someone”.",
+      "parentExplanation": "本题考查“send”在本句中的用法；正确英文解释为“to make a letter, message or object go to someone”。对应源表释义为“邮寄；发送”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T187",
+      "groupId": "T187",
+      "target": "introduction",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the opening part of a book or piece of writing that explains its subject"
+        },
+        {
+          "label": "B",
+          "text": "the final answer to a maths problem"
+        },
+        {
+          "label": "C",
+          "text": "the ticket for a train journey"
+        },
+        {
+          "label": "D",
+          "text": "the list of food in a restaurant"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "The introduction at the beginning of the book explains what the book is about.\nWhat does “introduction” mean here?",
+      "translation": {
+        "stem": "书开头的引言说明了这本书的主题。 这里“introduction”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “introduction” means “the opening part of a book or piece of writing that explains its subject”.",
+      "parentExplanation": "本题考查“introduction”在本句中的用法；正确英文解释为“the opening part of a book or piece of writing that explains its subject”。对应源表释义为“序言；引言”。",
+      "wordHelp": [
+        {
+          "word": "chapter",
+          "meaning": "one main section of a book"
+        },
+        {
+          "word": "purpose",
+          "meaning": "the reason for doing something"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T177",
+      "groupId": "T177",
+      "target": "weigh",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to have a particular weight"
+        },
+        {
+          "label": "B",
+          "text": "to cost a particular amount of money"
+        },
+        {
+          "label": "C",
+          "text": "to be a particular colour"
+        },
+        {
+          "label": "D",
+          "text": "to last a particular length of time"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "The two boxes together weigh ten kilograms.\nWhat does “weigh” mean here?",
+      "translation": {
+        "stem": "这两个箱子合起来重十千克。 这里“weigh”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “weigh” means “to have a particular weight”.",
+      "parentExplanation": "本题考查“weigh”在本句中的用法；正确英文解释为“to have a particular weight”。对应源表释义为“有……重；重”。",
+      "wordHelp": [
+        {
+          "word": "kilogram",
+          "meaning": "a unit of mass equal to 1,000 grams"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T176",
+      "groupId": "T176",
+      "target": "low",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "exactly the same in every case"
+        },
+        {
+          "label": "B",
+          "text": "above the usual amount or level"
+        },
+        {
+          "label": "C",
+          "text": "below the usual amount or level"
+        },
+        {
+          "label": "D",
+          "text": "changing very quickly all the time"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Usually twenty people come to the club, but only two came today. Attendance was low.\nWhat does “low” mean here?",
+      "translation": {
+        "stem": "平时有二十个人参加社团，但今天只来了两个人。出席人数很低。 这里“low”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “low” means “below the usual amount or level”.",
+      "parentExplanation": "本题考查“low”在本句中的用法；正确英文解释为“below the usual amount or level”。对应源表释义为“低于通常（或平均）数量（或水平、价值）的”。",
+      "wordHelp": [
+        {
+          "word": "attendance",
+          "meaning": "the number of people present at an event"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T182",
+      "groupId": "T182",
+      "target": "experiment",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "experiments"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Our science class does two e________ to compare how fast ice melts.",
+      "answer": "experiments",
+      "hint": "scientific tests",
+      "grammar": "Two + plural noun",
+      "initialLetter": "e",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Two requires the plural noun experiments.",
+      "parentExplanation": "two后用复数experiments，表示两次科学实验。",
+      "translation": {
+        "stem": "我们的科学课做了两个实验，比较冰融化的速度。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "material",
+          "meaning": "a substance used to make something"
+        },
+        {
+          "word": "melt",
+          "meaning": "change from a solid to a liquid"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T183",
+      "groupId": "T183",
+      "target": "prepare",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "prepares"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Dad p________ breakfast for the family every morning.",
+      "answer": "prepares",
+      "hint": "makes something ready",
+      "grammar": "Simple present: third-person singular",
+      "initialLetter": "p",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Dad is singular, so use prepares.",
+      "parentExplanation": "Dad为第三人称单数，表示习惯时prepare加s。",
+      "translation": {
+        "stem": "爸爸每天早晨为全家准备早餐。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T184",
+      "groupId": "T184",
+      "target": "dream",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "dream"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "My d________ is to become a teacher and help children learn.",
+      "answer": "dream",
+      "hint": "a strong hope for the future",
+      "grammar": "Noun: dream as a hope for the future",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Dream is a noun here and names a hope for the future.",
+      "parentExplanation": "My后用名词dream，此处保留梦想、理想的教材义项。",
+      "translation": {
+        "stem": "我的梦想是成为一名教师，帮助孩子们学习。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T185",
+      "groupId": "T185",
+      "target": "chance",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "chance"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This school show gives me a c________ to sing in front of others.",
+      "answer": "chance",
+      "hint": "an opportunity to do something",
+      "grammar": "A chance to + base verb",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A chance to sing is an opportunity to sing.",
+      "parentExplanation": "a后用单数chance；a chance to do表示做某事的机会。",
+      "translation": {
+        "stem": "这场学校演出给了我在别人面前演唱的机会。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T186",
+      "groupId": "T186",
+      "target": "send",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "sends"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia s________ a message to her mother after she reaches school each day.",
+      "answer": "sends",
+      "hint": "makes a message go to someone",
+      "grammar": "Simple present: third-person singular",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Mia is singular, so use sends.",
+      "parentExplanation": "Mia为第三人称单数，一般现在时用sends，此处表示发送消息。",
+      "translation": {
+        "stem": "米娅每天到校后都会给妈妈发送一条消息。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T187",
+      "groupId": "T187",
+      "target": "introduction",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "introduction"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Please read the i________ before you start chapter one. It explains the writer's purpose.",
+      "answer": "introduction",
+      "hint": "the opening section of a book",
+      "grammar": "Noun: opening section of a book",
+      "initialLetter": "i",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use introduction for the opening section before the main chapters.",
+      "parentExplanation": "正文第一章前解释写作目的的部分是introduction。",
+      "translation": {
+        "stem": "开始读第一章前，请先读引言，它解释了作者写作的目的。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "chapter",
+          "meaning": "one main section of a book"
+        },
+        {
+          "word": "purpose",
+          "meaning": "the reason for doing something"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T160",
+      "groupId": "T160",
+      "target": "be covered by",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "are covered by",
+        "are covered with"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "After the storm, the steps a________ fallen leaves.",
+      "answer": "are covered by",
+      "hint": "have fallen leaves lying over them",
+      "grammar": "Be covered by: plural subject",
+      "initialLetter": "a",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Steps is plural, so use are covered by.",
+      "parentExplanation": "steps为复数主语，用are covered by；are covered with也符合覆盖的语境。",
+      "translation": {
+        "stem": "暴风雨过后，台阶上覆盖着落叶。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "layer",
+          "meaning": "a quantity of something lying on a surface"
+        },
+        {
+          "word": "steps",
+          "meaning": "a series of small levels used to go up or down"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T159",
+      "groupId": "T159",
+      "target": "fact file",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "fact file"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Our f________ about pandas lists their food, homes and size.",
+      "answer": "fact file",
+      "hint": "a record of important true information",
+      "grammar": "Fixed noun phrase",
+      "initialLetter": "f",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A fact file records true information about a topic.",
+      "parentExplanation": "fact file为事实档案，列出某个主题的重要真实信息。",
+      "translation": {
+        "stem": "我们关于熊猫的事实档案列出了它们的食物、栖息地和体型。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "population",
+          "meaning": "the number of people living in a place"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T181",
+      "groupId": "T181",
+      "target": "pass",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "allow someone to skip a task"
+        },
+        {
+          "label": "B",
+          "text": "give an object to another person"
+        },
+        {
+          "label": "C",
+          "text": "succeed in a test or exam"
+        },
+        {
+          "label": "D",
+          "text": "move along a particular route or direction"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “pass” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "The group moves under the arch; pass is a movement verb here.",
+      "parentExplanation": "第3句中，pass保留“沿某方向前进；向某方向移动”义。小组从拱门下前进，pass保留沿某方向移动义，不是考试及格或传物。",
+      "translation": {
+        "stem": "短文中的“pass”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "pass"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T180",
+      "groupId": "T180",
+      "target": "adventure",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "an exciting and unusual experience"
+        },
+        {
+          "label": "B",
+          "text": "a written set of classroom rules"
+        },
+        {
+          "label": "C",
+          "text": "a period of quiet sleep"
+        },
+        {
+          "label": "D",
+          "text": "an ordinary repeated chore"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “adventure” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Following the clues creates an unusual exploring experience in the museum.",
+      "parentExplanation": "第6句中，adventure保留“冒险；冒险经历；奇遇”义。循线索探索博物馆构成一次有趣的冒险经历，而不是规律家务。",
+      "translation": {
+        "stem": "短文中的“adventure”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        6
+      ],
+      "targetSpan": "adventure"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "How do the pupils find the final sign?",
+      "explanation": "Sentence 5 says comparing the flag and card reveals the sign.",
+      "parentExplanation": "第5句明确说明，通过比较船旗和卡片发现最后标志。",
+      "translation": {
+        "stem": "学生怎样找到最后的标志？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "They ask every visitor to leave the museum."
+        },
+        {
+          "label": "B",
+          "text": "They ignore the key shape above the doorway."
+        },
+        {
+          "label": "C",
+          "text": "They remove all the model ships from the room."
+        },
+        {
+          "label": "D",
+          "text": "They compare the ship's flag with their card."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the passage mainly about?",
+      "explanation": "The key card and clues make the pupils examine the displays closely.",
+      "parentExplanation": "全文写线索任务促使学生观察展品细节。",
+      "translation": {
+        "stem": "短文主要讲什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Pupils repair a real ship in a museum."
+        },
+        {
+          "label": "B",
+          "text": "A clue trail encourages pupils to observe museum displays."
+        },
+        {
+          "label": "C",
+          "text": "A class visits a museum without looking at anything."
+        },
+        {
+          "label": "D",
+          "text": "A guide refuses to give any information."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T179",
+      "groupId": "T179",
+      "target": "facility",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a private record of someone's thoughts"
+        },
+        {
+          "label": "B",
+          "text": "a group of pages on the Internet"
+        },
+        {
+          "label": "C",
+          "text": "a natural area with very little water"
+        },
+        {
+          "label": "D",
+          "text": "a place equipped for a particular activity"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “facility” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "The place contains rooms and equipment provided for sport.",
+      "parentExplanation": "第1句中，facility保留“设施；设备”义。运动室、更衣室和器材表明这里是配备设施、供运动使用的场所。",
+      "translation": {
+        "stem": "短文中的“facility”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "facility"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T178",
+      "groupId": "T178",
+      "target": "breathe",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to measure how heavy something is"
+        },
+        {
+          "label": "B",
+          "text": "to take air into the body and let it out"
+        },
+        {
+          "label": "C",
+          "text": "to tie something with string"
+        },
+        {
+          "label": "D",
+          "text": "to swallow food after chewing it"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “breathe” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "After running, the writer describes the movement of air in and out of the body.",
+      "parentExplanation": "第4句中，breathe保留“呼吸”义。跑步后空气进出身体的动作是呼吸，不是称重或吞咽。",
+      "translation": {
+        "stem": "短文中的“breathe”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "breathe"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why do the pupils draw a plan?",
+      "explanation": "Sentences 6 and 7 explain what the plan marks and how it helps the next class.",
+      "parentExplanation": "第6至7句说明，地图标出各功能区，帮助下一班找到位置。",
+      "translation": {
+        "stem": "学生为什么画平面图？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "To turn the exercise room into a library."
+        },
+        {
+          "label": "B",
+          "text": "To hide the equipment instructions."
+        },
+        {
+          "label": "C",
+          "text": "To help the next class find places for moving, resting and getting water."
+        },
+        {
+          "label": "D",
+          "text": "To stop the next class using every room."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title best fits the passage?",
+      "explanation": "The tour, short activity and map help pupils understand and use the new place.",
+      "parentExplanation": "参观、尝试活动和画图都服务于熟悉新运动场所。",
+      "translation": {
+        "stem": "哪个标题最适合短文？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The Race with No Rest Area"
+        },
+        {
+          "label": "B",
+          "text": "Learning Our Way Around a Sports Centre"
+        },
+        {
+          "label": "C",
+          "text": "The Class That Removes All the Equipment"
+        },
+        {
+          "label": "D",
+          "text": "Why Every Doorway Must Be Crowded"
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "The museum guide gives our group a card with a drawing of a small key. We must follow three clues to find the room shown on the back. As we pass under a low arch, Mia notices the same key shape above a doorway. The next clue sends us to a room with a large model ship. We compare its flag with our card and discover the final sign. This small adventure makes us look carefully instead of hurrying past the displays. At the end, we return the card and explain which clue was hardest.",
+      "parallelText": [
+        {
+          "en": "The museum guide gives our group a card with a drawing of a small key.",
+          "zh": "博物馆导游给小组一张画着小钥匙的卡片。"
+        },
+        {
+          "en": "We must follow three clues to find the room shown on the back.",
+          "zh": "我们要跟随三条线索，找到卡片背面所示的房间。"
+        },
+        {
+          "en": "As we pass under a low arch, Mia notices the same key shape above a doorway.",
+          "zh": "我们从低矮拱门下向前走时，米娅注意到门洞上方有相同的钥匙形状。"
+        },
+        {
+          "en": "The next clue sends us to a room with a large model ship.",
+          "zh": "下一条线索把我们引到有大船模型的房间。"
+        },
+        {
+          "en": "We compare its flag with our card and discover the final sign.",
+          "zh": "我们把船旗和卡片对照，发现最后的标志。"
+        },
+        {
+          "en": "This small adventure makes us look carefully instead of hurrying past the displays.",
+          "zh": "这次小小探险让我们仔细观察，而不是匆匆走过展品。"
+        },
+        {
+          "en": "At the end, we return the card and explain which clue was hardest.",
+          "zh": "最后，我们归还卡片，说明哪条线索最难。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "arch",
+          "meaning": "a curved opening in a wall"
+        },
+        {
+          "word": "doorway",
+          "meaning": "the opening where a door is"
+        },
+        {
+          "word": "clues",
+          "meaning": "pieces of information that help solve a problem"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Our class visits a new sports facility beside the school field. It has an exercise room, changing rooms and a place to fill water bottles. Before trying anything, we walk around with the coach and read the simple instructions. After a short run, I stop in the rest area and breathe steadily. The coach asks us to notice the space around each piece of equipment. We draw a plan showing where people can move, rest and get water. Our plans help the next class find what it needs without crowding one doorway.",
+      "parallelText": [
+        {
+          "en": "Our class visits a new sports facility beside the school field.",
+          "zh": "我们班参观学校操场旁的新运动设施。"
+        },
+        {
+          "en": "It has an exercise room, changing rooms and a place to fill water bottles.",
+          "zh": "里面有运动室、更衣室，还有接饮用水的地方。"
+        },
+        {
+          "en": "Before trying anything, we walk around with the coach and read the simple instructions.",
+          "zh": "尝试设备之前，我们先随教练参观，阅读简单说明。"
+        },
+        {
+          "en": "After a short run, I stop in the rest area and breathe steadily.",
+          "zh": "短跑后，我在休息区停下，平稳地呼吸。"
+        },
+        {
+          "en": "The coach asks us to notice the space around each piece of equipment.",
+          "zh": "教练让我们留意每件设备周围的空间。"
+        },
+        {
+          "en": "We draw a plan showing where people can move, rest and get water.",
+          "zh": "我们画一张平面图，标出活动、休息和接水的位置。"
+        },
+        {
+          "en": "Our plans help the next class find what it needs without crowding one doorway.",
+          "zh": "我们的图帮助下一班找到所需地点，不全挤在一个门口。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "equipment",
+          "meaning": "things provided for doing a particular task"
+        },
+        {
+          "word": "steadily",
+          "meaning": "in a calm and regular way"
+        },
+        {
+          "word": "crowding",
+          "meaning": "filling a small space with too many people"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S024-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T177",
+      "groupId": "T177",
+      "expression": "weigh",
+      "meaning": "有……重；重",
+      "introducedAtStation": 23,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 24,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S024-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T176",
+      "groupId": "T176",
+      "expression": "low",
+      "meaning": "低于通常（或平均）数量（或水平、价值）的",
+      "introducedAtStation": 23,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 24,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S024-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T160",
+      "groupId": "T160",
+      "expression": "be covered by",
+      "meaning": "被……覆盖",
+      "introducedAtStation": 18,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 19,
+      "intervalInStations": 5,
+      "referenceDueStation": 22,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S024-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T159",
+      "groupId": "T159",
+      "expression": "fact file",
+      "meaning": "事实档案",
+      "introducedAtStation": 18,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 19,
+      "intervalInStations": 5,
+      "referenceDueStation": 22,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S024-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T181",
+      "groupId": "T181",
+      "expression": "pass",
+      "meaning": "沿某方向前进；向某方向移动",
+      "introducedAtStation": 23,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 24,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S024-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T180",
+      "groupId": "T180",
+      "expression": "adventure",
+      "meaning": "冒险；冒险经历；奇遇",
+      "introducedAtStation": 23,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 24,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S024-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T179",
+      "groupId": "T179",
+      "expression": "facility",
+      "meaning": "设施；设备",
+      "introducedAtStation": 23,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 24,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S024-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T178",
+      "groupId": "T178",
+      "expression": "breathe",
+      "meaning": "呼吸",
+      "introducedAtStation": 23,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 24,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

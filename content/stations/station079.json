@@ -1,0 +1,2992 @@
+{
+  "station": 79,
+  "type": "new_learning",
+  "phase": "phrase_supplement",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 79,
+  "newItems": [
+    {
+      "groupId": "E0683",
+      "sourceId": "E0683",
+      "sourceIds": [
+        "E0683"
+      ],
+      "word": "get to",
+      "meaning": "到达",
+      "sourceItems": [
+        {
+          "sourceId": "E0683",
+          "sourceKind": "phrase",
+          "expression": "get to",
+          "meaning": "到达",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "get to + 地点；get home/here/there时不用to。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0720；P0957",
+          "sourceImages": "IMG_2716.heic；IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 92,
+          "originalFields": {
+            "编号": "E0683",
+            "英文表达": "get to",
+            "中文释义": "到达",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "get to + 地点；get home/here/there时不用to。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0720；P0957",
+            "来源图片": "IMG_2716.heic；IMG_2719.heic",
+            "原文英文": "get to",
+            "原文释义": "到达",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0683",
+          "introducedAtStation": 79
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0683",
+        "sourceIds": [
+          "E0683"
+        ],
+        "expression": "get to",
+        "phonetic": "/ɡet tə/",
+        "readingForms": [
+          {
+            "expression": "get to",
+            "phonetic": "/ɡet tə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0683",
+            "expression": "get to"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We get to school before eight.",
+          "zh": "我们八点前到校。",
+          "sourceIds": [
+            "E0683"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0092",
+      "sourceId": "E0092",
+      "sourceIds": [
+        "E0092"
+      ],
+      "word": "go across",
+      "meaning": "横穿，穿过",
+      "sourceItems": [
+        {
+          "sourceId": "E0092",
+          "sourceKind": "phrase",
+          "expression": "go across",
+          "meaning": "横穿，穿过",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "across为介词，辨析动词cross",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0092",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 93,
+          "originalFields": {
+            "编号": "E0092",
+            "英文表达": "go across",
+            "中文释义": "横穿，穿过",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "across为介词，辨析动词cross",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“横穿，穿过”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0092",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "go across",
+            "原文释义": "横穿，穿过",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0092",
+          "introducedAtStation": 79
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0092",
+        "sourceIds": [
+          "E0092"
+        ],
+        "expression": "go across",
+        "phonetic": "/ɡəʊ əˈkrɒs/",
+        "readingForms": [
+          {
+            "expression": "go across",
+            "phonetic": "/ɡəʊ əˈkrɒs/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0092",
+            "expression": "go across"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We go across the bridge to reach the island.",
+          "zh": "我们走过桥到达岛上。",
+          "sourceIds": [
+            "E0092"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0094",
+      "sourceId": "E0094",
+      "sourceIds": [
+        "E0094"
+      ],
+      "word": "go away",
+      "meaning": "走开，离开；走开",
+      "sourceItems": [
+        {
+          "sourceId": "E0094",
+          "sourceKind": "phrase",
+          "expression": "go away",
+          "meaning": "走开，离开；走开",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "away为副词，表示离开",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0094；P0886",
+          "sourceImages": "IMG_2699.heic；IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 94,
+          "originalFields": {
+            "编号": "E0094",
+            "英文表达": "go away",
+            "中文释义": "走开，离开；走开",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "away为副词，表示离开",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“走开，离开”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0094；P0886",
+            "来源图片": "IMG_2699.heic；IMG_2718.heic",
+            "原文英文": "go away",
+            "原文释义": "走开，离开；走开",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0094",
+          "introducedAtStation": 79
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0094",
+        "sourceIds": [
+          "E0094"
+        ],
+        "expression": "go away",
+        "phonetic": "/ɡəʊ əˈweɪ/",
+        "readingForms": [
+          {
+            "expression": "go away",
+            "phonetic": "/ɡəʊ əˈweɪ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0094",
+            "expression": "go away"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please do not go away. We need your help here.",
+          "zh": "请不要离开。我们这里需要你的帮助。",
+          "sourceIds": [
+            "E0094"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0783",
+      "sourceId": "E0783",
+      "sourceIds": [
+        "E0783"
+      ],
+      "word": "go back",
+      "meaning": "回去",
+      "sourceItems": [
+        {
+          "sourceId": "E0783",
+          "sourceKind": "phrase",
+          "expression": "go back",
+          "meaning": "回去",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "回到某地用go back to；home前不用to。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0887",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 95,
+          "originalFields": {
+            "编号": "E0783",
+            "英文表达": "go back",
+            "中文释义": "回去",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "回到某地用go back to；home前不用to。",
+            "适用训练": "听说交际 / 完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0887",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "go back",
+            "原文释义": "回去",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0783",
+          "introducedAtStation": 79
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0783",
+        "sourceIds": [
+          "E0783"
+        ],
+        "expression": "go back",
+        "phonetic": "/ɡəʊ bæk/",
+        "readingForms": [
+          {
+            "expression": "go back",
+            "phonetic": "/ɡəʊ bæk/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0783",
+            "expression": "go back"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We go back to school after the museum visit.",
+          "zh": "参观博物馆后，我们回学校。",
+          "sourceIds": [
+            "E0783"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0098",
+      "sourceId": "E0098",
+      "sourceIds": [
+        "E0098"
+      ],
+      "word": "go on a trip",
+      "meaning": "去旅行",
+      "sourceItems": [
+        {
+          "sourceId": "E0098",
+          "sourceKind": "phrase",
+          "expression": "go on a trip",
+          "meaning": "去旅行",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "trip为可数名词，保留a",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0098；P0874",
+          "sourceImages": "IMG_2699.heic；IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 96,
+          "originalFields": {
+            "编号": "E0098",
+            "英文表达": "go on a trip",
+            "中文释义": "去旅行",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "trip为可数名词，保留a",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“去旅行”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0098；P0874",
+            "来源图片": "IMG_2699.heic；IMG_2718.heic",
+            "原文英文": "go on a trip",
+            "原文释义": "去旅行",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0098",
+          "introducedAtStation": 79
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0098",
+        "sourceIds": [
+          "E0098"
+        ],
+        "expression": "go on a trip",
+        "phonetic": "/ɡəʊ ɒn ə trɪp/",
+        "readingForms": [
+          {
+            "expression": "go on a trip",
+            "phonetic": "/ɡəʊ ɒn ə trɪp/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0098",
+            "expression": "go on a trip"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We go on a trip to the island in summer.",
+          "zh": "我们夏天去岛上旅行。",
+          "sourceIds": [
+            "E0098"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0134",
+      "sourceId": "E0134",
+      "sourceIds": [
+        "E0134"
+      ],
+      "word": "leave for",
+      "meaning": "前往；出发去某地",
+      "sourceItems": [
+        {
+          "sourceId": "E0134",
+          "sourceKind": "phrase",
+          "expression": "leave for",
+          "meaning": "前往；出发去某地",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "for后是目的地，辨析leave加出发地",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0134；P1029",
+          "sourceImages": "IMG_2699.heic；IMG_2720.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 97,
+          "originalFields": {
+            "编号": "E0134",
+            "英文表达": "leave for",
+            "中文释义": "前往；出发去某地",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "for后是目的地，辨析leave加出发地",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“前往”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0134；P1029",
+            "来源图片": "IMG_2699.heic；IMG_2720.heic",
+            "原文英文": "leave for",
+            "原文释义": "前往；出发去某地",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0134",
+          "introducedAtStation": 79
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0134",
+        "sourceIds": [
+          "E0134"
+        ],
+        "expression": "leave for",
+        "phonetic": "/liːv fə/",
+        "readingForms": [
+          {
+            "expression": "leave for",
+            "phonetic": "/liːv fə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0134",
+            "expression": "leave for"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We leave for the island early in the morning.",
+          "zh": "我们清早出发去岛上。",
+          "sourceIds": [
+            "E0134"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "E0077",
+      "sourceId": "E0077",
+      "sourceIds": [
+        "E0077"
+      ],
+      "word": "get off",
+      "meaning": "下（火车、公共汽车等）；下车",
+      "sourceItems": [
+        {
+          "sourceId": "E0077",
+          "sourceKind": "phrase",
+          "expression": "get off",
+          "meaning": "下（火车、公共汽车等）；下车",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "off后接公共交通工具，辨析get out of",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0077；P0953",
+          "sourceImages": "IMG_2699.heic；IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 89,
+          "originalFields": {
+            "编号": "E0077",
+            "英文表达": "get off",
+            "中文释义": "下（火车、公共汽车等）；下车",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "off后接公共交通工具，辨析get out of",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“下（火车、公共汽车等）”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0077；P0953",
+            "来源图片": "IMG_2699.heic；IMG_2719.heic",
+            "原文英文": "get off",
+            "原文释义": "下（火车、公共汽车等）；下车",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0077",
+          "introducedAtStation": 78
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0077",
+        "sourceIds": [
+          "E0077"
+        ],
+        "expression": "get off",
+        "phonetic": "/ɡet ɒf/",
+        "readingForms": [
+          {
+            "expression": "get off",
+            "phonetic": "/ɡet ɒf/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0077",
+            "expression": "get off"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We get off the bus at the next stop.",
+          "zh": "我们在下一站下公共汽车。",
+          "sourceIds": [
+            "E0077"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0076",
+      "sourceId": "E0076",
+      "sourceIds": [
+        "E0076"
+      ],
+      "word": "get lost",
+      "meaning": "迷路",
+      "sourceItems": [
+        {
+          "sourceId": "E0076",
+          "sourceKind": "phrase",
+          "expression": "get lost",
+          "meaning": "迷路",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "lost为形容词性分词，辨析lose",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0076",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 88,
+          "originalFields": {
+            "编号": "E0076",
+            "英文表达": "get lost",
+            "中文释义": "迷路",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "lost为形容词性分词，辨析lose",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“迷路”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0076",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "get lost",
+            "原文释义": "迷路",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0076",
+          "introducedAtStation": 78
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0076",
+        "sourceIds": [
+          "E0076"
+        ],
+        "expression": "get lost",
+        "phonetic": "/ɡet lɒst/",
+        "readingForms": [
+          {
+            "expression": "get lost",
+            "phonetic": "/ɡet lɒst/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0076",
+            "expression": "get lost"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Take a map so you do not get lost.",
+          "zh": "带上地图，以免迷路。",
+          "sourceIds": [
+            "E0076"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T111",
+      "sourceId": "T111",
+      "sourceIds": [
+        "T111"
+      ],
+      "word": "work one's land",
+      "meaning": "耕种土地",
+      "sourceItems": [
+        {
+          "sourceId": "T111",
+          "sourceKind": "textbook",
+          "expression": "work one's land",
+          "meaning": "耕种土地",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 3",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 37,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 116,
+          "originalFields": {
+            "序号": 111,
+            "单元": "Unit 3",
+            "类型": "短语",
+            "单词／短语": "work one's land",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "耕种土地",
+            "教材课文页": 37,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T111",
+          "introducedAtStation": 8
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T111",
+        "sourceIds": [
+          "T111"
+        ],
+        "expression": "work one's land",
+        "phonetic": "/wɜːk wʌnz lænd/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Farmers work their land to grow food.",
+          "zh": "农民耕种土地来种植粮食。",
+          "sourceIds": [
+            "T111"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T169",
+      "sourceId": "T169",
+      "sourceIds": [
+        "T169"
+      ],
+      "word": "blow away",
+      "meaning": "吹走",
+      "sourceItems": [
+        {
+          "sourceId": "T169",
+          "sourceKind": "textbook",
+          "expression": "blow away",
+          "meaning": "吹走",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 4",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 62,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 174,
+          "originalFields": {
+            "序号": 169,
+            "单元": "Unit 4",
+            "类型": "短语",
+            "单词／短语": "blow away",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "吹走",
+            "教材课文页": 62,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T169",
+          "introducedAtStation": 19
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T169",
+        "sourceIds": [
+          "T169"
+        ],
+        "expression": "blow away",
+        "phonetic": "/bləʊ əˈweɪ/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "A strong wind can blow away dry leaves.",
+          "zh": "强风会把干树叶吹走。",
+          "sourceIds": [
+            "T169"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "loose",
+          "meaning": "not fixed in place"
+        },
+        {
+          "word": "tightly",
+          "meaning": "in a firm way"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0827",
+      "sourceId": "E0827",
+      "sourceIds": [
+        "E0827"
+      ],
+      "word": "get there",
+      "meaning": "到达那里",
+      "sourceItems": [
+        {
+          "sourceId": "E0827",
+          "sourceKind": "phrase",
+          "expression": "get there",
+          "meaning": "到达那里",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "there作副词，不加to。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0958",
+          "sourceImages": "IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 91,
+          "originalFields": {
+            "编号": "E0827",
+            "英文表达": "get there",
+            "中文释义": "到达那里",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "there作副词，不加to。",
+            "适用训练": "听说交际 / 完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0958",
+            "来源图片": "IMG_2719.heic",
+            "原文英文": "get there",
+            "原文释义": "到达那里",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0827",
+          "introducedAtStation": 78
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0827",
+        "sourceIds": [
+          "E0827"
+        ],
+        "expression": "get there",
+        "phonetic": "/ɡet ðeə/",
+        "readingForms": [
+          {
+            "expression": "get there",
+            "phonetic": "/ɡet ðeə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0827",
+            "expression": "get there"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The park is near. We can get there on foot.",
+          "zh": "公园很近。我们可以步行到那里。",
+          "sourceIds": [
+            "E0827"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0826",
+      "sourceId": "E0826",
+      "sourceIds": [
+        "E0826"
+      ],
+      "word": "get back",
+      "meaning": "返回；取回",
+      "sourceItems": [
+        {
+          "sourceId": "E0826",
+          "sourceKind": "phrase",
+          "expression": "get back",
+          "meaning": "返回；取回",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "返回可get back to；取回物品写get sth back。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0955",
+          "sourceImages": "IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 86,
+          "originalFields": {
+            "编号": "E0826",
+            "英文表达": "get back",
+            "中文释义": "返回；取回",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "返回可get back to；取回物品写get sth back。",
+            "适用训练": "听说交际 / 完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0955",
+            "来源图片": "IMG_2719.heic",
+            "原文英文": "get back",
+            "原文释义": "返回；取回",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0826",
+          "introducedAtStation": 78
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0826",
+        "sourceIds": [
+          "E0826"
+        ],
+        "expression": "get back",
+        "phonetic": "/ɡet bæk/",
+        "readingForms": [
+          {
+            "expression": "get back",
+            "phonetic": "/ɡet bæk/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0826",
+            "expression": "get back"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We get back to school before lunch.",
+          "zh": "我们在午饭前返回学校。",
+          "sourceIds": [
+            "E0826"
+          ]
+        },
+        {
+          "en": "I can get my book back after class.",
+          "zh": "下课后我可以取回我的书。",
+          "sourceIds": [
+            "E0826"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0704",
+      "sourceId": "E0704",
+      "sourceIds": [
+        "E0704"
+      ],
+      "word": "get in",
+      "meaning": "进入：到达；收割；进入，收割",
+      "sourceItems": [
+        {
+          "sourceId": "E0704",
+          "sourceKind": "phrase",
+          "expression": "get in",
+          "meaning": "进入：到达；收割；进入，收割",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "按人、交通工具或庄稼语境辨别进入、到达与收割。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0749；P0951",
+          "sourceImages": "IMG_2716.heic；IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 87,
+          "originalFields": {
+            "编号": "E0704",
+            "英文表达": "get in",
+            "中文释义": "进入：到达；收割；进入，收割",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "按人、交通工具或庄稼语境辨别进入、到达与收割。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0749；P0951",
+            "来源图片": "IMG_2716.heic；IMG_2719.heic",
+            "原文英文": "get in",
+            "原文释义": "进入：到达；收割；进入，收割",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0704",
+          "introducedAtStation": 78
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0704",
+        "sourceIds": [
+          "E0704"
+        ],
+        "expression": "get in",
+        "phonetic": "/ɡet ɪn/",
+        "readingForms": [
+          {
+            "expression": "get in",
+            "phonetic": "/ɡet ɪn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0704",
+            "expression": "get in"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The taxi door is open. Please get in.",
+          "zh": "出租车门开着。请进去。",
+          "sourceIds": [
+            "E0704"
+          ]
+        },
+        {
+          "en": "The train gets in at eight.",
+          "zh": "火车八点到达。",
+          "sourceIds": [
+            "E0704"
+          ]
+        },
+        {
+          "en": "The farmers get the rice in before the rain.",
+          "zh": "农民在下雨前把稻谷收进来。",
+          "sourceIds": [
+            "E0704"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "harvest",
+          "meaning": "gather crops when they are ready"
+        },
+        {
+          "word": "wheat",
+          "meaning": "a crop whose grain is used to make flour"
+        }
+      ],
+      "notes": "进入、到达、收割三个原义分别有例句与两fill。",
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0078",
+      "sourceId": "E0078",
+      "sourceIds": [
+        "E0078"
+      ],
+      "word": "get on",
+      "meaning": "①上车 ②相处 ③进展；上车；进展",
+      "sourceItems": [
+        {
+          "sourceId": "E0078",
+          "sourceKind": "phrase",
+          "expression": "get on",
+          "meaning": "①上车 ②相处 ③进展；上车；进展",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "先掌握上车义，再结合语境识别进展义",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0078；P0952",
+          "sourceImages": "IMG_2699.heic；IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 90,
+          "originalFields": {
+            "编号": "E0078",
+            "英文表达": "get on",
+            "中文释义": "①上车 ②相处 ③进展；上车；进展",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "先掌握上车义，再结合语境识别进展义",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“上车 ”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0078；P0952",
+            "来源图片": "IMG_2699.heic；IMG_2719.heic",
+            "原文英文": "get on",
+            "原文释义": "①上车 ②相处 ③进展；上车；进展",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0078",
+          "introducedAtStation": 78
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0078",
+        "sourceIds": [
+          "E0078"
+        ],
+        "expression": "get on",
+        "phonetic": "/ɡet ɒn/",
+        "readingForms": [
+          {
+            "expression": "get on",
+            "phonetic": "/ɡet ɒn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0078",
+            "expression": "get on"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We get on the bus at this stop.",
+          "zh": "我们在这一站上公共汽车。",
+          "sourceIds": [
+            "E0078"
+          ]
+        },
+        {
+          "en": "Mia and Lily get on well as neighbours.",
+          "zh": "米娅和莉莉作为邻居相处融洽。",
+          "sourceIds": [
+            "E0078"
+          ]
+        },
+        {
+          "en": "How do you get on with your schoolwork?",
+          "zh": "你的功课进展如何？",
+          "sourceIds": [
+            "E0078"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "上车、相处、进展三个原义分别覆盖；不将它们互相充作已掌握证据。",
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "E0683",
+      "groupId": "E0683",
+      "direction": "zh_to_en",
+      "stem": "到达",
+      "options": [
+        {
+          "label": "A",
+          "text": "sound good/great"
+        },
+        {
+          "label": "B",
+          "text": "be good at"
+        },
+        {
+          "label": "C",
+          "text": "get to"
+        },
+        {
+          "label": "D",
+          "text": "watch over"
+        }
+      ],
+      "answer": "C",
+      "word": "get to",
+      "meaning": "到达"
+    },
+    {
+      "id": 2,
+      "sourceId": "E0092",
+      "groupId": "E0092",
+      "direction": "en_to_zh",
+      "stem": "go across",
+      "options": [
+        {
+          "label": "A",
+          "text": "去睡觉，上床睡觉；上床睡觉"
+        },
+        {
+          "label": "B",
+          "text": "横穿，穿过"
+        },
+        {
+          "label": "C",
+          "text": "等，等待，等候"
+        },
+        {
+          "label": "D",
+          "text": "蛇"
+        }
+      ],
+      "answer": "B",
+      "word": "go across",
+      "meaning": "横穿，穿过"
+    },
+    {
+      "id": 3,
+      "sourceId": "E0094",
+      "groupId": "E0094",
+      "direction": "zh_to_en",
+      "stem": "走开，离开；走开",
+      "options": [
+        {
+          "label": "A",
+          "text": "go away"
+        },
+        {
+          "label": "B",
+          "text": "rocky"
+        },
+        {
+          "label": "C",
+          "text": "what a pity"
+        },
+        {
+          "label": "D",
+          "text": "diary"
+        }
+      ],
+      "answer": "A",
+      "word": "go away",
+      "meaning": "走开，离开；走开"
+    },
+    {
+      "id": 4,
+      "sourceId": "E0783",
+      "groupId": "E0783",
+      "direction": "en_to_zh",
+      "stem": "go back",
+      "options": [
+        {
+          "label": "A",
+          "text": "期待；盼望"
+        },
+        {
+          "label": "B",
+          "text": "回去"
+        },
+        {
+          "label": "C",
+          "text": "让某人做某事"
+        },
+        {
+          "label": "D",
+          "text": "沿某方向前进；向某方向移动"
+        }
+      ],
+      "answer": "B",
+      "word": "go back",
+      "meaning": "回去"
+    },
+    {
+      "id": 5,
+      "sourceId": "E0098",
+      "groupId": "E0098",
+      "direction": "zh_to_en",
+      "stem": "去旅行",
+      "options": [
+        {
+          "label": "A",
+          "text": "go on a trip"
+        },
+        {
+          "label": "B",
+          "text": "after school"
+        },
+        {
+          "label": "C",
+          "text": "collection"
+        },
+        {
+          "label": "D",
+          "text": "take care of"
+        }
+      ],
+      "answer": "A",
+      "word": "go on a trip",
+      "meaning": "去旅行"
+    },
+    {
+      "id": 6,
+      "sourceId": "E0134",
+      "groupId": "E0134",
+      "direction": "en_to_zh",
+      "stem": "leave for",
+      "options": [
+        {
+          "label": "A",
+          "text": "深的"
+        },
+        {
+          "label": "B",
+          "text": "前往；出发去某地"
+        },
+        {
+          "label": "C",
+          "text": "映像；映照出的影像"
+        },
+        {
+          "label": "D",
+          "text": "处于危险之中"
+        }
+      ],
+      "answer": "B",
+      "word": "leave for",
+      "meaning": "前往；出发去某地"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0683",
+      "groupId": "E0683",
+      "target": "get to",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to wait outside a named place"
+        },
+        {
+          "label": "B",
+          "text": "to move away from a named place"
+        },
+        {
+          "label": "C",
+          "text": "to walk around a named place"
+        },
+        {
+          "label": "D",
+          "text": "to reach a named place"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "D",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "get to",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "get to"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "到达",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “get to” means “to reach a named place”.",
+      "parentExplanation": "本题考查“get to”在本句中的用法；正确英文解释为“to reach a named place”。对应源表释义为“到达”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0092",
+      "groupId": "E0092",
+      "target": "go across",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to move from one side of something to the other"
+        },
+        {
+          "label": "B",
+          "text": "to move away without passing over anything"
+        },
+        {
+          "label": "C",
+          "text": "to move around the outside of something"
+        },
+        {
+          "label": "D",
+          "text": "to stay on the same side of something"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "Use the bridge to go across the river from one side to the other.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Use the bridge to go across the river from one side to the other."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "利用桥从河流一侧走到另一侧。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “go across” means “to move from one side of something to the other”.",
+      "parentExplanation": "本题考查“go across”在本句中的用法；正确英文解释为“to move from one side of something to the other”。对应源表释义为“横穿，穿过”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0094",
+      "groupId": "E0094",
+      "target": "go away",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "take part in"
+        },
+        {
+          "label": "B",
+          "text": "go away"
+        },
+        {
+          "label": "C",
+          "text": "get up"
+        },
+        {
+          "label": "D",
+          "text": "clean up"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression best describes the visitor leaving the area?",
+      "answer": "B",
+      "listenScript": "A dog is sleeping near the gate. The visitor leaves that area so it can rest without being disturbed.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "A dog is sleeping near the gate. The visitor leaves that area so it can rest without being disturbed."
+        }
+      ],
+      "explanation": "The situation describes the visitor leaving the area; the matching expression is go away.",
+      "parentExplanation": "情境描述访客离开该区域，对应go away（走开，离开；走开）。",
+      "translation": {
+        "stem": "哪个表达最能描述访客离开该区域？",
+        "listenScript": "一只狗在门边睡觉。访客离开那个区域，让它不受打扰地休息。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0094",
+        "T069",
+        "T073",
+        "T078"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0783",
+      "groupId": "E0783",
+      "target": "go back",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "get up"
+        },
+        {
+          "label": "B",
+          "text": "clean up"
+        },
+        {
+          "label": "C",
+          "text": "go back"
+        },
+        {
+          "label": "D",
+          "text": "take part in"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression best describes Mia returning to her previous place?",
+      "answer": "C",
+      "listenScript": "Mia reaches the library but realises her card is at home. She returns home to collect it.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Mia reaches the library but realises her card is at home. She returns home to collect it."
+        }
+      ],
+      "explanation": "The situation describes Mia returning to her previous place; the matching expression is go back.",
+      "parentExplanation": "情境描述米娅回到原来的地方，对应go back（回去）。",
+      "translation": {
+        "stem": "哪个表达最能描述米娅回到原来的地方？",
+        "listenScript": "米娅到图书馆才发现卡在家里，于是回家取卡。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0783",
+        "T069",
+        "T073",
+        "T078"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0098",
+      "groupId": "E0098",
+      "target": "go on a trip",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to return a borrowed book"
+        },
+        {
+          "label": "B",
+          "text": "to do physical activities for health"
+        },
+        {
+          "label": "C",
+          "text": "to put things into a new collection"
+        },
+        {
+          "label": "D",
+          "text": "to travel somewhere for a visit or holiday"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "During the holiday, we go on a trip to another city for a visit.\nWhat does “go on a trip” mean here?",
+      "translation": {
+        "stem": "假期里，我们去另一个城市旅行游览。 这里“go on a trip”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “go on a trip” means “to travel somewhere for a visit or holiday”.",
+      "parentExplanation": "本题考查“go on a trip”在本句中的用法；正确英文解释为“to travel somewhere for a visit or holiday”。对应源表释义为“去旅行”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0134",
+      "groupId": "E0134",
+      "target": "leave for",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to return something borrowed from a friend"
+        },
+        {
+          "label": "B",
+          "text": "to start a journey towards a destination"
+        },
+        {
+          "label": "C",
+          "text": "to arrive at the end of a journey"
+        },
+        {
+          "label": "D",
+          "text": "to stay in a place for a long time"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "Our bags are ready. We leave for Guangzhou at seven to begin our journey there.\nWhat does “leave for” mean here?",
+      "translation": {
+        "stem": "行李准备好了。我们七点出发去广州，开始前往那里的旅程。 这里“leave for”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “leave for” means “to start a journey towards a destination”.",
+      "parentExplanation": "本题考查“leave for”在本句中的用法；正确英文解释为“to start a journey towards a destination”。对应源表释义为“前往；出发去某地”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0077",
+      "groupId": "E0077",
+      "target": "get off",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to wait for a train at a station"
+        },
+        {
+          "label": "B",
+          "text": "to leave a bus, train or similar vehicle"
+        },
+        {
+          "label": "C",
+          "text": "to drive a bus along a road"
+        },
+        {
+          "label": "D",
+          "text": "to enter a bus, train or similar vehicle"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "This is our stop. Please get off the bus here.\nWhat does “get off” mean here?",
+      "translation": {
+        "stem": "这是我们要到的车站。请在这里下车。 这里“get off”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “get off” means “to leave a bus, train or similar vehicle”.",
+      "parentExplanation": "本题考查“get off”在本句中的用法；正确英文解释为“to leave a bus, train or similar vehicle”。对应源表释义为“下（火车、公共汽车等）；下车”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0076",
+      "groupId": "E0076",
+      "target": "get lost",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to find the correct place quickly"
+        },
+        {
+          "label": "B",
+          "text": "to arrive at a station on time"
+        },
+        {
+          "label": "C",
+          "text": "to lose your way and not know where you are"
+        },
+        {
+          "label": "D",
+          "text": "to return to your home safely"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "We do not know these streets and have no map. We may get lost.\nWhat does “get lost” mean here?",
+      "translation": {
+        "stem": "我们不熟悉这些街道，也没有地图。我们可能迷路。 这里“get lost”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “get lost” means “to lose your way and not know where you are”.",
+      "parentExplanation": "本题考查“get lost”在本句中的用法；正确英文解释为“to lose your way and not know where you are”。对应源表释义为“迷路”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0683",
+      "groupId": "E0683",
+      "target": "get to",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "gets to"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia g________ the park before her friends and waits at the gate.",
+      "answer": "gets to",
+      "hint": "reaches a named place",
+      "grammar": "Phrase in context",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Mia takes gets; to links the verb to the place.",
+      "parentExplanation": "Mia为单数用gets；the park前保留to。",
+      "translation": {
+        "stem": "米娅比朋友先到公园，在门口等候。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0092",
+      "groupId": "E0092",
+      "target": "go across",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "goes across"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia g________ the bridge and reaches the island on the other side.",
+      "answer": "goes across",
+      "hint": "moves from one side to the other",
+      "grammar": "Phrase in context",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Mia is singular, so go becomes goes.",
+      "parentExplanation": "Mia单数，go变为goes，across保留。",
+      "translation": {
+        "stem": "米娅走过桥，到达另一侧的岛。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0094",
+      "groupId": "E0094",
+      "target": "go away",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "go away"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Please do not g________. Stay here with us.",
+      "answer": "go away",
+      "hint": "leave this place",
+      "grammar": "Phrase in context",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "After do not, use the base form go away.",
+      "parentExplanation": "go away表示走开、离开，与后句stay here对照。",
+      "translation": {
+        "stem": "请不要离开。留在这里和我们一起。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0783",
+      "groupId": "E0783",
+      "target": "go back",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "go back"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "After our visit, we g________ to school and return the maps.",
+      "answer": "go back",
+      "hint": "return to an earlier place",
+      "grammar": "Phrase in context",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Go back to means return to a place.",
+      "parentExplanation": "go back表示回去；to后接返回的地点school。",
+      "translation": {
+        "stem": "参观后，我们回学校归还地图。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0098",
+      "groupId": "E0098",
+      "target": "go on a trip",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "goes on a trip"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia g________ to a new town with her family every summer.",
+      "answer": "goes on a trip",
+      "hint": "travels somewhere for a visit or holiday",
+      "grammar": "Phrase in context",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Mia takes goes on a trip.",
+      "parentExplanation": "Mia为第三人称单数，go变goes，其余结构不变。",
+      "translation": {
+        "stem": "米娅每年夏天和家人去一个新镇旅行。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0134",
+      "groupId": "E0134",
+      "target": "leave for",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "leaves for"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia l________ the station at six to catch her train there.",
+      "answer": "leaves for",
+      "hint": "starts a journey towards a named destination",
+      "grammar": "Phrase in context",
+      "initialLetter": "l",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Mia takes leaves. The station is the destination after for.",
+      "parentExplanation": "Mia为单数用leaves；for后车站是要去的地方。",
+      "translation": {
+        "stem": "米娅六点出发去车站，在那里赶火车。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T111",
+      "groupId": "T111",
+      "target": "work one's land",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "works her land"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "My aunt grows potatoes beside her house. She w________ after the rain.",
+      "answer": "works her land",
+      "hint": "grow crops on the ground that belongs to the subject",
+      "grammar": "Third-person singular and matching possessive",
+      "initialLetter": "w",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Here, “works her land” means “cultivate the ground to grow crops”. “She” takes works and the matching possessive her.",
+      "parentExplanation": "she对应第三人称单数works和物主代词her。完整句意：我的阿姨在房旁种土豆。下雨后她耕种自己的土地。",
+      "translation": {
+        "stem": "我的阿姨在房旁种土豆。下雨后她耕种自己的土地。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 3,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T169",
+      "groupId": "T169",
+      "target": "blow away",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "blow away"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "In our experiment, a strong fan can b________ a small paper boat on the table.",
+      "answer": "blow away",
+      "hint": "carry off in moving air",
+      "grammar": "Can + base phrasal verb",
+      "initialLetter": "b",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use blow away after can to show that moving air carries the boat off.",
+      "parentExplanation": "can后填原形blow away；此处为风扇气流吹走纸船，不是其他引申义。",
+      "translation": {
+        "stem": "在我们的实验中，强力风扇能把桌上的小纸船吹走。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 2,
+      "wordHelp": [
+        {
+          "word": "loose",
+          "meaning": "not fixed in place"
+        },
+        {
+          "word": "tightly",
+          "meaning": "in a firm way"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0827",
+      "groupId": "E0827",
+      "target": "get there",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "arrive at that place"
+        },
+        {
+          "label": "B",
+          "text": "leave that place forever"
+        },
+        {
+          "label": "C",
+          "text": "build a new room there"
+        },
+        {
+          "label": "D",
+          "text": "draw that place from memory"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “get there” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, get there means arrive at that place. Sentence 2 gives its use: The teacher checks a map so that we can get there before the afternoon activity begins.",
+      "parentExplanation": "get there指到达社区阅览室，there前不加to。",
+      "translation": {
+        "stem": "短文中的“get there”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "get there"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0826",
+      "groupId": "E0826",
+      "target": "get back",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "lend her pen to a new person"
+        },
+        {
+          "label": "B",
+          "text": "break her pen into pieces"
+        },
+        {
+          "label": "C",
+          "text": "recover an item that she previously had"
+        },
+        {
+          "label": "D",
+          "text": "put a price on her pen"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “get her pen back” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, get her pen back means recover an item that she previously had. Sentence 4 gives its use: She asks the worker politely and is pleased to get her pen back from the lost-property drawer.",
+      "parentExplanation": "get her pen back指取回原来遗失的笔；此处不是返回某地。",
+      "translation": {
+        "stem": "短文中的“get her pen back”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "get her pen back"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Where does Mia recover her pen?",
+      "explanation": "Sentence 4 specifies the lost-property drawer.",
+      "parentExplanation": "第4句明确是失物抽屉。",
+      "translation": {
+        "stem": "米娅从哪里取回笔？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "From the teacher's map."
+        },
+        {
+          "label": "B",
+          "text": "From a book she buys at the door."
+        },
+        {
+          "label": "C",
+          "text": "From the worker's lost-property drawer."
+        },
+        {
+          "label": "D",
+          "text": "From the lake beside her home."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the passage mainly about?",
+      "explanation": "The visit combines the planned book delivery with recovering a forgotten item.",
+      "parentExplanation": "送书是主线，期间取回失物，最后参加阅读活动。",
+      "translation": {
+        "stem": "主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Mia teaches a worker to draw maps."
+        },
+        {
+          "label": "B",
+          "text": "A reading room is turned into a sports shop."
+        },
+        {
+          "label": "C",
+          "text": "Delivering books leads to a useful visit and a recovered pen."
+        },
+        {
+          "label": "D",
+          "text": "A class decides to stop lending books."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0704",
+      "groupId": "E0704",
+      "target": "get in",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "enter a competition"
+        },
+        {
+          "label": "B",
+          "text": "arrive at a station"
+        },
+        {
+          "label": "C",
+          "text": "leave the ground and fly"
+        },
+        {
+          "label": "D",
+          "text": "gather crops from a field"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “get in” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, get in means arrive at a station. Sentence 2 gives its use: Their train will get in at ten, so we have time to practise our welcome.",
+      "parentExplanation": "get in在火车时刻语境为到达车站，不是收割。",
+      "translation": {
+        "stem": "短文中的“get in”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "get in"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0078",
+      "groupId": "E0078",
+      "target": "get on",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "making progress"
+        },
+        {
+          "label": "B",
+          "text": "putting on a warm coat"
+        },
+        {
+          "label": "C",
+          "text": "climbing onto a train"
+        },
+        {
+          "label": "D",
+          "text": "leaving a bus at a stop"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “getting on” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, getting on means making progress. Sentence 3 gives its use: Ben asks how the recording project is getting on while we wait.",
+      "parentExplanation": "getting on在询问项目时为进展，不是上车。",
+      "translation": {
+        "stem": "短文中的“getting on”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "getting on"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What problem does the team help solve?",
+      "explanation": "Sentences 4 and 5 identify the recording-space need and the empty music room.",
+      "parentExplanation": "第4、5句说明需要安静录音地点，因而借出音乐室。",
+      "translation": {
+        "stem": "广播队帮助解决什么问题？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4,
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The train has no seats for the visitors."
+        },
+        {
+          "label": "B",
+          "text": "Two speakers need a quiet place for recording."
+        },
+        {
+          "label": "C",
+          "text": "The opening music is missing from every copy."
+        },
+        {
+          "label": "D",
+          "text": "Ben cannot find the name of his school."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title is best?",
+      "explanation": "A question about progress reveals a problem that the waiting team can solve.",
+      "parentExplanation": "问项目进展发现问题，等待者帮忙解决。",
+      "translation": {
+        "stem": "哪个标题最好？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A Train Journey without a Destination"
+        },
+        {
+          "label": "B",
+          "text": "The End of Every School Radio Show"
+        },
+        {
+          "label": "C",
+          "text": "A Useful Question While Waiting for Visitors"
+        },
+        {
+          "label": "D",
+          "text": "A Search for the Loudest Music"
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Our class must take a box of books to the community reading room. The teacher checks a map so that we can get there before the afternoon activity begins. At the door, Mia remembers a pen she left behind on her last visit. She asks the worker politely and is pleased to get her pen back from the lost-property drawer. Then everyone carries a few books to the low shelves and checks their labels. We finish in time and stay to hear younger children choose their first story.",
+      "parallelText": [
+        {
+          "en": "Our class must take a box of books to the community reading room.",
+          "zh": "我们班要送一箱书到社区阅览室。"
+        },
+        {
+          "en": "The teacher checks a map so that we can get there before the afternoon activity begins.",
+          "zh": "老师查看地图，好让我们在下午活动开始前到达那里。"
+        },
+        {
+          "en": "At the door, Mia remembers a pen she left behind on her last visit.",
+          "zh": "到门口时，米娅想起上次遗留的一支笔。"
+        },
+        {
+          "en": "She asks the worker politely and is pleased to get her pen back from the lost-property drawer.",
+          "zh": "她礼貌地询问工作人员，很高兴从失物抽屉里取回自己的笔。"
+        },
+        {
+          "en": "Then everyone carries a few books to the low shelves and checks their labels.",
+          "zh": "随后，大家搬几本书到低书架上，检查标签。"
+        },
+        {
+          "en": "We finish in time and stay to hear younger children choose their first story.",
+          "zh": "我们及时完成，并留下听小孩子选择第一个故事。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "lost-property",
+          "meaning": "belongings that people left behind"
+        },
+        {
+          "word": "drawer",
+          "meaning": "a sliding box inside a piece of furniture"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Our school radio team is waiting for a visiting group from another town. Their train will get in at ten, so we have time to practise our welcome. Ben asks how the recording project is getting on while we wait. Mia says the opening music is ready, but two speakers still need a quiet place to record. We offer the empty music room and carry a microphone there before the visitors arrive. The waiting time becomes useful because one question helps us notice and solve a small problem.",
+      "parallelText": [
+        {
+          "en": "Our school radio team is waiting for a visiting group from another town.",
+          "zh": "学校广播队正在等另一座城镇的来访小组。"
+        },
+        {
+          "en": "Their train will get in at ten, so we have time to practise our welcome.",
+          "zh": "他们的火车十点到达，因此我们还有时间练习欢迎词。"
+        },
+        {
+          "en": "Ben asks how the recording project is getting on while we wait.",
+          "zh": "等待时，本询问录音项目进展怎样。"
+        },
+        {
+          "en": "Mia says the opening music is ready, but two speakers still need a quiet place to record.",
+          "zh": "米娅说开场音乐好了，但两位发言者仍需要安静地点录音。"
+        },
+        {
+          "en": "We offer the empty music room and carry a microphone there before the visitors arrive.",
+          "zh": "我们提供空着的音乐室，并在来访者到达前把麦克风搬进去。"
+        },
+        {
+          "en": "The waiting time becomes useful because one question helps us notice and solve a small problem.",
+          "zh": "这段等待变得有用，因为一个问题帮助我们发现并解决了小问题。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "microphone",
+          "meaning": "equipment used to record or make a voice louder"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S079-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0077",
+      "groupId": "E0077",
+      "expression": "get off",
+      "meaning": "下（火车、公共汽车等）；下车",
+      "introducedAtStation": 78,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 79,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S079-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0076",
+      "groupId": "E0076",
+      "expression": "get lost",
+      "meaning": "迷路",
+      "introducedAtStation": 78,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 79,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S079-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T111",
+      "groupId": "T111",
+      "expression": "work one's land",
+      "meaning": "耕种土地",
+      "introducedAtStation": 8,
+      "reviewOrdinal": 4,
+      "previousReviewStation": 49,
+      "intervalInStations": 30,
+      "referenceDueStation": 63,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S079-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T169",
+      "groupId": "T169",
+      "expression": "blow away",
+      "meaning": "吹走",
+      "introducedAtStation": 19,
+      "reviewOrdinal": 4,
+      "previousReviewStation": 50,
+      "intervalInStations": 29,
+      "referenceDueStation": 64,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S079-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0827",
+      "groupId": "E0827",
+      "expression": "get there",
+      "meaning": "到达那里",
+      "introducedAtStation": 78,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 79,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S079-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0826",
+      "groupId": "E0826",
+      "expression": "get back",
+      "meaning": "返回；取回",
+      "introducedAtStation": 78,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 79,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S079-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0704",
+      "groupId": "E0704",
+      "expression": "get in",
+      "meaning": "进入：到达；收割；进入，收割",
+      "introducedAtStation": 78,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 79,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S079-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0078",
+      "groupId": "E0078",
+      "expression": "get on",
+      "meaning": "①上车 ②相处 ③进展；上车；进展",
+      "introducedAtStation": 78,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 79,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

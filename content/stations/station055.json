@@ -1,0 +1,3717 @@
+{
+  "station": 55,
+  "type": "formal_review",
+  "phase": null,
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 55,
+  "newItems": [],
+  "reviewItems": [
+    {
+      "groupId": "T315",
+      "sourceId": "T315",
+      "sourceIds": [
+        "T315"
+      ],
+      "word": "attract",
+      "meaning": "吸引；招引",
+      "sourceItems": [
+        {
+          "sourceId": "T315",
+          "sourceKind": "textbook",
+          "expression": "attract",
+          "meaning": "吸引；招引",
+          "partOfSpeech": "v.",
+          "phonetic": "/əˈtrækt/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 126,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 320,
+          "originalFields": {
+            "序号": 315,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "attract",
+            "音标（教材）": "/əˈtrækt/",
+            "词性": "v.",
+            "中文释义": "吸引；招引",
+            "教材课文页": 126,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T315",
+          "introducedAtStation": 54
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T315",
+        "word": "attract",
+        "ipa": "/əˈtrækt/",
+        "focus": "开头/ə/轻读；重音在/trækt/，开头/tr/与词尾/kt/都不加元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Bright flowers attract insects.",
+          "zh": "鲜艳的花朵吸引昆虫。",
+          "sourceIds": [
+            "T315"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "display",
+          "meaning": "objects arranged for people to look at"
+        }
+      ],
+      "notes": null,
+      "ipa": "/əˈtrækt/",
+      "pos": "v.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T314",
+      "sourceId": "T314",
+      "sourceIds": [
+        "T314"
+      ],
+      "word": "produce",
+      "meaning": "生产；制造",
+      "sourceItems": [
+        {
+          "sourceId": "T314",
+          "sourceKind": "textbook",
+          "expression": "produce",
+          "meaning": "生产；制造",
+          "partOfSpeech": "v.",
+          "phonetic": "/prəˈdjuːs/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 126,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 319,
+          "originalFields": {
+            "序号": 314,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "produce",
+            "音标（教材）": "/prəˈdjuːs/",
+            "词性": "v.",
+            "中文释义": "生产；制造",
+            "教材课文页": 126,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T314",
+          "introducedAtStation": 54
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T314",
+        "word": "produce",
+        "ipa": "/prəˈdjuːs/",
+        "focus": "本项动词重音在/djuːs/；/dj/接长/uː/，末尾/s/保持清音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The factory produces paper.",
+          "zh": "这家工厂生产纸。",
+          "sourceIds": [
+            "T314"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "workshop",
+          "meaning": "a place where things are made or repaired"
+        },
+        {
+          "word": "recycled",
+          "meaning": "used again after being processed"
+        }
+      ],
+      "notes": null,
+      "ipa": "/prəˈdjuːs/",
+      "pos": "v.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T300",
+      "sourceId": "T300",
+      "sourceIds": [
+        "T300"
+      ],
+      "word": "explain",
+      "meaning": "解释；说明",
+      "sourceItems": [
+        {
+          "sourceId": "T300",
+          "sourceKind": "textbook",
+          "expression": "explain",
+          "meaning": "解释；说明",
+          "partOfSpeech": "v.",
+          "phonetic": "/ɪkˈspleɪn/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 305,
+          "originalFields": {
+            "序号": 300,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "explain",
+            "音标（教材）": "/ɪkˈspleɪn/",
+            "词性": "v.",
+            "中文释义": "解释；说明",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T300",
+          "introducedAtStation": 51
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T300",
+        "word": "explain",
+        "ipa": "/ɪkˈspleɪn/",
+        "focus": "开头/ɪk/轻读；重音在/spleɪn/，/spl/直接连读，/eɪ/有滑动。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The teacher explains the rule with an example.",
+          "zh": "老师用一个例子说明规则。",
+          "sourceIds": [
+            "T300"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ɪkˈspleɪn/",
+      "pos": "v.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T301",
+      "sourceId": "T301",
+      "sourceIds": [
+        "T301"
+      ],
+      "word": "bit",
+      "meaning": "一部分",
+      "sourceItems": [
+        {
+          "sourceId": "T301",
+          "sourceKind": "textbook",
+          "expression": "bit",
+          "meaning": "一部分",
+          "partOfSpeech": "n.",
+          "phonetic": "/bɪt/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 306,
+          "originalFields": {
+            "序号": 301,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "bit",
+            "音标（教材）": "/bɪt/",
+            "词性": "n.",
+            "中文释义": "一部分",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T301",
+          "introducedAtStation": 51
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T301",
+        "word": "bit",
+        "ipa": "/bɪt/",
+        "focus": "/ɪ/短读；最后/t/收住，和长/iː/区别开。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "There is a small bit of bread on the plate.",
+          "zh": "盘子里有一小块面包。",
+          "sourceIds": [
+            "T301"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/bɪt/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T299",
+      "sourceId": "T299",
+      "sourceIds": [
+        "T299"
+      ],
+      "word": "nail",
+      "meaning": "钉；钉子",
+      "sourceItems": [
+        {
+          "sourceId": "T299",
+          "sourceKind": "textbook",
+          "expression": "nail",
+          "meaning": "钉；钉子",
+          "partOfSpeech": "n.",
+          "phonetic": "/neɪl/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 304,
+          "originalFields": {
+            "序号": 299,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "nail",
+            "音标（教材）": "/neɪl/",
+            "词性": "n.",
+            "中文释义": "钉；钉子",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T299",
+          "introducedAtStation": 51
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T299",
+        "word": "nail",
+        "ipa": "/neɪl/",
+        "focus": "/eɪ/有滑动；末尾/l/收尾，ai不拆开读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The worker hits a nail into the wood.",
+          "zh": "工人把一枚钉子敲进木头。",
+          "sourceIds": [
+            "T299"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "hammer",
+          "meaning": "a tool with a heavy head used for hitting things"
+        }
+      ],
+      "notes": null,
+      "ipa": "/neɪl/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T298",
+      "sourceId": "T298",
+      "sourceIds": [
+        "T298"
+      ],
+      "word": "single",
+      "meaning": "单个的",
+      "sourceItems": [
+        {
+          "sourceId": "T298",
+          "sourceKind": "textbook",
+          "expression": "single",
+          "meaning": "单个的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈsɪŋɡl/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 303,
+          "originalFields": {
+            "序号": 298,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "single",
+            "音标（教材）": "/ˈsɪŋɡl/",
+            "词性": "adj.",
+            "中文释义": "单个的",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T298",
+          "introducedAtStation": 51
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T298",
+        "word": "single",
+        "ipa": "/ˈsɪŋɡl/",
+        "focus": "重音在/sɪŋ/；中间/ŋɡ/按源音标两个辅音都保留，不只读/ŋ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "There is a single coin in the box.",
+          "zh": "盒子里只有一枚硬币。",
+          "sourceIds": [
+            "T298"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈsɪŋɡl/",
+      "pos": "adj.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T297",
+      "sourceId": "T297",
+      "sourceIds": [
+        "T297"
+      ],
+      "word": "impossible",
+      "meaning": "不可能的",
+      "sourceItems": [
+        {
+          "sourceId": "T297",
+          "sourceKind": "textbook",
+          "expression": "impossible",
+          "meaning": "不可能的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ɪmˈpɒsəbl/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 302,
+          "originalFields": {
+            "序号": 297,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "impossible",
+            "音标（教材）": "/ɪmˈpɒsəbl/",
+            "词性": "adj.",
+            "中文释义": "不可能的",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T297",
+          "introducedAtStation": 51
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T297",
+        "word": "impossible",
+        "ipa": "/ɪmˈpɒsəbl/",
+        "focus": "开头/ɪm/轻读；重音在/pɒ/所在音节，词尾ble轻读，/l/后不再补元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "It is impossible for a person to live without water.",
+          "zh": "人不喝水是无法活下去的。",
+          "sourceIds": [
+            "T297"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ɪmˈpɒsəbl/",
+      "pos": "adj.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T296",
+      "sourceId": "T296",
+      "sourceIds": [
+        "T296"
+      ],
+      "word": "seem",
+      "meaning": "好像；似乎",
+      "sourceItems": [
+        {
+          "sourceId": "T296",
+          "sourceKind": "textbook",
+          "expression": "seem",
+          "meaning": "好像；似乎",
+          "partOfSpeech": "v.",
+          "phonetic": "/siːm/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 301,
+          "originalFields": {
+            "序号": 296,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "seem",
+            "音标（教材）": "/siːm/",
+            "词性": "v.",
+            "中文释义": "好像；似乎",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T296",
+          "introducedAtStation": 51
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T296",
+        "word": "seem",
+        "ipa": "/siːm/",
+        "focus": "/iː/拉长；末尾/m/闭唇收尾，ee不拆成两个元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This bag seems heavy. Can I help you carry it?",
+          "zh": "这个包好像很重。我能帮你拿吗？",
+          "sourceIds": [
+            "T296"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "rest",
+          "meaning": "a short time without work or activity"
+        }
+      ],
+      "notes": null,
+      "ipa": "/siːm/",
+      "pos": "v.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T306",
+      "sourceId": "T306",
+      "sourceIds": [
+        "T306"
+      ],
+      "word": "waste",
+      "meaning": "白费；糟蹋",
+      "sourceItems": [
+        {
+          "sourceId": "T306",
+          "sourceKind": "textbook",
+          "expression": "waste",
+          "meaning": "白费；糟蹋",
+          "partOfSpeech": "n.",
+          "phonetic": "/weɪst/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 120,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 311,
+          "originalFields": {
+            "序号": 306,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "waste",
+            "音标（教材）": "/weɪst/",
+            "词性": "n.",
+            "中文释义": "白费；糟蹋",
+            "教材课文页": 120,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T306",
+          "introducedAtStation": 52
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T306",
+        "word": "waste",
+        "ipa": "/weɪst/",
+        "focus": "/eɪ/有滑动；结尾/st/连读，末尾e不另发音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Leaving the tap running is a waste of water.",
+          "zh": "让水龙头一直开着是浪费水。",
+          "sourceIds": [
+            "T306"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "T306为n.白费；糟蹋；不与垃圾、废物义或动词浪费混并。",
+      "ipa": "/weɪst/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T307",
+      "sourceId": "T307",
+      "sourceIds": [
+        "T307"
+      ],
+      "word": "item",
+      "meaning": "一件商品（或物品）",
+      "sourceItems": [
+        {
+          "sourceId": "T307",
+          "sourceKind": "textbook",
+          "expression": "item",
+          "meaning": "一件商品（或物品）",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈaɪtəm/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 123,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 312,
+          "originalFields": {
+            "序号": 307,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "item",
+            "音标（教材）": "/ˈaɪtəm/",
+            "词性": "n.",
+            "中文释义": "一件商品（或物品）",
+            "教材课文页": 123,
+            "词表PDF页": 6,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T307",
+          "introducedAtStation": 52
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T307",
+        "word": "item",
+        "ipa": "/ˈaɪtəm/",
+        "focus": "重音在/aɪ/；后段/təm/中的/ə/弱读，不能把开头读成/ɪ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "There are five items in my shopping basket.",
+          "zh": "我的购物篮里有五件商品。",
+          "sourceIds": [
+            "T307"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "label",
+          "meaning": "a small piece of paper showing information about an object"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈaɪtəm/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T305",
+      "sourceId": "T305",
+      "sourceIds": [
+        "T305"
+      ],
+      "word": "sticker",
+      "meaning": "贴纸",
+      "sourceItems": [
+        {
+          "sourceId": "T305",
+          "sourceKind": "textbook",
+          "expression": "sticker",
+          "meaning": "贴纸",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈstɪkə(r)/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 120,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 310,
+          "originalFields": {
+            "序号": 305,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "sticker",
+            "音标（教材）": "/ˈstɪkə(r)/",
+            "词性": "n.",
+            "中文释义": "贴纸",
+            "教材课文页": 120,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T305",
+          "introducedAtStation": 52
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T305",
+        "word": "sticker",
+        "ipa": "/ˈstɪkə(r)/",
+        "focus": "重音在/stɪ/；/st/连到短/ɪ/，最后/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Mia puts a star sticker on her notebook.",
+          "zh": "米娅在笔记本上贴了一张星形贴纸。",
+          "sourceIds": [
+            "T305"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "sticky",
+          "meaning": "able to attach to other things"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈstɪkə(r)/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T304",
+      "sourceId": "T304",
+      "sourceIds": [
+        "T304"
+      ],
+      "word": "soft",
+      "meaning": "软的",
+      "sourceItems": [
+        {
+          "sourceId": "T304",
+          "sourceKind": "textbook",
+          "expression": "soft",
+          "meaning": "软的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/sɒft/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 120,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 309,
+          "originalFields": {
+            "序号": 304,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "soft",
+            "音标（教材）": "/sɒft/",
+            "词性": "adj.",
+            "中文释义": "软的",
+            "教材课文页": 120,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T304",
+          "introducedAtStation": 52
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T304",
+        "word": "soft",
+        "ipa": "/sɒft/",
+        "focus": "/ɒ/短读；结尾/ft/连在一起，不补元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This pillow is soft and comfortable.",
+          "zh": "这个枕头柔软舒适。",
+          "sourceIds": [
+            "T304"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "stiff",
+          "meaning": "hard to bend"
+        }
+      ],
+      "notes": null,
+      "ipa": "/sɒft/",
+      "pos": "adj.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T303",
+      "sourceId": "T303",
+      "sourceIds": [
+        "T303"
+      ],
+      "word": "coin",
+      "meaning": "（一枚）硬币",
+      "sourceItems": [
+        {
+          "sourceId": "T303",
+          "sourceKind": "textbook",
+          "expression": "coin",
+          "meaning": "（一枚）硬币",
+          "partOfSpeech": "n.",
+          "phonetic": "/kɔɪn/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 120,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 308,
+          "originalFields": {
+            "序号": 303,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "coin",
+            "音标（教材）": "/kɔɪn/",
+            "词性": "n.",
+            "中文释义": "（一枚）硬币",
+            "教材课文页": 120,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T303",
+          "introducedAtStation": 52
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T303",
+        "word": "coin",
+        "ipa": "/kɔɪn/",
+        "focus": "/ɔɪ/从/ɔ/滑向/ɪ/；最后/n/收尾。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "I put a coin into the machine.",
+          "zh": "我把一枚硬币投入机器。",
+          "sourceIds": [
+            "T303"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/kɔɪn/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T302",
+      "sourceId": "T302",
+      "sourceIds": [
+        "T302"
+      ],
+      "word": "similar",
+      "meaning": "相像的；类似的",
+      "sourceItems": [
+        {
+          "sourceId": "T302",
+          "sourceKind": "textbook",
+          "expression": "similar",
+          "meaning": "相像的；类似的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈsɪmələ(r)/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 307,
+          "originalFields": {
+            "序号": 302,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "similar",
+            "音标（教材）": "/ˈsɪmələ(r)/",
+            "词性": "adj.",
+            "中文释义": "相像的；类似的",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T302",
+          "introducedAtStation": 52
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T302",
+        "word": "similar",
+        "ipa": "/ˈsɪmələ(r)/",
+        "focus": "重音在/sɪ/；后段/mələ/中的/ə/轻读，不把各段都读重。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The two bags are similar, but one is bigger.",
+          "zh": "这两个包很相像，但其中一个更大。",
+          "sourceIds": [
+            "T302"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈsɪmələ(r)/",
+      "pos": "adj.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T313",
+      "sourceId": "T313",
+      "sourceIds": [
+        "T313"
+      ],
+      "word": "pattern",
+      "meaning": "图案；花样",
+      "sourceItems": [
+        {
+          "sourceId": "T313",
+          "sourceKind": "textbook",
+          "expression": "pattern",
+          "meaning": "图案；花样",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈpætn/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 124,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 318,
+          "originalFields": {
+            "序号": 313,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "pattern",
+            "音标（教材）": "/ˈpætn/",
+            "词性": "n.",
+            "中文释义": "图案；花样",
+            "教材课文页": 124,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T313",
+          "introducedAtStation": 53
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T313",
+        "word": "pattern",
+        "ipa": "/ˈpætn/",
+        "focus": "首音节重读，元音为/æ/；第二音节轻读，保留/t/和/n/，不在词尾/n/后补元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The cloth has a pattern of stars.",
+          "zh": "这块布上有星星图案。",
+          "sourceIds": [
+            "T313"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "cloth",
+          "meaning": "material used for making clothes"
+        },
+        {
+          "word": "scarf",
+          "meaning": "a long piece of cloth worn around the neck"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈpætn/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T312",
+      "sourceId": "T312",
+      "sourceIds": [
+        "T312"
+      ],
+      "word": "size",
+      "meaning": "大小",
+      "sourceItems": [
+        {
+          "sourceId": "T312",
+          "sourceKind": "textbook",
+          "expression": "size",
+          "meaning": "大小",
+          "partOfSpeech": "n.",
+          "phonetic": "/saɪz/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 124,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 317,
+          "originalFields": {
+            "序号": 312,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "size",
+            "音标（教材）": "/saɪz/",
+            "词性": "n.",
+            "中文释义": "大小",
+            "教材课文页": 124,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T312",
+          "introducedAtStation": 53
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T312",
+        "word": "size",
+        "ipa": "/saɪz/",
+        "focus": "/aɪ/有滑动；最后/z/是浊辅音，不读成/s/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "What size is this shirt?",
+          "zh": "这件衬衫是什么尺码？",
+          "sourceIds": [
+            "T312"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "lid",
+          "meaning": "a cover for a box or pot"
+        }
+      ],
+      "notes": null,
+      "ipa": "/saɪz/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T319",
+      "sourceId": "T319",
+      "sourceIds": [
+        "T319"
+      ],
+      "word": "language",
+      "meaning": "语言",
+      "sourceItems": [
+        {
+          "sourceId": "T319",
+          "sourceKind": "textbook",
+          "expression": "language",
+          "meaning": "语言",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈlæŋɡwɪdʒ/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 126,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 324,
+          "originalFields": {
+            "序号": 319,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "language",
+            "音标（教材）": "/ˈlæŋɡwɪdʒ/",
+            "词性": "n.",
+            "中文释义": "语言",
+            "教材课文页": 126,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T319",
+          "introducedAtStation": 54
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T319",
+        "word": "language",
+        "ipa": "/ˈlæŋɡwɪdʒ/",
+        "focus": "重音在/læŋ/；中间/ŋɡw/三个辅音按序连读，词尾/dʒ/成一个音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "English is a language.",
+          "zh": "英语是一门语言。",
+          "sourceIds": [
+            "T319"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "system",
+          "meaning": "a set of connected parts"
+        },
+        {
+          "word": "communicate",
+          "meaning": "share information"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈlæŋɡwɪdʒ/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T318",
+      "sourceId": "T318",
+      "sourceIds": [
+        "T318"
+      ],
+      "word": "flat",
+      "meaning": "平滑的",
+      "sourceItems": [
+        {
+          "sourceId": "T318",
+          "sourceKind": "textbook",
+          "expression": "flat",
+          "meaning": "平滑的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/flæt/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 126,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 323,
+          "originalFields": {
+            "序号": 318,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "flat",
+            "音标（教材）": "/flæt/",
+            "词性": "adj.",
+            "中文释义": "平滑的",
+            "教材课文页": 126,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T318",
+          "introducedAtStation": 54
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T318",
+        "word": "flat",
+        "ipa": "/flæt/",
+        "focus": "开头/fl/直接连读；/æ/口张开、短读，末尾/t/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The stone has a flat surface.",
+          "zh": "这块石头有一个平滑的表面。",
+          "sourceIds": [
+            "T318"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "surface",
+          "meaning": "the outside or top of something"
+        },
+        {
+          "word": "bumps",
+          "meaning": "small raised places"
+        }
+      ],
+      "notes": null,
+      "ipa": "/flæt/",
+      "pos": "adj.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T317",
+      "sourceId": "T317",
+      "sourceIds": [
+        "T317"
+      ],
+      "word": "object",
+      "meaning": "物体；物品",
+      "sourceItems": [
+        {
+          "sourceId": "T317",
+          "sourceKind": "textbook",
+          "expression": "object",
+          "meaning": "物体；物品",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈɒbdʒɪkt/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 126,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 322,
+          "originalFields": {
+            "序号": 317,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "object",
+            "音标（教材）": "/ˈɒbdʒɪkt/",
+            "词性": "n.",
+            "中文释义": "物体；物品",
+            "教材课文页": 126,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T317",
+          "introducedAtStation": 54
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T317",
+        "word": "object",
+        "ipa": "/ˈɒbdʒɪkt/",
+        "focus": "本项名词重音在/ɒb/；/dʒ/合成一个浊辅音，词尾/kt/紧接。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "There is a round object in the box.",
+          "zh": "盒子里有一个圆形物体。",
+          "sourceIds": [
+            "T317"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈɒbdʒɪkt/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T316",
+      "sourceId": "T316",
+      "sourceIds": [
+        "T316"
+      ],
+      "word": "insect",
+      "meaning": "昆虫",
+      "sourceItems": [
+        {
+          "sourceId": "T316",
+          "sourceKind": "textbook",
+          "expression": "insect",
+          "meaning": "昆虫",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈɪnsekt/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 126,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 321,
+          "originalFields": {
+            "序号": 316,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "insect",
+            "音标（教材）": "/ˈɪnsekt/",
+            "词性": "n.",
+            "中文释义": "昆虫",
+            "教材课文页": 126,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T316",
+          "introducedAtStation": 54
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T316",
+        "word": "insect",
+        "ipa": "/ˈɪnsekt/",
+        "focus": "重音在/ɪn/；后段/sekt/中的/e/短读，词尾/kt/紧接。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "A bee is an insect.",
+          "zh": "蜜蜂是一种昆虫。",
+          "sourceIds": [
+            "T316"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈɪnsekt/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T315",
+      "groupId": "T315",
+      "direction": "zh_to_en",
+      "stem": "吸引；招引",
+      "options": [
+        {
+          "label": "A",
+          "text": "attract"
+        },
+        {
+          "label": "B",
+          "text": "hike"
+        },
+        {
+          "label": "C",
+          "text": "in memory of"
+        },
+        {
+          "label": "D",
+          "text": "send"
+        }
+      ],
+      "answer": "A",
+      "word": "attract",
+      "meaning": "吸引；招引"
+    },
+    {
+      "id": 2,
+      "sourceId": "T314",
+      "groupId": "T314",
+      "direction": "en_to_zh",
+      "stem": "produce",
+      "options": [
+        {
+          "label": "A",
+          "text": "北；北方"
+        },
+        {
+          "label": "B",
+          "text": "生产；制造"
+        },
+        {
+          "label": "C",
+          "text": "想法"
+        },
+        {
+          "label": "D",
+          "text": "深的"
+        }
+      ],
+      "answer": "B",
+      "word": "produce",
+      "meaning": "生产；制造"
+    },
+    {
+      "id": 3,
+      "sourceId": "T300",
+      "groupId": "T300",
+      "direction": "zh_to_en",
+      "stem": "解释；说明",
+      "options": [
+        {
+          "label": "A",
+          "text": "hunt"
+        },
+        {
+          "label": "B",
+          "text": "space station"
+        },
+        {
+          "label": "C",
+          "text": "poem"
+        },
+        {
+          "label": "D",
+          "text": "explain"
+        }
+      ],
+      "answer": "D",
+      "word": "explain",
+      "meaning": "解释；说明"
+    },
+    {
+      "id": 4,
+      "sourceId": "T301",
+      "groupId": "T301",
+      "direction": "en_to_zh",
+      "stem": "bit",
+      "options": [
+        {
+          "label": "A",
+          "text": "果馅饼；果馅派"
+        },
+        {
+          "label": "B",
+          "text": "使做好准备；把……预备好"
+        },
+        {
+          "label": "C",
+          "text": "一部分"
+        },
+        {
+          "label": "D",
+          "text": "岛"
+        }
+      ],
+      "answer": "C",
+      "word": "bit",
+      "meaning": "一部分"
+    },
+    {
+      "id": 5,
+      "sourceId": "T299",
+      "groupId": "T299",
+      "direction": "zh_to_en",
+      "stem": "钉；钉子",
+      "options": [
+        {
+          "label": "A",
+          "text": "nail"
+        },
+        {
+          "label": "B",
+          "text": "on foot"
+        },
+        {
+          "label": "C",
+          "text": "almost"
+        },
+        {
+          "label": "D",
+          "text": "blow"
+        }
+      ],
+      "answer": "A",
+      "word": "nail",
+      "meaning": "钉；钉子"
+    },
+    {
+      "id": 6,
+      "sourceId": "T298",
+      "groupId": "T298",
+      "direction": "en_to_zh",
+      "stem": "single",
+      "options": [
+        {
+          "label": "A",
+          "text": "单个的"
+        },
+        {
+          "label": "B",
+          "text": "古老的；很老的"
+        },
+        {
+          "label": "C",
+          "text": "贴纸"
+        },
+        {
+          "label": "D",
+          "text": "十亿"
+        }
+      ],
+      "answer": "A",
+      "word": "single",
+      "meaning": "单个的"
+    },
+    {
+      "id": 7,
+      "sourceId": "T297",
+      "groupId": "T297",
+      "direction": "zh_to_en",
+      "stem": "不可能的",
+      "options": [
+        {
+          "label": "A",
+          "text": "presentation"
+        },
+        {
+          "label": "B",
+          "text": "be good at"
+        },
+        {
+          "label": "C",
+          "text": "impossible"
+        },
+        {
+          "label": "D",
+          "text": "be based on"
+        }
+      ],
+      "answer": "C",
+      "word": "impossible",
+      "meaning": "不可能的"
+    },
+    {
+      "id": 8,
+      "sourceId": "T296",
+      "groupId": "T296",
+      "direction": "en_to_zh",
+      "stem": "seem",
+      "options": [
+        {
+          "label": "A",
+          "text": "污染"
+        },
+        {
+          "label": "B",
+          "text": "问候；招呼"
+        },
+        {
+          "label": "C",
+          "text": "好像；似乎"
+        },
+        {
+          "label": "D",
+          "text": "几乎；差不多"
+        }
+      ],
+      "answer": "C",
+      "word": "seem",
+      "meaning": "好像；似乎"
+    },
+    {
+      "id": 9,
+      "sourceId": "T306",
+      "groupId": "T306",
+      "direction": "zh_to_en",
+      "stem": "白费；糟蹋",
+      "options": [
+        {
+          "label": "A",
+          "text": "waste"
+        },
+        {
+          "label": "B",
+          "text": "dollar"
+        },
+        {
+          "label": "C",
+          "text": "soft"
+        },
+        {
+          "label": "D",
+          "text": "introduction"
+        }
+      ],
+      "answer": "A",
+      "word": "waste",
+      "meaning": "白费；糟蹋"
+    },
+    {
+      "id": 10,
+      "sourceId": "T307",
+      "groupId": "T307",
+      "direction": "en_to_zh",
+      "stem": "item",
+      "options": [
+        {
+          "label": "A",
+          "text": "有耐心的"
+        },
+        {
+          "label": "B",
+          "text": "旅游景点"
+        },
+        {
+          "label": "C",
+          "text": "片刻；瞬间"
+        },
+        {
+          "label": "D",
+          "text": "一件商品（或物品）"
+        }
+      ],
+      "answer": "D",
+      "word": "item",
+      "meaning": "一件商品（或物品）"
+    },
+    {
+      "id": 11,
+      "sourceId": "T305",
+      "groupId": "T305",
+      "direction": "zh_to_en",
+      "stem": "贴纸",
+      "options": [
+        {
+          "label": "A",
+          "text": "across"
+        },
+        {
+          "label": "B",
+          "text": "sticker"
+        },
+        {
+          "label": "C",
+          "text": "literature"
+        },
+        {
+          "label": "D",
+          "text": "continue"
+        }
+      ],
+      "answer": "B",
+      "word": "sticker",
+      "meaning": "贴纸"
+    },
+    {
+      "id": 12,
+      "sourceId": "T304",
+      "groupId": "T304",
+      "direction": "en_to_zh",
+      "stem": "soft",
+      "options": [
+        {
+          "label": "A",
+          "text": "相像的；类似的"
+        },
+        {
+          "label": "B",
+          "text": "包装纸"
+        },
+        {
+          "label": "C",
+          "text": "软的"
+        },
+        {
+          "label": "D",
+          "text": "期待；盼望"
+        }
+      ],
+      "answer": "C",
+      "word": "soft",
+      "meaning": "软的"
+    },
+    {
+      "id": 13,
+      "sourceId": "T303",
+      "groupId": "T303",
+      "direction": "zh_to_en",
+      "stem": "（一枚）硬币",
+      "options": [
+        {
+          "label": "A",
+          "text": "blow"
+        },
+        {
+          "label": "B",
+          "text": "coin"
+        },
+        {
+          "label": "C",
+          "text": "primary school"
+        },
+        {
+          "label": "D",
+          "text": "confident"
+        }
+      ],
+      "answer": "B",
+      "word": "coin",
+      "meaning": "（一枚）硬币"
+    },
+    {
+      "id": 14,
+      "sourceId": "T302",
+      "groupId": "T302",
+      "direction": "en_to_zh",
+      "stem": "similar",
+      "options": [
+        {
+          "label": "A",
+          "text": "在……的中心"
+        },
+        {
+          "label": "B",
+          "text": "大叫；叫喊"
+        },
+        {
+          "label": "C",
+          "text": "吉他"
+        },
+        {
+          "label": "D",
+          "text": "相像的；类似的"
+        }
+      ],
+      "answer": "D",
+      "word": "similar",
+      "meaning": "相像的；类似的"
+    },
+    {
+      "id": 15,
+      "sourceId": "T313",
+      "groupId": "T313",
+      "direction": "zh_to_en",
+      "stem": "图案；花样",
+      "options": [
+        {
+          "label": "A",
+          "text": "through"
+        },
+        {
+          "label": "B",
+          "text": "single"
+        },
+        {
+          "label": "C",
+          "text": "pattern"
+        },
+        {
+          "label": "D",
+          "text": "add"
+        }
+      ],
+      "answer": "C",
+      "word": "pattern",
+      "meaning": "图案；花样"
+    },
+    {
+      "id": 16,
+      "sourceId": "T312",
+      "groupId": "T312",
+      "direction": "en_to_zh",
+      "stem": "size",
+      "options": [
+        {
+          "label": "A",
+          "text": "大小"
+        },
+        {
+          "label": "B",
+          "text": "消失；不见"
+        },
+        {
+          "label": "C",
+          "text": "打扫（或清除）干净"
+        },
+        {
+          "label": "D",
+          "text": "擅长于"
+        }
+      ],
+      "answer": "A",
+      "word": "size",
+      "meaning": "大小"
+    },
+    {
+      "id": 17,
+      "sourceId": "T319",
+      "groupId": "T319",
+      "direction": "zh_to_en",
+      "stem": "语言",
+      "options": [
+        {
+          "label": "A",
+          "text": "footprint"
+        },
+        {
+          "label": "B",
+          "text": "diary"
+        },
+        {
+          "label": "C",
+          "text": "language"
+        },
+        {
+          "label": "D",
+          "text": "pie"
+        }
+      ],
+      "answer": "C",
+      "word": "language",
+      "meaning": "语言"
+    },
+    {
+      "id": 18,
+      "sourceId": "T318",
+      "groupId": "T318",
+      "direction": "en_to_zh",
+      "stem": "flat",
+      "options": [
+        {
+          "label": "A",
+          "text": "平滑的"
+        },
+        {
+          "label": "B",
+          "text": "基于……"
+        },
+        {
+          "label": "C",
+          "text": "对……作出抉择；决定"
+        },
+        {
+          "label": "D",
+          "text": "成功"
+        }
+      ],
+      "answer": "A",
+      "word": "flat",
+      "meaning": "平滑的"
+    },
+    {
+      "id": 19,
+      "sourceId": "T317",
+      "groupId": "T317",
+      "direction": "zh_to_en",
+      "stem": "物体；物品",
+      "options": [
+        {
+          "label": "A",
+          "text": "activity"
+        },
+        {
+          "label": "B",
+          "text": "language"
+        },
+        {
+          "label": "C",
+          "text": "object"
+        },
+        {
+          "label": "D",
+          "text": "sticker"
+        }
+      ],
+      "answer": "C",
+      "word": "object",
+      "meaning": "物体；物品"
+    },
+    {
+      "id": 20,
+      "sourceId": "T316",
+      "groupId": "T316",
+      "direction": "en_to_zh",
+      "stem": "insect",
+      "options": [
+        {
+          "label": "A",
+          "text": "昆虫"
+        },
+        {
+          "label": "B",
+          "text": "混合；结合"
+        },
+        {
+          "label": "C",
+          "text": "扮演（戏剧、电影中的角色）"
+        },
+        {
+          "label": "D",
+          "text": "自然的；天然的"
+        }
+      ],
+      "answer": "A",
+      "word": "insect",
+      "meaning": "昆虫"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T315",
+      "groupId": "T315",
+      "target": "attract",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "make someone remember a number"
+        },
+        {
+          "label": "B",
+          "text": "make someone go to sleep"
+        },
+        {
+          "label": "C",
+          "text": "draw people to a place by making them interested"
+        },
+        {
+          "label": "D",
+          "text": "make something stop working"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "C",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "attract",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "attract"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "吸引；招引",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “attract” means “draw people to a place by making them interested”.",
+      "parentExplanation": "本题考查“attract”在本句中的用法；正确英文解释为“draw people to a place by making them interested”。对应源表释义为“吸引；招引”。",
+      "wordHelp": [
+        {
+          "word": "display",
+          "meaning": "objects arranged for people to look at"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T314",
+      "groupId": "T314",
+      "target": "produce",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "take things to another place"
+        },
+        {
+          "label": "B",
+          "text": "choose things from a list"
+        },
+        {
+          "label": "C",
+          "text": "make things for use"
+        },
+        {
+          "label": "D",
+          "text": "put things in the bin"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "These machines can produce ten boxes in a minute.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "These machines can produce ten boxes in a minute."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "这些机器一分钟能生产十个盒子。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “produce” means “make things for use”.",
+      "parentExplanation": "本题考查“produce”在本句中的用法；正确英文解释为“make things for use”。对应源表释义为“生产；制造”。",
+      "wordHelp": [
+        {
+          "word": "workshop",
+          "meaning": "a place where things are made or repaired"
+        },
+        {
+          "word": "recycled",
+          "meaning": "used again after being processed"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T300",
+      "groupId": "T300",
+      "target": "explain",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "list"
+        },
+        {
+          "label": "B",
+          "text": "compete"
+        },
+        {
+          "label": "C",
+          "text": "explain"
+        },
+        {
+          "label": "D",
+          "text": "own"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which verb describes what Jia does with the rules?",
+      "answer": "C",
+      "listenScript": "I do not understand the new game. Jia tells me how it works and gives an example to make the rules clear.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "I do not understand the new game. Jia tells me how it works and gives an example to make the rules clear."
+        }
+      ],
+      "explanation": "Jia explains the rules by making them clear.",
+      "parentExplanation": "把规则讲清楚就是explain解释。",
+      "translation": {
+        "stem": "哪个动词描述佳对规则所做的说明？",
+        "listenScript": "我不懂新游戏，佳告诉我怎么玩，并举例让规则更清楚。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T300",
+        "T289",
+        "T271",
+        "T228"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T301",
+      "groupId": "T301",
+      "target": "bit",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "envelope"
+        },
+        {
+          "label": "B",
+          "text": "ring"
+        },
+        {
+          "label": "C",
+          "text": "remote control"
+        },
+        {
+          "label": "D",
+          "text": "bit"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which word means a small part here?",
+      "answer": "D",
+      "listenScript": "Most of the cake is gone. Only a small part remains on the plate.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Most of the cake is gone. Only a small part remains on the plate."
+        }
+      ],
+      "explanation": "A bit is a small part of something.",
+      "parentExplanation": "bit在此表示一小部分。",
+      "translation": {
+        "stem": "哪个词在这里表示一小部分？",
+        "listenScript": "大部分蛋糕已经吃掉，盘子里只剩一小部分。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T301",
+        "T294",
+        "T287",
+        "T282"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T299",
+      "groupId": "T299",
+      "target": "nail",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a flat paper cover for a letter"
+        },
+        {
+          "label": "B",
+          "text": "a thin pointed metal object used to join wood"
+        },
+        {
+          "label": "C",
+          "text": "a round metal object used as money"
+        },
+        {
+          "label": "D",
+          "text": "a soft cloth used to keep hands warm"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "Use a hammer to hit this nail into the wood.\nWhat does “nail” mean here?",
+      "translation": {
+        "stem": "用锤子把这枚钉子敲进木头里。 这里“nail”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “nail” means “a thin pointed metal object used to join wood”.",
+      "parentExplanation": "本题考查“nail”在本句中的用法；正确英文解释为“a thin pointed metal object used to join wood”。对应源表释义为“钉；钉子”。",
+      "wordHelp": [
+        {
+          "word": "hammer",
+          "meaning": "a tool with a heavy head used for hitting things"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T298",
+      "groupId": "T298",
+      "target": "single",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "many things together"
+        },
+        {
+          "label": "B",
+          "text": "joined with another person"
+        },
+        {
+          "label": "C",
+          "text": "the same in every way"
+        },
+        {
+          "label": "D",
+          "text": "only one"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "There is a single coin in the box, not two or three.\nWhat does “single” mean here?",
+      "translation": {
+        "stem": "盒子里有单独一枚硬币，而不是两三枚。 这里“single”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “single” means “only one”.",
+      "parentExplanation": "本题考查“single”在本句中的用法；正确英文解释为“only one”。对应源表释义为“单个的”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T297",
+      "groupId": "T297",
+      "target": "impossible",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "likely to happen very soon"
+        },
+        {
+          "label": "B",
+          "text": "already finished before now"
+        },
+        {
+          "label": "C",
+          "text": "easy for everyone to do"
+        },
+        {
+          "label": "D",
+          "text": "not able to happen or be done"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "The box is completely closed, with no openings. Taking a book out without opening or breaking it is impossible.\nWhat does “impossible” mean here?",
+      "translation": {
+        "stem": "盒子完全封闭，没有开口。不打开或弄破盒子就从里面拿出书，是不可能的。 这里“impossible”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “impossible” means “not able to happen or be done”.",
+      "parentExplanation": "本题考查“impossible”在本句中的用法；正确英文解释为“not able to happen or be done”。对应源表释义为“不可能的”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T296",
+      "groupId": "T296",
+      "target": "seem",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to explain how something works"
+        },
+        {
+          "label": "B",
+          "text": "to make something exactly the same"
+        },
+        {
+          "label": "C",
+          "text": "appear to have a particular quality"
+        },
+        {
+          "label": "D",
+          "text": "to know something with complete certainty"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "The room seems quiet from outside, but music is playing softly inside.\nWhat does “seems” mean here?",
+      "translation": {
+        "stem": "从外面看，这房间似乎很安静，但里面正轻轻放着音乐。 这里“seems”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “seem” means “appear to have a particular quality”.",
+      "parentExplanation": "本题考查“seem”在本句中的用法；正确英文解释为“appear to have a particular quality”。对应源表释义为“好像；似乎”。",
+      "wordHelp": [
+        {
+          "word": "rest",
+          "meaning": "a short time without work or activity"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T306",
+      "groupId": "T306",
+      "target": "waste",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "waste"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Leaving the lights on in an empty room is a w________ of electricity.",
+      "answer": "waste",
+      "hint": "the unnecessary use of something useful",
+      "grammar": "A waste of + noun",
+      "initialLetter": "w",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A waste of electricity means using it without need.",
+      "parentExplanation": "waste在本条为名词白费、糟蹋，a waste of表示对……的浪费，不考垃圾义。",
+      "translation": {
+        "stem": "空房间里一直开着灯是浪费电。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T307",
+      "groupId": "T307",
+      "target": "item",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "item"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Each i________ in this shop has a price label.",
+      "answer": "item",
+      "hint": "one object or product among a group of things",
+      "grammar": "Each + singular countable noun",
+      "initialLetter": "i",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Each requires the singular noun item.",
+      "parentExplanation": "each后用单数item，表示一件商品或物品。",
+      "translation": {
+        "stem": "这家商店里的每件商品都有价格标签。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "label",
+          "meaning": "a small piece of paper showing information about an object"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T305",
+      "groupId": "T305",
+      "target": "sticker",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "stickers"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "These three s________ stick to the cover of my notebook.",
+      "answer": "stickers",
+      "hint": "small pictures or pieces of paper with sticky backs",
+      "grammar": "Plural countable noun",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Three requires the plural noun stickers.",
+      "parentExplanation": "three后用stickers复数形式。",
+      "translation": {
+        "stem": "这三张贴纸贴在我笔记本的封面上。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "sticky",
+          "meaning": "able to attach to other things"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T304",
+      "groupId": "T304",
+      "target": "soft",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "soft"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This s________ cloth bends easily and feels comfortable in my hand.",
+      "answer": "soft",
+      "hint": "not hard or stiff",
+      "grammar": "Adjective before a noun",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Soft describes the feel and flexibility of the cloth.",
+      "parentExplanation": "soft在名词cloth前作定语，表示软的。",
+      "translation": {
+        "stem": "这块柔软的布很容易弯曲，拿在手里很舒服。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "stiff",
+          "meaning": "hard to bend"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T303",
+      "groupId": "T303",
+      "target": "coin",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "coin"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This small round piece of metal is money. It is a c________.",
+      "answer": "coin",
+      "hint": "a small flat round metal object used as money",
+      "grammar": "Singular countable noun",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A coin is a small metal piece used as money.",
+      "parentExplanation": "coin表示一枚硬币，a后用单数。",
+      "translation": {
+        "stem": "这小块圆形金属是钱。它是一枚硬币。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T302",
+      "groupId": "T302",
+      "target": "similar",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "similar"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "These two bags are s________ in colour and shape, but they are not exactly the same.",
+      "answer": "similar",
+      "hint": "almost the same in some ways",
+      "grammar": "Adjective after be",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Similar means alike in some ways, not identical.",
+      "parentExplanation": "similar表示相像、类似，不要求完全一样。",
+      "translation": {
+        "stem": "这两个包的颜色和形状相像，但并不完全一样。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T313",
+      "groupId": "T313",
+      "target": "pattern",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "pattern"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "There is a flower p________ on this cup.",
+      "answer": "pattern",
+      "hint": "a design of shapes or colours",
+      "grammar": "Singular countable noun",
+      "initialLetter": "p",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Pattern means a design on a surface here.",
+      "parentExplanation": "此处pattern是花纹图案，不是事物发展模式。",
+      "translation": {
+        "stem": "这个杯子上有一个花朵图案。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "cloth",
+          "meaning": "material used for making clothes"
+        },
+        {
+          "word": "scarf",
+          "meaning": "a long piece of cloth worn around the neck"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T312",
+      "groupId": "T312",
+      "target": "size",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "size"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "What s________ shoes do you wear? I need to know how big your feet are.",
+      "answer": "size",
+      "hint": "how big or small something is",
+      "grammar": "What size + noun",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Size tells us how big or small something is.",
+      "parentExplanation": "size表示大小或尺码，题干通过脚的大小限定。",
+      "translation": {
+        "stem": "你穿多大尺码的鞋？我需要知道你的脚有多大。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "lid",
+          "meaning": "a cover for a box or pot"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T319",
+      "groupId": "T319",
+      "target": "language",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a design on cloth"
+        },
+        {
+          "label": "B",
+          "text": "a system of words used by people"
+        },
+        {
+          "label": "C",
+          "text": "a collection of old objects"
+        },
+        {
+          "label": "D",
+          "text": "a place where people meet"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “language” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 1, “language” means “a system of words used by people” in this situation.",
+      "parentExplanation": "第1句中“language”在语境中表示“语言”；句子为“A new pupil brings a picture book written in the language she speaks at home.”。",
+      "translation": {
+        "stem": "短文中的“language”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "language"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T318",
+      "groupId": "T318",
+      "target": "flat",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "round like a ball"
+        },
+        {
+          "label": "B",
+          "text": "rough and covered with bumps"
+        },
+        {
+          "label": "C",
+          "text": "smooth and level, without bumps"
+        },
+        {
+          "label": "D",
+          "text": "bent into a circle"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “flat” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 3, “flat” means “smooth and level, without bumps”. The sentence says: They place the book on a flat, smooth table and open it so that everyone can see the pages.",
+      "parentExplanation": "第3句“flat”的语境含义与本题释义一致。句意为：他们把书放在平整光滑的桌上，摊开书页，让大家都能看见。",
+      "translation": {
+        "stem": "短文中的“flat”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "flat"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "How does the class begin to understand the book?",
+      "explanation": "Pictures provide a starting point and the pupil explains the character’s goal.",
+      "parentExplanation": "第2、4和5句说明图片与同学解释帮助理解。",
+      "translation": {
+        "stem": "全班怎样开始理解这本书？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        2,
+        4,
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "It already knows all the words on every page."
+        },
+        {
+          "label": "B",
+          "text": "It uses the pictures and the pupil’s explanation."
+        },
+        {
+          "label": "C",
+          "text": "It asks the new pupil to remain silent."
+        },
+        {
+          "label": "D",
+          "text": "It removes every picture before reading."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea?",
+      "explanation": "The class explores a book together and connects with its new member.",
+      "parentExplanation": "全文写共同探索图画书并了解新同学。",
+      "translation": {
+        "stem": "主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A class decides that unfamiliar words are never useful."
+        },
+        {
+          "label": "B",
+          "text": "A table is built entirely from pages of a story."
+        },
+        {
+          "label": "C",
+          "text": "A new pupil hides her favourite book from everyone."
+        },
+        {
+          "label": "D",
+          "text": "Sharing a book helps classmates understand one another."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T317",
+      "groupId": "T317",
+      "target": "object",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a word used to name a person"
+        },
+        {
+          "label": "B",
+          "text": "a thing that can be seen or touched"
+        },
+        {
+          "label": "C",
+          "text": "a feeling inside someone"
+        },
+        {
+          "label": "D",
+          "text": "an action done very quickly"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “object” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 1, “object” means “a thing that can be seen or touched” in this situation.",
+      "parentExplanation": "第1句中“object”在语境中表示“物体；物品”；句子为“Our nature group finds a small object beside a leaf on the garden path.”。",
+      "translation": {
+        "stem": "短文中的“object”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "object"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T316",
+      "groupId": "T316",
+      "target": "insect",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a bird with a short tail"
+        },
+        {
+          "label": "B",
+          "text": "a small animal with six legs"
+        },
+        {
+          "label": "C",
+          "text": "a plant with large leaves"
+        },
+        {
+          "label": "D",
+          "text": "a fish living in a river"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “insect” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 4, “insect” means “a small animal with six legs” in this situation.",
+      "parentExplanation": "第4句中“insect”在语境中表示“昆虫”；句子为“The teacher helps us recognise it as an insect rather than a piece of wood.”。",
+      "translation": {
+        "stem": "短文中的“insect”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "insect"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Which observation helps the group recognise the animal?",
+      "explanation": "Movement and six legs show that it is an insect.",
+      "parentExplanation": "第3至4句说明活动和六条腿提供识别依据。",
+      "translation": {
+        "stem": "哪项观察帮助小组认出动物？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        3,
+        4
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "It has a written name on its back."
+        },
+        {
+          "label": "B",
+          "text": "It tells the group where it lives."
+        },
+        {
+          "label": "C",
+          "text": "It moves and has six legs."
+        },
+        {
+          "label": "D",
+          "text": "It is made of a piece of dry wood."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea?",
+      "explanation": "The pupils look carefully, record evidence and leave the animal in its habitat.",
+      "parentExplanation": "全文写仔细观察、记录证据并尊重动物的栖息地。",
+      "translation": {
+        "stem": "主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Careful observation helps pupils identify and respect a living thing."
+        },
+        {
+          "label": "B",
+          "text": "A teacher shows how to make insects from paper."
+        },
+        {
+          "label": "C",
+          "text": "Pupils collect every small thing on a garden path."
+        },
+        {
+          "label": "D",
+          "text": "A group guesses an answer without looking closely."
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "A new pupil brings a picture book written in the language she speaks at home. The class cannot read all the words, but the pictures give them a starting point. They place the book on a flat, smooth table and open it so that everyone can see the pages. The new pupil reads a short page aloud and explains what the main character wants. Other pupils compare the pictures with the explanation and ask about two unfamiliar words. By the end, they understand the little story and share something important to their new classmate.",
+      "parallelText": [
+        {
+          "en": "A new pupil brings a picture book written in the language she speaks at home.",
+          "zh": "一位新同学带来一本用她在家说的语言写成的图画书。"
+        },
+        {
+          "en": "The class cannot read all the words, but the pictures give them a starting point.",
+          "zh": "全班不能读懂所有文字，但图片为他们提供了切入点。"
+        },
+        {
+          "en": "They place the book on a flat, smooth table and open it so that everyone can see the pages.",
+          "zh": "他们把书放在平整光滑的桌上，摊开书页，让大家都能看见。"
+        },
+        {
+          "en": "The new pupil reads a short page aloud and explains what the main character wants.",
+          "zh": "新同学朗读一小页，并解释主角想要什么。"
+        },
+        {
+          "en": "Other pupils compare the pictures with the explanation and ask about two unfamiliar words.",
+          "zh": "其他学生把图片和解释作对照，并询问两个不熟悉的词。"
+        },
+        {
+          "en": "By the end, they understand the little story and share something important to their new classmate.",
+          "zh": "最后，他们理解了这个小故事，也分享了新同学重视的东西。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "unfamiliar",
+          "meaning": "not known or recognised"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Our nature group finds a small object beside a leaf on the garden path. At first it looks like a piece of bark, so we leave it where it is and look closely. Then it moves, and we notice six thin legs beneath its body. The teacher helps us recognise it as an insect rather than a piece of wood. We draw what we can see and write down the place and time of the observation. We do not take it away, because we want to observe it without disturbing its home.",
+      "parallelText": [
+        {
+          "en": "Our nature group finds a small object beside a leaf on the garden path.",
+          "zh": "我们自然小组在花园小路的一片叶子旁发现一个小东西。"
+        },
+        {
+          "en": "At first it looks like a piece of bark, so we leave it where it is and look closely.",
+          "zh": "起初它像一块树皮，所以我们让它留在原处并仔细观察。"
+        },
+        {
+          "en": "Then it moves, and we notice six thin legs beneath its body.",
+          "zh": "随后它动了，我们发现它身体下面有六条细腿。"
+        },
+        {
+          "en": "The teacher helps us recognise it as an insect rather than a piece of wood.",
+          "zh": "老师帮助我们认出它是一只昆虫，而不是木片。"
+        },
+        {
+          "en": "We draw what we can see and write down the place and time of the observation.",
+          "zh": "我们画下看见的情况，记录观察地点和时间。"
+        },
+        {
+          "en": "We do not take it away, because we want to observe it without disturbing its home.",
+          "zh": "我们没有把它带走，因为希望在不打扰它栖息地的情况下观察。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "bark",
+          "meaning": "the outer covering of a tree"
+        },
+        {
+          "word": "observation",
+          "meaning": "watching something carefully"
+        },
+        {
+          "word": "disturbing",
+          "meaning": "interrupting or upsetting"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S055-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 1,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T315",
+      "groupId": "T315",
+      "expression": "attract",
+      "meaning": "吸引；招引",
+      "introducedAtStation": 54,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 55,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 2,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T314",
+      "groupId": "T314",
+      "expression": "produce",
+      "meaning": "生产；制造",
+      "introducedAtStation": 54,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 55,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L1-R3",
+      "lap": 1,
+      "position": 3,
+      "questionNumber": 3,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T300",
+      "groupId": "T300",
+      "expression": "explain",
+      "meaning": "解释；说明",
+      "introducedAtStation": 51,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 52,
+      "intervalInStations": 3,
+      "referenceDueStation": 55,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L1-R4",
+      "lap": 1,
+      "position": 4,
+      "questionNumber": 4,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T301",
+      "groupId": "T301",
+      "expression": "bit",
+      "meaning": "一部分",
+      "introducedAtStation": 51,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 52,
+      "intervalInStations": 3,
+      "referenceDueStation": 55,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L1-R5",
+      "lap": 1,
+      "position": 5,
+      "questionNumber": 5,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T299",
+      "groupId": "T299",
+      "expression": "nail",
+      "meaning": "钉；钉子",
+      "introducedAtStation": 51,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 52,
+      "intervalInStations": 3,
+      "referenceDueStation": 55,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L1-R6",
+      "lap": 1,
+      "position": 6,
+      "questionNumber": 6,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T298",
+      "groupId": "T298",
+      "expression": "single",
+      "meaning": "单个的",
+      "introducedAtStation": 51,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 52,
+      "intervalInStations": 3,
+      "referenceDueStation": 55,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L1-R7",
+      "lap": 1,
+      "position": 7,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T297",
+      "groupId": "T297",
+      "expression": "impossible",
+      "meaning": "不可能的",
+      "introducedAtStation": 51,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 52,
+      "intervalInStations": 3,
+      "referenceDueStation": 55,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L1-R8",
+      "lap": 1,
+      "position": 8,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T296",
+      "groupId": "T296",
+      "expression": "seem",
+      "meaning": "好像；似乎",
+      "introducedAtStation": 51,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 52,
+      "intervalInStations": 3,
+      "referenceDueStation": 55,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 9,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T306",
+      "groupId": "T306",
+      "expression": "waste",
+      "meaning": "白费；糟蹋",
+      "introducedAtStation": 52,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 53,
+      "intervalInStations": 2,
+      "referenceDueStation": 56,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 10,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T307",
+      "groupId": "T307",
+      "expression": "item",
+      "meaning": "一件商品（或物品）",
+      "introducedAtStation": 52,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 53,
+      "intervalInStations": 2,
+      "referenceDueStation": 56,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L2-R3",
+      "lap": 2,
+      "position": 3,
+      "questionNumber": 11,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T305",
+      "groupId": "T305",
+      "expression": "sticker",
+      "meaning": "贴纸",
+      "introducedAtStation": 52,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 53,
+      "intervalInStations": 2,
+      "referenceDueStation": 56,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L2-R4",
+      "lap": 2,
+      "position": 4,
+      "questionNumber": 12,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T304",
+      "groupId": "T304",
+      "expression": "soft",
+      "meaning": "软的",
+      "introducedAtStation": 52,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 53,
+      "intervalInStations": 2,
+      "referenceDueStation": 56,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L2-R5",
+      "lap": 2,
+      "position": 5,
+      "questionNumber": 13,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T303",
+      "groupId": "T303",
+      "expression": "coin",
+      "meaning": "（一枚）硬币",
+      "introducedAtStation": 52,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 53,
+      "intervalInStations": 2,
+      "referenceDueStation": 56,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L2-R6",
+      "lap": 2,
+      "position": 6,
+      "questionNumber": 14,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T302",
+      "groupId": "T302",
+      "expression": "similar",
+      "meaning": "相像的；类似的",
+      "introducedAtStation": 52,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 53,
+      "intervalInStations": 2,
+      "referenceDueStation": 56,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L2-R7",
+      "lap": 2,
+      "position": 7,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T313",
+      "groupId": "T313",
+      "expression": "pattern",
+      "meaning": "图案；花样",
+      "introducedAtStation": 53,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 54,
+      "intervalInStations": 1,
+      "referenceDueStation": 57,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L2-R8",
+      "lap": 2,
+      "position": 8,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T312",
+      "groupId": "T312",
+      "expression": "size",
+      "meaning": "大小",
+      "introducedAtStation": 53,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 54,
+      "intervalInStations": 1,
+      "referenceDueStation": 57,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T319",
+      "groupId": "T319",
+      "expression": "language",
+      "meaning": "语言",
+      "introducedAtStation": 54,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 55,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T318",
+      "groupId": "T318",
+      "expression": "flat",
+      "meaning": "平滑的",
+      "introducedAtStation": 54,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 55,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T317",
+      "groupId": "T317",
+      "expression": "object",
+      "meaning": "物体；物品",
+      "introducedAtStation": 54,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 55,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S055-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T316",
+      "groupId": "T316",
+      "expression": "insect",
+      "meaning": "昆虫",
+      "introducedAtStation": 54,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 55,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

@@ -1,0 +1,4303 @@
+{
+  "station": 104,
+  "type": "formal_review",
+  "phase": null,
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 104,
+  "newItems": [],
+  "reviewItems": [
+    {
+      "groupId": "E0345",
+      "sourceId": "E0345",
+      "sourceIds": [
+        "E0345"
+      ],
+      "word": "sit down",
+      "meaning": "坐下",
+      "sourceItems": [
+        {
+          "sourceId": "E0345",
+          "sourceKind": "phrase",
+          "expression": "sit down",
+          "meaning": "坐下",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "用于祈使指令，sit过去式为sat",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0345",
+          "sourceImages": "IMG_2702.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 216,
+          "originalFields": {
+            "编号": "E0345",
+            "英文表达": "sit down",
+            "中文释义": "坐下",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "用于祈使指令，sit过去式为sat",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“坐下”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0345",
+            "来源图片": "IMG_2702.heic",
+            "原文英文": "sit down",
+            "原文释义": "坐下",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0345",
+          "introducedAtStation": 103
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0345",
+        "sourceIds": [
+          "E0345"
+        ],
+        "expression": "sit down",
+        "phonetic": "/sɪt daʊn/",
+        "readingForms": [
+          {
+            "expression": "sit down",
+            "phonetic": "/sɪt daʊn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0345",
+            "expression": "sit down"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please sit down on this chair.",
+          "zh": "请在这把椅子上坐下。",
+          "sourceIds": [
+            "E0345"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0200",
+      "sourceId": "E0200",
+      "sourceIds": [
+        "E0200"
+      ],
+      "word": "put on",
+      "meaning": "①穿上，戴上②增加（体重），发胖③上演；穿上；上演；增重；假装；穿上，戴上；上演，演出",
+      "sourceItems": [
+        {
+          "sourceId": "E0200",
+          "sourceKind": "phrase",
+          "expression": "put on",
+          "meaning": "①穿上，戴上②增加（体重），发胖③上演；穿上；上演；增重；假装；穿上，戴上；上演，演出",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "先掌握穿上义，代词宾语放中间",
+          "evidence": "7上U2参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0200；P0924；P1118",
+          "sourceImages": "IMG_2700.heic；IMG_2718.heic；IMG_2721.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 215,
+          "originalFields": {
+            "编号": "E0200",
+            "英文表达": "put on",
+            "中文释义": "①穿上，戴上②增加（体重），发胖③上演；穿上；上演；增重；假装；穿上，戴上；上演，演出",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "先掌握穿上义，代词宾语放中间",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "7上U2参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 3,
+            "原始条目编号": "P0200；P0924；P1118",
+            "来源图片": "IMG_2700.heic；IMG_2718.heic；IMG_2721.heic",
+            "原文英文": "put on",
+            "原文释义": "①穿上，戴上②增加（体重），发胖③上演；穿上；上演；增重；假装；穿上，戴上；上演，演出",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/20866078"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0200",
+          "introducedAtStation": 103
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0200",
+        "sourceIds": [
+          "E0200"
+        ],
+        "expression": "put on",
+        "phonetic": "/pʊt ɒn/",
+        "readingForms": [
+          {
+            "expression": "put on",
+            "phonetic": "/pʊt ɒn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0200",
+            "expression": "put on"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please put on your coat before going outside.",
+          "zh": "出门前请穿上外套。",
+          "sourceIds": [
+            "E0200"
+          ]
+        },
+        {
+          "en": "Mia puts on weight as she grows.",
+          "zh": "米娅长大时体重增加。",
+          "sourceIds": [
+            "E0200"
+          ]
+        },
+        {
+          "en": "Our class puts on a play for the festival.",
+          "zh": "我们班为节庆演出一出戏。",
+          "sourceIds": [
+            "E0200"
+          ]
+        },
+        {
+          "en": "Ben puts on an angry voice for the play, but he is not really angry.",
+          "zh": "本在戏里假装用生气的声音说话，但他并不真的生气。",
+          "sourceIds": [
+            "E0200"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "四类原义：穿戴、增重、上演、假装，逐类有例句与两fill；代词宾语位置单独呈现。",
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0782",
+      "sourceId": "E0782",
+      "sourceIds": [
+        "E0782"
+      ],
+      "word": "go home",
+      "meaning": "回家",
+      "sourceItems": [
+        {
+          "sourceId": "E0782",
+          "sourceKind": "phrase",
+          "expression": "go home",
+          "meaning": "回家",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "home作副词，不写go to home。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0885",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 197,
+          "originalFields": {
+            "编号": "E0782",
+            "英文表达": "go home",
+            "中文释义": "回家",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "home作副词，不写go to home。",
+            "适用训练": "听说交际 / 语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0885",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "go home",
+            "原文释义": "回家",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0782",
+          "introducedAtStation": 100
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0782",
+        "sourceIds": [
+          "E0782"
+        ],
+        "expression": "go home",
+        "phonetic": "/ɡəʊ həʊm/",
+        "readingForms": [
+          {
+            "expression": "go home",
+            "phonetic": "/ɡəʊ həʊm/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0782",
+            "expression": "go home"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We go home after school.",
+          "zh": "我们放学后回家。",
+          "sourceIds": [
+            "E0782"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0619",
+      "sourceId": "E0619",
+      "sourceIds": [
+        "E0619"
+      ],
+      "word": "give back",
+      "meaning": "归还；归还，送回",
+      "sourceItems": [
+        {
+          "sourceId": "E0619",
+          "sourceKind": "phrase",
+          "expression": "give back",
+          "meaning": "归还；归还，送回",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "give it back / give sth. back to sb.。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0628；P0848；P0854",
+          "sourceImages": "IMG_2715.heic；IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 196,
+          "originalFields": {
+            "编号": "E0619",
+            "英文表达": "give back",
+            "中文释义": "归还；归还，送回",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "give it back / give sth. back to sb.。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 3,
+            "原始条目编号": "P0628；P0848；P0854",
+            "来源图片": "IMG_2715.heic；IMG_2718.heic",
+            "原文英文": "give back",
+            "原文释义": "归还；归还，送回",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0619",
+          "introducedAtStation": 100
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0619",
+        "sourceIds": [
+          "E0619"
+        ],
+        "expression": "give back",
+        "phonetic": "/ɡɪv bæk/",
+        "readingForms": [
+          {
+            "expression": "give back",
+            "phonetic": "/ɡɪv bæk/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0619",
+            "expression": "give back"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please give my pencil back to me.",
+          "zh": "请把我的铅笔还给我。",
+          "sourceIds": [
+            "E0619"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0120",
+      "sourceId": "E0120",
+      "sourceIds": [
+        "E0120"
+      ],
+      "word": "help yourself (to sth.)",
+      "meaning": "自己取（食物等）",
+      "sourceItems": [
+        {
+          "sourceId": "E0120",
+          "sourceKind": "phrase",
+          "expression": "help yourself (to sth.)",
+          "meaning": "自己取（食物等）",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "yourself/yourselves随用餐人数变化",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0120",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 201,
+          "originalFields": {
+            "编号": "E0120",
+            "英文表达": "help yourself (to sth.)",
+            "中文释义": "自己取（食物等）",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "yourself/yourselves随用餐人数变化",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“自己取（食物等）”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0120",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "help yourself (to sth.)",
+            "原文释义": "自己取（食物等）",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0120",
+          "introducedAtStation": 100
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0120",
+        "sourceIds": [
+          "E0120"
+        ],
+        "expression": "help yourself (to sth.)",
+        "phonetic": "/help jɔːˈself/ 或 /help jɔːˈself tə ˈsʌmθɪŋ/",
+        "readingForms": [
+          {
+            "expression": "help yourself",
+            "phonetic": "/help jɔːˈself/"
+          },
+          {
+            "expression": "help yourself to something",
+            "phonetic": "/help jɔːˈself tə ˈsʌmθɪŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0120",
+            "expression": "help yourself (to sth.)"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。",
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Help yourself to some fruit, Ben.",
+          "zh": "本，自己拿点水果吃吧。",
+          "sourceIds": [
+            "E0120"
+          ]
+        },
+        {
+          "en": "Please help yourselves, everyone.",
+          "zh": "大家请自便。",
+          "sourceIds": [
+            "E0120"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0112",
+      "sourceId": "E0112",
+      "sourceIds": [
+        "E0112"
+      ],
+      "word": "have to do sth.",
+      "meaning": "不得不做某事",
+      "sourceItems": [
+        {
+          "sourceId": "E0112",
+          "sourceKind": "phrase",
+          "expression": "have to do sth.",
+          "meaning": "不得不做某事",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "第三人称用has to，否定借助do/does",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0112；S040",
+          "sourceImages": "IMG_2699.heic；IMG_2708.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 200,
+          "originalFields": {
+            "编号": "E0112",
+            "英文表达": "have to do sth.",
+            "中文释义": "不得不做某事",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "第三人称用has to，否定借助do/does",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“不得不做某事”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0112；S040",
+            "来源图片": "IMG_2699.heic；IMG_2708.heic",
+            "原文英文": "have to do sth.",
+            "原文释义": "不得不做某事",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0112",
+          "introducedAtStation": 100
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0112",
+        "sourceIds": [
+          "E0112"
+        ],
+        "expression": "have to do sth.",
+        "phonetic": "/hæf tə duː ˈsʌmθɪŋ/",
+        "readingForms": [
+          {
+            "expression": "have to do something",
+            "phonetic": "/hæf tə duː ˈsʌmθɪŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0112",
+            "expression": "have to do sth."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。",
+          "have to表示必须时采用常见读法/hæf tə/，此处不读拥有义的/hæv/。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We have to leave now to catch the bus.",
+          "zh": "为了赶公交车，我们现在不得不离开。",
+          "sourceIds": [
+            "E0112"
+          ]
+        },
+        {
+          "en": "Mia has to finish her homework before the game.",
+          "zh": "米娅不得不在游戏前完成作业。",
+          "sourceIds": [
+            "E0112"
+          ]
+        },
+        {
+          "en": "Ben does not have to work on Sunday.",
+          "zh": "本星期日不必工作。",
+          "sourceIds": [
+            "E0112"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0106",
+      "sourceId": "E0106",
+      "sourceIds": [
+        "E0106"
+      ],
+      "word": "have fun",
+      "meaning": "玩得高兴",
+      "sourceItems": [
+        {
+          "sourceId": "E0106",
+          "sourceKind": "phrase",
+          "expression": "have fun",
+          "meaning": "玩得高兴",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "fun不可数，后接doing表示做某事很开心",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0106",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 199,
+          "originalFields": {
+            "编号": "E0106",
+            "英文表达": "have fun",
+            "中文释义": "玩得高兴",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "fun不可数，后接doing表示做某事很开心",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“玩得高兴”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0106",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "have fun",
+            "原文释义": "玩得高兴",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0106",
+          "introducedAtStation": 100
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0106",
+        "sourceIds": [
+          "E0106"
+        ],
+        "expression": "have fun",
+        "phonetic": "/hæv fʌn/",
+        "readingForms": [
+          {
+            "expression": "have fun",
+            "phonetic": "/hæv fʌn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0106",
+            "expression": "have fun"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We have fun playing games in the park.",
+          "zh": "我们在公园玩游戏，玩得很开心。",
+          "sourceIds": [
+            "E0106"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0074",
+      "sourceId": "E0074",
+      "sourceIds": [
+        "E0074"
+      ],
+      "word": "get dressed",
+      "meaning": "穿好衣服",
+      "sourceItems": [
+        {
+          "sourceId": "E0074",
+          "sourceKind": "phrase",
+          "expression": "get dressed",
+          "meaning": "穿好衣服",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "dressed为过去分词，不能写get dress",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0074",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 194,
+          "originalFields": {
+            "编号": "E0074",
+            "英文表达": "get dressed",
+            "中文释义": "穿好衣服",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "dressed为过去分词，不能写get dress",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“穿好衣服”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0074",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "get dressed",
+            "原文释义": "穿好衣服",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0074",
+          "introducedAtStation": 100
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0074",
+        "sourceIds": [
+          "E0074"
+        ],
+        "expression": "get dressed",
+        "phonetic": "/ɡet drest/",
+        "readingForms": [
+          {
+            "expression": "get dressed",
+            "phonetic": "/ɡet drest/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0074",
+            "expression": "get dressed"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I get dressed before breakfast.",
+          "zh": "我早饭前穿好衣服。",
+          "sourceIds": [
+            "E0074"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0888",
+      "sourceId": "E0888",
+      "sourceIds": [
+        "E0888"
+      ],
+      "word": "make a choice",
+      "meaning": "做出选择",
+      "sourceItems": [
+        {
+          "sourceId": "E0888",
+          "sourceKind": "phrase",
+          "expression": "make a choice",
+          "meaning": "做出选择",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "choice名词，choose动词，不混词性。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P1064",
+          "sourceImages": "IMG_2720.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 208,
+          "originalFields": {
+            "编号": "E0888",
+            "英文表达": "make a choice",
+            "中文释义": "做出选择",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "choice名词，choose动词，不混词性。",
+            "适用训练": "听说交际 / 语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P1064",
+            "来源图片": "IMG_2720.heic",
+            "原文英文": "make a choice",
+            "原文释义": "做出选择",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0888",
+          "introducedAtStation": 101
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0888",
+        "sourceIds": [
+          "E0888"
+        ],
+        "expression": "make a choice",
+        "phonetic": "/meɪk ə tʃɔɪs/",
+        "readingForms": [
+          {
+            "expression": "make a choice",
+            "phonetic": "/meɪk ə tʃɔɪs/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0888",
+            "expression": "make a choice"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I make a choice between the two books.",
+          "zh": "我在这两本书中做出选择。",
+          "sourceIds": [
+            "E0888"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0289",
+      "sourceId": "E0289",
+      "sourceIds": [
+        "E0289"
+      ],
+      "word": "how often",
+      "meaning": "多久一次",
+      "sourceItems": [
+        {
+          "sourceId": "E0289",
+          "sourceKind": "phrase",
+          "expression": "how often",
+          "meaning": "多久一次",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "询问频率，用次数或频度副词回答",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0289",
+          "sourceImages": "IMG_2701.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 204,
+          "originalFields": {
+            "编号": "E0289",
+            "英文表达": "how often",
+            "中文释义": "多久一次",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "询问频率，用次数或频度副词回答",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“多久一次”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0289",
+            "来源图片": "IMG_2701.heic",
+            "原文英文": "how often",
+            "原文释义": "多久一次",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0289",
+          "introducedAtStation": 101
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0289",
+        "sourceIds": [
+          "E0289"
+        ],
+        "expression": "how often",
+        "phonetic": "/haʊ ˈɒfən/",
+        "readingForms": [
+          {
+            "expression": "how often",
+            "phonetic": "/haʊ ˈɒfən/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0289",
+            "expression": "how often"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "How often do you visit the library?",
+          "zh": "你多久去一次图书馆？",
+          "sourceIds": [
+            "E0289"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0288",
+      "sourceId": "E0288",
+      "sourceIds": [
+        "E0288"
+      ],
+      "word": "how much",
+      "meaning": "①多少［后跟不可数名词］②多少钱",
+      "sourceItems": [
+        {
+          "sourceId": "E0288",
+          "sourceKind": "phrase",
+          "expression": "how much",
+          "meaning": "①多少［后跟不可数名词］②多少钱",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "区分询问不可数数量与价格",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0288",
+          "sourceImages": "IMG_2701.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 203,
+          "originalFields": {
+            "编号": "E0288",
+            "英文表达": "how much",
+            "中文释义": "①多少［后跟不可数名词］②多少钱",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "区分询问不可数数量与价格",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“多少［后跟不可数名词］”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0288",
+            "来源图片": "IMG_2701.heic",
+            "原文英文": "how much",
+            "原文释义": "①多少［后跟不可数名词］②多少钱",
+            "校对说明": "图片右边缘略裁切，末尾“钱”字不完整，建议核对原书。",
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0288",
+          "introducedAtStation": 101
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0288",
+        "sourceIds": [
+          "E0288"
+        ],
+        "expression": "how much",
+        "phonetic": "/haʊ mʌtʃ/",
+        "readingForms": [
+          {
+            "expression": "how much",
+            "phonetic": "/haʊ mʌtʃ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0288",
+            "expression": "how much"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "How much water do we need?",
+          "zh": "我们需要多少水？",
+          "sourceIds": [
+            "E0288"
+          ]
+        },
+        {
+          "en": "How much is this notebook?",
+          "zh": "这个笔记本多少钱？",
+          "sourceIds": [
+            "E0288"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0287",
+      "sourceId": "E0287",
+      "sourceIds": [
+        "E0287"
+      ],
+      "word": "how many",
+      "meaning": "多少［后跟可数名词复数］",
+      "sourceItems": [
+        {
+          "sourceId": "E0287",
+          "sourceKind": "phrase",
+          "expression": "how many",
+          "meaning": "多少［后跟可数名词复数］",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "many后接可数名词复数",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0287",
+          "sourceImages": "IMG_2701.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 202,
+          "originalFields": {
+            "编号": "E0287",
+            "英文表达": "how many",
+            "中文释义": "多少［后跟可数名词复数］",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "many后接可数名词复数",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“多少［后跟可数名词复数］”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0287",
+            "来源图片": "IMG_2701.heic",
+            "原文英文": "how many",
+            "原文释义": "多少［后跟可数名词复数］",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0287",
+          "introducedAtStation": 101
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0287",
+        "sourceIds": [
+          "E0287"
+        ],
+        "expression": "how many",
+        "phonetic": "/haʊ ˈmeni/",
+        "readingForms": [
+          {
+            "expression": "how many",
+            "phonetic": "/haʊ ˈmeni/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0287",
+            "expression": "how many"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "How many books are on the table?",
+          "zh": "桌上有多少本书？",
+          "sourceIds": [
+            "E0287"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0145",
+      "sourceId": "E0145",
+      "sourceIds": [
+        "E0145"
+      ],
+      "word": "look for",
+      "meaning": "寻找",
+      "sourceItems": [
+        {
+          "sourceId": "E0145",
+          "sourceKind": "phrase",
+          "expression": "look for",
+          "meaning": "寻找",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "for强调寻找过程，辨析find",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0145；P0902；P1043",
+          "sourceImages": "IMG_2700.heic；IMG_2718.heic；IMG_2720.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 207,
+          "originalFields": {
+            "编号": "E0145",
+            "英文表达": "look for",
+            "中文释义": "寻找",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "for强调寻找过程，辨析find",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“寻找”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 3,
+            "原始条目编号": "P0145；P0902；P1043",
+            "来源图片": "IMG_2700.heic；IMG_2718.heic；IMG_2720.heic",
+            "原文英文": "look for",
+            "原文释义": "寻找",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0145",
+          "introducedAtStation": 101
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0145",
+        "sourceIds": [
+          "E0145"
+        ],
+        "expression": "look for",
+        "phonetic": "/lʊk fə/",
+        "readingForms": [
+          {
+            "expression": "look for",
+            "phonetic": "/lʊk fə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0145",
+            "expression": "look for"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We look for the missing key under the table.",
+          "zh": "我们在桌子底下寻找丢失的钥匙。",
+          "sourceIds": [
+            "E0145"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0140",
+      "sourceId": "E0140",
+      "sourceIds": [
+        "E0140"
+      ],
+      "word": "look after",
+      "meaning": "照顾；照看；照顾，看管",
+      "sourceItems": [
+        {
+          "sourceId": "E0140",
+          "sourceKind": "phrase",
+          "expression": "look after",
+          "meaning": "照顾；照看；照顾，看管",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "after为介词，后接照料对象",
+          "evidence": "7上U1参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0140；P0905；P1036",
+          "sourceImages": "IMG_2699.heic；IMG_2718.heic；IMG_2720.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 206,
+          "originalFields": {
+            "编号": "E0140",
+            "英文表达": "look after",
+            "中文释义": "照顾；照看；照顾，看管",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "after为介词，后接照料对象",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "7上U1参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 3,
+            "原始条目编号": "P0140；P0905；P1036",
+            "来源图片": "IMG_2699.heic；IMG_2718.heic；IMG_2720.heic",
+            "原文英文": "look after",
+            "原文释义": "照顾；照看；照顾，看管",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/20866078"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0140",
+          "introducedAtStation": 101
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0140",
+        "sourceIds": [
+          "E0140"
+        ],
+        "expression": "look after",
+        "phonetic": "/lʊk ˈɑːftə/",
+        "readingForms": [
+          {
+            "expression": "look after",
+            "phonetic": "/lʊk ˈɑːftə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0140",
+            "expression": "look after"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I look after my little brother after school.",
+          "zh": "放学后我照顾我的弟弟。",
+          "sourceIds": [
+            "E0140"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0915",
+      "sourceId": "E0915",
+      "sourceIds": [
+        "E0915"
+      ],
+      "word": "make a decision",
+      "meaning": "做决定",
+      "sourceItems": [
+        {
+          "sourceId": "E0915",
+          "sourceKind": "phrase",
+          "expression": "make a decision",
+          "meaning": "做决定",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "decision是名词；作出决定做某事可接to do。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P1098",
+          "sourceImages": "IMG_2721.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 209,
+          "originalFields": {
+            "编号": "E0915",
+            "英文表达": "make a decision",
+            "中文释义": "做决定",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "decision是名词；作出决定做某事可接to do。",
+            "适用训练": "听说交际 / 语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P1098",
+            "来源图片": "IMG_2721.heic",
+            "原文英文": "make a decision",
+            "原文释义": "做决定",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0915",
+          "introducedAtStation": 102
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0915",
+        "sourceIds": [
+          "E0915"
+        ],
+        "expression": "make a decision",
+        "phonetic": "/meɪk ə dɪˈsɪʒən/",
+        "readingForms": [
+          {
+            "expression": "make a decision",
+            "phonetic": "/meɪk ə dɪˈsɪʒən/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0915",
+            "expression": "make a decision"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We make a decision to visit the museum.",
+          "zh": "我们决定参观博物馆。",
+          "sourceIds": [
+            "E0915"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0907",
+      "sourceId": "E0907",
+      "sourceIds": [
+        "E0907"
+      ],
+      "word": "make money",
+      "meaning": "赚钱",
+      "sourceItems": [
+        {
+          "sourceId": "E0907",
+          "sourceKind": "phrase",
+          "expression": "make money",
+          "meaning": "赚钱",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "money不可数，不写moneys。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P1086",
+          "sourceImages": "IMG_2720.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 210,
+          "originalFields": {
+            "编号": "E0907",
+            "英文表达": "make money",
+            "中文释义": "赚钱",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "money不可数，不写moneys。",
+            "适用训练": "听说交际 / 语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P1086",
+            "来源图片": "IMG_2720.heic",
+            "原文英文": "make money",
+            "原文释义": "赚钱",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0907",
+          "introducedAtStation": 102
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0907",
+        "sourceIds": [
+          "E0907"
+        ],
+        "expression": "make money",
+        "phonetic": "/meɪk ˈmʌni/",
+        "readingForms": [
+          {
+            "expression": "make money",
+            "phonetic": "/meɪk ˈmʌni/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0907",
+            "expression": "make money"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "My aunt makes money by selling bread.",
+          "zh": "我的阿姨靠卖面包赚钱。",
+          "sourceIds": [
+            "E0907"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0948",
+      "sourceId": "E0948",
+      "sourceIds": [
+        "E0948"
+      ],
+      "word": "take a walk",
+      "meaning": "散步",
+      "sourceItems": [
+        {
+          "sourceId": "E0948",
+          "sourceKind": "phrase",
+          "expression": "take a walk",
+          "meaning": "散步",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "walk作名词，前有a；可与go for a walk对照。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P1152",
+          "sourceImages": "IMG_2721.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 220,
+          "originalFields": {
+            "编号": "E0948",
+            "英文表达": "take a walk",
+            "中文释义": "散步",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "walk作名词，前有a；可与go for a walk对照。",
+            "适用训练": "听说交际 / 语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P1152",
+            "来源图片": "IMG_2721.heic",
+            "原文英文": "take a walk",
+            "原文释义": "散步",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0948",
+          "introducedAtStation": 103
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0948",
+        "sourceIds": [
+          "E0948"
+        ],
+        "expression": "take a walk",
+        "phonetic": "/teɪk ə wɔːk/",
+        "readingForms": [
+          {
+            "expression": "take a walk",
+            "phonetic": "/teɪk ə wɔːk/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0948",
+            "expression": "take a walk"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We take a walk in the park after dinner.",
+          "zh": "晚饭后我们在公园散步。",
+          "sourceIds": [
+            "E0948"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0945",
+      "sourceId": "E0945",
+      "sourceIds": [
+        "E0945"
+      ],
+      "word": "take a shower",
+      "meaning": "冲澡；淋浴",
+      "sourceItems": [
+        {
+          "sourceId": "E0945",
+          "sourceKind": "phrase",
+          "expression": "take a shower",
+          "meaning": "冲澡；淋浴",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "shower是可数名词，要有a。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P1149",
+          "sourceImages": "IMG_2721.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 219,
+          "originalFields": {
+            "编号": "E0945",
+            "英文表达": "take a shower",
+            "中文释义": "冲澡；淋浴",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "shower是可数名词，要有a。",
+            "适用训练": "听说交际 / 语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P1149",
+            "来源图片": "IMG_2721.heic",
+            "原文英文": "take a shower",
+            "原文释义": "冲澡；淋浴",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0945",
+          "introducedAtStation": 103
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0945",
+        "sourceIds": [
+          "E0945"
+        ],
+        "expression": "take a shower",
+        "phonetic": "/teɪk ə ˈʃaʊə/",
+        "readingForms": [
+          {
+            "expression": "take a shower",
+            "phonetic": "/teɪk ə ˈʃaʊə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0945",
+            "expression": "take a shower"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I take a shower after doing exercise.",
+          "zh": "运动后我洗淋浴。",
+          "sourceIds": [
+            "E0945"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0944",
+      "sourceId": "E0944",
+      "sourceIds": [
+        "E0944"
+      ],
+      "word": "take a look at",
+      "meaning": "看一看",
+      "sourceItems": [
+        {
+          "sourceId": "E0944",
+          "sourceKind": "phrase",
+          "expression": "take a look at",
+          "meaning": "看一看",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "look是名词前有a，at后接对象。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P1148",
+          "sourceImages": "IMG_2721.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 217,
+          "originalFields": {
+            "编号": "E0944",
+            "英文表达": "take a look at",
+            "中文释义": "看一看",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "look是名词前有a，at后接对象。",
+            "适用训练": "听说交际 / 语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P1148",
+            "来源图片": "IMG_2721.heic",
+            "原文英文": "take a look at",
+            "原文释义": "看一看",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0944",
+          "introducedAtStation": 103
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0944",
+        "sourceIds": [
+          "E0944"
+        ],
+        "expression": "take a look at",
+        "phonetic": "/teɪk ə lʊk ət/",
+        "readingForms": [
+          {
+            "expression": "take a look at",
+            "phonetic": "/teɪk ə lʊk ət/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0944",
+            "expression": "take a look at"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please take a look at this map.",
+          "zh": "请看看这张地图。",
+          "sourceIds": [
+            "E0944"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0846",
+      "sourceId": "E0846",
+      "sourceIds": [
+        "E0846"
+      ],
+      "word": "take a photo of",
+      "meaning": "拍...照片",
+      "sourceItems": [
+        {
+          "sourceId": "E0846",
+          "sourceKind": "phrase",
+          "expression": "take a photo of",
+          "meaning": "拍...照片",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "of后接拍摄对象；a photo可改photos。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0985",
+          "sourceImages": "IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 218,
+          "originalFields": {
+            "编号": "E0846",
+            "英文表达": "take a photo of",
+            "中文释义": "拍...照片",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "of后接拍摄对象；a photo可改photos。",
+            "适用训练": "听说交际 / 语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0985",
+            "来源图片": "IMG_2719.heic",
+            "原文英文": "take a photo of",
+            "原文释义": "拍...照片",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0846",
+          "introducedAtStation": 103
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0846",
+        "sourceIds": [
+          "E0846"
+        ],
+        "expression": "take a photo of",
+        "phonetic": "/teɪk ə ˈfəʊtəʊ əv/",
+        "readingForms": [
+          {
+            "expression": "take a photo of",
+            "phonetic": "/teɪk ə ˈfəʊtəʊ əv/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0846",
+            "expression": "take a photo of"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I take a photo of the bridge with my camera.",
+          "zh": "我用相机给这座桥拍一张照片。",
+          "sourceIds": [
+            "E0846"
+          ]
+        },
+        {
+          "en": "Mia takes photos of the flowers.",
+          "zh": "米娅给花朵拍照。",
+          "sourceIds": [
+            "E0846"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "E0345",
+      "groupId": "E0345",
+      "direction": "zh_to_en",
+      "stem": "坐下",
+      "options": [
+        {
+          "label": "A",
+          "text": "look forward to"
+        },
+        {
+          "label": "B",
+          "text": "pocket money"
+        },
+        {
+          "label": "C",
+          "text": "sit down"
+        },
+        {
+          "label": "D",
+          "text": "pole"
+        }
+      ],
+      "answer": "C",
+      "word": "sit down",
+      "meaning": "坐下"
+    },
+    {
+      "id": 2,
+      "sourceId": "E0200",
+      "groupId": "E0200",
+      "direction": "en_to_zh",
+      "stem": "put on",
+      "options": [
+        {
+          "label": "A",
+          "text": "战争"
+        },
+        {
+          "label": "B",
+          "text": "据我们所知"
+        },
+        {
+          "label": "C",
+          "text": "……怎么样"
+        },
+        {
+          "label": "D",
+          "text": "①穿上，戴上②增加（体重），发胖③上演；穿上；上演；增重；假装；穿上，戴上；上演，演出"
+        }
+      ],
+      "answer": "D",
+      "word": "put on",
+      "meaning": "①穿上，戴上②增加（体重），发胖③上演；穿上；上演；增重；假装；穿上，戴上；上演，演出"
+    },
+    {
+      "id": 3,
+      "sourceId": "E0782",
+      "groupId": "E0782",
+      "direction": "zh_to_en",
+      "stem": "回家",
+      "options": [
+        {
+          "label": "A",
+          "text": "for example"
+        },
+        {
+          "label": "B",
+          "text": "be interested in"
+        },
+        {
+          "label": "C",
+          "text": "what a pity"
+        },
+        {
+          "label": "D",
+          "text": "go home"
+        }
+      ],
+      "answer": "D",
+      "word": "go home",
+      "meaning": "回家"
+    },
+    {
+      "id": 4,
+      "sourceId": "E0619",
+      "groupId": "E0619",
+      "direction": "en_to_zh",
+      "stem": "give back",
+      "options": [
+        {
+          "label": "A",
+          "text": "（建筑物、城镇等的）地点"
+        },
+        {
+          "label": "B",
+          "text": "担心，担忧，发愁；为...担心"
+        },
+        {
+          "label": "C",
+          "text": "指向"
+        },
+        {
+          "label": "D",
+          "text": "归还；归还，送回"
+        }
+      ],
+      "answer": "D",
+      "word": "give back",
+      "meaning": "归还；归还，送回"
+    },
+    {
+      "id": 5,
+      "sourceId": "E0120",
+      "groupId": "E0120",
+      "direction": "zh_to_en",
+      "stem": "自己取（食物等）",
+      "options": [
+        {
+          "label": "A",
+          "text": "next to..."
+        },
+        {
+          "label": "B",
+          "text": "help yourself (to sth.)"
+        },
+        {
+          "label": "C",
+          "text": "disappear"
+        },
+        {
+          "label": "D",
+          "text": "provide sb. with sth.(=provide sth. for sb.)"
+        }
+      ],
+      "answer": "B",
+      "word": "help yourself (to sth.)",
+      "meaning": "自己取（食物等）"
+    },
+    {
+      "id": 6,
+      "sourceId": "E0112",
+      "groupId": "E0112",
+      "direction": "en_to_zh",
+      "stem": "have to do sth.",
+      "options": [
+        {
+          "label": "A",
+          "text": "不得不做某事"
+        },
+        {
+          "label": "B",
+          "text": "（长方形）条"
+        },
+        {
+          "label": "C",
+          "text": "拿回，收回；收回；取回，带回；收回说过的话"
+        },
+        {
+          "label": "D",
+          "text": "增加；添加"
+        }
+      ],
+      "answer": "A",
+      "word": "have to do sth.",
+      "meaning": "不得不做某事"
+    },
+    {
+      "id": 7,
+      "sourceId": "E0106",
+      "groupId": "E0106",
+      "direction": "zh_to_en",
+      "stem": "玩得高兴",
+      "options": [
+        {
+          "label": "A",
+          "text": "memory"
+        },
+        {
+          "label": "B",
+          "text": "loudly"
+        },
+        {
+          "label": "C",
+          "text": "have fun"
+        },
+        {
+          "label": "D",
+          "text": "pass to"
+        }
+      ],
+      "answer": "C",
+      "word": "have fun",
+      "meaning": "玩得高兴"
+    },
+    {
+      "id": 8,
+      "sourceId": "E0074",
+      "groupId": "E0074",
+      "direction": "en_to_zh",
+      "stem": "get dressed",
+      "options": [
+        {
+          "label": "A",
+          "text": "角；墙角"
+        },
+        {
+          "label": "B",
+          "text": "脚印；足迹"
+        },
+        {
+          "label": "C",
+          "text": "穿好衣服"
+        },
+        {
+          "label": "D",
+          "text": "信封"
+        }
+      ],
+      "answer": "C",
+      "word": "get dressed",
+      "meaning": "穿好衣服"
+    },
+    {
+      "id": 9,
+      "sourceId": "E0888",
+      "groupId": "E0888",
+      "direction": "zh_to_en",
+      "stem": "做出选择",
+      "options": [
+        {
+          "label": "A",
+          "text": "fall down"
+        },
+        {
+          "label": "B",
+          "text": "be bad for..."
+        },
+        {
+          "label": "C",
+          "text": "make a choice"
+        },
+        {
+          "label": "D",
+          "text": "arrive at/in"
+        }
+      ],
+      "answer": "C",
+      "word": "make a choice",
+      "meaning": "做出选择"
+    },
+    {
+      "id": 10,
+      "sourceId": "E0289",
+      "groupId": "E0289",
+      "direction": "en_to_zh",
+      "stem": "how often",
+      "options": [
+        {
+          "label": "A",
+          "text": "原因；理由"
+        },
+        {
+          "label": "B",
+          "text": "自己的；本人的"
+        },
+        {
+          "label": "C",
+          "text": "多久一次"
+        },
+        {
+          "label": "D",
+          "text": "对……有害"
+        }
+      ],
+      "answer": "C",
+      "word": "how often",
+      "meaning": "多久一次"
+    },
+    {
+      "id": 11,
+      "sourceId": "E0288",
+      "groupId": "E0288",
+      "direction": "zh_to_en",
+      "stem": "①多少［后跟不可数名词］②多少钱",
+      "options": [
+        {
+          "label": "A",
+          "text": "quite a lot/few"
+        },
+        {
+          "label": "B",
+          "text": "nail"
+        },
+        {
+          "label": "C",
+          "text": "how much"
+        },
+        {
+          "label": "D",
+          "text": "tell about"
+        }
+      ],
+      "answer": "C",
+      "word": "how much",
+      "meaning": "①多少［后跟不可数名词］②多少钱"
+    },
+    {
+      "id": 12,
+      "sourceId": "E0287",
+      "groupId": "E0287",
+      "direction": "en_to_zh",
+      "stem": "how many",
+      "options": [
+        {
+          "label": "A",
+          "text": "沿某方向前进；向某方向移动"
+        },
+        {
+          "label": "B",
+          "text": "避开：别靠近；远离，避开"
+        },
+        {
+          "label": "C",
+          "text": "多少［后跟可数名词复数］"
+        },
+        {
+          "label": "D",
+          "text": "设施；设备"
+        }
+      ],
+      "answer": "C",
+      "word": "how many",
+      "meaning": "多少［后跟可数名词复数］"
+    },
+    {
+      "id": 13,
+      "sourceId": "E0145",
+      "groupId": "E0145",
+      "direction": "zh_to_en",
+      "stem": "寻找",
+      "options": [
+        {
+          "label": "A",
+          "text": "look for"
+        },
+        {
+          "label": "B",
+          "text": "launch"
+        },
+        {
+          "label": "C",
+          "text": "keep a promise"
+        },
+        {
+          "label": "D",
+          "text": "be glad to do sth."
+        }
+      ],
+      "answer": "A",
+      "word": "look for",
+      "meaning": "寻找"
+    },
+    {
+      "id": 14,
+      "sourceId": "E0140",
+      "groupId": "E0140",
+      "direction": "en_to_zh",
+      "stem": "look after",
+      "options": [
+        {
+          "label": "A",
+          "text": "好像；似乎"
+        },
+        {
+          "label": "B",
+          "text": "海平面"
+        },
+        {
+          "label": "C",
+          "text": "照顾；照看；照顾，看管"
+        },
+        {
+          "label": "D",
+          "text": "文章"
+        }
+      ],
+      "answer": "C",
+      "word": "look after",
+      "meaning": "照顾；照看；照顾，看管"
+    },
+    {
+      "id": 15,
+      "sourceId": "E0915",
+      "groupId": "E0915",
+      "direction": "zh_to_en",
+      "stem": "做决定",
+      "options": [
+        {
+          "label": "A",
+          "text": "make a decision"
+        },
+        {
+          "label": "B",
+          "text": "across from..."
+        },
+        {
+          "label": "C",
+          "text": "be good at"
+        },
+        {
+          "label": "D",
+          "text": "be interested in"
+        }
+      ],
+      "answer": "A",
+      "word": "make a decision",
+      "meaning": "做决定"
+    },
+    {
+      "id": 16,
+      "sourceId": "E0907",
+      "groupId": "E0907",
+      "direction": "en_to_zh",
+      "stem": "make money",
+      "options": [
+        {
+          "label": "A",
+          "text": "十亿"
+        },
+        {
+          "label": "B",
+          "text": "去看医生"
+        },
+        {
+          "label": "C",
+          "text": "赚钱"
+        },
+        {
+          "label": "D",
+          "text": "（使）分开"
+        }
+      ],
+      "answer": "C",
+      "word": "make money",
+      "meaning": "赚钱"
+    },
+    {
+      "id": 17,
+      "sourceId": "E0948",
+      "groupId": "E0948",
+      "direction": "zh_to_en",
+      "stem": "散步",
+      "options": [
+        {
+          "label": "A",
+          "text": "be good at"
+        },
+        {
+          "label": "B",
+          "text": "take a walk"
+        },
+        {
+          "label": "C",
+          "text": "solve"
+        },
+        {
+          "label": "D",
+          "text": "cry out"
+        }
+      ],
+      "answer": "B",
+      "word": "take a walk",
+      "meaning": "散步"
+    },
+    {
+      "id": 18,
+      "sourceId": "E0945",
+      "groupId": "E0945",
+      "direction": "en_to_zh",
+      "stem": "take a shower",
+      "options": [
+        {
+          "label": "A",
+          "text": "个性的"
+        },
+        {
+          "label": "B",
+          "text": "（用手）触"
+        },
+        {
+          "label": "C",
+          "text": "合计"
+        },
+        {
+          "label": "D",
+          "text": "冲澡；淋浴"
+        }
+      ],
+      "answer": "D",
+      "word": "take a shower",
+      "meaning": "冲澡；淋浴"
+    },
+    {
+      "id": 19,
+      "sourceId": "E0944",
+      "groupId": "E0944",
+      "direction": "zh_to_en",
+      "stem": "看一看",
+      "options": [
+        {
+          "label": "A",
+          "text": "take a look at"
+        },
+        {
+          "label": "B",
+          "text": "how often"
+        },
+        {
+          "label": "C",
+          "text": "planet"
+        },
+        {
+          "label": "D",
+          "text": "charity"
+        }
+      ],
+      "answer": "A",
+      "word": "take a look at",
+      "meaning": "看一看"
+    },
+    {
+      "id": 20,
+      "sourceId": "E0846",
+      "groupId": "E0846",
+      "direction": "en_to_zh",
+      "stem": "take a photo of",
+      "options": [
+        {
+          "label": "A",
+          "text": "拍...照片"
+        },
+        {
+          "label": "B",
+          "text": "燃烧；烧"
+        },
+        {
+          "label": "C",
+          "text": "看见"
+        },
+        {
+          "label": "D",
+          "text": "迷路"
+        }
+      ],
+      "answer": "A",
+      "word": "take a photo of",
+      "meaning": "拍...照片"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0345",
+      "groupId": "E0345",
+      "target": "sit down",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to rise into a standing position"
+        },
+        {
+          "label": "B",
+          "text": "to lie flat on the ground"
+        },
+        {
+          "label": "C",
+          "text": "to move into a sitting position"
+        },
+        {
+          "label": "D",
+          "text": "to walk towards another room"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "C",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "sit down",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "sit down"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "坐下",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “sit down” means “to move into a sitting position”.",
+      "parentExplanation": "本题考查“sit down”在本句中的用法；正确英文解释为“to move into a sitting position”。对应源表释义为“坐下”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0200",
+      "groupId": "E0200",
+      "target": "put on",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to wash clothing, measure weight, watch a show, or tell the truth"
+        },
+        {
+          "label": "B",
+          "text": "to buy clothing, carry a bag, read a show review, or ask a question"
+        },
+        {
+          "label": "C",
+          "text": "dress yourself in an item of clothing"
+        },
+        {
+          "label": "D",
+          "text": "to remove clothing, lose weight, end a show, or stop pretending"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "Your gloves are on the table. Please put them on before you go out.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Your gloves are on the table. Please put them on before you go out."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "手套在桌上。出门前请把它们戴上。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “put on” means “dress yourself in an item of clothing”.",
+      "parentExplanation": "本题考查“put on”在本句中的用法；正确英文解释为“dress yourself in an item of clothing”。对应源表释义为“①穿上，戴上②增加（体重），发胖③上演；穿上；上演；增重；假装；穿上，戴上；上演，演出”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0782",
+      "groupId": "E0782",
+      "target": "go home",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "describe"
+        },
+        {
+          "label": "B",
+          "text": "go home"
+        },
+        {
+          "label": "C",
+          "text": "improve"
+        },
+        {
+          "label": "D",
+          "text": "watch over"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression describes returning to where the family lives?",
+      "answer": "B",
+      "listenScript": "The film is finished, and the family leaves the cinema. They return to the flat where they live and prepare for bed.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The film is finished, and the family leaves the cinema. They return to the flat where they live and prepare for bed."
+        }
+      ],
+      "explanation": "The situation supports “go home”: The film is finished, and the family leaves the cinema. They return to the flat where they live and prepare for bed.",
+      "parentExplanation": "情境证据：电影结束后，一家人离开电影院。他们回到居住的公寓，准备睡觉。；对应本题“回家”这一用法。",
+      "translation": {
+        "stem": "哪个表达描述回到一家人居住的地方？",
+        "listenScript": "电影结束后，一家人离开电影院。他们回到居住的公寓，准备睡觉。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0782",
+        "T004",
+        "T013",
+        "T030"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0619",
+      "groupId": "E0619",
+      "target": "give back",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "improve"
+        },
+        {
+          "label": "B",
+          "text": "give back"
+        },
+        {
+          "label": "C",
+          "text": "describe"
+        },
+        {
+          "label": "D",
+          "text": "watch over"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression describes returning the borrowed ruler?",
+      "answer": "B",
+      "listenScript": "Ben finishes using Mia's ruler. He places it in her hand and thanks her for lending it to him.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Ben finishes using Mia's ruler. He places it in her hand and thanks her for lending it to him."
+        }
+      ],
+      "explanation": "The situation supports “give back”: Ben finishes using Mia's ruler. He places it in her hand and thanks her for lending it to him.",
+      "parentExplanation": "情境证据：本用完了米娅的尺子。他把尺子放回她手里，感谢她借给自己。；对应本题“归还；归还，送回”这一用法。",
+      "translation": {
+        "stem": "哪个表达描述归还借来的尺子？",
+        "listenScript": "本用完了米娅的尺子。他把尺子放回她手里，感谢她借给自己。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0619",
+        "T004",
+        "T013",
+        "T030"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0120",
+      "groupId": "E0120",
+      "target": "help yourself (to sth.)",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to ask everyone to leave the table"
+        },
+        {
+          "label": "B",
+          "text": "to hide the food before guests arrive"
+        },
+        {
+          "label": "C",
+          "text": "to give all the food to someone else"
+        },
+        {
+          "label": "D",
+          "text": "to take food or drink for yourself when offered"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "“Mia and Ben, the food is on the table. Please help yourselves.”\nWhat does “help yourselves” mean here?",
+      "translation": {
+        "stem": "“米娅和本，食物在桌上，请自便。” 这里“help yourselves”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “help yourself (to sth.)” means “to take food or drink for yourself when offered”.",
+      "parentExplanation": "本题考查“help yourself (to sth.)”在本句中的用法；正确英文解释为“to take food or drink for yourself when offered”。对应源表释义为“自己取（食物等）”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0112",
+      "groupId": "E0112",
+      "target": "have to do sth.",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to finish an activity and stop doing it"
+        },
+        {
+          "label": "B",
+          "text": "to choose something only for fun"
+        },
+        {
+          "label": "C",
+          "text": "to be unable to do something"
+        },
+        {
+          "label": "D",
+          "text": "to need to do something because it is necessary"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "Mia has to finish her homework before she can play.\nWhat does “has to finish” mean here?",
+      "translation": {
+        "stem": "米娅必须完成作业后才能玩。 这里“has to finish”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “have to do sth.” means “to need to do something because it is necessary”.",
+      "parentExplanation": "本题考查“have to do sth.”在本句中的用法；正确英文解释为“to need to do something because it is necessary”。对应源表释义为“不得不做某事”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0106",
+      "groupId": "E0106",
+      "target": "have fun",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to wait without doing anything"
+        },
+        {
+          "label": "B",
+          "text": "to worry about every small mistake"
+        },
+        {
+          "label": "C",
+          "text": "to feel very bored all the time"
+        },
+        {
+          "label": "D",
+          "text": "to enjoy yourself"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "Mia has fun playing chess with her grandfather.\nWhat does “has fun” mean here?",
+      "translation": {
+        "stem": "米娅和祖父下棋，玩得很开心。 这里“has fun”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “have fun” means “to enjoy yourself”.",
+      "parentExplanation": "本题考查“have fun”在本句中的用法；正确英文解释为“to enjoy yourself”。对应源表释义为“玩得高兴”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0074",
+      "groupId": "E0074",
+      "target": "get dressed",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to take all your clothes off"
+        },
+        {
+          "label": "B",
+          "text": "to wash clothes in a machine"
+        },
+        {
+          "label": "C",
+          "text": "to put clothes on the body"
+        },
+        {
+          "label": "D",
+          "text": "to put clothes away in a cupboard"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "The actors get dressed in their costumes before going on stage.\nWhat does “get dressed” mean here?",
+      "translation": {
+        "stem": "演员们上台前穿好戏服。 这里“get dressed”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “get dressed” means “to put clothes on the body”.",
+      "parentExplanation": "本题考查“get dressed”在本句中的用法；正确英文解释为“to put clothes on the body”。对应源表释义为“穿好衣服”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0888",
+      "groupId": "E0888",
+      "target": "make a choice",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "make a choice"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "You can take only one book. Please m________ between these two.",
+      "answer": "make a choice",
+      "hint": "choose one thing from several possibilities",
+      "grammar": "Phrase in context",
+      "initialLetter": "m",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Make a choice uses the noun choice, with a before it.",
+      "parentExplanation": "make a choice整体表示做出选择；choice为名词，保留a。",
+      "translation": {
+        "stem": "你只能带一本书。请在这两本之间做出选择。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0289",
+      "groupId": "E0289",
+      "target": "how often",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "How often"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "H________ does Mia water these plants? “Every morning.”",
+      "answer": "How often",
+      "hint": "used to ask how frequently something happens",
+      "grammar": "Phrase in context",
+      "initialLetter": "h",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Every morning gives a frequency, so ask how often.",
+      "parentExplanation": "every morning为频率回答，使用how often。",
+      "translation": {
+        "stem": "米娅多久给这些植物浇一次水？“每天早晨。”",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0288",
+      "groupId": "E0288",
+      "target": "how much",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "How much"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "H________ water do we need for the plants?",
+      "answer": "How much",
+      "hint": "used to ask about an uncountable amount",
+      "grammar": "Phrase in context",
+      "initialLetter": "h",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Water is uncountable, so ask how much.",
+      "parentExplanation": "water为不可数名词，用how much，不用how many。",
+      "translation": {
+        "stem": "我们需要多少水来浇植物？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0287",
+      "groupId": "E0287",
+      "target": "how many",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "How many"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "H________ books are on the table? Please count them.",
+      "answer": "How many",
+      "hint": "used to ask for the number of countable objects",
+      "grammar": "Phrase in context",
+      "initialLetter": "h",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "How many is followed by the plural countable noun books.",
+      "parentExplanation": "how many询问数量，后接可数名词复数books。",
+      "translation": {
+        "stem": "桌上有多少本书？请数一数。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0145",
+      "groupId": "E0145",
+      "target": "look for",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "look for"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "I cannot find my key. Please help me l________ it.",
+      "answer": "look for",
+      "hint": "try to find someone or something",
+      "grammar": "Phrase in context",
+      "initialLetter": "l",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Look for describes the search, not the result of finding.",
+      "parentExplanation": "look for强调寻找过程，for后可接it；不等同find已找到。",
+      "translation": {
+        "stem": "我找不到钥匙。请帮我寻找它。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0140",
+      "groupId": "E0140",
+      "target": "look after",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "looks after"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia l________ her little sister when their parents are busy.",
+      "answer": "looks after",
+      "hint": "takes care of someone or something",
+      "grammar": "Phrase in context",
+      "initialLetter": "l",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Mia takes looks after in the simple present.",
+      "parentExplanation": "Mia单数，look变looks，after保留。",
+      "translation": {
+        "stem": "父母忙碌时，米娅照顾她的妹妹。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0915",
+      "groupId": "E0915",
+      "target": "make a decision",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "make a decision"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We discuss our options and m________ to visit the museum.",
+      "answer": "make a decision",
+      "hint": "decide what to do",
+      "grammar": "Phrase in context",
+      "initialLetter": "m",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Make a decision can be followed by to and a base verb.",
+      "parentExplanation": "make a decision表示做决定，后可接to visit。",
+      "translation": {
+        "stem": "我们讨论各种选项，并决定参观博物馆。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0907",
+      "groupId": "E0907",
+      "target": "make money",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "make money"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The family sells vegetables to m________ for their daily needs.",
+      "answer": "make money",
+      "hint": "earn money through work or business",
+      "grammar": "Phrase in context",
+      "initialLetter": "m",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "After to, use make money. Money is uncountable.",
+      "parentExplanation": "to后用make原形；money不可数，不加s。",
+      "translation": {
+        "stem": "这家人卖蔬菜来挣钱满足日常需要。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0948",
+      "groupId": "E0948",
+      "target": "take a walk",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "walk for enjoyment or gentle exercise"
+        },
+        {
+          "label": "B",
+          "text": "stand still beside a river"
+        },
+        {
+          "label": "C",
+          "text": "travel to work by bus"
+        },
+        {
+          "label": "D",
+          "text": "run as fast as possible in a race"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “take a walk” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “take a walk” means “walk for enjoyment or gentle exercise”. The sentence says: We take a walk along the river without trying to reach any special place.",
+      "parentExplanation": "“take a walk”在此处对应“散步”中的本句义项；句意为：我们沿河散步，并不急着到什么特别的地方。",
+      "translation": {
+        "stem": "短文中的“take a walk”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "take a walk"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0945",
+      "groupId": "E0945",
+      "target": "take a shower",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "wash clothes in a machine"
+        },
+        {
+          "label": "B",
+          "text": "wash the body under falling water"
+        },
+        {
+          "label": "C",
+          "text": "soak dishes in a bowl"
+        },
+        {
+          "label": "D",
+          "text": "swim across a river"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “take a shower” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “take a shower” means “wash the body under falling water”. The sentence says: Later, I take a shower under warm running water before dinner.",
+      "parentExplanation": "“take a shower”在此处对应“冲澡；淋浴”中的本句义项；句意为：后来，晚饭前，我在温热的流水下淋浴。",
+      "translation": {
+        "stem": "短文中的“take a shower”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        6
+      ],
+      "targetSpan": "take a shower"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why does the writer change clothes after arriving home?",
+      "explanation": "The answer is “The clothes are damp from the light rain.”. Evidence: A light rain begins just as we turn towards home. My clothes are damp when we arrive, so I change into dry ones.",
+      "parentExplanation": "正确项为“The clothes are damp from the light rain.”。原文依据：我们刚转身回家，就下起了小雨。到家时衣服潮了，所以我换上干衣服。",
+      "translation": {
+        "stem": "作者到家后为什么换衣服？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4,
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Dinner fell on the clothes."
+        },
+        {
+          "label": "B",
+          "text": "The walk was a running race."
+        },
+        {
+          "label": "C",
+          "text": "The clothes belong to Dad."
+        },
+        {
+          "label": "D",
+          "text": "The clothes are damp from the light rain."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title fits best?",
+      "explanation": "The answer is “A Gentle Walk and a Comfortable Evening”. Evidence: After a long day of study, I ask Dad for an outdoor break. We take a walk along the river without trying to reach any special place. We move slowly, watching birds and talking about our day. A light rain begins just as we turn towards home. My clothes are damp when we arrive, so I change into dry ones. Later, I take a shower under warm running water before dinner. The quiet walk and a fresh change leave me ready for a comfortable evening.",
+      "parentExplanation": "正确项为“A Gentle Walk and a Comfortable Evening”。原文依据：学习了一整天后，我请爸爸陪我到户外休息一下。我们沿河散步，并不急着到什么特别的地方。我们慢慢走着，看鸟，聊今天的生活。我们刚转身回家，就下起了小雨。到家时衣服潮了，所以我换上干衣服。后来，晚饭前，我在温热的流水下淋浴。安静的散步和清爽的换洗让我能舒舒服服地度过晚上。",
+      "translation": {
+        "stem": "哪个标题最合适？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The Bird That Took a Bus"
+        },
+        {
+          "label": "B",
+          "text": "Training to Win a River Race"
+        },
+        {
+          "label": "C",
+          "text": "A Family Builds a New Shower"
+        },
+        {
+          "label": "D",
+          "text": "A Gentle Walk and a Comfortable Evening"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0944",
+      "groupId": "E0944",
+      "target": "take a look at",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "briefly examine something with your eyes"
+        },
+        {
+          "label": "B",
+          "text": "copy everything onto a new map"
+        },
+        {
+          "label": "C",
+          "text": "carry something to another street"
+        },
+        {
+          "label": "D",
+          "text": "hide something without seeing it"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “take a look at” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “take a look at” means “briefly examine something with your eyes”. The sentence says: I take a look at an old street map before leaving with my group.",
+      "parentExplanation": "第2句中，take a look at表示简短查看旧街区地图，不是照抄、藏起或搬运地图。",
+      "translation": {
+        "stem": "短文中的“take a look at”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "take a look at"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0846",
+      "groupId": "E0846",
+      "target": "take a photo of",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "make a camera picture showing something"
+        },
+        {
+          "label": "B",
+          "text": "draw something with a pencil"
+        },
+        {
+          "label": "C",
+          "text": "write a description without a picture"
+        },
+        {
+          "label": "D",
+          "text": "buy a picture from a shop"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “take a photo of” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “take a photo of” means “make a camera picture showing something”. The sentence says: At the bridge, I take a photo of the stone steps with our class camera.",
+      "parentExplanation": "“take a photo of”在此处对应“拍...照片”中的本句义项；句意为：到桥边后，我用班级相机给石阶拍了一张照片。",
+      "translation": {
+        "stem": "短文中的“take a photo of”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "take a photo of"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What does Ben check against the map?",
+      "explanation": "The answer is “The street name.”. Evidence: Ben writes down the street name and checks it against the map.",
+      "parentExplanation": "正确项为“The street name.”。原文依据：本记下街道名称，并和地图核对。",
+      "translation": {
+        "stem": "本用地图核对什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The time of the next bus."
+        },
+        {
+          "label": "B",
+          "text": "The camera price."
+        },
+        {
+          "label": "C",
+          "text": "The street name."
+        },
+        {
+          "label": "D",
+          "text": "The number of school chairs."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the passage mainly about?",
+      "explanation": "The answer is “A group uses a map, notes and a photo to prepare a local guide.”. Evidence: Our class is making a guide to interesting places near school. I take a look at an old street map before leaving with my group. It shows a small bridge that is new to some classmates. At the bridge, I take a photo of the stone steps with our class camera. Ben writes down the street name and checks it against the map. We keep away from the road while choosing what to include in the guide. Back at school, our notes and picture help explain why this quiet place is worth visiting.",
+      "parentExplanation": "小组先查看旧地图，实地拍摄石阶、核对街名，回校后用照片和笔记解释地点，全文围绕制作本地指南。",
+      "translation": {
+        "stem": "这篇短文主要讲什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A group uses a map, notes and a photo to prepare a local guide."
+        },
+        {
+          "label": "B",
+          "text": "Students buy a new camera for a shop."
+        },
+        {
+          "label": "C",
+          "text": "A group travels to a different country."
+        },
+        {
+          "label": "D",
+          "text": "A class tries to build a stone bridge."
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "After a long day of study, I ask Dad for an outdoor break. We take a walk along the river without trying to reach any special place. We move slowly, watching birds and talking about our day. A light rain begins just as we turn towards home. My clothes are damp when we arrive, so I change into dry ones. Later, I take a shower under warm running water before dinner. The quiet walk and a fresh change leave me ready for a comfortable evening.",
+      "parallelText": [
+        {
+          "en": "After a long day of study, I ask Dad for an outdoor break.",
+          "zh": "学习了一整天后，我请爸爸陪我到户外休息一下。"
+        },
+        {
+          "en": "We take a walk along the river without trying to reach any special place.",
+          "zh": "我们沿河散步，并不急着到什么特别的地方。"
+        },
+        {
+          "en": "We move slowly, watching birds and talking about our day.",
+          "zh": "我们慢慢走着，看鸟，聊今天的生活。"
+        },
+        {
+          "en": "A light rain begins just as we turn towards home.",
+          "zh": "我们刚转身回家，就下起了小雨。"
+        },
+        {
+          "en": "My clothes are damp when we arrive, so I change into dry ones.",
+          "zh": "到家时衣服潮了，所以我换上干衣服。"
+        },
+        {
+          "en": "Later, I take a shower under warm running water before dinner.",
+          "zh": "后来，晚饭前，我在温热的流水下淋浴。"
+        },
+        {
+          "en": "The quiet walk and a fresh change leave me ready for a comfortable evening.",
+          "zh": "安静的散步和清爽的换洗让我能舒舒服服地度过晚上。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "damp",
+          "meaning": "a little wet"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Our class is making a guide to interesting places near school. I take a look at an old street map before leaving with my group. It shows a small bridge that is new to some classmates. At the bridge, I take a photo of the stone steps with our class camera. Ben writes down the street name and checks it against the map. We keep away from the road while choosing what to include in the guide. Back at school, our notes and picture help explain why this quiet place is worth visiting.",
+      "parallelText": [
+        {
+          "en": "Our class is making a guide to interesting places near school.",
+          "zh": "我们班正在制作学校附近有趣地点的指南。"
+        },
+        {
+          "en": "I take a look at an old street map before leaving with my group.",
+          "zh": "和小组出发前，我查看一张旧街区地图。"
+        },
+        {
+          "en": "It shows a small bridge that is new to some classmates.",
+          "zh": "地图上有一座小桥，对一些同学来说很陌生。"
+        },
+        {
+          "en": "At the bridge, I take a photo of the stone steps with our class camera.",
+          "zh": "到桥边后，我用班级相机给石阶拍了一张照片。"
+        },
+        {
+          "en": "Ben writes down the street name and checks it against the map.",
+          "zh": "本记下街道名称，并和地图核对。"
+        },
+        {
+          "en": "We keep away from the road while choosing what to include in the guide.",
+          "zh": "我们远离车道，商量把哪些内容放进指南。"
+        },
+        {
+          "en": "Back at school, our notes and picture help explain why this quiet place is worth visiting.",
+          "zh": "回到学校后，笔记和照片帮助我们说明这个安静地方为什么值得参观。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "guide",
+          "meaning": "a document giving useful information"
+        },
+        {
+          "word": "stone steps",
+          "meaning": "stairs made from hard rock"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S104-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 1,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0345",
+      "groupId": "E0345",
+      "expression": "sit down",
+      "meaning": "坐下",
+      "introducedAtStation": 103,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 104,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 2,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0200",
+      "groupId": "E0200",
+      "expression": "put on",
+      "meaning": "①穿上，戴上②增加（体重），发胖③上演；穿上；上演；增重；假装；穿上，戴上；上演，演出",
+      "introducedAtStation": 103,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 104,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L1-R3",
+      "lap": 1,
+      "position": 3,
+      "questionNumber": 3,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0782",
+      "groupId": "E0782",
+      "expression": "go home",
+      "meaning": "回家",
+      "introducedAtStation": 100,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 101,
+      "intervalInStations": 3,
+      "referenceDueStation": 104,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L1-R4",
+      "lap": 1,
+      "position": 4,
+      "questionNumber": 4,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0619",
+      "groupId": "E0619",
+      "expression": "give back",
+      "meaning": "归还；归还，送回",
+      "introducedAtStation": 100,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 101,
+      "intervalInStations": 3,
+      "referenceDueStation": 104,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L1-R5",
+      "lap": 1,
+      "position": 5,
+      "questionNumber": 5,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0120",
+      "groupId": "E0120",
+      "expression": "help yourself (to sth.)",
+      "meaning": "自己取（食物等）",
+      "introducedAtStation": 100,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 101,
+      "intervalInStations": 3,
+      "referenceDueStation": 104,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L1-R6",
+      "lap": 1,
+      "position": 6,
+      "questionNumber": 6,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0112",
+      "groupId": "E0112",
+      "expression": "have to do sth.",
+      "meaning": "不得不做某事",
+      "introducedAtStation": 100,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 101,
+      "intervalInStations": 3,
+      "referenceDueStation": 104,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L1-R7",
+      "lap": 1,
+      "position": 7,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0106",
+      "groupId": "E0106",
+      "expression": "have fun",
+      "meaning": "玩得高兴",
+      "introducedAtStation": 100,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 101,
+      "intervalInStations": 3,
+      "referenceDueStation": 104,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L1-R8",
+      "lap": 1,
+      "position": 8,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0074",
+      "groupId": "E0074",
+      "expression": "get dressed",
+      "meaning": "穿好衣服",
+      "introducedAtStation": 100,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 101,
+      "intervalInStations": 3,
+      "referenceDueStation": 104,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 9,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0888",
+      "groupId": "E0888",
+      "expression": "make a choice",
+      "meaning": "做出选择",
+      "introducedAtStation": 101,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 102,
+      "intervalInStations": 2,
+      "referenceDueStation": 105,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 10,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0289",
+      "groupId": "E0289",
+      "expression": "how often",
+      "meaning": "多久一次",
+      "introducedAtStation": 101,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 102,
+      "intervalInStations": 2,
+      "referenceDueStation": 105,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L2-R3",
+      "lap": 2,
+      "position": 3,
+      "questionNumber": 11,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0288",
+      "groupId": "E0288",
+      "expression": "how much",
+      "meaning": "①多少［后跟不可数名词］②多少钱",
+      "introducedAtStation": 101,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 102,
+      "intervalInStations": 2,
+      "referenceDueStation": 105,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L2-R4",
+      "lap": 2,
+      "position": 4,
+      "questionNumber": 12,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0287",
+      "groupId": "E0287",
+      "expression": "how many",
+      "meaning": "多少［后跟可数名词复数］",
+      "introducedAtStation": 101,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 102,
+      "intervalInStations": 2,
+      "referenceDueStation": 105,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L2-R5",
+      "lap": 2,
+      "position": 5,
+      "questionNumber": 13,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0145",
+      "groupId": "E0145",
+      "expression": "look for",
+      "meaning": "寻找",
+      "introducedAtStation": 101,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 102,
+      "intervalInStations": 2,
+      "referenceDueStation": 105,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L2-R6",
+      "lap": 2,
+      "position": 6,
+      "questionNumber": 14,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0140",
+      "groupId": "E0140",
+      "expression": "look after",
+      "meaning": "照顾；照看；照顾，看管",
+      "introducedAtStation": 101,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 102,
+      "intervalInStations": 2,
+      "referenceDueStation": 105,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L2-R7",
+      "lap": 2,
+      "position": 7,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0915",
+      "groupId": "E0915",
+      "expression": "make a decision",
+      "meaning": "做决定",
+      "introducedAtStation": 102,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 103,
+      "intervalInStations": 1,
+      "referenceDueStation": 106,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L2-R8",
+      "lap": 2,
+      "position": 8,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0907",
+      "groupId": "E0907",
+      "expression": "make money",
+      "meaning": "赚钱",
+      "introducedAtStation": 102,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 103,
+      "intervalInStations": 1,
+      "referenceDueStation": 106,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0948",
+      "groupId": "E0948",
+      "expression": "take a walk",
+      "meaning": "散步",
+      "introducedAtStation": 103,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 104,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0945",
+      "groupId": "E0945",
+      "expression": "take a shower",
+      "meaning": "冲澡；淋浴",
+      "introducedAtStation": 103,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 104,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0944",
+      "groupId": "E0944",
+      "expression": "take a look at",
+      "meaning": "看一看",
+      "introducedAtStation": 103,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 104,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S104-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0846",
+      "groupId": "E0846",
+      "expression": "take a photo of",
+      "meaning": "拍...照片",
+      "introducedAtStation": 103,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 104,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

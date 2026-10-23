@@ -1,0 +1,2690 @@
+{
+  "station": 57,
+  "type": "new_learning",
+  "phase": "textbook",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 57,
+  "newItems": [
+    {
+      "groupId": "T320",
+      "sourceId": "T320",
+      "sourceIds": [
+        "T320"
+      ],
+      "word": "treasure",
+      "meaning": "珍宝；宝物",
+      "sourceItems": [
+        {
+          "sourceId": "T320",
+          "sourceKind": "textbook",
+          "expression": "treasure",
+          "meaning": "珍宝；宝物",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈtreʒə(r)/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 126,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 325,
+          "originalFields": {
+            "序号": 320,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "treasure",
+            "音标（教材）": "/ˈtreʒə(r)/",
+            "词性": "n.",
+            "中文释义": "珍宝；宝物",
+            "教材课文页": 126,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T320",
+          "introducedAtStation": 57
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T320",
+        "word": "treasure",
+        "ipa": "/ˈtreʒə(r)/",
+        "focus": "重音在/tre/；字母s读浊辅音/ʒ/，不是/ʃ/，结尾/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The story is about a box of treasure.",
+          "zh": "这个故事讲的是一箱珍宝。",
+          "sourceIds": [
+            "T320"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "valuable",
+          "meaning": "worth a lot of money or very important"
+        },
+        {
+          "word": "jewels",
+          "meaning": "beautiful valuable stones"
+        },
+        {
+          "word": "golden",
+          "meaning": "made of or coloured like gold"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈtreʒə(r)/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T321",
+      "sourceId": "T321",
+      "sourceIds": [
+        "T321"
+      ],
+      "word": "unlock",
+      "meaning": "发现；揭示",
+      "sourceItems": [
+        {
+          "sourceId": "T321",
+          "sourceKind": "textbook",
+          "expression": "unlock",
+          "meaning": "发现；揭示",
+          "partOfSpeech": "v.",
+          "phonetic": "/ˌʌnˈlɒk/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 126,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 326,
+          "originalFields": {
+            "序号": 321,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "unlock",
+            "音标（教材）": "/ˌʌnˈlɒk/",
+            "词性": "v.",
+            "中文释义": "发现；揭示",
+            "教材课文页": 126,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T321",
+          "introducedAtStation": 57
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T321",
+        "word": "unlock",
+        "ipa": "/ˌʌnˈlɒk/",
+        "focus": "主重音在/lɒk/；开头/ˌʌn/为次重音，词尾/k/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The clue helps us unlock the secrets of the old picture.",
+          "zh": "这条线索帮助我们揭示那幅旧画的秘密。",
+          "sourceIds": [
+            "T321"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "clue",
+          "meaning": "information that helps you find an answer"
+        },
+        {
+          "word": "secret",
+          "meaning": "something most people do not know"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˌʌnˈlɒk/",
+      "pos": "v.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T322",
+      "sourceId": "T322",
+      "sourceIds": [
+        "T322"
+      ],
+      "word": "real",
+      "meaning": "真的",
+      "sourceItems": [
+        {
+          "sourceId": "T322",
+          "sourceKind": "textbook",
+          "expression": "real",
+          "meaning": "真的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈriːəl/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 126,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 327,
+          "originalFields": {
+            "序号": 322,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "real",
+            "音标（教材）": "/ˈriːəl/",
+            "词性": "adj.",
+            "中文释义": "真的",
+            "教材课文页": 126,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T322",
+          "introducedAtStation": 57
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T322",
+        "word": "real",
+        "ipa": "/ˈriːəl/",
+        "focus": "重音在/riː/；长/iː/后仍有/ə/，末尾/l/收尾。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Is this a real diamond?",
+          "zh": "这是一颗真钻石吗？",
+          "sourceIds": [
+            "T322"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "imaginary",
+          "meaning": "existing only in the mind"
+        },
+        {
+          "word": "imitation",
+          "meaning": "a copy made to look like something else"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈriːəl/",
+      "pos": "adj.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T323",
+      "sourceId": "T323",
+      "sourceIds": [
+        "T323"
+      ],
+      "word": "add ... to...",
+      "meaning": "把……添加到……",
+      "sourceItems": [
+        {
+          "sourceId": "T323",
+          "sourceKind": "textbook",
+          "expression": "add ... to...",
+          "meaning": "把……添加到……",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 8",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 328,
+          "originalFields": {
+            "序号": 323,
+            "单元": "Unit 8",
+            "类型": "短语",
+            "单词／短语": "add ... to...",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "把……添加到……",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T323",
+          "introducedAtStation": 57
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T323",
+        "sourceIds": [
+          "T323"
+        ],
+        "expression": "add ... to...",
+        "phonetic": "/æd … tə …/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Please add the fruit to the bowl.",
+          "zh": "请把水果加到碗里。",
+          "sourceIds": [
+            "T323"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T324",
+      "sourceId": "T324",
+      "sourceIds": [
+        "T324"
+      ],
+      "word": "soft drink",
+      "meaning": "软饮料（不含酒精）",
+      "sourceItems": [
+        {
+          "sourceId": "T324",
+          "sourceKind": "textbook",
+          "expression": "soft drink",
+          "meaning": "软饮料（不含酒精）",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 8",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 120,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 329,
+          "originalFields": {
+            "序号": 324,
+            "单元": "Unit 8",
+            "类型": "短语",
+            "单词／短语": "soft drink",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "软饮料（不含酒精）",
+            "教材课文页": 120,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T324",
+          "introducedAtStation": 57
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T324",
+        "sourceIds": [
+          "T324"
+        ],
+        "expression": "soft drink",
+        "phonetic": "/sɒft drɪŋk/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Orange juice is a soft drink.",
+          "zh": "橙汁是一种不含酒精的软饮料。",
+          "sourceIds": [
+            "T324"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "alcohol",
+          "meaning": "the substance in wine and beer"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T325",
+      "sourceId": "T325",
+      "sourceIds": [
+        "T325"
+      ],
+      "word": "a waste of time",
+      "meaning": "浪费时间",
+      "sourceItems": [
+        {
+          "sourceId": "T325",
+          "sourceKind": "textbook",
+          "expression": "a waste of time",
+          "meaning": "浪费时间",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 8",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 120,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 330,
+          "originalFields": {
+            "序号": 325,
+            "单元": "Unit 8",
+            "类型": "短语",
+            "单词／短语": "a waste of time",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "浪费时间",
+            "教材课文页": 120,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T325",
+          "introducedAtStation": 57
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T325",
+        "sourceIds": [
+          "T325"
+        ],
+        "expression": "a waste of time",
+        "phonetic": "/ə weɪst əv taɪm/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Continuing to search after the lost pen is found is a waste of time.",
+          "zh": "笔已经找到后还继续寻找，是浪费时间。",
+          "sourceIds": [
+            "T325"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 8",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "T064",
+      "sourceId": "T064",
+      "sourceIds": [
+        "T064"
+      ],
+      "word": "celebrate",
+      "meaning": "庆祝；庆贺",
+      "sourceItems": [
+        {
+          "sourceId": "T064",
+          "sourceKind": "textbook",
+          "expression": "celebrate",
+          "meaning": "庆祝；庆贺",
+          "partOfSpeech": "v.",
+          "phonetic": "/ˈselɪbreɪt/",
+          "unit": "Unit 2",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 30,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 69,
+          "originalFields": {
+            "序号": 64,
+            "单元": "Unit 2",
+            "类型": "单词",
+            "单词／短语": "celebrate",
+            "音标（教材）": "/ˈselɪbreɪt/",
+            "词性": "v.",
+            "中文释义": "庆祝；庆贺",
+            "教材课文页": 30,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T064",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T064",
+        "word": "celebrate",
+        "ipa": "/ˈselɪbreɪt/",
+        "focus": "重音在/sel/；中间/ɪ/轻短，结尾/breɪt/中的/eɪ/有滑动。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We celebrate Grandma's birthday with a family dinner.",
+          "zh": "我们用家庭聚餐庆祝奶奶的生日。",
+          "sourceIds": [
+            "T064"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/ˈselɪbreɪt/",
+      "pos": "v.",
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T062",
+      "sourceId": "T062",
+      "sourceIds": [
+        "T062"
+      ],
+      "word": "mind",
+      "meaning": "介意",
+      "sourceItems": [
+        {
+          "sourceId": "T062",
+          "sourceKind": "textbook",
+          "expression": "mind",
+          "meaning": "介意",
+          "partOfSpeech": "v.",
+          "phonetic": "/maɪnd/",
+          "unit": "Unit 2",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 30,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 67,
+          "originalFields": {
+            "序号": 62,
+            "单元": "Unit 2",
+            "类型": "单词",
+            "单词／短语": "mind",
+            "音标（教材）": "/maɪnd/",
+            "词性": "v.",
+            "中文释义": "介意",
+            "教材课文页": 30,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T062",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T062",
+        "word": "mind",
+        "ipa": "/maɪnd/",
+        "focus": "/aɪ/有滑动；结尾/nd/连读，不把/d/后的元音读出来。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Do you mind if I sit here?",
+          "zh": "你介意我坐这里吗？",
+          "sourceIds": [
+            "T062"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "源为动词介意，不以头脑名词义替代。",
+      "ipa": "/maɪnd/",
+      "pos": "v.",
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T059",
+      "sourceId": "T059",
+      "sourceIds": [
+        "T059"
+      ],
+      "word": "just",
+      "meaning": "恰好",
+      "sourceItems": [
+        {
+          "sourceId": "T059",
+          "sourceKind": "textbook",
+          "expression": "just",
+          "meaning": "恰好",
+          "partOfSpeech": "adv.",
+          "phonetic": "/dʒʌst/",
+          "unit": "Unit 2",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 30,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 64,
+          "originalFields": {
+            "序号": 59,
+            "单元": "Unit 2",
+            "类型": "单词",
+            "单词／短语": "just",
+            "音标（教材）": "/dʒʌst/",
+            "词性": "adv.",
+            "中文释义": "恰好",
+            "教材课文页": 30,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T059",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T059",
+        "word": "just",
+        "ipa": "/dʒʌst/",
+        "focus": "开头字母j在本词读/dʒ/；/ʌ/短读，结尾/st/不补元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This box is just the right size for my books.",
+          "zh": "这个箱子的大小恰好适合放我的书。",
+          "sourceIds": [
+            "T059"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "锁定教材恰好义。",
+      "ipa": "/dʒʌst/",
+      "pos": "adv.",
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T044",
+      "sourceId": "T044",
+      "sourceIds": [
+        "T044"
+      ],
+      "word": "develop",
+      "meaning": "培养；发展",
+      "sourceItems": [
+        {
+          "sourceId": "T044",
+          "sourceKind": "textbook",
+          "expression": "develop",
+          "meaning": "培养；发展",
+          "partOfSpeech": "v.",
+          "phonetic": "/dɪˈveləp/",
+          "unit": "Unit 2",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 24,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 49,
+          "originalFields": {
+            "序号": 44,
+            "单元": "Unit 2",
+            "类型": "单词",
+            "单词／短语": "develop",
+            "音标（教材）": "/dɪˈveləp/",
+            "词性": "v.",
+            "中文释义": "培养；发展",
+            "教材课文页": 24,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T044",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T044",
+        "word": "develop",
+        "ipa": "/dɪˈveləp/",
+        "focus": "重音在/vel/；开头/dɪ/轻读，结尾/əp/中的/ə/不重读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Clubs help students develop new interests.",
+          "zh": "社团帮助学生培养新的兴趣。",
+          "sourceIds": [
+            "T044"
+          ]
+        },
+        {
+          "en": "My reading skills develop as I read more.",
+          "zh": "随着阅读量增加，我的阅读技能不断发展。",
+          "sourceIds": [
+            "T044"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/dɪˈveləp/",
+      "pos": "v.",
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T209",
+      "sourceId": "T209",
+      "sourceIds": [
+        "T209"
+      ],
+      "word": "get into orbit",
+      "meaning": "进入轨道",
+      "sourceItems": [
+        {
+          "sourceId": "T209",
+          "sourceKind": "textbook",
+          "expression": "get into orbit",
+          "meaning": "进入轨道",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 5",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 76,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 214,
+          "originalFields": {
+            "序号": 209,
+            "单元": "Unit 5",
+            "类型": "短语",
+            "单词／短语": "get into orbit",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "进入轨道",
+            "教材课文页": 76,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T209",
+          "introducedAtStation": 30
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T209",
+        "sourceIds": [
+          "T209"
+        ],
+        "expression": "get into orbit",
+        "phonetic": "/ɡet ˈɪntuː ˈɔːbɪt/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "A rocket helps the satellite get into orbit around Earth.",
+          "zh": "火箭帮助卫星进入绕地球的轨道。",
+          "sourceIds": [
+            "T209"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "satellite",
+          "meaning": "an object that moves around a planet"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T208",
+      "sourceId": "T208",
+      "sourceIds": [
+        "T208"
+      ],
+      "word": "take photos",
+      "meaning": "拍照",
+      "sourceItems": [
+        {
+          "sourceId": "T208",
+          "sourceKind": "textbook",
+          "expression": "take photos",
+          "meaning": "拍照",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 5",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 69,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 213,
+          "originalFields": {
+            "序号": 208,
+            "单元": "Unit 5",
+            "类型": "短语",
+            "单词／短语": "take photos",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "拍照",
+            "教材课文页": 69,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T208",
+          "introducedAtStation": 30
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T208",
+        "sourceIds": [
+          "T208"
+        ],
+        "expression": "take photos",
+        "phonetic": "/teɪk ˈfəʊtəʊz/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "We take photos of the flowers with a camera.",
+          "zh": "我们用相机给花朵拍照。",
+          "sourceIds": [
+            "T208"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T207",
+      "sourceId": "T207",
+      "sourceIds": [
+        "T207"
+      ],
+      "word": "do exercise",
+      "meaning": "锻炼；运动",
+      "sourceItems": [
+        {
+          "sourceId": "T207",
+          "sourceKind": "textbook",
+          "expression": "do exercise",
+          "meaning": "锻炼；运动",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 5",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 69,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 212,
+          "originalFields": {
+            "序号": 207,
+            "单元": "Unit 5",
+            "类型": "短语",
+            "单词／短语": "do exercise",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "锻炼；运动",
+            "教材课文页": 69,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T207",
+          "introducedAtStation": 30
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T207",
+        "sourceIds": [
+          "T207"
+        ],
+        "expression": "do exercise",
+        "phonetic": "/duː ˈeksəsaɪz/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "We do exercise in the park to keep healthy.",
+          "zh": "我们在公园锻炼以保持健康。",
+          "sourceIds": [
+            "T207"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T206",
+      "sourceId": "T206",
+      "sourceIds": [
+        "T206"
+      ],
+      "word": "space station",
+      "meaning": "空间站",
+      "sourceItems": [
+        {
+          "sourceId": "T206",
+          "sourceKind": "textbook",
+          "expression": "space station",
+          "meaning": "空间站",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 5",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 68,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 211,
+          "originalFields": {
+            "序号": 206,
+            "单元": "Unit 5",
+            "类型": "短语",
+            "单词／短语": "space station",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "空间站",
+            "教材课文页": 68,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T206",
+          "introducedAtStation": 30
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T206",
+        "sourceIds": [
+          "T206"
+        ],
+        "expression": "space station",
+        "phonetic": "/speɪs ˈsteɪʃn/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Astronauts live and work on a space station.",
+          "zh": "航天员在空间站上生活和工作。",
+          "sourceIds": [
+            "T206"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "astronaut",
+          "meaning": "a person trained to travel in space"
+        },
+        {
+          "word": "experiment",
+          "meaning": "a test used to find out or check something"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 5",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T320",
+      "groupId": "T320",
+      "direction": "zh_to_en",
+      "stem": "珍宝；宝物",
+      "options": [
+        {
+          "label": "A",
+          "text": "basic"
+        },
+        {
+          "label": "B",
+          "text": "impossible"
+        },
+        {
+          "label": "C",
+          "text": "treasure"
+        },
+        {
+          "label": "D",
+          "text": "experiment"
+        }
+      ],
+      "answer": "C",
+      "word": "treasure",
+      "meaning": "珍宝；宝物"
+    },
+    {
+      "id": 2,
+      "sourceId": "T321",
+      "groupId": "T321",
+      "direction": "en_to_zh",
+      "stem": "unlock",
+      "options": [
+        {
+          "label": "A",
+          "text": "外貌"
+        },
+        {
+          "label": "B",
+          "text": "发现；揭示"
+        },
+        {
+          "label": "C",
+          "text": "呼吸"
+        },
+        {
+          "label": "D",
+          "text": "自始至终；从头到尾"
+        }
+      ],
+      "answer": "B",
+      "word": "unlock",
+      "meaning": "发现；揭示"
+    },
+    {
+      "id": 3,
+      "sourceId": "T322",
+      "groupId": "T322",
+      "direction": "zh_to_en",
+      "stem": "真的",
+      "options": [
+        {
+          "label": "A",
+          "text": "real"
+        },
+        {
+          "label": "B",
+          "text": "lander"
+        },
+        {
+          "label": "C",
+          "text": "club"
+        },
+        {
+          "label": "D",
+          "text": "in memory of"
+        }
+      ],
+      "answer": "A",
+      "word": "real",
+      "meaning": "真的"
+    },
+    {
+      "id": 4,
+      "sourceId": "T323",
+      "groupId": "T323",
+      "direction": "en_to_zh",
+      "stem": "add ... to...",
+      "options": [
+        {
+          "label": "A",
+          "text": "求助于某人"
+        },
+        {
+          "label": "B",
+          "text": "塑料污染"
+        },
+        {
+          "label": "C",
+          "text": "把……添加到……"
+        },
+        {
+          "label": "D",
+          "text": "行星"
+        }
+      ],
+      "answer": "C",
+      "word": "add ... to...",
+      "meaning": "把……添加到……"
+    },
+    {
+      "id": 5,
+      "sourceId": "T324",
+      "groupId": "T324",
+      "direction": "zh_to_en",
+      "stem": "软饮料（不含酒精）",
+      "options": [
+        {
+          "label": "A",
+          "text": "butterfly"
+        },
+        {
+          "label": "B",
+          "text": "charity"
+        },
+        {
+          "label": "C",
+          "text": "be interested in"
+        },
+        {
+          "label": "D",
+          "text": "soft drink"
+        }
+      ],
+      "answer": "D",
+      "word": "soft drink",
+      "meaning": "软饮料（不含酒精）"
+    },
+    {
+      "id": 6,
+      "sourceId": "T325",
+      "groupId": "T325",
+      "direction": "en_to_zh",
+      "stem": "a waste of time",
+      "options": [
+        {
+          "label": "A",
+          "text": "自信的；有自信心的"
+        },
+        {
+          "label": "B",
+          "text": "浪费时间"
+        },
+        {
+          "label": "C",
+          "text": "拥有；有"
+        },
+        {
+          "label": "D",
+          "text": "设备；器材"
+        }
+      ],
+      "answer": "B",
+      "word": "a waste of time",
+      "meaning": "浪费时间"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T320",
+      "groupId": "T320",
+      "target": "treasure",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "old paper put in a bin"
+        },
+        {
+          "label": "B",
+          "text": "valuable things such as gold or jewels"
+        },
+        {
+          "label": "C",
+          "text": "tools used for building"
+        },
+        {
+          "label": "D",
+          "text": "food grown on a farm"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "B",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "treasure",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "treasure"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "珍宝；宝物",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “treasure” means “valuable things such as gold or jewels”.",
+      "parentExplanation": "本题考查“treasure”在本句中的用法；正确英文解释为“valuable things such as gold or jewels”。对应源表释义为“珍宝；宝物”。",
+      "wordHelp": [
+        {
+          "word": "valuable",
+          "meaning": "worth a lot of money or very important"
+        },
+        {
+          "word": "jewels",
+          "meaning": "beautiful valuable stones"
+        },
+        {
+          "word": "golden",
+          "meaning": "made of or coloured like gold"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T321",
+      "groupId": "T321",
+      "target": "unlock",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "close something with a key"
+        },
+        {
+          "label": "B",
+          "text": "cover something with paper"
+        },
+        {
+          "label": "C",
+          "text": "put something back in a box"
+        },
+        {
+          "label": "D",
+          "text": "discover or reveal something that was unknown"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "unlock",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "unlock"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "发现；揭示",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “unlock” means “discover or reveal something that was unknown”.",
+      "parentExplanation": "本题考查“unlock”在本句中的用法；正确英文解释为“discover or reveal something that was unknown”。对应源表释义为“发现；揭示”。",
+      "wordHelp": [
+        {
+          "word": "clue",
+          "meaning": "information that helps you find an answer"
+        },
+        {
+          "word": "secret",
+          "meaning": "something most people do not know"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T322",
+      "groupId": "T322",
+      "target": "real",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "straight"
+        },
+        {
+          "label": "B",
+          "text": "basic"
+        },
+        {
+          "label": "C",
+          "text": "same"
+        },
+        {
+          "label": "D",
+          "text": "real"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which word describes the old coin rather than the plastic copy?",
+      "answer": "D",
+      "listenScript": "The museum guide holds an old coin beside a plastic copy. She says the old coin was used as money many years ago.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The museum guide holds an old coin beside a plastic copy. She says the old coin was used as money many years ago."
+        }
+      ],
+      "explanation": "The situation supports “real”: The museum guide holds an old coin beside a plastic copy. She says the old coin was used as money many years ago.",
+      "parentExplanation": "情境证据：博物馆讲解员把一枚旧硬币放在塑料复制品旁。她说这枚旧硬币很多年前曾被用作货币。；对应本题“真的”这一用法。",
+      "translation": {
+        "stem": "哪个词形容那枚旧硬币，而不是塑料复制品？",
+        "listenScript": "博物馆讲解员把一枚旧硬币放在塑料复制品旁。她说这枚旧硬币很多年前曾被用作货币。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T322",
+        "T017",
+        "T015",
+        "T018"
+      ],
+      "wordHelp": [
+        {
+          "word": "imaginary",
+          "meaning": "existing only in the mind"
+        },
+        {
+          "word": "imitation",
+          "meaning": "a copy made to look like something else"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T323",
+      "groupId": "T323",
+      "target": "add ... to...",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "describe"
+        },
+        {
+          "label": "B",
+          "text": "add ... to..."
+        },
+        {
+          "label": "C",
+          "text": "watch over"
+        },
+        {
+          "label": "D",
+          "text": "improve"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression describes what Dad does with the water and soup?",
+      "answer": "B",
+      "listenScript": "The soup is too thick. Dad pours a little water into it and stirs it with a spoon.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The soup is too thick. Dad pours a little water into it and stirs it with a spoon."
+        }
+      ],
+      "explanation": "The situation supports “add ... to...”: The soup is too thick. Dad pours a little water into it and stirs it with a spoon.",
+      "parentExplanation": "情境证据：汤太稠了。爸爸往里面倒一点水，用勺子搅拌。；对应本题“把……添加到……”这一用法。",
+      "translation": {
+        "stem": "哪个表达描述爸爸怎样处理水和汤？",
+        "listenScript": "汤太稠了。爸爸往里面倒一点水，用勺子搅拌。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T323",
+        "T004",
+        "T013",
+        "T030"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T324",
+      "groupId": "T324",
+      "target": "soft drink",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a medicine mixed with water"
+        },
+        {
+          "label": "B",
+          "text": "a drink without alcohol"
+        },
+        {
+          "label": "C",
+          "text": "a bowl of very hot soup"
+        },
+        {
+          "label": "D",
+          "text": "a drink containing alcohol"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "Tom does not want alcohol. He asks for a soft drink, such as orange juice.\nWhat does “soft drink” mean here?",
+      "translation": {
+        "stem": "汤姆不想喝酒精饮料，他要一杯软饮料，比如橙汁。 这里“soft drink”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “soft drink” means “a drink without alcohol”.",
+      "parentExplanation": "本题考查“soft drink”在本句中的用法；正确英文解释为“a drink without alcohol”。对应源表释义为“软饮料（不含酒精）”。",
+      "wordHelp": [
+        {
+          "word": "alcohol",
+          "meaning": "the substance in wine and beer"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T325",
+      "groupId": "T325",
+      "target": "a waste of time",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a useful way to learn a skill"
+        },
+        {
+          "label": "B",
+          "text": "time spent finishing important work"
+        },
+        {
+          "label": "C",
+          "text": "time spent on something not useful"
+        },
+        {
+          "label": "D",
+          "text": "a short rest after hard work"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "This search is a waste of time because the book is already in my bag.\nWhat does “a waste of time” mean here?",
+      "translation": {
+        "stem": "这次寻找是在浪费时间，因为书已经在我的包里了。 这里“a waste of time”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “a waste of time” means “time spent on something not useful”.",
+      "parentExplanation": "本题考查“a waste of time”在本句中的用法；正确英文解释为“time spent on something not useful”。对应源表释义为“浪费时间”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T064",
+      "groupId": "T064",
+      "target": "celebrate",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to mark a happy or important event with a special activity"
+        },
+        {
+          "label": "B",
+          "text": "to complain about an event repeatedly"
+        },
+        {
+          "label": "C",
+          "text": "to cancel an event before it begins"
+        },
+        {
+          "label": "D",
+          "text": "to ignore an event and do nothing"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "The team celebrates its victory with a cheerful song after the match.\nWhat does “celebrates” mean here?",
+      "translation": {
+        "stem": "赛后，球队唱一首欢快的歌庆祝胜利。 这里“celebrates”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “celebrate” means “to mark a happy or important event with a special activity”.",
+      "parentExplanation": "本题考查“celebrate”在本句中的用法；正确英文解释为“to mark a happy or important event with a special activity”。对应源表释义为“庆祝；庆贺”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T062",
+      "groupId": "T062",
+      "target": "mind",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to feel annoyed by something or object to it"
+        },
+        {
+          "label": "B",
+          "text": "to decide to lend something to a friend"
+        },
+        {
+          "label": "C",
+          "text": "to enjoy something without any objection"
+        },
+        {
+          "label": "D",
+          "text": "to forget where something was placed"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "Do you mind the quiet music while you read, or shall I turn it off?\nWhat does “mind” mean here?",
+      "translation": {
+        "stem": "你读书时介意这轻柔的音乐吗，还是我把它关掉？ 这里“mind”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “mind” means “to feel annoyed by something or object to it”.",
+      "parentExplanation": "本题考查“mind”在本句中的用法；正确英文解释为“to feel annoyed by something or object to it”。对应源表释义为“介意”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T320",
+      "groupId": "T320",
+      "target": "treasure",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "treasure"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The museum keeps this golden cup as a national t________.",
+      "answer": "treasure",
+      "hint": "a very valuable object",
+      "grammar": "A + singular countable use",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A treasure can mean one very valuable object.",
+      "parentExplanation": "a national treasure指一件国宝，保留treasure宝物义项的可数用法。",
+      "translation": {
+        "stem": "博物馆将这只金杯作为一件国宝保存。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "valuable",
+          "meaning": "worth a lot of money or very important"
+        },
+        {
+          "word": "jewels",
+          "meaning": "beautiful valuable stones"
+        },
+        {
+          "word": "golden",
+          "meaning": "made of or coloured like gold"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T321",
+      "groupId": "T321",
+      "target": "unlock",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "unlock"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Careful study can u________ the secrets of this painting.",
+      "answer": "unlock",
+      "hint": "reveal something that was unknown",
+      "grammar": "Can + base verb",
+      "initialLetter": "u",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use unlock after can to mean reveal unknown secrets.",
+      "parentExplanation": "can后用原形unlock，表示揭示未知秘密。",
+      "translation": {
+        "stem": "仔细研究可以揭示这幅画的秘密。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "clue",
+          "meaning": "information that helps you find an answer"
+        },
+        {
+          "word": "secret",
+          "meaning": "something most people do not know"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T322",
+      "groupId": "T322",
+      "target": "real",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "real"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This is a r________ flower, not one made of paper.",
+      "answer": "real",
+      "hint": "true, not made to look like something",
+      "grammar": "Adjective before a noun",
+      "initialLetter": "r",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Real means true or actual, not a copy or an imitation.",
+      "parentExplanation": "real修饰flower，表示真花，后文排除纸花。",
+      "translation": {
+        "stem": "这是一朵真花，不是纸做的花。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "imaginary",
+          "meaning": "existing only in the mind"
+        },
+        {
+          "word": "imitation",
+          "meaning": "a copy made to look like something else"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T323",
+      "groupId": "T323",
+      "target": "add ... to...",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "add salt to"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Please a________ this soup. Here is the salt.",
+      "answer": "add salt to",
+      "hint": "put the salt into something",
+      "grammar": "Add A to B",
+      "initialLetter": "a",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Add salt to the soup means put the salt into the soup.",
+      "parentExplanation": "add A to B中A是加入的东西，B是接收物，不能颠倒盐和汤。",
+      "translation": {
+        "stem": "请往这份汤里加盐，盐在这里。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T324",
+      "groupId": "T324",
+      "target": "soft drink",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "soft drinks"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The cafe sells two kinds of s________ without any alcohol.",
+      "answer": "soft drinks",
+      "hint": "drinks without alcohol",
+      "grammar": "Kinds of + plural noun phrase",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use the plural soft drinks for the kinds of drinks.",
+      "parentExplanation": "这里概括多种饮料，用复数soft drinks。",
+      "translation": {
+        "stem": "这家咖啡馆出售两种不含任何酒精的软饮料。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "alcohol",
+          "meaning": "the substance in wine and beer"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T325",
+      "groupId": "T325",
+      "target": "a waste of time",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "a waste of time"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Copying the same list without thinking can be a________.",
+      "answer": "a waste of time",
+      "hint": "time spent on something not useful",
+      "grammar": "Be + noun phrase",
+      "initialLetter": "a",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use a waste of time for an activity that is not useful in this situation.",
+      "parentExplanation": "be后填名词短语a waste of time，a不可省。",
+      "translation": {
+        "stem": "不加思考地抄同一份清单，可能是在浪费时间。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T059",
+      "groupId": "T059",
+      "target": "just",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "just"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "That is j________ what I need! It matches my list exactly.",
+      "answer": "just",
+      "hint": "Use the four-letter adverb meaning exactly.",
+      "grammar": "just + what从句",
+      "initialLetter": "j",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Exactly matching what is needed is just what is needed.",
+      "parentExplanation": "与需要的完全相符，just表示恰好，不考刚刚或仅仅义。",
+      "translation": {
+        "stem": "那恰好就是我需要的！它完全符合我的清单。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T044",
+      "groupId": "T044",
+      "target": "develop",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "develop"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Caring for the class plants can help us d________ an interest in nature.",
+      "answer": "develop",
+      "hint": "Use the verb meaning gradually build and strengthen something.",
+      "grammar": "develop an interest in + 名词",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The interest grows through the experience of caring for plants.",
+      "parentExplanation": "通过照料植物培养兴趣，用develop an interest；help us后用原形。",
+      "translation": {
+        "stem": "照料班里的植物有助于我们培养对大自然的兴趣。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 2,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T209",
+      "groupId": "T209",
+      "target": "get into orbit",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "enter a path around a planet"
+        },
+        {
+          "label": "B",
+          "text": "leave a room through a door"
+        },
+        {
+          "label": "C",
+          "text": "stop moving on a desk"
+        },
+        {
+          "label": "D",
+          "text": "land on the ground"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “get into orbit” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “get into orbit” means “enter a path around a planet”. The sentence says: In the film, the satellite will get into orbit around Earth.",
+      "parentExplanation": "“get into orbit”在此处对应“进入轨道”中的本句义项；句意为：影片中，卫星将进入绕地球运行的轨道。",
+      "translation": {
+        "stem": "短文中的“get into orbit”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "get into orbit"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T208",
+      "groupId": "T208",
+      "target": "take photos",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "buy pictures at a shop"
+        },
+        {
+          "label": "B",
+          "text": "draw pictures using a pencil"
+        },
+        {
+          "label": "C",
+          "text": "make pictures using a camera"
+        },
+        {
+          "label": "D",
+          "text": "write notes about pictures"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “take photos” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “take photos” means “make pictures using a camera”. The sentence says: I take photos of the model for our class display.",
+      "parentExplanation": "“take photos”在此处对应“拍照”中的本句义项；句意为：我给模型拍照，用于我们班的展示。",
+      "translation": {
+        "stem": "短文中的“take photos”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "targetSpan": "take photos"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why does the writer photograph the model?",
+      "explanation": "The answer is “For the class display.”. Evidence: I take photos of the model for our class display.",
+      "parentExplanation": "正确项为“For the class display.”。原文依据：我给模型拍照，用于我们班的展示。",
+      "translation": {
+        "stem": "作者为什么给模型拍照？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "To replace the film."
+        },
+        {
+          "label": "B",
+          "text": "To find a lost satellite."
+        },
+        {
+          "label": "C",
+          "text": "To sell it online."
+        },
+        {
+          "label": "D",
+          "text": "For the class display."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the passage mainly about?",
+      "explanation": "The answer is “A club turns a space film into a shared display.”. Evidence: Our science club watches a short film about a satellite launch. After the film, we build a small paper model together. I take photos of the model for our class display. Lily writes short notes to explain each part beside my pictures. We put the pictures and notes together so visitors can follow our work.",
+      "parentExplanation": "正确项为“A club turns a space film into a shared display.”。原文依据：我们科学社团观看了一部关于卫星发射的短片。影片结束后，我们一起制作一个小纸模型。我给模型拍照，用于我们班的展示。莉莉在我的图片旁写下简短说明，解释每个部分。我们把图片和说明放在一起，让参观者看懂我们的工作。",
+      "translation": {
+        "stem": "这篇短文主要讲什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A class travels into space."
+        },
+        {
+          "label": "B",
+          "text": "A club turns a space film into a shared display."
+        },
+        {
+          "label": "C",
+          "text": "A visitor buys a camera."
+        },
+        {
+          "label": "D",
+          "text": "A student loses a paper model."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T207",
+      "groupId": "T207",
+      "target": "do exercise",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "does physical activities to keep fit"
+        },
+        {
+          "label": "B",
+          "text": "rests quietly in bed"
+        },
+        {
+          "label": "C",
+          "text": "repairs a broken bicycle"
+        },
+        {
+          "label": "D",
+          "text": "answers questions in a workbook"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “does exercise” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “does exercise” means “does physical activities to keep fit”. The sentence says: Each morning, she does exercise before starting her day's work.",
+      "parentExplanation": "“does exercise”在此处对应“锻炼；运动”中的本句义项；句意为：每天早晨，她开始一天的工作前先锻炼身体。",
+      "translation": {
+        "stem": "短文中的“does exercise”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "does exercise"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T206",
+      "groupId": "T206",
+      "target": "space station",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a building where trains stop"
+        },
+        {
+          "label": "B",
+          "text": "a structure in space where people live and work"
+        },
+        {
+          "label": "C",
+          "text": "a shop that sells sports clothes"
+        },
+        {
+          "label": "D",
+          "text": "a classroom beside a playground"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “space station” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “space station” means “a structure in space where people live and work”. The sentence says: Nora reads a story about a woman living on a space station.",
+      "parentExplanation": "“space station”在此处对应“空间站”中的本句义项；句意为：诺拉读了一个关于一位住在空间站上的女性的故事。",
+      "translation": {
+        "stem": "短文中的“space station”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "space station"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What does the teacher ask the class to compare?",
+      "explanation": "The answer is “The story and their own routines.”. Evidence: Her teacher asks the class to compare the story with their own routines.",
+      "parentExplanation": "正确项为“The story and their own routines.”。原文依据：老师请全班把故事和自己的日常安排作比较。",
+      "translation": {
+        "stem": "老师请全班比较什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Their teachers and parents."
+        },
+        {
+          "label": "B",
+          "text": "The story and their own routines."
+        },
+        {
+          "label": "C",
+          "text": "Two school buildings."
+        },
+        {
+          "label": "D",
+          "text": "Two different bicycles."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title fits the whole passage best?",
+      "explanation": "The answer is “Reading About a Daily Routine in Space”. Evidence: Nora reads a story about a woman living on a space station. Each morning, she does exercise before starting her day's work. Nora draws the woman and writes about this part of her day. Her teacher asks the class to compare the story with their own routines. Nora says she also enjoys moving her body before a busy school day.",
+      "parentExplanation": "正确项为“Reading About a Daily Routine in Space”。原文依据：诺拉读了一个关于一位住在空间站上的女性的故事。每天早晨，她开始一天的工作前先锻炼身体。诺拉画下这位女性，并写下她一天中的这部分生活。老师请全班把故事和自己的日常安排作比较。诺拉说，在忙碌的上学日开始前，她也喜欢活动身体。",
+      "translation": {
+        "stem": "哪个标题最适合全文？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        3,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A Missing School Bicycle"
+        },
+        {
+          "label": "B",
+          "text": "Building a New Classroom"
+        },
+        {
+          "label": "C",
+          "text": "Reading About a Daily Routine in Space"
+        },
+        {
+          "label": "D",
+          "text": "A Journey on a Train"
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Our science club watches a short film about a satellite launch. In the film, the satellite will get into orbit around Earth. A moving line on the screen shows its path around the planet. After the film, we build a small paper model together. I take photos of the model for our class display. Lily writes short notes to explain each part beside my pictures. We put the pictures and notes together so visitors can follow our work.",
+      "parallelText": [
+        {
+          "en": "Our science club watches a short film about a satellite launch.",
+          "zh": "我们科学社团观看了一部关于卫星发射的短片。"
+        },
+        {
+          "en": "In the film, the satellite will get into orbit around Earth.",
+          "zh": "影片中，卫星将进入绕地球运行的轨道。"
+        },
+        {
+          "en": "A moving line on the screen shows its path around the planet.",
+          "zh": "屏幕上一条移动的线显示它绕地球运行的路径。"
+        },
+        {
+          "en": "After the film, we build a small paper model together.",
+          "zh": "影片结束后，我们一起制作一个小纸模型。"
+        },
+        {
+          "en": "I take photos of the model for our class display.",
+          "zh": "我给模型拍照，用于我们班的展示。"
+        },
+        {
+          "en": "Lily writes short notes to explain each part beside my pictures.",
+          "zh": "莉莉在我的图片旁写下简短说明，解释每个部分。"
+        },
+        {
+          "en": "We put the pictures and notes together so visitors can follow our work.",
+          "zh": "我们把图片和说明放在一起，让参观者看懂我们的工作。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "launch",
+          "meaning": "the act of sending a spacecraft into the sky"
+        },
+        {
+          "word": "satellite",
+          "meaning": "an object that moves around a planet"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Nora reads a story about a woman living on a space station. The woman works with two friends in a building high above Earth. Each morning, she does exercise before starting her day's work. In one picture, she moves her legs on a special bicycle. Nora draws the woman and writes about this part of her day. Her teacher asks the class to compare the story with their own routines. Nora says she also enjoys moving her body before a busy school day.",
+      "parallelText": [
+        {
+          "en": "Nora reads a story about a woman living on a space station.",
+          "zh": "诺拉读了一个关于一位住在空间站上的女性的故事。"
+        },
+        {
+          "en": "The woman works with two friends in a building high above Earth.",
+          "zh": "这位女性和两个朋友在地球上空的一座建筑里工作。"
+        },
+        {
+          "en": "Each morning, she does exercise before starting her day's work.",
+          "zh": "每天早晨，她开始一天的工作前先锻炼身体。"
+        },
+        {
+          "en": "In one picture, she moves her legs on a special bicycle.",
+          "zh": "一幅图中，她在一辆特殊自行车上活动双腿。"
+        },
+        {
+          "en": "Nora draws the woman and writes about this part of her day.",
+          "zh": "诺拉画下这位女性，并写下她一天中的这部分生活。"
+        },
+        {
+          "en": "Her teacher asks the class to compare the story with their own routines.",
+          "zh": "老师请全班把故事和自己的日常安排作比较。"
+        },
+        {
+          "en": "Nora says she also enjoys moving her body before a busy school day.",
+          "zh": "诺拉说，在忙碌的上学日开始前，她也喜欢活动身体。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "routine",
+          "meaning": "the things someone regularly does"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S057-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T064",
+      "groupId": "T064",
+      "expression": "celebrate",
+      "meaning": "庆祝；庆贺",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 35,
+      "intervalInStations": 22,
+      "referenceDueStation": 42,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S057-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T062",
+      "groupId": "T062",
+      "expression": "mind",
+      "meaning": "介意",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 35,
+      "intervalInStations": 22,
+      "referenceDueStation": 42,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S057-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T059",
+      "groupId": "T059",
+      "expression": "just",
+      "meaning": "恰好",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 35,
+      "intervalInStations": 22,
+      "referenceDueStation": 42,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S057-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T044",
+      "groupId": "T044",
+      "expression": "develop",
+      "meaning": "培养；发展",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 35,
+      "intervalInStations": 22,
+      "referenceDueStation": 42,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S057-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T209",
+      "groupId": "T209",
+      "expression": "get into orbit",
+      "meaning": "进入轨道",
+      "introducedAtStation": 30,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 34,
+      "intervalInStations": 23,
+      "referenceDueStation": 41,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S057-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T208",
+      "groupId": "T208",
+      "expression": "take photos",
+      "meaning": "拍照",
+      "introducedAtStation": 30,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 34,
+      "intervalInStations": 23,
+      "referenceDueStation": 41,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S057-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T207",
+      "groupId": "T207",
+      "expression": "do exercise",
+      "meaning": "锻炼；运动",
+      "introducedAtStation": 30,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 34,
+      "intervalInStations": 23,
+      "referenceDueStation": 41,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S057-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T206",
+      "groupId": "T206",
+      "expression": "space station",
+      "meaning": "空间站",
+      "introducedAtStation": 30,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 34,
+      "intervalInStations": 23,
+      "referenceDueStation": 41,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

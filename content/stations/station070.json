@@ -1,0 +1,4270 @@
+{
+  "station": 70,
+  "type": "formal_review",
+  "phase": null,
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 70,
+  "newItems": [],
+  "reviewItems": [
+    {
+      "groupId": "E0670",
+      "sourceId": "E0670",
+      "sourceIds": [
+        "E0670"
+      ],
+      "word": "point at",
+      "meaning": "指向",
+      "sourceItems": [
+        {
+          "sourceId": "E0670",
+          "sourceKind": "phrase",
+          "expression": "point at",
+          "meaning": "指向",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "point at 强调指向对象，结合具体情境使用。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0702",
+          "sourceImages": "IMG_2716.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 44,
+          "originalFields": {
+            "编号": "E0670",
+            "英文表达": "point at",
+            "中文释义": "指向",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "point at 强调指向对象，结合具体情境使用。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0702",
+            "来源图片": "IMG_2716.heic",
+            "原文英文": "point at",
+            "原文释义": "指向",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0670",
+          "introducedAtStation": 67
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0670",
+        "sourceIds": [
+          "E0670"
+        ],
+        "expression": "point at",
+        "phonetic": "/pɔɪnt ət/",
+        "readingForms": [
+          {
+            "expression": "point at",
+            "phonetic": "/pɔɪnt ət/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0670",
+            "expression": "point at"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Mia points at the red picture with her finger.",
+          "zh": "米娅用手指指向那幅红色的画。",
+          "sourceIds": [
+            "E0670"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0600",
+      "sourceId": "E0600",
+      "sourceIds": [
+        "E0600"
+      ],
+      "word": "play with",
+      "meaning": "玩弄",
+      "sourceItems": [
+        {
+          "sourceId": "E0600",
+          "sourceKind": "phrase",
+          "expression": "play with",
+          "meaning": "玩弄",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "with后接玩伴或玩具，是否含玩弄贬义依语境判断。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0605",
+          "sourceImages": "IMG_2715.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 43,
+          "originalFields": {
+            "编号": "E0600",
+            "英文表达": "play with",
+            "中文释义": "玩弄",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "with后接玩伴或玩具，是否含玩弄贬义依语境判断。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0605",
+            "来源图片": "IMG_2715.heic",
+            "原文英文": "play with",
+            "原文释义": "玩弄",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0600",
+          "introducedAtStation": 67
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0600",
+        "sourceIds": [
+          "E0600"
+        ],
+        "expression": "play with",
+        "phonetic": "/pleɪ wɪð/",
+        "readingForms": [
+          {
+            "expression": "play with",
+            "phonetic": "/pleɪ wɪð/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0600",
+            "expression": "play with"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The child plays with a toy train.",
+          "zh": "孩子玩弄着一辆玩具火车。",
+          "sourceIds": [
+            "E0600"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "源释义保留“玩弄”；用法原注说明可接玩伴或玩具，贬义依语境判断。",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0535",
+      "sourceId": "E0535",
+      "sourceIds": [
+        "E0598"
+      ],
+      "word": "provide with",
+      "meaning": "以...供给",
+      "sourceItems": [
+        {
+          "sourceId": "E0598",
+          "sourceKind": "phrase",
+          "expression": "provide with",
+          "meaning": "以...供给",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "原资料省略宾语；使用时补全provide sb. with sth.。",
+          "evidence": "7上U4参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0602",
+          "sourceImages": "IMG_2715.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 47,
+          "originalFields": {
+            "编号": "E0598",
+            "英文表达": "provide with",
+            "中文释义": "以...供给",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "原资料省略宾语；使用时补全provide sb. with sth.。",
+            "适用训练": "完形阅读",
+            "教材关联证据": "7上U4参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0602",
+            "来源图片": "IMG_2715.heic",
+            "原文英文": "provide with",
+            "原文释义": "以...供给",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/20866078"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0535",
+          "introducedAtStation": 67
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0535",
+        "sourceIds": [
+          "E0535",
+          "E0598"
+        ],
+        "expression": "provide sb. with sth.(=provide sth. for sb.)",
+        "phonetic": "/prəˈvaɪd ˈsʌmbədi wɪð ˈsʌmθɪŋ/ 或 /prəˈvaɪd ˈsʌmθɪŋ fə ˈsʌmbədi/",
+        "readingForms": [
+          {
+            "expression": "provide somebody with something",
+            "phonetic": "/prəˈvaɪd ˈsʌmbədi wɪð ˈsʌmθɪŋ/"
+          },
+          {
+            "expression": "provide something for somebody",
+            "phonetic": "/prəˈvaɪd ˈsʌmθɪŋ fə ˈsʌmbədi/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0535",
+            "expression": "provide sb. with sth.(=provide sth. for sb.)"
+          },
+          {
+            "sourceId": "E0598",
+            "expression": "provide with"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。",
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The school provides students with lunch.",
+          "zh": "学校为学生提供午餐。",
+          "sourceIds": [
+            "E0535",
+            "E0598"
+          ]
+        },
+        {
+          "en": "The school provides lunch for students.",
+          "zh": "学校给学生提供午餐。",
+          "sourceIds": [
+            "E0535"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "E0535保留provide somebody with something与provide something for somebody两种结构；E0598源省略宾语，练习中补全。\n提供物品的with/for目标结构保持不变；题中已点明收受方，合理冠词和回指代词变体按当前题面接收。",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0579",
+      "sourceId": "E0579",
+      "sourceIds": [
+        "E0579"
+      ],
+      "word": "sound good/great",
+      "meaning": "听起来不错",
+      "sourceItems": [
+        {
+          "sourceId": "E0579",
+          "sourceKind": "phrase",
+          "expression": "sound good/great",
+          "meaning": "听起来不错",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "sound后用形容词good/great作表语，不用well表示评价。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0583",
+          "sourceImages": "IMG_2705.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 49,
+          "originalFields": {
+            "编号": "E0579",
+            "英文表达": "sound good/great",
+            "中文释义": "听起来不错",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "sound后用形容词good/great作表语，不用well表示评价。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0583",
+            "来源图片": "IMG_2705.heic",
+            "原文英文": "sound good/great",
+            "原文释义": "听起来不错",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0579",
+          "introducedAtStation": 67
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0579",
+        "sourceIds": [
+          "E0579"
+        ],
+        "expression": "sound good/great",
+        "phonetic": "/saʊnd ɡʊd/ 或 /saʊnd ɡreɪt/",
+        "readingForms": [
+          {
+            "expression": "sound good",
+            "phonetic": "/saʊnd ɡʊd/"
+          },
+          {
+            "expression": "sound great",
+            "phonetic": "/saʊnd ɡreɪt/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0579",
+            "expression": "sound good/great"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "“Let's have a picnic.” “That sounds good!”",
+          "zh": "“我们去野餐吧。”“听起来不错！”",
+          "sourceIds": [
+            "E0579"
+          ]
+        },
+        {
+          "en": "“We can visit the garden.” “That sounds great!”",
+          "zh": "“我们可以参观花园。”“听起来很棒！”",
+          "sourceIds": [
+            "E0579"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0576",
+      "sourceId": "E0576",
+      "sourceIds": [
+        "E0576"
+      ],
+      "word": "right away",
+      "meaning": "立即，马上",
+      "sourceItems": [
+        {
+          "sourceId": "E0576",
+          "sourceKind": "phrase",
+          "expression": "right away",
+          "meaning": "立即，马上",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "整体表示立即，与right作方向或正确义区分。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0580",
+          "sourceImages": "IMG_2705.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 48,
+          "originalFields": {
+            "编号": "E0576",
+            "英文表达": "right away",
+            "中文释义": "立即，马上",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "整体表示立即，与right作方向或正确义区分。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0580",
+            "来源图片": "IMG_2705.heic",
+            "原文英文": "right away",
+            "原文释义": "立即，马上",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0576",
+          "introducedAtStation": 67
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0576",
+        "sourceIds": [
+          "E0576"
+        ],
+        "expression": "right away",
+        "phonetic": "/raɪt əˈweɪ/",
+        "readingForms": [
+          {
+            "expression": "right away",
+            "phonetic": "/raɪt əˈweɪ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0576",
+            "expression": "right away"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please come here right away.",
+          "zh": "请马上到这里来。",
+          "sourceIds": [
+            "E0576"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0491",
+      "sourceId": "E0491",
+      "sourceIds": [
+        "E0794"
+      ],
+      "word": "pass to",
+      "meaning": "传递到",
+      "sourceItems": [
+        {
+          "sourceId": "E0794",
+          "sourceKind": "phrase",
+          "expression": "pass to",
+          "meaning": "传递到",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "巩固运用",
+          "topic": "校园学习",
+          "usage": "传物要写pass sth to sb，原短语省略宾语。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0910",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 316,
+          "originalFields": {
+            "编号": "E0794",
+            "英文表达": "pass to",
+            "中文释义": "传递到",
+            "学习层级": "巩固运用",
+            "主题": "校园学习",
+            "用法与易错点": "传物要写pass sth to sb，原短语省略宾语。",
+            "适用训练": "读写综合 / 书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；需结合具体语境巩固词义及结构。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0910",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "pass to",
+            "原文释义": "传递到",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0491",
+          "introducedAtStation": 66
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0491",
+        "sourceIds": [
+          "E0491",
+          "E0794"
+        ],
+        "expression": "pass sth. to sb.(=pass sb. sth.)",
+        "phonetic": "/pɑːs ˈsʌmθɪŋ tə ˈsʌmbədi/ 或 /pɑːs ˈsʌmbədi ˈsʌmθɪŋ/",
+        "readingForms": [
+          {
+            "expression": "pass something to somebody",
+            "phonetic": "/pɑːs ˈsʌmθɪŋ tə ˈsʌmbədi/"
+          },
+          {
+            "expression": "pass somebody something",
+            "phonetic": "/pɑːs ˈsʌmbədi ˈsʌmθɪŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0491",
+            "expression": "pass sth. to sb.(=pass sb. sth.)"
+          },
+          {
+            "sourceId": "E0794",
+            "expression": "pass to"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。",
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please pass the salt to me.",
+          "zh": "请把盐递给我。",
+          "sourceIds": [
+            "E0491",
+            "E0794"
+          ],
+          "branch": "thing_to_person"
+        },
+        {
+          "en": "Please pass me the salt.",
+          "zh": "请把盐递给我。",
+          "sourceIds": [
+            "E0491"
+          ],
+          "branch": "person_thing"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "E0794原标签pass to省略物宾语；不得在学生句子中保留这个不完整标签。双宾语两种顺序均保留。",
+      "ipa": null,
+      "pos": null,
+      "unit": "校园学习",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0623",
+      "sourceId": "E0623",
+      "sourceIds": [
+        "E0623"
+      ],
+      "word": "throw away",
+      "meaning": "扔掉",
+      "sourceItems": [
+        {
+          "sourceId": "E0623",
+          "sourceKind": "phrase",
+          "expression": "throw away",
+          "meaning": "扔掉",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "throw it away；过去式 threw。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0632；P0947",
+          "sourceImages": "IMG_2715.heic；IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 54,
+          "originalFields": {
+            "编号": "E0623",
+            "英文表达": "throw away",
+            "中文释义": "扔掉",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "throw it away；过去式 threw。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0632；P0947",
+            "来源图片": "IMG_2715.heic；IMG_2719.heic",
+            "原文英文": "throw away",
+            "原文释义": "扔掉",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0623",
+          "introducedAtStation": 68
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0623",
+        "sourceIds": [
+          "E0623"
+        ],
+        "expression": "throw away",
+        "phonetic": "/θrəʊ əˈweɪ/",
+        "readingForms": [
+          {
+            "expression": "throw away",
+            "phonetic": "/θrəʊ əˈweɪ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0623",
+            "expression": "throw away"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Do not throw away paper that can be used again.",
+          "zh": "不要扔掉还能再用的纸。",
+          "sourceIds": [
+            "E0623"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0620",
+      "sourceId": "E0620",
+      "sourceIds": [
+        "E0620"
+      ],
+      "word": "take back",
+      "meaning": "拿回，收回；收回；取回，带回；收回说过的话",
+      "sourceItems": [
+        {
+          "sourceId": "E0620",
+          "sourceKind": "phrase",
+          "expression": "take back",
+          "meaning": "拿回，收回；收回；取回，带回；收回说过的话",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "代词宾语置中间，如take it back；可指取回物品或收回言论。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0629；P0863；P1159",
+          "sourceImages": "IMG_2715.heic；IMG_2718.heic；IMG_2721.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 52,
+          "originalFields": {
+            "编号": "E0620",
+            "英文表达": "take back",
+            "中文释义": "拿回，收回；收回；取回，带回；收回说过的话",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "代词宾语置中间，如take it back；可指取回物品或收回言论。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 3,
+            "原始条目编号": "P0629；P0863；P1159",
+            "来源图片": "IMG_2715.heic；IMG_2718.heic；IMG_2721.heic",
+            "原文英文": "take back",
+            "原文释义": "拿回，收回；收回；取回，带回；收回说过的话",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0620",
+          "introducedAtStation": 68
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0620",
+        "sourceIds": [
+          "E0620"
+        ],
+        "expression": "take back",
+        "phonetic": "/teɪk bæk/",
+        "readingForms": [
+          {
+            "expression": "take back",
+            "phonetic": "/teɪk bæk/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0620",
+            "expression": "take back"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please take this book back to the library.",
+          "zh": "请把这本书带回图书馆。",
+          "sourceIds": [
+            "E0620"
+          ]
+        },
+        {
+          "en": "I was wrong about you. I take back what I said.",
+          "zh": "我误解了你。我收回刚才说的话。",
+          "sourceIds": [
+            "E0620"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0584",
+      "sourceId": "E0584",
+      "sourceIds": [
+        "E0584"
+      ],
+      "word": "the same...as...",
+      "meaning": "与……同样……",
+      "sourceItems": [
+        {
+          "sourceId": "E0584",
+          "sourceKind": "phrase",
+          "expression": "the same...as...",
+          "meaning": "与……同样……",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "the same...as...；same前通常有the。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0588",
+          "sourceImages": "IMG_2705.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 53,
+          "originalFields": {
+            "编号": "E0584",
+            "英文表达": "the same...as...",
+            "中文释义": "与……同样……",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "the same...as...；same前通常有the。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0588",
+            "来源图片": "IMG_2705.heic",
+            "原文英文": "the same...as...",
+            "原文释义": "与……同样……",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0584",
+          "introducedAtStation": 68
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0584",
+        "sourceIds": [
+          "E0584"
+        ],
+        "expression": "the same...as...",
+        "phonetic": "/ðə seɪm … əz …/",
+        "readingForms": [
+          {
+            "expression": "the same … as …",
+            "phonetic": "/ðə seɪm … əz …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0584",
+            "expression": "the same...as..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "My bag is the same colour as yours.",
+          "zh": "我的包和你的包颜色一样。",
+          "sourceIds": [
+            "E0584"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "centimetre",
+          "meaning": "a unit of length; one hundredth of a metre"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0498",
+      "sourceId": "E0498",
+      "sourceIds": [
+        "E0498"
+      ],
+      "word": "tie...to...",
+      "meaning": "把……拴（或扎、系、绑）在……上",
+      "sourceItems": [
+        {
+          "sourceId": "E0498",
+          "sourceKind": "phrase",
+          "expression": "tie...to...",
+          "meaning": "把……拴（或扎、系、绑）在……上",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "用tie A to B，A为被绑物，B为固定处；过去式为tied。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0502",
+          "sourceImages": "IMG_2704.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 55,
+          "originalFields": {
+            "编号": "E0498",
+            "英文表达": "tie...to...",
+            "中文释义": "把……拴（或扎、系、绑）在……上",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "用tie A to B，A为被绑物，B为固定处；过去式为tied。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0502",
+            "来源图片": "IMG_2704.heic",
+            "原文英文": "tie...to...",
+            "原文释义": "把……拴（或扎、系、绑）在……上",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0498",
+          "introducedAtStation": 68
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0498",
+        "sourceIds": [
+          "E0498"
+        ],
+        "expression": "tie...to...",
+        "phonetic": "/taɪ … tə …/",
+        "readingForms": [
+          {
+            "expression": "tie … to …",
+            "phonetic": "/taɪ … tə …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0498",
+            "expression": "tie...to..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please tie the boat to the post.",
+          "zh": "请把船拴在柱子上。",
+          "sourceIds": [
+            "E0498"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "post",
+          "meaning": "an upright piece of wood or metal"
+        },
+        {
+          "word": "rope",
+          "meaning": "a thick strong string"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0268",
+      "sourceId": "E0268",
+      "sourceIds": [
+        "E0268"
+      ],
+      "word": "start to do sth./doing sth.",
+      "meaning": "开始做某事",
+      "sourceItems": [
+        {
+          "sourceId": "E0268",
+          "sourceKind": "phrase",
+          "expression": "start to do sth./doing sth.",
+          "meaning": "开始做某事",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "start后可接to do或doing，注意形式完整",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0268",
+          "sourceImages": "IMG_2701.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 51,
+          "originalFields": {
+            "编号": "E0268",
+            "英文表达": "start to do sth./doing sth.",
+            "中文释义": "开始做某事",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "start后可接to do或doing，注意形式完整",
+            "适用训练": "语法填空、完形阅读、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于动作叙事与变化描述中的“开始做某事”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0268",
+            "来源图片": "IMG_2701.heic",
+            "原文英文": "start to do sth./doing sth.",
+            "原文释义": "开始做某事",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0268",
+          "introducedAtStation": 68
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0268",
+        "sourceIds": [
+          "E0268"
+        ],
+        "expression": "start to do sth./doing sth.",
+        "phonetic": "/stɑːt tə duː ˈsʌmθɪŋ/ 或 /stɑːt ˈduːɪŋ ˈsʌmθɪŋ/",
+        "readingForms": [
+          {
+            "expression": "start to do something",
+            "phonetic": "/stɑːt tə duː ˈsʌmθɪŋ/"
+          },
+          {
+            "expression": "start doing something",
+            "phonetic": "/stɑːt ˈduːɪŋ ˈsʌmθɪŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0268",
+            "expression": "start to do sth./doing sth."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。",
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We start to read after lunch.",
+          "zh": "我们午餐后开始阅读。",
+          "sourceIds": [
+            "E0268"
+          ]
+        },
+        {
+          "en": "Mia starts reading the new book at home.",
+          "zh": "米娅在家开始读这本新书。",
+          "sourceIds": [
+            "E0268"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T285",
+      "sourceId": "T285",
+      "sourceIds": [
+        "T285"
+      ],
+      "word": "primary school",
+      "meaning": "小学",
+      "sourceItems": [
+        {
+          "sourceId": "T285",
+          "sourceKind": "textbook",
+          "expression": "primary school",
+          "meaning": "小学",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 7",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 110,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 290,
+          "originalFields": {
+            "序号": 285,
+            "单元": "Unit 7",
+            "类型": "短语",
+            "单词／短语": "primary school",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "小学",
+            "教材课文页": 110,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T285",
+          "introducedAtStation": 47
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T285",
+        "sourceIds": [
+          "T285"
+        ],
+        "expression": "primary school",
+        "phonetic": "/ˈpraɪməri skuːl/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "My little sister goes to primary school.",
+          "zh": "我的妹妹上小学。",
+          "sourceIds": [
+            "T285"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T284",
+      "sourceId": "T284",
+      "sourceIds": [
+        "T284"
+      ],
+      "word": "make a difference",
+      "meaning": "有作用；有影响",
+      "sourceItems": [
+        {
+          "sourceId": "T284",
+          "sourceKind": "textbook",
+          "expression": "make a difference",
+          "meaning": "有作用；有影响",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 7",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 108,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 289,
+          "originalFields": {
+            "序号": 284,
+            "单元": "Unit 7",
+            "类型": "短语",
+            "单词／短语": "make a difference",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "有作用；有影响",
+            "教材课文页": 108,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T284",
+          "introducedAtStation": 47
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T284",
+        "sourceIds": [
+          "T284"
+        ],
+        "expression": "make a difference",
+        "phonetic": "/meɪk ə ˈdɪfrəns/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Small acts of kindness can make a difference.",
+          "zh": "小小的善举也能发挥作用。",
+          "sourceIds": [
+            "T284"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T281",
+      "sourceId": "T281",
+      "sourceIds": [
+        "T281"
+      ],
+      "word": "of course",
+      "meaning": "当然",
+      "sourceItems": [
+        {
+          "sourceId": "T281",
+          "sourceKind": "textbook",
+          "expression": "of course",
+          "meaning": "当然",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 7",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 286,
+          "originalFields": {
+            "序号": 281,
+            "单元": "Unit 7",
+            "类型": "短语",
+            "单词／短语": "of course",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "当然",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T281",
+          "introducedAtStation": 46
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T281",
+        "sourceIds": [
+          "T281"
+        ],
+        "expression": "of course",
+        "phonetic": "/əv kɔːs/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Of course you can join us. There is room for one more.",
+          "zh": "你当然可以加入我们。还有一个位置。",
+          "sourceIds": [
+            "T281"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T280",
+      "sourceId": "T280",
+      "sourceIds": [
+        "T280"
+      ],
+      "word": "solar power",
+      "meaning": "太阳能",
+      "sourceItems": [
+        {
+          "sourceId": "T280",
+          "sourceKind": "textbook",
+          "expression": "solar power",
+          "meaning": "太阳能",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 7",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 285,
+          "originalFields": {
+            "序号": 280,
+            "单元": "Unit 7",
+            "类型": "短语",
+            "单词／短语": "solar power",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "太阳能",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T280",
+          "introducedAtStation": 46
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T280",
+        "sourceIds": [
+          "T280"
+        ],
+        "expression": "solar power",
+        "phonetic": "/ˈsəʊlə ˈpaʊə/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "These lights use solar power from the Sun.",
+          "zh": "这些灯使用来自太阳的太阳能。",
+          "sourceIds": [
+            "T280"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "panel",
+          "meaning": "a flat piece of equipment; here it collects energy from sunlight"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T279",
+      "sourceId": "T279",
+      "sourceIds": [
+        "T279"
+      ],
+      "word": "clubs fair",
+      "meaning": "社团招募展",
+      "sourceItems": [
+        {
+          "sourceId": "T279",
+          "sourceKind": "textbook",
+          "expression": "clubs fair",
+          "meaning": "社团招募展",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 7",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 284,
+          "originalFields": {
+            "序号": 279,
+            "单元": "Unit 7",
+            "类型": "短语",
+            "单词／短语": "clubs fair",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "社团招募展",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T279",
+          "introducedAtStation": 46
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T279",
+        "sourceIds": [
+          "T279"
+        ],
+        "expression": "clubs fair",
+        "phonetic": "/klʌbz feə/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "We meet the science club at the clubs fair.",
+          "zh": "我们在社团招募展上了解科学社团。",
+          "sourceIds": [
+            "T279"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "member",
+          "meaning": "a person who belongs to a group"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0634",
+      "sourceId": "E0634",
+      "sourceIds": [
+        "E0295"
+      ],
+      "word": "talk about",
+      "meaning": "谈论",
+      "sourceItems": [
+        {
+          "sourceId": "E0295",
+          "sourceKind": "phrase",
+          "expression": "talk about",
+          "meaning": "谈论",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "about后接话题，辨析talk with交谈对象",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0295",
+          "sourceImages": "IMG_2702.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 172,
+          "originalFields": {
+            "编号": "E0295",
+            "英文表达": "talk about",
+            "中文释义": "谈论",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "about后接话题，辨析talk with交谈对象",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“谈论”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0295",
+            "来源图片": "IMG_2702.heic",
+            "原文英文": "talk about",
+            "原文释义": "谈论",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0634",
+          "introducedAtStation": 68
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0634",
+        "sourceIds": [
+          "E0634",
+          "E0295"
+        ],
+        "expression": "speak/talk about",
+        "phonetic": "/spiːk əˈbaʊt/ 或 /tɔːk əˈbaʊt/",
+        "readingForms": [
+          {
+            "expression": "speak about",
+            "phonetic": "/spiːk əˈbaʊt/"
+          },
+          {
+            "expression": "talk about",
+            "phonetic": "/tɔːk əˈbaʊt/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0634",
+            "expression": "speak/talk about"
+          },
+          {
+            "sourceId": "E0295",
+            "expression": "talk about"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We speak about our favourite books in class.",
+          "zh": "我们在课堂上谈论最喜欢的书。",
+          "sourceIds": [
+            "E0634"
+          ]
+        },
+        {
+          "en": "Mia talks about her trip with her friends.",
+          "zh": "米娅和朋友们谈论她的旅行。",
+          "sourceIds": [
+            "E0634",
+            "E0295"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "首字母题的accepted只保留与本题标准答案首字母相符的表达；另一合法并列结构仍保留在同组其他例句与fill主答案中，不删除原源结构。",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0448",
+      "sourceId": "E0448",
+      "sourceIds": [
+        "E0448"
+      ],
+      "word": "on sale",
+      "meaning": "①出售，上市②廉价出售",
+      "sourceItems": [
+        {
+          "sourceId": "E0448",
+          "sourceKind": "phrase",
+          "expression": "on sale",
+          "meaning": "①出售，上市②廉价出售",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "依商店语境区分出售与降价出售，sale前不加冠词。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0451",
+          "sourceImages": "IMG_2704.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 39,
+          "originalFields": {
+            "编号": "E0448",
+            "英文表达": "on sale",
+            "中文释义": "①出售，上市②廉价出售",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "依商店语境区分出售与降价出售，sale前不加冠词。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0451",
+            "来源图片": "IMG_2704.heic",
+            "原文英文": "on sale",
+            "原文释义": "①出售，上市②廉价出售",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0448",
+          "introducedAtStation": 66
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0448",
+        "sourceIds": [
+          "E0448"
+        ],
+        "expression": "on sale",
+        "phonetic": "/ɒn seɪl/",
+        "readingForms": [
+          {
+            "expression": "on sale",
+            "phonetic": "/ɒn seɪl/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0448",
+            "expression": "on sale"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Tickets for the new play are on sale now at the usual price.",
+          "zh": "新戏的票已按原价开始发售。",
+          "sourceIds": [
+            "E0448"
+          ],
+          "branch": "available"
+        },
+        {
+          "en": "The coat is on sale for half its usual price.",
+          "zh": "这件外套半价促销。",
+          "sourceIds": [
+            "E0448"
+          ],
+          "branch": "discounted"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "源含出售与廉价出售两个义项，均用明确价格条件区分。",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0330",
+      "sourceId": "E0330",
+      "sourceIds": [
+        "E0330"
+      ],
+      "word": "knock at/on",
+      "meaning": "敲（门或窗）",
+      "sourceItems": [
+        {
+          "sourceId": "E0330",
+          "sourceKind": "phrase",
+          "expression": "knock at/on",
+          "meaning": "敲（门或窗）",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "at/on后接门窗，辨析knock down",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0330",
+          "sourceImages": "IMG_2702.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 205,
+          "originalFields": {
+            "编号": "E0330",
+            "英文表达": "knock at/on",
+            "中文释义": "敲（门或窗）",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "at/on后接门窗，辨析knock down",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“敲（门或窗）”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0330",
+            "来源图片": "IMG_2702.heic",
+            "原文英文": "knock at/on",
+            "原文释义": "敲（门或窗）",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0330",
+          "introducedAtStation": 65
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0330",
+        "sourceIds": [
+          "E0662",
+          "E0330"
+        ],
+        "expression": "knock at/on",
+        "phonetic": "/nɒk ət/ 或 /nɒk ɒn/",
+        "readingForms": [
+          {
+            "expression": "knock at",
+            "phonetic": "/nɒk ət/"
+          },
+          {
+            "expression": "knock on",
+            "phonetic": "/nɒk ɒn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0662",
+            "expression": "knock at"
+          },
+          {
+            "sourceId": "E0330",
+            "expression": "knock at/on"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please knock at the door before entering.",
+          "zh": "进入之前，请先敲门。",
+          "sourceIds": [
+            "E0662",
+            "E0330"
+          ],
+          "branch": "at"
+        },
+        {
+          "en": "Ben knocks on the window to get our attention.",
+          "zh": "本敲窗户，引起我们的注意。",
+          "sourceIds": [
+            "E0330"
+          ],
+          "branch": "on"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "at和on均为原源保留分支。专门题在提示中限定介词，避免无理由判另一合法变体错误。",
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0680",
+      "sourceId": "E0680",
+      "sourceIds": [
+        "E0680"
+      ],
+      "word": "point to",
+      "meaning": "指向",
+      "sourceItems": [
+        {
+          "sourceId": "E0680",
+          "sourceKind": "phrase",
+          "expression": "point to",
+          "meaning": "指向",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "to后接方向或所指事物，point在此作动词。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0717",
+          "sourceImages": "IMG_2716.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 45,
+          "originalFields": {
+            "编号": "E0680",
+            "英文表达": "point to",
+            "中文释义": "指向",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "to后接方向或所指事物，point在此作动词。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0717",
+            "来源图片": "IMG_2716.heic",
+            "原文英文": "point to",
+            "原文释义": "指向",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0680",
+          "introducedAtStation": 67
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0680",
+        "sourceIds": [
+          "E0680"
+        ],
+        "expression": "point to",
+        "phonetic": "/pɔɪnt tə/",
+        "readingForms": [
+          {
+            "expression": "point to",
+            "phonetic": "/pɔɪnt tə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0680",
+            "expression": "point to"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The arrow points to the exit.",
+          "zh": "箭头指向出口。",
+          "sourceIds": [
+            "E0680"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "E0670",
+      "groupId": "E0670",
+      "direction": "zh_to_en",
+      "stem": "指向",
+      "options": [
+        {
+          "label": "A",
+          "text": "light up"
+        },
+        {
+          "label": "B",
+          "text": "be divided into"
+        },
+        {
+          "label": "C",
+          "text": "point at"
+        },
+        {
+          "label": "D",
+          "text": "primary school"
+        }
+      ],
+      "answer": "C",
+      "word": "point at",
+      "meaning": "指向"
+    },
+    {
+      "id": 2,
+      "sourceId": "E0600",
+      "groupId": "E0600",
+      "direction": "en_to_zh",
+      "stem": "play with",
+      "options": [
+        {
+          "label": "A",
+          "text": "绘画"
+        },
+        {
+          "label": "B",
+          "text": "玩弄"
+        },
+        {
+          "label": "C",
+          "text": "诗"
+        },
+        {
+          "label": "D",
+          "text": "信封"
+        }
+      ],
+      "answer": "B",
+      "word": "play with",
+      "meaning": "玩弄"
+    },
+    {
+      "id": 3,
+      "sourceId": "E0598",
+      "groupId": "E0535",
+      "direction": "zh_to_en",
+      "stem": "以...供给",
+      "options": [
+        {
+          "label": "A",
+          "text": "coin"
+        },
+        {
+          "label": "B",
+          "text": "take part in"
+        },
+        {
+          "label": "C",
+          "text": "provide with"
+        },
+        {
+          "label": "D",
+          "text": "peaceful"
+        }
+      ],
+      "answer": "C",
+      "word": "provide with",
+      "meaning": "以...供给"
+    },
+    {
+      "id": 4,
+      "sourceId": "E0579",
+      "groupId": "E0579",
+      "direction": "en_to_zh",
+      "stem": "sound good/great",
+      "options": [
+        {
+          "label": "A",
+          "text": "后果；结果"
+        },
+        {
+          "label": "B",
+          "text": "发现；揭示"
+        },
+        {
+          "label": "C",
+          "text": "鲸"
+        },
+        {
+          "label": "D",
+          "text": "听起来不错"
+        }
+      ],
+      "answer": "D",
+      "word": "sound good/great",
+      "meaning": "听起来不错"
+    },
+    {
+      "id": 5,
+      "sourceId": "E0576",
+      "groupId": "E0576",
+      "direction": "zh_to_en",
+      "stem": "立即，马上",
+      "options": [
+        {
+          "label": "A",
+          "text": "listen to"
+        },
+        {
+          "label": "B",
+          "text": "collect"
+        },
+        {
+          "label": "C",
+          "text": "right away"
+        },
+        {
+          "label": "D",
+          "text": "sincerely"
+        }
+      ],
+      "answer": "C",
+      "word": "right away",
+      "meaning": "立即，马上"
+    },
+    {
+      "id": 6,
+      "sourceId": "E0794",
+      "groupId": "E0491",
+      "direction": "en_to_zh",
+      "stem": "pass to",
+      "options": [
+        {
+          "label": "A",
+          "text": "传递到"
+        },
+        {
+          "label": "B",
+          "text": "把……添加到……"
+        },
+        {
+          "label": "C",
+          "text": "古迹；历史遗迹"
+        },
+        {
+          "label": "D",
+          "text": "妻子"
+        }
+      ],
+      "answer": "A",
+      "word": "pass to",
+      "meaning": "传递到"
+    },
+    {
+      "id": 7,
+      "sourceId": "E0623",
+      "groupId": "E0623",
+      "direction": "zh_to_en",
+      "stem": "扔掉",
+      "options": [
+        {
+          "label": "A",
+          "text": "in the end"
+        },
+        {
+          "label": "B",
+          "text": "throw away"
+        },
+        {
+          "label": "C",
+          "text": "flat"
+        },
+        {
+          "label": "D",
+          "text": "solar system"
+        }
+      ],
+      "answer": "B",
+      "word": "throw away",
+      "meaning": "扔掉"
+    },
+    {
+      "id": 8,
+      "sourceId": "E0620",
+      "groupId": "E0620",
+      "direction": "en_to_zh",
+      "stem": "take back",
+      "options": [
+        {
+          "label": "A",
+          "text": "给某人提供某物"
+        },
+        {
+          "label": "B",
+          "text": "传给某人某物"
+        },
+        {
+          "label": "C",
+          "text": "砍倒"
+        },
+        {
+          "label": "D",
+          "text": "拿回，收回；收回；取回，带回；收回说过的话"
+        }
+      ],
+      "answer": "D",
+      "word": "take back",
+      "meaning": "拿回，收回；收回；取回，带回；收回说过的话"
+    },
+    {
+      "id": 9,
+      "sourceId": "E0584",
+      "groupId": "E0584",
+      "direction": "zh_to_en",
+      "stem": "与……同样……",
+      "options": [
+        {
+          "label": "A",
+          "text": "burn"
+        },
+        {
+          "label": "B",
+          "text": "spoon"
+        },
+        {
+          "label": "C",
+          "text": "the same...as..."
+        },
+        {
+          "label": "D",
+          "text": "honest"
+        }
+      ],
+      "answer": "C",
+      "word": "the same...as...",
+      "meaning": "与……同样……"
+    },
+    {
+      "id": 10,
+      "sourceId": "E0498",
+      "groupId": "E0498",
+      "direction": "en_to_zh",
+      "stem": "tie...to...",
+      "options": [
+        {
+          "label": "A",
+          "text": "把……拴（或扎、系、绑）在……上"
+        },
+        {
+          "label": "B",
+          "text": "大小"
+        },
+        {
+          "label": "C",
+          "text": "包括；包含"
+        },
+        {
+          "label": "D",
+          "text": "信任；信赖"
+        }
+      ],
+      "answer": "A",
+      "word": "tie...to...",
+      "meaning": "把……拴（或扎、系、绑）在……上"
+    },
+    {
+      "id": 11,
+      "sourceId": "E0268",
+      "groupId": "E0268",
+      "direction": "zh_to_en",
+      "stem": "开始做某事",
+      "options": [
+        {
+          "label": "A",
+          "text": "cross out"
+        },
+        {
+          "label": "B",
+          "text": "someday"
+        },
+        {
+          "label": "C",
+          "text": "start to do sth./doing sth."
+        },
+        {
+          "label": "D",
+          "text": "general"
+        }
+      ],
+      "answer": "C",
+      "word": "start to do sth./doing sth.",
+      "meaning": "开始做某事"
+    },
+    {
+      "id": 12,
+      "sourceId": "T285",
+      "groupId": "T285",
+      "direction": "en_to_zh",
+      "stem": "primary school",
+      "options": [
+        {
+          "label": "A",
+          "text": "小学"
+        },
+        {
+          "label": "B",
+          "text": "老年人；长者"
+        },
+        {
+          "label": "C",
+          "text": "北；北方"
+        },
+        {
+          "label": "D",
+          "text": "铺满沙子的；含沙的"
+        }
+      ],
+      "answer": "A",
+      "word": "primary school",
+      "meaning": "小学"
+    },
+    {
+      "id": 13,
+      "sourceId": "T284",
+      "groupId": "T284",
+      "direction": "zh_to_en",
+      "stem": "有作用；有影响",
+      "options": [
+        {
+          "label": "A",
+          "text": "make a difference"
+        },
+        {
+          "label": "B",
+          "text": "come out of"
+        },
+        {
+          "label": "C",
+          "text": "come and go"
+        },
+        {
+          "label": "D",
+          "text": "compete"
+        }
+      ],
+      "answer": "A",
+      "word": "make a difference",
+      "meaning": "有作用；有影响"
+    },
+    {
+      "id": 14,
+      "sourceId": "T281",
+      "groupId": "T281",
+      "direction": "en_to_zh",
+      "stem": "of course",
+      "options": [
+        {
+          "label": "A",
+          "text": "基于……"
+        },
+        {
+          "label": "B",
+          "text": "同一的；相同的"
+        },
+        {
+          "label": "C",
+          "text": "踢；踹"
+        },
+        {
+          "label": "D",
+          "text": "当然"
+        }
+      ],
+      "answer": "D",
+      "word": "of course",
+      "meaning": "当然"
+    },
+    {
+      "id": 15,
+      "sourceId": "T280",
+      "groupId": "T280",
+      "direction": "zh_to_en",
+      "stem": "太阳能",
+      "options": [
+        {
+          "label": "A",
+          "text": "straight"
+        },
+        {
+          "label": "B",
+          "text": "flat"
+        },
+        {
+          "label": "C",
+          "text": "solar power"
+        },
+        {
+          "label": "D",
+          "text": "reach"
+        }
+      ],
+      "answer": "C",
+      "word": "solar power",
+      "meaning": "太阳能"
+    },
+    {
+      "id": 16,
+      "sourceId": "T279",
+      "groupId": "T279",
+      "direction": "en_to_zh",
+      "stem": "clubs fair",
+      "options": [
+        {
+          "label": "A",
+          "text": "描述；形容"
+        },
+        {
+          "label": "B",
+          "text": "老年人；长者"
+        },
+        {
+          "label": "C",
+          "text": "相像的；类似的"
+        },
+        {
+          "label": "D",
+          "text": "社团招募展"
+        }
+      ],
+      "answer": "D",
+      "word": "clubs fair",
+      "meaning": "社团招募展"
+    },
+    {
+      "id": 17,
+      "sourceId": "E0295",
+      "groupId": "E0634",
+      "direction": "zh_to_en",
+      "stem": "谈论",
+      "options": [
+        {
+          "label": "A",
+          "text": "talk about"
+        },
+        {
+          "label": "B",
+          "text": "lander"
+        },
+        {
+          "label": "C",
+          "text": "south"
+        },
+        {
+          "label": "D",
+          "text": "just"
+        }
+      ],
+      "answer": "A",
+      "word": "talk about",
+      "meaning": "谈论"
+    },
+    {
+      "id": 18,
+      "sourceId": "E0448",
+      "groupId": "E0448",
+      "direction": "en_to_zh",
+      "stem": "on sale",
+      "options": [
+        {
+          "label": "A",
+          "text": "参与"
+        },
+        {
+          "label": "B",
+          "text": "计划；方案"
+        },
+        {
+          "label": "C",
+          "text": "①出售，上市②廉价出售"
+        },
+        {
+          "label": "D",
+          "text": "没关系"
+        }
+      ],
+      "answer": "C",
+      "word": "on sale",
+      "meaning": "①出售，上市②廉价出售"
+    },
+    {
+      "id": 19,
+      "sourceId": "E0330",
+      "groupId": "E0330",
+      "direction": "zh_to_en",
+      "stem": "敲（门或窗）",
+      "options": [
+        {
+          "label": "A",
+          "text": "knock at/on"
+        },
+        {
+          "label": "B",
+          "text": "teen"
+        },
+        {
+          "label": "C",
+          "text": "dream"
+        },
+        {
+          "label": "D",
+          "text": "recently"
+        }
+      ],
+      "answer": "A",
+      "word": "knock at/on",
+      "meaning": "敲（门或窗）"
+    },
+    {
+      "id": 20,
+      "sourceId": "E0680",
+      "groupId": "E0680",
+      "direction": "en_to_zh",
+      "stem": "point to",
+      "options": [
+        {
+          "label": "A",
+          "text": "基本的；基础的"
+        },
+        {
+          "label": "B",
+          "text": "力量；能量"
+        },
+        {
+          "label": "C",
+          "text": "指向"
+        },
+        {
+          "label": "D",
+          "text": "初级中学"
+        }
+      ],
+      "answer": "C",
+      "word": "point to",
+      "meaning": "指向"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0670",
+      "groupId": "E0670",
+      "target": "point at",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to place something under a desk"
+        },
+        {
+          "label": "B",
+          "text": "to turn away from an object"
+        },
+        {
+          "label": "C",
+          "text": "to hide something behind a wall"
+        },
+        {
+          "label": "D",
+          "text": "to direct a finger or object towards something"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "D",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "point at",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "point at"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "指向",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “point at” means “to direct a finger or object towards something”.",
+      "parentExplanation": "本题考查“point at”在本句中的用法；正确英文解释为“to direct a finger or object towards something”。对应源表释义为“指向”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0600",
+      "groupId": "E0600",
+      "target": "play with",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to put something away safely"
+        },
+        {
+          "label": "B",
+          "text": "to throw something into a bin"
+        },
+        {
+          "label": "C",
+          "text": "to repair something that is broken"
+        },
+        {
+          "label": "D",
+          "text": "to handle or move something for fun"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "Do not play with the switch; it is not a toy.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Do not play with the switch; it is not a toy."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "不要玩弄开关，它不是玩具。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “play with” means “to handle or move something for fun”.",
+      "parentExplanation": "本题考查“play with”在本句中的用法；正确英文解释为“to handle or move something for fun”。对应源表释义为“玩弄”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0598",
+      "groupId": "E0535",
+      "target": "provide with",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "provide with"
+        },
+        {
+          "label": "B",
+          "text": "look forward to"
+        },
+        {
+          "label": "C",
+          "text": "take somebody's place"
+        },
+        {
+          "label": "D",
+          "text": "watch over"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression describes supplying the club members with equipment?",
+      "answer": "A",
+      "listenScript": "The school opens a room for the photography club. It puts cameras and lamps there so members have the equipment they need.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The school opens a room for the photography club. It puts cameras and lamps there so members have the equipment they need."
+        }
+      ],
+      "explanation": "The school provides the members with equipment; provide with is the source pattern.",
+      "parentExplanation": "给成员配备器材是provide sb. with sth.；源标签provide with需要补全人和物。",
+      "translation": {
+        "stem": "哪个表达描述给社团成员供应器材？",
+        "listenScript": "学校为摄影社团开放一间房，放进相机和灯，让成员拥有所需器材。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T030",
+        "T070",
+        "T036",
+        "E0598"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0579",
+      "groupId": "E0579",
+      "target": "sound good/great",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "full of energy"
+        },
+        {
+          "label": "B",
+          "text": "medium height"
+        },
+        {
+          "label": "C",
+          "text": "sound good/great"
+        },
+        {
+          "label": "D",
+          "text": "go to bed"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression can the friend use to respond to the suggestion?",
+      "answer": "C",
+      "listenScript": "Nora suggests taking a picnic to the garden. Her friend smiles and says that the plan seems lovely when she hears it.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Nora suggests taking a picnic to the garden. Her friend smiles and says that the plan seems lovely when she hears it."
+        }
+      ],
+      "explanation": "Sounds good or sounds great gives a positive response to the suggested plan.",
+      "parentExplanation": "听到建议后觉得不错，可回应sounds good/great，符合sound good/great结构。",
+      "translation": {
+        "stem": "朋友可以用哪个表达回应建议？",
+        "listenScript": "诺拉建议带着野餐去花园。朋友听后微笑，说这个主意听起来很棒。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T028",
+        "T072",
+        "E0579",
+        "T075"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0576",
+      "groupId": "E0576",
+      "target": "right away",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "immediately, without waiting"
+        },
+        {
+          "label": "B",
+          "text": "after a very long delay"
+        },
+        {
+          "label": "C",
+          "text": "only once every year"
+        },
+        {
+          "label": "D",
+          "text": "at an unknown time next month"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "“When should I call Mum?” “Right away—she is waiting.”\nWhat does “Right away” mean here?",
+      "translation": {
+        "stem": "“我该什么时候给妈妈打电话？”“马上，她正等着呢。” 这里“Right away”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “right away” means “immediately, without waiting”.",
+      "parentExplanation": "本题考查“right away”在本句中的用法；正确英文解释为“immediately, without waiting”。对应源表释义为“立即，马上”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0794",
+      "groupId": "E0491",
+      "target": "pass to",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to take an item without its owner's agreement"
+        },
+        {
+          "label": "B",
+          "text": "to keep an item far from the person who needs it"
+        },
+        {
+          "label": "C",
+          "text": "to give something to a person by moving it to them"
+        },
+        {
+          "label": "D",
+          "text": "to throw an item away so nobody receives it"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Mia is beside Ben and needs his ruler. Ben passes the ruler to Mia.\nWhat does “passes the ruler to Mia” mean here?",
+      "translation": {
+        "stem": "米娅坐在本旁边，需要他的尺子。本把尺子递给米娅。 这里“passes the ruler to Mia”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “pass to” means “to give something to a person by moving it to them”.",
+      "parentExplanation": "本题考查“pass to”在本句中的用法；正确英文解释为“to give something to a person by moving it to them”。对应源表释义为“传递到”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0623",
+      "groupId": "E0623",
+      "target": "throw away",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to mend something that is broken"
+        },
+        {
+          "label": "B",
+          "text": "to put something in the rubbish because you do not want it"
+        },
+        {
+          "label": "C",
+          "text": "to keep something in a safe place"
+        },
+        {
+          "label": "D",
+          "text": "to give something as a birthday present"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "This paper is no longer useful. You can throw it away.\nWhat does “throw it away” mean here?",
+      "translation": {
+        "stem": "这张纸已经没用了，你可以把它扔掉。 这里“throw it away”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “throw away” means “to put something in the rubbish because you do not want it”.",
+      "parentExplanation": "本题考查“throw away”在本句中的用法；正确英文解释为“to put something in the rubbish because you do not want it”。对应源表释义为“扔掉”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0620",
+      "groupId": "E0620",
+      "target": "take back",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to return an object to its earlier place"
+        },
+        {
+          "label": "B",
+          "text": "to give something away forever"
+        },
+        {
+          "label": "C",
+          "text": "to move something farther from home"
+        },
+        {
+          "label": "D",
+          "text": "to make something much larger"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "This bag belongs in my room. Please take it back there.\nWhat does “take it back” mean here?",
+      "translation": {
+        "stem": "这个包应该放在我的房间。请把它拿回那里。 这里“take it back”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “take back” means “to return an object to its earlier place”.",
+      "parentExplanation": "本题考查“take back”在本句中的用法；正确英文解释为“to return an object to its earlier place”。对应源表释义为“拿回，收回；收回；取回，带回；收回说过的话”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0584",
+      "groupId": "E0584",
+      "target": "the same...as...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "the same length as"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This box is t________ that one; both are twenty centimetres long.",
+      "answer": "the same length as",
+      "hint": "matching another thing in length",
+      "grammar": "The same + noun + as",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The same length as compares the lengths of the boxes.",
+      "parentExplanation": "此处比较长度，用the same length as；same前保留the。",
+      "translation": {
+        "stem": "这个盒子和那个盒子长度一样，都是二十厘米长。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "centimetre",
+          "meaning": "a unit of length; one hundredth of a metre"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0498",
+      "groupId": "E0498",
+      "target": "tie...to...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "tie the boat to the post"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Please t________ with this rope.",
+      "answer": "tie the boat to the post",
+      "hint": "fasten the boat to the post with rope",
+      "grammar": "Tie A to B",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Tie the boat to the post puts the moving object first.",
+      "parentExplanation": "tie A to B中A为被绑物，B为固定处；本题为boat和post。",
+      "translation": {
+        "stem": "请用这根绳子把船拴在柱子上。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "post",
+          "meaning": "an upright piece of wood or metal"
+        },
+        {
+          "word": "rope",
+          "meaning": "a thick strong string"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0268",
+      "groupId": "E0268",
+      "target": "start to do sth./doing sth.",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "start to read",
+        "start reading"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "At two o'clock, we s________ the new story.",
+      "answer": "start to read",
+      "hint": "begin the activity of reading",
+      "grammar": "Start to do / start doing",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Start can take to read or reading.",
+      "parentExplanation": "start后既可接to read，也可接reading，两种结构均完整。",
+      "translation": {
+        "stem": "两点钟，我们开始读这篇新故事。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T285",
+      "groupId": "T285",
+      "target": "primary school",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "primary school"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Young children attend p________ before they go to secondary school.",
+      "answer": "primary school",
+      "hint": "a school for young children before secondary education",
+      "grammar": "School stage noun phrase",
+      "initialLetter": "p",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Primary school names this first stage of school education.",
+      "parentExplanation": "primary school表示小学；此处go to/attend school不必加a。",
+      "translation": {
+        "stem": "小孩子在上中学前上小学。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T284",
+      "groupId": "T284",
+      "target": "make a difference",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "make a difference"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Helping one person may seem small, but it can m________ to that person's life.",
+      "answer": "make a difference",
+      "hint": "have a useful effect on a situation",
+      "grammar": "Can + base verb phrase",
+      "initialLetter": "m",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "After can, use the base phrase make a difference.",
+      "parentExplanation": "can后用make原形；make a difference表示有作用、有影响。",
+      "translation": {
+        "stem": "帮助一个人看似微小，却能对那个人的生活产生影响。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T281",
+      "groupId": "T281",
+      "target": "of course",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "Of course"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "O________ we need water. All living things need it.",
+      "answer": "Of course",
+      "hint": "used to say that something is obvious or expected",
+      "grammar": "Sentence adverbial phrase",
+      "initialLetter": "o",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Of course introduces something treated as obvious.",
+      "parentExplanation": "of course表示当然，用来引出显而易见的情况。",
+      "translation": {
+        "stem": "我们当然需要水。所有生物都需要水。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T280",
+      "groupId": "T280",
+      "target": "solar power",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "solar power"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The panels turn sunlight into electricity. They help us use s________.",
+      "answer": "solar power",
+      "hint": "energy from sunlight",
+      "grammar": "Uncountable noun phrase",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Solar power names the energy obtained from sunlight.",
+      "parentExplanation": "由sunlight可确定solar power；不加复数形式。",
+      "translation": {
+        "stem": "这些板把阳光转成电能。它们帮助我们利用太阳能。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "panel",
+          "meaning": "a flat piece of equipment; here it collects energy from sunlight"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T279",
+      "groupId": "T279",
+      "target": "clubs fair",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "clubs fair"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "School clubs introduce themselves and invite new members at the c________.",
+      "answer": "clubs fair",
+      "hint": "an event where school clubs show their activities and invite members",
+      "grammar": "Fixed noun phrase",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Clubs fair is the complete phrase for this school event.",
+      "parentExplanation": "clubs fair表示社团招募展；clubs中的s为原短语组成部分。",
+      "translation": {
+        "stem": "学校社团在社团招募展上介绍自己，邀请新成员。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "member",
+          "meaning": "a person who belongs to a group"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0295",
+      "groupId": "E0634",
+      "target": "talk about",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "write a private letter"
+        },
+        {
+          "label": "B",
+          "text": "forget an idea before hearing it"
+        },
+        {
+          "label": "C",
+          "text": "discuss an idea as a group"
+        },
+        {
+          "label": "D",
+          "text": "buy something without asking"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “talk about” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, “talk about” means “discuss an idea as a group”. Evidence: At a meeting, we talk about holding a small book fair after lessons.",
+      "parentExplanation": "第2句译为：开会时，我们讨论放学后办一个小书市。 其中“talk about”对应本源词条的“谈论”；本题只考句中实际使用的意思。",
+      "translation": {
+        "stem": "短文中的“talk about”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "talk about"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0448",
+      "groupId": "E0448",
+      "target": "on sale",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "not available to buy"
+        },
+        {
+          "label": "B",
+          "text": "being offered at a lower price than usual"
+        },
+        {
+          "label": "C",
+          "text": "being sold at twice the usual price"
+        },
+        {
+          "label": "D",
+          "text": "being kept only for display"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “on sale” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, “on sale” means “being offered at a lower price than usual”. Evidence: On Friday, every book is on sale at half its usual second-hand price.",
+      "parentExplanation": "第4句“on sale”在本句表示：以低于平常的价格出售；文中明确为通常二手价的一半。 原句意思为：星期五，每本书都按通常二手价的一半降价出售。",
+      "translation": {
+        "stem": "短文中的“on sale”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "on sale"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What makes the books easy for visitors to choose?",
+      "explanation": "The answer is “Clear price labels.”. Evidence: On Friday, every book is on sale at half its usual second-hand price. Clear labels make it easy for visitors to choose what they can afford.",
+      "parentExplanation": "正确项为“Clear price labels.”。原文依据：星期五，每本书都按通常二手价的一半降价出售。 清楚的标签便于来客选择买得起的书。",
+      "translation": {
+        "stem": "什么让来客容易挑选书？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4,
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Closed boxes under the tables."
+        },
+        {
+          "label": "B",
+          "text": "Clear price labels."
+        },
+        {
+          "label": "C",
+          "text": "A rule against looking inside."
+        },
+        {
+          "label": "D",
+          "text": "No prices on any books."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the passage mainly about?",
+      "explanation": "The answer is “A class runs a book fair to support its library”. Evidence: Our class wants to raise money for new library cushions. At a meeting, we talk about holding a small book fair after lessons. Families bring books they no longer read and help us arrange the tables. On Friday, every book is on sale at half its usual second-hand price. Clear labels make it easy for visitors to choose what they can afford. By the end, most books find new readers and our money box is full. We count the money together and thank every family that helped.",
+      "parentExplanation": "正确项为“A class runs a book fair to support its library”。原文依据：我们班想筹钱给图书馆添新坐垫。 开会时，我们讨论放学后办一个小书市。 各家带来不再读的书，帮我们摆桌子。 星期五，每本书都按通常二手价的一半降价出售。 清楚的标签便于来客选择买得起的书。 结束时，大部分书找到了新读者，钱箱也满了。 我们一起数钱，感谢每个提供帮助的家庭。",
+      "translation": {
+        "stem": "这篇短文主要讲什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A class runs a book fair to support its library"
+        },
+        {
+          "label": "B",
+          "text": "A library stops lending books"
+        },
+        {
+          "label": "C",
+          "text": "A family buys every book in a shop"
+        },
+        {
+          "label": "D",
+          "text": "A class learns to make wooden tables"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0330",
+      "groupId": "E0330",
+      "target": "knock at/on",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "put a new lock on a door"
+        },
+        {
+          "label": "B",
+          "text": "tap a door to let someone know you are there"
+        },
+        {
+          "label": "C",
+          "text": "run past a closed door"
+        },
+        {
+          "label": "D",
+          "text": "break a door to enter"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “knock at” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, \"knock at\" means \"tap a door to let someone know you are there\". The sentence says: \"I knock at the door, and an old man welcomes our group.\".",
+      "parentExplanation": "第3句译为：我敲门，一位老人欢迎我们一行。 其中“knock at”对应本源词条的“敲（门或窗）”；本题只考句中实际使用的意思。",
+      "translation": {
+        "stem": "短文中的“knock at”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "knock at"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0680",
+      "groupId": "E0680",
+      "target": "point to",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "hides a path with his hand"
+        },
+        {
+          "label": "B",
+          "text": "moves the map outside"
+        },
+        {
+          "label": "C",
+          "text": "cuts a place out of the map"
+        },
+        {
+          "label": "D",
+          "text": "shows a place by directing his finger towards it"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “points to” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, \"points to\" means \"shows a place by directing his finger towards it\". The sentence says: \"He opens a map and points to a narrow path behind the post office.\".",
+      "parentExplanation": "第5句译为：他打开地图，指向邮局后面的一条小路。 其中“points to”对应本源词条的“指向”；本题只考句中实际使用的意思。",
+      "translation": {
+        "stem": "短文中的“points to”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "targetSpan": "points to"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why does the old man show the narrow path?",
+      "explanation": "The passage says: \"He opens a map and points to a narrow path behind the post office. It leads to the museum without crossing the muddy field.\" This supports the answer: \"It avoids the muddy field on the way to the museum.\".",
+      "parentExplanation": "对应原文：他打开地图，指向邮局后面的一条小路。 这条路通往博物馆，不必穿过泥泞的田地。 因此正确选项为“It avoids the muddy field on the way to the museum.”。",
+      "translation": {
+        "stem": "老人为什么指示那条小路？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "It is the only road to another village."
+        },
+        {
+          "label": "B",
+          "text": "It avoids the muddy field on the way to the museum."
+        },
+        {
+          "label": "C",
+          "text": "It crosses the deepest part of a river."
+        },
+        {
+          "label": "D",
+          "text": "It leads back into the rain shelter."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title best fits the passage?",
+      "explanation": "The passage says: \"We are visiting a village when a sudden shower begins. A notice on a wooden cabin says that visitors may ask inside for shelter. I knock at the door, and an old man welcomes our group. We leave our wet coats beside the entrance and explain where we are going. He opens a map and points to a narrow path behind the post office. It leads to the museum without crossing the muddy field. When the rain stops, we thank him and follow his careful directions.\" This supports the answer: \"Shelter and Directions from a Kind Stranger\".",
+      "parentExplanation": "对应原文：我们参观村庄时，突然下起阵雨。 一间木屋的告示写着，游客可以进屋请求避雨。 我敲门，一位老人欢迎我们一行。 我们把湿外套放在门口，说明要去哪里。 他打开地图，指向邮局后面的一条小路。 这条路通往博物馆，不必穿过泥泞的田地。 雨停后，我们谢过他，按他细致的指引前行。 因此正确选项为“Shelter and Directions from a Kind Stranger”。",
+      "translation": {
+        "stem": "哪个标题最适合这篇短文？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Building a Cabin beside the Museum"
+        },
+        {
+          "label": "B",
+          "text": "A Lost Coat at the Post Office"
+        },
+        {
+          "label": "C",
+          "text": "Shelter and Directions from a Kind Stranger"
+        },
+        {
+          "label": "D",
+          "text": "Drawing Maps for a Competition"
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Our class wants to raise money for new library cushions. At a meeting, we talk about holding a small book fair after lessons. Families bring books they no longer read and help us arrange the tables. On Friday, every book is on sale at half its usual second-hand price. Clear labels make it easy for visitors to choose what they can afford. By the end, most books find new readers and our money box is full. We count the money together and thank every family that helped.",
+      "parallelText": [
+        {
+          "en": "Our class wants to raise money for new library cushions.",
+          "zh": "我们班想筹钱给图书馆添新坐垫。"
+        },
+        {
+          "en": "At a meeting, we talk about holding a small book fair after lessons.",
+          "zh": "开会时，我们讨论放学后办一个小书市。"
+        },
+        {
+          "en": "Families bring books they no longer read and help us arrange the tables.",
+          "zh": "各家带来不再读的书，帮我们摆桌子。"
+        },
+        {
+          "en": "On Friday, every book is on sale at half its usual second-hand price.",
+          "zh": "星期五，每本书都按通常二手价的一半降价出售。"
+        },
+        {
+          "en": "Clear labels make it easy for visitors to choose what they can afford.",
+          "zh": "清楚的标签便于来客选择买得起的书。"
+        },
+        {
+          "en": "By the end, most books find new readers and our money box is full.",
+          "zh": "结束时，大部分书找到了新读者，钱箱也满了。"
+        },
+        {
+          "en": "We count the money together and thank every family that helped.",
+          "zh": "我们一起数钱，感谢每个提供帮助的家庭。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "cushion",
+          "meaning": "a soft pad for sitting on"
+        },
+        {
+          "word": "book fair",
+          "meaning": "an event where books are displayed and sold"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "We are visiting a village when a sudden shower begins. A notice on a wooden cabin says that visitors may ask inside for shelter. I knock at the door, and an old man welcomes our group. We leave our wet coats beside the entrance and explain where we are going. He opens a map and points to a narrow path behind the post office. It leads to the museum without crossing the muddy field. When the rain stops, we thank him and follow his careful directions.",
+      "parallelText": [
+        {
+          "en": "We are visiting a village when a sudden shower begins.",
+          "zh": "我们参观村庄时，突然下起阵雨。"
+        },
+        {
+          "en": "A notice on a wooden cabin says that visitors may ask inside for shelter.",
+          "zh": "一间木屋的告示写着，游客可以进屋请求避雨。"
+        },
+        {
+          "en": "I knock at the door, and an old man welcomes our group.",
+          "zh": "我敲门，一位老人欢迎我们一行。"
+        },
+        {
+          "en": "We leave our wet coats beside the entrance and explain where we are going.",
+          "zh": "我们把湿外套放在门口，说明要去哪里。"
+        },
+        {
+          "en": "He opens a map and points to a narrow path behind the post office.",
+          "zh": "他打开地图，指向邮局后面的一条小路。"
+        },
+        {
+          "en": "It leads to the museum without crossing the muddy field.",
+          "zh": "这条路通往博物馆，不必穿过泥泞的田地。"
+        },
+        {
+          "en": "When the rain stops, we thank him and follow his careful directions.",
+          "zh": "雨停后，我们谢过他，按他细致的指引前行。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "shelter",
+          "meaning": "a place that protects people from weather"
+        },
+        {
+          "word": "muddy",
+          "meaning": "covered with wet soft earth"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S070-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 1,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0670",
+      "groupId": "E0670",
+      "expression": "point at",
+      "meaning": "指向",
+      "introducedAtStation": 67,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 68,
+      "intervalInStations": 2,
+      "referenceDueStation": 71,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 2,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0600",
+      "groupId": "E0600",
+      "expression": "play with",
+      "meaning": "玩弄",
+      "introducedAtStation": 67,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 68,
+      "intervalInStations": 2,
+      "referenceDueStation": 71,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L1-R3",
+      "lap": 1,
+      "position": 3,
+      "questionNumber": 3,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0598",
+      "groupId": "E0535",
+      "expression": "provide with",
+      "meaning": "以...供给",
+      "introducedAtStation": 67,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 68,
+      "intervalInStations": 2,
+      "referenceDueStation": 71,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L1-R4",
+      "lap": 1,
+      "position": 4,
+      "questionNumber": 4,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0579",
+      "groupId": "E0579",
+      "expression": "sound good/great",
+      "meaning": "听起来不错",
+      "introducedAtStation": 67,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 68,
+      "intervalInStations": 2,
+      "referenceDueStation": 71,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L1-R5",
+      "lap": 1,
+      "position": 5,
+      "questionNumber": 5,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0576",
+      "groupId": "E0576",
+      "expression": "right away",
+      "meaning": "立即，马上",
+      "introducedAtStation": 67,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 68,
+      "intervalInStations": 2,
+      "referenceDueStation": 71,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L1-R6",
+      "lap": 1,
+      "position": 6,
+      "questionNumber": 6,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0794",
+      "groupId": "E0491",
+      "expression": "pass to",
+      "meaning": "传递到",
+      "introducedAtStation": 66,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 68,
+      "intervalInStations": 2,
+      "referenceDueStation": 71,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "源短语表：巩固运用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L1-R7",
+      "lap": 1,
+      "position": 7,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0623",
+      "groupId": "E0623",
+      "expression": "throw away",
+      "meaning": "扔掉",
+      "introducedAtStation": 68,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 69,
+      "intervalInStations": 1,
+      "referenceDueStation": 72,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L1-R8",
+      "lap": 1,
+      "position": 8,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0620",
+      "groupId": "E0620",
+      "expression": "take back",
+      "meaning": "拿回，收回；收回；取回，带回；收回说过的话",
+      "introducedAtStation": 68,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 69,
+      "intervalInStations": 1,
+      "referenceDueStation": 72,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 9,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0584",
+      "groupId": "E0584",
+      "expression": "the same...as...",
+      "meaning": "与……同样……",
+      "introducedAtStation": 68,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 69,
+      "intervalInStations": 1,
+      "referenceDueStation": 72,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 10,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0498",
+      "groupId": "E0498",
+      "expression": "tie...to...",
+      "meaning": "把……拴（或扎、系、绑）在……上",
+      "introducedAtStation": 68,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 69,
+      "intervalInStations": 1,
+      "referenceDueStation": 72,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L2-R3",
+      "lap": 2,
+      "position": 3,
+      "questionNumber": 11,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0268",
+      "groupId": "E0268",
+      "expression": "start to do sth./doing sth.",
+      "meaning": "开始做某事",
+      "introducedAtStation": 68,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 69,
+      "intervalInStations": 1,
+      "referenceDueStation": 72,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L2-R4",
+      "lap": 2,
+      "position": 4,
+      "questionNumber": 12,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T285",
+      "groupId": "T285",
+      "expression": "primary school",
+      "meaning": "小学",
+      "introducedAtStation": 47,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 49,
+      "intervalInStations": 21,
+      "referenceDueStation": 56,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L2-R5",
+      "lap": 2,
+      "position": 5,
+      "questionNumber": 13,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T284",
+      "groupId": "T284",
+      "expression": "make a difference",
+      "meaning": "有作用；有影响",
+      "introducedAtStation": 47,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 49,
+      "intervalInStations": 21,
+      "referenceDueStation": 56,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L2-R6",
+      "lap": 2,
+      "position": 6,
+      "questionNumber": 14,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T281",
+      "groupId": "T281",
+      "expression": "of course",
+      "meaning": "当然",
+      "introducedAtStation": 46,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 49,
+      "intervalInStations": 21,
+      "referenceDueStation": 56,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L2-R7",
+      "lap": 2,
+      "position": 7,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T280",
+      "groupId": "T280",
+      "expression": "solar power",
+      "meaning": "太阳能",
+      "introducedAtStation": 46,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 49,
+      "intervalInStations": 21,
+      "referenceDueStation": 56,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L2-R8",
+      "lap": 2,
+      "position": 8,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T279",
+      "groupId": "T279",
+      "expression": "clubs fair",
+      "meaning": "社团招募展",
+      "introducedAtStation": 46,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 49,
+      "intervalInStations": 21,
+      "referenceDueStation": 56,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0295",
+      "groupId": "E0634",
+      "expression": "talk about",
+      "meaning": "谈论",
+      "introducedAtStation": 68,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 2,
+      "referenceDueStation": 69,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0448",
+      "groupId": "E0448",
+      "expression": "on sale",
+      "meaning": "①出售，上市②廉价出售",
+      "introducedAtStation": 66,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 67,
+      "intervalInStations": 3,
+      "referenceDueStation": 70,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0330",
+      "groupId": "E0330",
+      "expression": "knock at/on",
+      "meaning": "敲（门或窗）",
+      "introducedAtStation": 65,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 67,
+      "intervalInStations": 3,
+      "referenceDueStation": 70,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S070-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0680",
+      "groupId": "E0680",
+      "expression": "point to",
+      "meaning": "指向",
+      "introducedAtStation": 67,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 68,
+      "intervalInStations": 2,
+      "referenceDueStation": 71,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

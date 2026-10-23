@@ -1,0 +1,2963 @@
+{
+  "station": 106,
+  "type": "new_learning",
+  "phase": "phrase_supplement",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 106,
+  "newItems": [
+    {
+      "groupId": "E0630",
+      "sourceId": "E0630",
+      "sourceIds": [
+        "E0630"
+      ],
+      "word": "take away",
+      "meaning": "拿走；带走，拿走，取走；减去；消除",
+      "sourceItems": [
+        {
+          "sourceId": "E0630",
+          "sourceKind": "phrase",
+          "expression": "take away",
+          "meaning": "拿走；带走，拿走，取走；减去；消除",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "take it away；过去式 took。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0639；P0862；P1158",
+          "sourceImages": "IMG_2715.heic；IMG_2718.heic；IMG_2721.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 221,
+          "originalFields": {
+            "编号": "E0630",
+            "英文表达": "take away",
+            "中文释义": "拿走；带走，拿走，取走；减去；消除",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "take it away；过去式 took。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 3,
+            "原始条目编号": "P0639；P0862；P1158",
+            "来源图片": "IMG_2715.heic；IMG_2718.heic；IMG_2721.heic",
+            "原文英文": "take away",
+            "原文释义": "拿走；带走，拿走，取走；拿走；减去；消除",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0630",
+          "introducedAtStation": 106
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0630",
+        "sourceIds": [
+          "E0630"
+        ],
+        "expression": "take away",
+        "phonetic": "/teɪk əˈweɪ/",
+        "readingForms": [
+          {
+            "expression": "take away",
+            "phonetic": "/teɪk əˈweɪ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0630",
+            "expression": "take away"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please take away the empty boxes.",
+          "zh": "请把空箱子拿走。",
+          "sourceIds": [
+            "E0630"
+          ]
+        },
+        {
+          "en": "Take three away from eight and you have five.",
+          "zh": "从八减去三，得到五。",
+          "sourceIds": [
+            "E0630"
+          ]
+        },
+        {
+          "en": "A clear explanation can take away confusion.",
+          "zh": "清楚的解释可以消除困惑。",
+          "sourceIds": [
+            "E0630"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "subtract",
+          "meaning": "remove one number or amount from another"
+        },
+        {
+          "word": "confusion",
+          "meaning": "a state of not understanding something clearly"
+        }
+      ],
+      "notes": "拿走、减去、消除三义分别有例句及两fill。",
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0206",
+      "sourceId": "E0206",
+      "sourceIds": [
+        "E0206"
+      ],
+      "word": "take care of",
+      "meaning": "①照顾②处理；照顾；照顾，照料",
+      "sourceItems": [
+        {
+          "sourceId": "E0206",
+          "sourceKind": "phrase",
+          "expression": "take care of",
+          "meaning": "①照顾②处理；照顾；照顾，照料",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "care作名词，of后接照料对象",
+          "evidence": "7上U1参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0206；P0869；P1161",
+          "sourceImages": "IMG_2700.heic；IMG_2718.heic；IMG_2721.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 222,
+          "originalFields": {
+            "编号": "E0206",
+            "英文表达": "take care of",
+            "中文释义": "①照顾②处理；照顾；照顾，照料",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "care作名词，of后接照料对象",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "7上U1参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 3,
+            "原始条目编号": "P0206；P0869；P1161",
+            "来源图片": "IMG_2700.heic；IMG_2718.heic；IMG_2721.heic",
+            "原文英文": "take care of",
+            "原文释义": "①照顾②处理；照顾；照顾，照料",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/20866078"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0206",
+          "introducedAtStation": 106
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0206",
+        "sourceIds": [
+          "E0206"
+        ],
+        "expression": "take care of",
+        "phonetic": "/teɪk keər əv/",
+        "readingForms": [
+          {
+            "expression": "take care of",
+            "phonetic": "/teɪk keər əv/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0206",
+            "expression": "take care of"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We take care of the plants during the holiday.",
+          "zh": "我们在假期照料植物。",
+          "sourceIds": [
+            "E0206"
+          ]
+        },
+        {
+          "en": "I can take care of the tickets while you pack the bags.",
+          "zh": "你收拾行李时，我可以处理票务。",
+          "sourceIds": [
+            "E0206"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "照顾与处理两个原义分开覆盖。",
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0706",
+      "sourceId": "E0706",
+      "sourceIds": [
+        "E0706"
+      ],
+      "word": "take out",
+      "meaning": "取出，去掉",
+      "sourceItems": [
+        {
+          "sourceId": "E0706",
+          "sourceKind": "phrase",
+          "expression": "take out",
+          "meaning": "取出，去掉",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "代词宾语放中间，如take it out；从某处取出可加of。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0755",
+          "sourceImages": "IMG_2716.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 223,
+          "originalFields": {
+            "编号": "E0706",
+            "英文表达": "take out",
+            "中文释义": "取出，去掉",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "代词宾语放中间，如take it out；从某处取出可加of。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0755",
+            "来源图片": "IMG_2716.heic",
+            "原文英文": "take out",
+            "原文释义": "取出，去掉",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0706",
+          "introducedAtStation": 106
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0706",
+        "sourceIds": [
+          "E0706"
+        ],
+        "expression": "take out",
+        "phonetic": "/teɪk aʊt/",
+        "readingForms": [
+          {
+            "expression": "take out",
+            "phonetic": "/teɪk aʊt/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0706",
+            "expression": "take out"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I take my book out of my bag.",
+          "zh": "我从包里拿出书。",
+          "sourceIds": [
+            "E0706"
+          ]
+        },
+        {
+          "en": "Please take the broken part out of the toy.",
+          "zh": "请把玩具里坏掉的部件去掉。",
+          "sourceIds": [
+            "E0706"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0523",
+      "sourceId": "E0523",
+      "sourceIds": [
+        "E0523"
+      ],
+      "word": "tidy up",
+      "meaning": "收拾，整理，使整洁",
+      "sourceItems": [
+        {
+          "sourceId": "E0523",
+          "sourceKind": "phrase",
+          "expression": "tidy up",
+          "meaning": "收拾，整理，使整洁",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "可单独表示整理，也可接房间等宾语；代词置中间。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0527",
+          "sourceImages": "IMG_2705.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 224,
+          "originalFields": {
+            "编号": "E0523",
+            "英文表达": "tidy up",
+            "中文释义": "收拾，整理，使整洁",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "可单独表示整理，也可接房间等宾语；代词置中间。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0527",
+            "来源图片": "IMG_2705.heic",
+            "原文英文": "tidy up",
+            "原文释义": "收拾，整理，使整洁",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0523",
+          "introducedAtStation": 106
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0523",
+        "sourceIds": [
+          "E0523"
+        ],
+        "expression": "tidy up",
+        "phonetic": "/ˈtaɪdi ʌp/",
+        "readingForms": [
+          {
+            "expression": "tidy up",
+            "phonetic": "/ˈtaɪdi ʌp/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0523",
+            "expression": "tidy up"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We tidy up the classroom after the activity.",
+          "zh": "活动后我们整理教室。",
+          "sourceIds": [
+            "E0523"
+          ]
+        },
+        {
+          "en": "The desk is messy. Please tidy it up.",
+          "zh": "桌子很乱。请把它整理好。",
+          "sourceIds": [
+            "E0523"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0225",
+      "sourceId": "E0225",
+      "sourceIds": [
+        "E0225"
+      ],
+      "word": "turn off",
+      "meaning": "关闭；关掉；关掉（水、电、电视、收音机等）",
+      "sourceItems": [
+        {
+          "sourceId": "E0225",
+          "sourceKind": "phrase",
+          "expression": "turn off",
+          "meaning": "关闭；关掉；关掉（水、电、电视、收音机等）",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "关闭电器用turn off，代词宾语置中间",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0225；P0818；P1197",
+          "sourceImages": "IMG_2701.heic；IMG_2717.heic；IMG_2722.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 225,
+          "originalFields": {
+            "编号": "E0225",
+            "英文表达": "turn off",
+            "中文释义": "关闭；关掉；关掉（水、电、电视、收音机等）",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "关闭电器用turn off，代词宾语置中间",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“关闭”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 3,
+            "原始条目编号": "P0225；P0818；P1197",
+            "来源图片": "IMG_2701.heic；IMG_2717.heic；IMG_2722.heic",
+            "原文英文": "turn off",
+            "原文释义": "关闭；关掉；关掉（水、电、电视、收音机等）",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0225",
+          "introducedAtStation": 106
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0225",
+        "sourceIds": [
+          "E0225"
+        ],
+        "expression": "turn off",
+        "phonetic": "/tɜːn ɒf/",
+        "readingForms": [
+          {
+            "expression": "turn off",
+            "phonetic": "/tɜːn ɒf/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0225",
+            "expression": "turn off"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please turn off the light before leaving.",
+          "zh": "离开前请关灯。",
+          "sourceIds": [
+            "E0225"
+          ]
+        },
+        {
+          "en": "The tap is running. Please turn it off.",
+          "zh": "水龙头开着。请把它关掉。",
+          "sourceIds": [
+            "E0225"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0226",
+      "sourceId": "E0226",
+      "sourceIds": [
+        "E0226"
+      ],
+      "word": "turn on",
+      "meaning": "启动，打开；打开；打开（水、电、电视、收音机等）",
+      "sourceItems": [
+        {
+          "sourceId": "E0226",
+          "sourceKind": "phrase",
+          "expression": "turn on",
+          "meaning": "启动，打开；打开；打开（水、电、电视、收音机等）",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "打开电器用turn on，区别open门窗",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0226；P0819；P1198",
+          "sourceImages": "IMG_2701.heic；IMG_2717.heic；IMG_2722.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 226,
+          "originalFields": {
+            "编号": "E0226",
+            "英文表达": "turn on",
+            "中文释义": "启动，打开；打开；打开（水、电、电视、收音机等）",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "打开电器用turn on，区别open门窗",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“启动，打开”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 3,
+            "原始条目编号": "P0226；P0819；P1198",
+            "来源图片": "IMG_2701.heic；IMG_2717.heic；IMG_2722.heic",
+            "原文英文": "turn on",
+            "原文释义": "启动，打开；打开；打开（水、电、电视、收音机等）",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0226",
+          "introducedAtStation": 106
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0226",
+        "sourceIds": [
+          "E0226"
+        ],
+        "expression": "turn on",
+        "phonetic": "/tɜːn ɒn/",
+        "readingForms": [
+          {
+            "expression": "turn on",
+            "phonetic": "/tɜːn ɒn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0226",
+            "expression": "turn on"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please turn on the light so we can read.",
+          "zh": "请开灯，好让我们阅读。",
+          "sourceIds": [
+            "E0226"
+          ]
+        },
+        {
+          "en": "The tap is off. Turn it on to get water.",
+          "zh": "水龙头关着。打开它取水。",
+          "sourceIds": [
+            "E0226"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "E0637",
+      "sourceId": "E0637",
+      "sourceIds": [
+        "E0637"
+      ],
+      "word": "hear about",
+      "meaning": "听说",
+      "sourceItems": [
+        {
+          "sourceId": "E0637",
+          "sourceKind": "phrase",
+          "expression": "hear about",
+          "meaning": "听说",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "about后接消息或事件，区别hear from收到某人来信。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0652",
+          "sourceImages": "IMG_2715.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 25,
+          "originalFields": {
+            "编号": "E0637",
+            "英文表达": "hear about",
+            "中文释义": "听说",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "about后接消息或事件，区别hear from收到某人来信。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0652",
+            "来源图片": "IMG_2715.heic",
+            "原文英文": "hear about",
+            "原文释义": "听说",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0637",
+          "introducedAtStation": 64
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0637",
+        "sourceIds": [
+          "E0637"
+        ],
+        "expression": "hear about",
+        "phonetic": "/hɪər əˈbaʊt/",
+        "readingForms": [
+          {
+            "expression": "hear about",
+            "phonetic": "/hɪər əˈbaʊt/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0637",
+            "expression": "hear about"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Did you hear about the new science club?",
+          "zh": "你听说新的科学社团了吗？",
+          "sourceIds": [
+            "E0637"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0514",
+      "sourceId": "E0514",
+      "sourceIds": [
+        "E0514"
+      ],
+      "word": "hurry up",
+      "meaning": "赶快，急忙",
+      "sourceItems": [
+        {
+          "sourceId": "E0514",
+          "sourceKind": "phrase",
+          "expression": "hurry up",
+          "meaning": "赶快，急忙",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "常作催促祈使句，hurry在此是动词。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0518",
+          "sourceImages": "IMG_2705.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 27,
+          "originalFields": {
+            "编号": "E0514",
+            "英文表达": "hurry up",
+            "中文释义": "赶快，急忙",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "常作催促祈使句，hurry在此是动词。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0518",
+            "来源图片": "IMG_2705.heic",
+            "原文英文": "hurry up",
+            "原文释义": "赶快，急忙",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0514",
+          "introducedAtStation": 64
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0514",
+        "sourceIds": [
+          "E0514"
+        ],
+        "expression": "hurry up",
+        "phonetic": "/ˈhʌri ʌp/",
+        "readingForms": [
+          {
+            "expression": "hurry up",
+            "phonetic": "/ˈhʌri ʌp/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0514",
+            "expression": "hurry up"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Hurry up, or we will miss the bus.",
+          "zh": "快点，否则我们会错过公交车。",
+          "sourceIds": [
+            "E0514"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0437",
+      "sourceId": "E0437",
+      "sourceIds": [
+        "E0437"
+      ],
+      "word": "hold on",
+      "meaning": "①等会儿 ②别挂断",
+      "sourceItems": [
+        {
+          "sourceId": "E0437",
+          "sourceKind": "phrase",
+          "expression": "hold on",
+          "meaning": "①等会儿 ②别挂断",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "电话中可表示“别挂断”；注意区别 hold up。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0440",
+          "sourceImages": "IMG_2703.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 26,
+          "originalFields": {
+            "编号": "E0437",
+            "英文表达": "hold on",
+            "中文释义": "①等会儿 ②别挂断",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "电话中可表示“别挂断”；注意区别 hold up。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0440",
+            "来源图片": "IMG_2703.heic",
+            "原文英文": "hold on",
+            "原文释义": "①等会儿 ②别挂断",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0437",
+          "introducedAtStation": 64
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0437",
+        "sourceIds": [
+          "E0437"
+        ],
+        "expression": "hold on",
+        "phonetic": "/həʊld ɒn/",
+        "readingForms": [
+          {
+            "expression": "hold on",
+            "phonetic": "/həʊld ɒn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0437",
+            "expression": "hold on"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Hold on a moment; I need to find my keys.",
+          "zh": "等一下，我得找找钥匙。",
+          "sourceIds": [
+            "E0437"
+          ],
+          "branch": "wait"
+        },
+        {
+          "en": "Please hold on while I get Mum to the phone.",
+          "zh": "请别挂断，我去叫妈妈来接电话。",
+          "sourceIds": [
+            "E0437"
+          ],
+          "branch": "phone"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0399",
+      "sourceId": "E0399",
+      "sourceIds": [
+        "E0399"
+      ],
+      "word": "in the end",
+      "meaning": "最后，终于",
+      "sourceItems": [
+        {
+          "sourceId": "E0399",
+          "sourceKind": "phrase",
+          "expression": "in the end",
+          "meaning": "最后，终于",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "表示最终结果，区别at the end of后接时间或地点。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0399",
+          "sourceImages": "IMG_2703.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 30,
+          "originalFields": {
+            "编号": "E0399",
+            "英文表达": "in the end",
+            "中文释义": "最后，终于",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "表示最终结果，区别at the end of后接时间或地点。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0399",
+            "来源图片": "IMG_2703.heic",
+            "原文英文": "in the end",
+            "原文释义": "最后，终于",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0399",
+          "introducedAtStation": 64
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0399",
+        "sourceIds": [
+          "E0399"
+        ],
+        "expression": "in the end",
+        "phonetic": "/ɪn ði end/",
+        "readingForms": [
+          {
+            "expression": "in the end",
+            "phonetic": "/ɪn ði end/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0399",
+            "expression": "in the end"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The puzzle is hard, but we solve it in the end.",
+          "zh": "谜题很难，但我们最后解出来了。",
+          "sourceIds": [
+            "E0399"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T024",
+      "sourceId": "T024",
+      "sourceIds": [
+        "T024"
+      ],
+      "word": "be good at",
+      "meaning": "擅长……",
+      "sourceItems": [
+        {
+          "sourceId": "T024",
+          "sourceKind": "textbook",
+          "expression": "be good at",
+          "meaning": "擅长……",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 1",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 5,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 29,
+          "originalFields": {
+            "序号": 24,
+            "单元": "Unit 1",
+            "类型": "短语",
+            "单词／短语": "be good at",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "擅长……",
+            "教材课文页": 5,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T024",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T024",
+        "sourceIds": [
+          "T024"
+        ],
+        "expression": "be good at",
+        "phonetic": "/bi ɡʊd æt/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Ben is good at drawing animals.",
+          "zh": "本擅长画动物。",
+          "sourceIds": [
+            "T024"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T022",
+      "sourceId": "T022",
+      "sourceIds": [
+        "T022"
+      ],
+      "word": "end",
+      "meaning": "结局",
+      "sourceItems": [
+        {
+          "sourceId": "T022",
+          "sourceKind": "textbook",
+          "expression": "end",
+          "meaning": "结局",
+          "partOfSpeech": "n.",
+          "phonetic": "/end/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 14,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 27,
+          "originalFields": {
+            "序号": 22,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "end",
+            "音标（教材）": "/end/",
+            "词性": "n.",
+            "中文释义": "结局",
+            "教材课文页": 14,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T022",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T022",
+        "word": "end",
+        "ipa": "/end/",
+        "focus": "元音/e/短读；结尾/nd/连在一起，不加额外元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The story has a happy end: the two friends meet again.",
+          "zh": "故事有个圆满的结局：两个朋友再次相见。",
+          "sourceIds": [
+            "T022"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "保留教材结局义；不以结束这个动词义计覆盖。",
+      "ipa": "/end/",
+      "pos": "n.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T021",
+      "sourceId": "T021",
+      "sourceIds": [
+        "T021"
+      ],
+      "word": "rise",
+      "meaning": "上升",
+      "sourceItems": [
+        {
+          "sourceId": "T021",
+          "sourceKind": "textbook",
+          "expression": "rise",
+          "meaning": "上升",
+          "partOfSpeech": "v.",
+          "phonetic": "/raɪz/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 14,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 26,
+          "originalFields": {
+            "序号": 21,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "rise",
+            "音标（教材）": "/raɪz/",
+            "词性": "v.",
+            "中文释义": "上升",
+            "教材课文页": 14,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T021",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T021",
+        "word": "rise",
+        "ipa": "/raɪz/",
+        "focus": "/aɪ/有滑动；词尾是浊辅音/z/，不是/s/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Warm air rises above the heater.",
+          "zh": "暖空气上升到取暖器上方。",
+          "sourceIds": [
+            "T021"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/raɪz/",
+      "pos": "v.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T020",
+      "sourceId": "T020",
+      "sourceIds": [
+        "T020"
+      ],
+      "word": "glad",
+      "meaning": "高兴的；愉快的",
+      "sourceItems": [
+        {
+          "sourceId": "T020",
+          "sourceKind": "textbook",
+          "expression": "glad",
+          "meaning": "高兴的；愉快的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ɡlæd/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 14,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 25,
+          "originalFields": {
+            "序号": 20,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "glad",
+            "音标（教材）": "/ɡlæd/",
+            "词性": "adj.",
+            "中文释义": "高兴的；愉快的",
+            "教材课文页": 14,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T020",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T020",
+        "word": "glad",
+        "ipa": "/ɡlæd/",
+        "focus": "开头/ɡl/直接相连；/æ/口张开，末尾/d/不补元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "I am glad to see my old friend again.",
+          "zh": "再次见到老朋友，我很高兴。",
+          "sourceIds": [
+            "T020"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/ɡlæd/",
+      "pos": "adj.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "E0630",
+      "groupId": "E0630",
+      "direction": "zh_to_en",
+      "stem": "拿走；带走，拿走，取走；减去；消除",
+      "options": [
+        {
+          "label": "A",
+          "text": "spoon"
+        },
+        {
+          "label": "B",
+          "text": "take away"
+        },
+        {
+          "label": "C",
+          "text": "universe"
+        },
+        {
+          "label": "D",
+          "text": "be divided into"
+        }
+      ],
+      "answer": "B",
+      "word": "take away",
+      "meaning": "拿走；带走，拿走，取走；减去；消除"
+    },
+    {
+      "id": 2,
+      "sourceId": "E0206",
+      "groupId": "E0206",
+      "direction": "en_to_zh",
+      "stem": "take care of",
+      "options": [
+        {
+          "label": "A",
+          "text": "n. 东；东方；adv. 朝东"
+        },
+        {
+          "label": "B",
+          "text": "①照顾②处理；照顾；照顾，照料"
+        },
+        {
+          "label": "C",
+          "text": "赚钱"
+        },
+        {
+          "label": "D",
+          "text": "放进；加进"
+        }
+      ],
+      "answer": "B",
+      "word": "take care of",
+      "meaning": "①照顾②处理；照顾；照顾，照料"
+    },
+    {
+      "id": 3,
+      "sourceId": "E0706",
+      "groupId": "E0706",
+      "direction": "zh_to_en",
+      "stem": "取出，去掉",
+      "options": [
+        {
+          "label": "A",
+          "text": "make friends"
+        },
+        {
+          "label": "B",
+          "text": "take out"
+        },
+        {
+          "label": "C",
+          "text": "point to"
+        },
+        {
+          "label": "D",
+          "text": "luckily"
+        }
+      ],
+      "answer": "B",
+      "word": "take out",
+      "meaning": "取出，去掉"
+    },
+    {
+      "id": 4,
+      "sourceId": "E0523",
+      "groupId": "E0523",
+      "direction": "en_to_zh",
+      "stem": "tidy up",
+      "options": [
+        {
+          "label": "A",
+          "text": "中等身高"
+        },
+        {
+          "label": "B",
+          "text": "在某人的帮助下"
+        },
+        {
+          "label": "C",
+          "text": "收拾，整理，使整洁"
+        },
+        {
+          "label": "D",
+          "text": "在……对面"
+        }
+      ],
+      "answer": "C",
+      "word": "tidy up",
+      "meaning": "收拾，整理，使整洁"
+    },
+    {
+      "id": 5,
+      "sourceId": "E0225",
+      "groupId": "E0225",
+      "direction": "zh_to_en",
+      "stem": "关闭；关掉；关掉（水、电、电视、收音机等）",
+      "options": [
+        {
+          "label": "A",
+          "text": "turn off"
+        },
+        {
+          "label": "B",
+          "text": "come and go"
+        },
+        {
+          "label": "C",
+          "text": "skill"
+        },
+        {
+          "label": "D",
+          "text": "fall down"
+        }
+      ],
+      "answer": "A",
+      "word": "turn off",
+      "meaning": "关闭；关掉；关掉（水、电、电视、收音机等）"
+    },
+    {
+      "id": 6,
+      "sourceId": "E0226",
+      "groupId": "E0226",
+      "direction": "en_to_zh",
+      "stem": "turn on",
+      "options": [
+        {
+          "label": "A",
+          "text": "启动，打开；打开；打开（水、电、电视、收音机等）"
+        },
+        {
+          "label": "B",
+          "text": "（通往其他地区的）门户"
+        },
+        {
+          "label": "C",
+          "text": "回家"
+        },
+        {
+          "label": "D",
+          "text": "培养；发展"
+        }
+      ],
+      "answer": "A",
+      "word": "turn on",
+      "meaning": "启动，打开；打开；打开（水、电、电视、收音机等）"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0630",
+      "groupId": "E0630",
+      "target": "take away",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "remove something from a place"
+        },
+        {
+          "label": "B",
+          "text": "to keep something, measure an amount, or describe a problem"
+        },
+        {
+          "label": "C",
+          "text": "to display something, count an amount, or ignore a problem"
+        },
+        {
+          "label": "D",
+          "text": "to add something, increase an amount, or create a problem"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "A",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "take away",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "take away"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "拿走；带走，拿走，取走；减去；消除",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “take away” means “remove something from a place”.",
+      "parentExplanation": "本题考查“take away”在本句中的用法；正确英文解释为“remove something from a place”。对应源表释义为“拿走；带走，拿走，取走；减去；消除”。",
+      "wordHelp": [
+        {
+          "word": "subtract",
+          "meaning": "remove one number or amount from another"
+        },
+        {
+          "word": "confusion",
+          "meaning": "a state of not understanding something clearly"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0206",
+      "groupId": "E0206",
+      "target": "take care of",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to keep something hidden, or ignore a task"
+        },
+        {
+          "label": "B",
+          "text": "care for someone or something"
+        },
+        {
+          "label": "C",
+          "text": "to search for something, or leave a task unfinished"
+        },
+        {
+          "label": "D",
+          "text": "to copy something, or create a new task"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "Please take care of the plants and water them each day.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Please take care of the plants and water them each day."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "请照料这些植物，每天给它们浇水。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “take care of” means “care for someone or something”.",
+      "parentExplanation": "本题考查“take care of”在本句中的用法；正确英文解释为“care for someone or something”。对应源表释义为“①照顾②处理；照顾；照顾，照料”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0706",
+      "groupId": "E0706",
+      "target": "take out",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "watch over"
+        },
+        {
+          "label": "B",
+          "text": "describe"
+        },
+        {
+          "label": "C",
+          "text": "take out"
+        },
+        {
+          "label": "D",
+          "text": "improve"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression describes removing the ruler from inside the bag?",
+      "answer": "C",
+      "listenScript": "Mia opens her bag and removes the ruler from inside. She places it on the desk so she can draw a straight line.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Mia opens her bag and removes the ruler from inside. She places it on the desk so she can draw a straight line."
+        }
+      ],
+      "explanation": "The situation supports “take out”: Mia opens her bag and removes the ruler from inside. She places it on the desk so she can draw a straight line.",
+      "parentExplanation": "情境证据：米娅打开书包，从里面拿出尺子。她把尺子放在桌上，准备画直线。；对应本题“取出，去掉”这一用法。",
+      "translation": {
+        "stem": "哪个表达描述从书包里取出尺子？",
+        "listenScript": "米娅打开书包，从里面拿出尺子。她把尺子放在桌上，准备画直线。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0706",
+        "T004",
+        "T013",
+        "T030"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0523",
+      "groupId": "E0523",
+      "target": "tidy up",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "describe"
+        },
+        {
+          "label": "B",
+          "text": "tidy up"
+        },
+        {
+          "label": "C",
+          "text": "watch over"
+        },
+        {
+          "label": "D",
+          "text": "cry out"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression describes making the desk neat?",
+      "answer": "B",
+      "listenScript": "Books and pencils cover Ben's desk. He arranges them neatly and puts each thing where it belongs.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Books and pencils cover Ben's desk. He arranges them neatly and puts each thing where it belongs."
+        }
+      ],
+      "explanation": "Ben puts the books and pencils into their proper places, making the desk neat. This is tidy up; the other options describe crying out, describing or supervising.",
+      "parentExplanation": "把物品归位、让桌面整洁对应tidy up；将过宽的improve替换为cry out，使其余选项都不是整理动作。",
+      "translation": {
+        "stem": "哪个表达描述把桌子收拾整洁？",
+        "listenScript": "书和铅笔摆满本的桌子。他把它们整理好，每样都放回该放的位置。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0523",
+        "T032",
+        "T013",
+        "T030"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0225",
+      "groupId": "E0225",
+      "target": "turn off",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to stop a machine, light or flow of water from operating"
+        },
+        {
+          "label": "B",
+          "text": "to start a machine, light or flow of water"
+        },
+        {
+          "label": "C",
+          "text": "to carry a machine to a different place"
+        },
+        {
+          "label": "D",
+          "text": "to open a door or a window"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "Nobody is watching the television. Please turn off the television.\nWhat does “turn off” mean here?",
+      "translation": {
+        "stem": "没有人在看电视。请关掉电视。 这里“turn off”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “turn off” means “to stop a machine, light or flow of water from operating”.",
+      "parentExplanation": "本题考查“turn off”在本句中的用法；正确英文解释为“to stop a machine, light or flow of water from operating”。对应源表释义为“关闭；关掉；关掉（水、电、电视、收音机等）”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0226",
+      "groupId": "E0226",
+      "target": "turn on",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to put a machine inside a cupboard"
+        },
+        {
+          "label": "B",
+          "text": "to start a machine, light or flow of water operating"
+        },
+        {
+          "label": "C",
+          "text": "to stop a machine, light or flow of water"
+        },
+        {
+          "label": "D",
+          "text": "to close a door or a window"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "It is dark. Please turn on the light so we can see.\nWhat does “turn on” mean here?",
+      "translation": {
+        "stem": "天黑了。请开灯，让我们看得见。 这里“turn on”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “turn on” means “to start a machine, light or flow of water operating”.",
+      "parentExplanation": "本题考查“turn on”在本句中的用法；正确英文解释为“to start a machine, light or flow of water operating”。对应源表释义为“启动，打开；打开；打开（水、电、电视、收音机等）”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0637",
+      "groupId": "E0637",
+      "target": "hear about",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to fail to notice any news"
+        },
+        {
+          "label": "B",
+          "text": "to receive information about something"
+        },
+        {
+          "label": "C",
+          "text": "to receive a letter directly from its writer"
+        },
+        {
+          "label": "D",
+          "text": "to send information to another person"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "Mia hears about the new library from her teacher and tells us the news.\nWhat does “hears about” mean here?",
+      "translation": {
+        "stem": "米娅从老师那里听说了新图书馆，并把消息告诉我们。 这里“hears about”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “hear about” means “to receive information about something”.",
+      "parentExplanation": "本题考查“hear about”在本句中的用法；正确英文解释为“to receive information about something”。对应源表释义为“听说”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0514",
+      "groupId": "E0514",
+      "target": "hurry up",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to leave without any preparation"
+        },
+        {
+          "label": "B",
+          "text": "to move or act more slowly"
+        },
+        {
+          "label": "C",
+          "text": "to move or act more quickly"
+        },
+        {
+          "label": "D",
+          "text": "to stop and wait quietly"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Please hurry up! The bus leaves in two minutes, and we are still at home.\nWhat does “hurry up” mean here?",
+      "translation": {
+        "stem": "请快点！公交车两分钟后就开，我们还在家里。 这里“hurry up”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “hurry up” means “to move or act more quickly”.",
+      "parentExplanation": "本题考查“hurry up”在本句中的用法；正确英文解释为“to move or act more quickly”。对应源表释义为“赶快，急忙”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0630",
+      "groupId": "E0630",
+      "target": "take away",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "take it away"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The empty cup is in the way. Please t________.",
+      "answer": "take it away",
+      "hint": "remove it from this place",
+      "grammar": "Phrase in context",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Put the pronoun it between take and away.",
+      "parentExplanation": "代词it放在take与away之间，不能take away it。",
+      "translation": {
+        "stem": "空杯子挡路了。请把它拿走。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "subtract",
+          "meaning": "remove one number or amount from another"
+        },
+        {
+          "word": "confusion",
+          "meaning": "a state of not understanding something clearly"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0206",
+      "groupId": "E0206",
+      "target": "take care of",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "takes care of"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The animal nurse t________ the injured rabbit until it can return to its owner.",
+      "answer": "takes care of",
+      "hint": "Use the three-word phrase meaning looks after an animal and meets its needs.",
+      "grammar": "Simple present: third-person singular",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The singular subject “the animal nurse” takes “takes care of”, meaning looks after the rabbit.",
+      "parentExplanation": "the animal nurse为单数，用takes care of；指照料受伤的兔子。",
+      "translation": {
+        "stem": "动物护理员照料受伤的兔子，直到它能回到主人身边。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0706",
+      "groupId": "E0706",
+      "target": "take out",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "take out"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Open your bag and t________ your book.",
+      "answer": "take out",
+      "hint": "remove something from inside a place",
+      "grammar": "Phrase in context",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Take out before a noun means remove it from inside.",
+      "parentExplanation": "take out此处为取出，book是实际宾语。",
+      "translation": {
+        "stem": "打开书包，拿出书。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0523",
+      "groupId": "E0523",
+      "target": "tidy up",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "tidy up"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Please t________ the classroom and put the books on the shelves.",
+      "answer": "tidy up",
+      "hint": "make a place neat by putting things in order",
+      "grammar": "Phrase in context",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Tidy up means make a place neat.",
+      "parentExplanation": "tidy up后可接地点classroom。",
+      "translation": {
+        "stem": "请整理教室，把书放在架子上。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0225",
+      "groupId": "E0225",
+      "target": "turn off",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "turn it off"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The tap is still running. Please t________ to stop the water.",
+      "answer": "turn it off",
+      "hint": "stop it from operating or flowing",
+      "grammar": "Phrase in context",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Put the pronoun it between turn and off.",
+      "parentExplanation": "it代指水龙头，置于turn与off之间；承接关水流。",
+      "translation": {
+        "stem": "水龙头还开着。请关掉它，让水停下。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0226",
+      "groupId": "E0226",
+      "target": "turn on",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "turn it on"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The tap is off. Please t________ to get some water.",
+      "answer": "turn it on",
+      "hint": "start it operating or flowing",
+      "grammar": "Phrase in context",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The pronoun it goes between turn and on.",
+      "parentExplanation": "代词it放在turn与on之间，表示打开水龙头。",
+      "translation": {
+        "stem": "水龙头关着。请打开它取水。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0437",
+      "groupId": "E0437",
+      "target": "hold on",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "Hold on",
+        "hold on"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The ticket clerk says, 'H________ while I check your booking; this will only take a moment.'",
+      "answer": "Hold on",
+      "hint": "Use the two-word request beginning with Hold that asks someone to wait briefly.",
+      "grammar": "Hold on表等待",
+      "initialLetter": "h",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The clerk needs a short wait to check the booking.",
+      "parentExplanation": "请求短暂等候用Hold on；此处不涉及握住物品。",
+      "translation": {
+        "stem": "售票员说：“请等一下，我查查你的预订；这只需要一会儿。”",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 2,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0399",
+      "groupId": "E0399",
+      "target": "in the end",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "In the end",
+        "in the end"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "At first, both clubs want the same room. I________, they agree to use it on different days.",
+      "answer": "In the end",
+      "hint": "Use the three-word phrase for the final result after a sequence of events.",
+      "grammar": "In the end表最终结果",
+      "initialLetter": "i",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The agreement is the eventual result of the disagreement.",
+      "parentExplanation": "争议后的最终结果用In the end，不是某物末端的at the end of。",
+      "translation": {
+        "stem": "起初，两个社团都想用同一个房间。最后，他们同意在不同的日子使用。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 2,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T024",
+      "groupId": "T024",
+      "target": "be good at",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "has skill in a particular activity"
+        },
+        {
+          "label": "B",
+          "text": "knows nothing about an activity"
+        },
+        {
+          "label": "C",
+          "text": "is late for an activity"
+        },
+        {
+          "label": "D",
+          "text": "is unwilling to try an activity"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “is good at” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “is good at” means “has skill in a particular activity”. The sentence says: Lily is good at describing places, so she writes the opening scene.",
+      "parentExplanation": "“is good at”在此处对应“擅长……”中的本句义项；句意为：莉莉擅长描写地点，所以她写开场。",
+      "translation": {
+        "stem": "短文中的“is good at”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "is good at"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T022",
+      "groupId": "T022",
+      "target": "end",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the name of a magazine"
+        },
+        {
+          "label": "B",
+          "text": "the middle problem only"
+        },
+        {
+          "label": "C",
+          "text": "the first sentence of a story"
+        },
+        {
+          "label": "D",
+          "text": "the way a story finishes"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “end” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “end” means “the way a story finishes”. The sentence says: I read both parts and suggest an end that brings the friends together again.",
+      "parentExplanation": "“end”在此处对应“结局”中的本句义项；句意为：我读过两部分，提出一个让朋友们重新相聚的结局。",
+      "translation": {
+        "stem": "短文中的“end”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "end"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "How does the group check that the parts connect?",
+      "explanation": "The answer is “They read the whole story aloud.”. Evidence: We read the whole piece aloud to check that each part connects clearly.",
+      "parentExplanation": "正确项为“They read the whole story aloud.”。原文依据：我们大声通读整篇，检查各部分能否清楚衔接。",
+      "translation": {
+        "stem": "小组怎样检查各部分衔接？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "They send only the last sentence."
+        },
+        {
+          "label": "B",
+          "text": "They read the whole story aloud."
+        },
+        {
+          "label": "C",
+          "text": "They remove every description."
+        },
+        {
+          "label": "D",
+          "text": "They ask nobody to read it."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title is best?",
+      "explanation": "The answer is “Three Writers Build One Story Together”. Evidence: Our group is writing a short story for the class magazine. Lily is good at describing places, so she writes the opening scene. Ben enjoys making up problems for the characters to solve. I read both parts and suggest an end that brings the friends together again. The others agree that this final event matches the beginning of the story. We read the whole piece aloud to check that each part connects clearly. When we send it to the teacher, all three of us can see our ideas in it.",
+      "parentExplanation": "正确项为“Three Writers Build One Story Together”。原文依据：我们小组正在为班级杂志写一个短故事。莉莉擅长描写地点，所以她写开场。本喜欢编出人物需要解决的难题。我读过两部分，提出一个让朋友们重新相聚的结局。其他人同意，这个最终事件与故事开头相呼应。我们大声通读整篇，检查各部分能否清楚衔接。交给老师时，我们三人都能在其中看到自己的想法。",
+      "translation": {
+        "stem": "哪个标题最好？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The Magazine With No Stories"
+        },
+        {
+          "label": "B",
+          "text": "A Group Draws a Map in Silence"
+        },
+        {
+          "label": "C",
+          "text": "One Writer Rejects Every Idea"
+        },
+        {
+          "label": "D",
+          "text": "Three Writers Build One Story Together"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T021",
+      "groupId": "T021",
+      "target": "rise",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "remain at the same height"
+        },
+        {
+          "label": "B",
+          "text": "break into separate pieces"
+        },
+        {
+          "label": "C",
+          "text": "move upwards"
+        },
+        {
+          "label": "D",
+          "text": "move downwards"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “rise” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “rise” means “move upwards”. The sentence says: We see the balloon rise slowly above the low garden wall.",
+      "parentExplanation": "“rise”在此处对应“上升”中的本句义项；句意为：我们看见气球慢慢升到矮花园墙上方。",
+      "translation": {
+        "stem": "短文中的“rise”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "rise"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T020",
+      "groupId": "T020",
+      "target": "glad",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "feeling angry and upset"
+        },
+        {
+          "label": "B",
+          "text": "feeling uncertain about every detail"
+        },
+        {
+          "label": "C",
+          "text": "feeling pleased or happy"
+        },
+        {
+          "label": "D",
+          "text": "feeling too tired to move"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “glad” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “glad” means “feeling pleased or happy”. The sentence says: We are glad that the bright balloon is easy to follow against the clear sky.",
+      "parentExplanation": "“glad”在此处对应“高兴的；愉快的”中的本句义项；句意为：我们很高兴，晴朗天空下，鲜艳气球很容易被看清。",
+      "translation": {
+        "stem": "短文中的“glad”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "targetSpan": "glad"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Who keeps hold of the string?",
+      "explanation": "The answer is “The teacher.”. Evidence: The teacher keeps hold of the string while we step back safely.",
+      "parentExplanation": "正确项为“The teacher.”。原文依据：我们安全地后退时，老师一直握着绳子。",
+      "translation": {
+        "stem": "谁一直握着绳子？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A gardener behind the wall."
+        },
+        {
+          "label": "B",
+          "text": "The writer's grandmother."
+        },
+        {
+          "label": "C",
+          "text": "A visitor in the classroom."
+        },
+        {
+          "label": "D",
+          "text": "The teacher."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea?",
+      "explanation": "The answer is “A class observes and records a balloon's upward movement.”. Evidence: Our class watches a toy balloon tied to a long string outdoors. The teacher keeps hold of the string while we step back safely. We see the balloon rise slowly above the low garden wall. Lily records its movement in a drawing while Ben writes a short note. We are glad that the bright balloon is easy to follow against the clear sky. The teacher brings it down before we return to the classroom together. Our two records help us explain the movement to classmates who watched from indoors.",
+      "parentExplanation": "正确项为“A class observes and records a balloon's upward movement.”。原文依据：我们班在户外观察一个系着长绳的玩具气球。我们安全地后退时，老师一直握着绳子。我们看见气球慢慢升到矮花园墙上方。莉莉画下它的移动，本写了一段简短记录。我们很高兴，晴朗天空下，鲜艳气球很容易被看清。老师把气球拉下来后，我们一起回教室。两份记录帮助我们向在室内观看的同学解释气球的移动。",
+      "translation": {
+        "stem": "这篇短文的主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Children release every balloon into the sky."
+        },
+        {
+          "label": "B",
+          "text": "A group repairs a broken garden wall."
+        },
+        {
+          "label": "C",
+          "text": "A class writes a story about a lost teacher."
+        },
+        {
+          "label": "D",
+          "text": "A class observes and records a balloon's upward movement."
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Our group is writing a short story for the class magazine. Lily is good at describing places, so she writes the opening scene. Ben enjoys making up problems for the characters to solve. I read both parts and suggest an end that brings the friends together again. The others agree that this final event matches the beginning of the story. We read the whole piece aloud to check that each part connects clearly. When we send it to the teacher, all three of us can see our ideas in it.",
+      "parallelText": [
+        {
+          "en": "Our group is writing a short story for the class magazine.",
+          "zh": "我们小组正在为班级杂志写一个短故事。"
+        },
+        {
+          "en": "Lily is good at describing places, so she writes the opening scene.",
+          "zh": "莉莉擅长描写地点，所以她写开场。"
+        },
+        {
+          "en": "Ben enjoys making up problems for the characters to solve.",
+          "zh": "本喜欢编出人物需要解决的难题。"
+        },
+        {
+          "en": "I read both parts and suggest an end that brings the friends together again.",
+          "zh": "我读过两部分，提出一个让朋友们重新相聚的结局。"
+        },
+        {
+          "en": "The others agree that this final event matches the beginning of the story.",
+          "zh": "其他人同意，这个最终事件与故事开头相呼应。"
+        },
+        {
+          "en": "We read the whole piece aloud to check that each part connects clearly.",
+          "zh": "我们大声通读整篇，检查各部分能否清楚衔接。"
+        },
+        {
+          "en": "When we send it to the teacher, all three of us can see our ideas in it.",
+          "zh": "交给老师时，我们三人都能在其中看到自己的想法。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "opening scene",
+          "meaning": "the first part of a story or play"
+        },
+        {
+          "word": "character",
+          "meaning": "a person or animal in a story"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Our class watches a toy balloon tied to a long string outdoors. The teacher keeps hold of the string while we step back safely. We see the balloon rise slowly above the low garden wall. Lily records its movement in a drawing while Ben writes a short note. We are glad that the bright balloon is easy to follow against the clear sky. The teacher brings it down before we return to the classroom together. Our two records help us explain the movement to classmates who watched from indoors.",
+      "parallelText": [
+        {
+          "en": "Our class watches a toy balloon tied to a long string outdoors.",
+          "zh": "我们班在户外观察一个系着长绳的玩具气球。"
+        },
+        {
+          "en": "The teacher keeps hold of the string while we step back safely.",
+          "zh": "我们安全地后退时，老师一直握着绳子。"
+        },
+        {
+          "en": "We see the balloon rise slowly above the low garden wall.",
+          "zh": "我们看见气球慢慢升到矮花园墙上方。"
+        },
+        {
+          "en": "Lily records its movement in a drawing while Ben writes a short note.",
+          "zh": "莉莉画下它的移动，本写了一段简短记录。"
+        },
+        {
+          "en": "We are glad that the bright balloon is easy to follow against the clear sky.",
+          "zh": "我们很高兴，晴朗天空下，鲜艳气球很容易被看清。"
+        },
+        {
+          "en": "The teacher brings it down before we return to the classroom together.",
+          "zh": "老师把气球拉下来后，我们一起回教室。"
+        },
+        {
+          "en": "Our two records help us explain the movement to classmates who watched from indoors.",
+          "zh": "两份记录帮助我们向在室内观看的同学解释气球的移动。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "record",
+          "meaning": "information kept in writing, pictures or another form"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S106-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0637",
+      "groupId": "E0637",
+      "expression": "hear about",
+      "meaning": "听说",
+      "introducedAtStation": 64,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 66,
+      "intervalInStations": 40,
+      "referenceDueStation": 73,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S106-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0514",
+      "groupId": "E0514",
+      "expression": "hurry up",
+      "meaning": "赶快，急忙",
+      "introducedAtStation": 64,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 66,
+      "intervalInStations": 40,
+      "referenceDueStation": 73,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S106-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0437",
+      "groupId": "E0437",
+      "expression": "hold on",
+      "meaning": "①等会儿 ②别挂断",
+      "introducedAtStation": 64,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 67,
+      "intervalInStations": 39,
+      "referenceDueStation": 74,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S106-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0399",
+      "groupId": "E0399",
+      "expression": "in the end",
+      "meaning": "最后，终于",
+      "introducedAtStation": 64,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 68,
+      "intervalInStations": 38,
+      "referenceDueStation": 75,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S106-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T024",
+      "groupId": "T024",
+      "expression": "be good at",
+      "meaning": "擅长……",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 4,
+      "previousReviewStation": 58,
+      "intervalInStations": 48,
+      "referenceDueStation": 72,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S106-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T022",
+      "groupId": "T022",
+      "expression": "end",
+      "meaning": "结局",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 4,
+      "previousReviewStation": 58,
+      "intervalInStations": 48,
+      "referenceDueStation": 72,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S106-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T021",
+      "groupId": "T021",
+      "expression": "rise",
+      "meaning": "上升",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 4,
+      "previousReviewStation": 58,
+      "intervalInStations": 48,
+      "referenceDueStation": 72,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S106-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T020",
+      "groupId": "T020",
+      "expression": "glad",
+      "meaning": "高兴的；愉快的",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 4,
+      "previousReviewStation": 58,
+      "intervalInStations": 48,
+      "referenceDueStation": 72,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

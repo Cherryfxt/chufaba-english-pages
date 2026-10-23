@@ -1,0 +1,2618 @@
+{
+  "station": 44,
+  "type": "new_learning",
+  "phase": "textbook",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 44,
+  "newItems": [
+    {
+      "groupId": "T266",
+      "sourceId": "T266",
+      "sourceIds": [
+        "T266"
+      ],
+      "word": "charity",
+      "meaning": "慈善机构（或组织）",
+      "sourceItems": [
+        {
+          "sourceId": "T266",
+          "sourceKind": "textbook",
+          "expression": "charity",
+          "meaning": "慈善机构（或组织）",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈtʃærəti/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 108,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 271,
+          "originalFields": {
+            "序号": 266,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "charity",
+            "音标（教材）": "/ˈtʃærəti/",
+            "词性": "n.",
+            "中文释义": "慈善机构（或组织）",
+            "教材课文页": 108,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T266",
+          "introducedAtStation": 44
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T266",
+        "word": "charity",
+        "ipa": "/ˈtʃærəti/",
+        "focus": "重音在/tʃæ/；开头字母组合ch读/tʃ/，后段/rəti/中的/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This charity helps children buy school books.",
+          "zh": "这个慈善机构帮助孩子们购买课本。",
+          "sourceIds": [
+            "T266"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈtʃærəti/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T267",
+      "sourceId": "T267",
+      "sourceIds": [
+        "T267"
+      ],
+      "word": "sale",
+      "meaning": "出售；销售",
+      "sourceItems": [
+        {
+          "sourceId": "T267",
+          "sourceKind": "textbook",
+          "expression": "sale",
+          "meaning": "出售；销售",
+          "partOfSpeech": "n.",
+          "phonetic": "/seɪl/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 108,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 272,
+          "originalFields": {
+            "序号": 267,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "sale",
+            "音标（教材）": "/seɪl/",
+            "词性": "n.",
+            "中文释义": "出售；销售",
+            "教材课文页": 108,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T267",
+          "introducedAtStation": 44
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T267",
+        "word": "sale",
+        "ipa": "/seɪl/",
+        "focus": "/eɪ/有滑动；最后/l/收尾，不加额外元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The shop has books for sale.",
+          "zh": "这家商店有书出售。",
+          "sourceIds": [
+            "T267"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/seɪl/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T268",
+      "sourceId": "T268",
+      "sourceIds": [
+        "T268"
+      ],
+      "word": "snack",
+      "meaning": "点心；小吃",
+      "sourceItems": [
+        {
+          "sourceId": "T268",
+          "sourceKind": "textbook",
+          "expression": "snack",
+          "meaning": "点心；小吃",
+          "partOfSpeech": "n.",
+          "phonetic": "/snæk/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 108,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 273,
+          "originalFields": {
+            "序号": 268,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "snack",
+            "音标（教材）": "/snæk/",
+            "词性": "n.",
+            "中文释义": "点心；小吃",
+            "教材课文页": 108,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T268",
+          "introducedAtStation": 44
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T268",
+        "word": "snack",
+        "ipa": "/snæk/",
+        "focus": "开头/sn/直接连读；/æ/口张开，最后/k/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "I eat a small snack after school.",
+          "zh": "放学后我吃一点小吃。",
+          "sourceIds": [
+            "T268"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/snæk/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T269",
+      "sourceId": "T269",
+      "sourceIds": [
+        "T269"
+      ],
+      "word": "decorate",
+      "meaning": "装饰；装潢",
+      "sourceItems": [
+        {
+          "sourceId": "T269",
+          "sourceKind": "textbook",
+          "expression": "decorate",
+          "meaning": "装饰；装潢",
+          "partOfSpeech": "v.",
+          "phonetic": "/ˈdekəreɪt/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 108,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 274,
+          "originalFields": {
+            "序号": 269,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "decorate",
+            "音标（教材）": "/ˈdekəreɪt/",
+            "词性": "v.",
+            "中文释义": "装饰；装潢",
+            "教材课文页": 108,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T269",
+          "introducedAtStation": 44
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T269",
+        "word": "decorate",
+        "ipa": "/ˈdekəreɪt/",
+        "focus": "重音在/dek/；后段/reɪt/保留/eɪ/滑动，最后/t/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We decorate the classroom with paper flowers.",
+          "zh": "我们用纸花装饰教室。",
+          "sourceIds": [
+            "T269"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈdekəreɪt/",
+      "pos": "v.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T270",
+      "sourceId": "T270",
+      "sourceIds": [
+        "T270"
+      ],
+      "word": "difference",
+      "meaning": "差别；差异",
+      "sourceItems": [
+        {
+          "sourceId": "T270",
+          "sourceKind": "textbook",
+          "expression": "difference",
+          "meaning": "差别；差异",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈdɪfrəns/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 108,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 275,
+          "originalFields": {
+            "序号": 270,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "difference",
+            "音标（教材）": "/ˈdɪfrəns/",
+            "词性": "n.",
+            "中文释义": "差别；差异",
+            "教材课文页": 108,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T270",
+          "introducedAtStation": 44
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T270",
+        "word": "difference",
+        "ipa": "/ˈdɪfrəns/",
+        "focus": "重音在/dɪ/；按源读法中间/fr/相连，后面的/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The main difference between the bags is their size.",
+          "zh": "这两个袋子的主要差别是大小。",
+          "sourceIds": [
+            "T270"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈdɪfrəns/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T271",
+      "sourceId": "T271",
+      "sourceIds": [
+        "T271"
+      ],
+      "word": "compete",
+      "meaning": "参加比赛（或竞赛）",
+      "sourceItems": [
+        {
+          "sourceId": "T271",
+          "sourceKind": "textbook",
+          "expression": "compete",
+          "meaning": "参加比赛（或竞赛）",
+          "partOfSpeech": "v.",
+          "phonetic": "/kəmˈpiːt/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 110,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 276,
+          "originalFields": {
+            "序号": 271,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "compete",
+            "音标（教材）": "/kəmˈpiːt/",
+            "词性": "v.",
+            "中文释义": "参加比赛（或竞赛）",
+            "教材课文页": 110,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T271",
+          "introducedAtStation": 44
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T271",
+        "word": "compete",
+        "ipa": "/kəmˈpiːt/",
+        "focus": "开头/kəm/轻读；重音在/piːt/，/iː/拉长。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Students from six schools compete in the race.",
+          "zh": "来自六所学校的学生参加这场比赛。",
+          "sourceIds": [
+            "T271"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "athlete",
+          "meaning": "a person who takes part in sports"
+        }
+      ],
+      "notes": null,
+      "ipa": "/kəmˈpiːt/",
+      "pos": "v.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "T261",
+      "sourceId": "T261",
+      "sourceIds": [
+        "T261"
+      ],
+      "word": "member",
+      "meaning": "成员",
+      "sourceItems": [
+        {
+          "sourceId": "T261",
+          "sourceKind": "textbook",
+          "expression": "member",
+          "meaning": "成员",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈmembə(r)/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 266,
+          "originalFields": {
+            "序号": 261,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "member",
+            "音标（教材）": "/ˈmembə(r)/",
+            "词性": "n.",
+            "中文释义": "成员",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T261",
+          "introducedAtStation": 43
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T261",
+        "word": "member",
+        "ipa": "/ˈmembə(r)/",
+        "focus": "重音在/mem/；/mb/相连，最后/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Mia is a member of the school music club.",
+          "zh": "米娅是学校音乐社团的一名成员。",
+          "sourceIds": [
+            "T261"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈmembə(r)/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T260",
+      "sourceId": "T260",
+      "sourceIds": [
+        "T260"
+      ],
+      "word": "moment",
+      "meaning": "片刻；瞬间",
+      "sourceItems": [
+        {
+          "sourceId": "T260",
+          "sourceKind": "textbook",
+          "expression": "moment",
+          "meaning": "片刻；瞬间",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈməʊmənt/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 265,
+          "originalFields": {
+            "序号": 260,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "moment",
+            "音标（教材）": "/ˈməʊmənt/",
+            "词性": "n.",
+            "中文释义": "片刻；瞬间",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T260",
+          "introducedAtStation": 43
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T260",
+        "word": "moment",
+        "ipa": "/ˈməʊmənt/",
+        "focus": "重读/məʊ/；第一个/əʊ/有滑动，后段/mənt/中的/ə/弱读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Please wait a moment while I find my keys.",
+          "zh": "请稍等片刻，我找一下钥匙。",
+          "sourceIds": [
+            "T260"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈməʊmənt/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T102",
+      "sourceId": "T102",
+      "sourceIds": [
+        "T102"
+      ],
+      "word": "follow",
+      "meaning": "按……方式发展",
+      "sourceItems": [
+        {
+          "sourceId": "T102",
+          "sourceKind": "textbook",
+          "expression": "follow",
+          "meaning": "按……方式发展",
+          "partOfSpeech": "v.",
+          "phonetic": "/ˈfɒləʊ/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 107,
+          "originalFields": {
+            "序号": 102,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "follow",
+            "音标（教材）": "/ˈfɒləʊ/",
+            "词性": "v.",
+            "中文释义": "按……方式发展",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T102",
+          "introducedAtStation": 5
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T102",
+        "word": "follow",
+        "ipa": "/ˈfɒləʊ/",
+        "focus": "重读/fɒ/；结尾/əʊ/有滑动，不能读成单独的/ɒ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The weather here follows the same pattern each year.",
+          "zh": "这里的天气每年都按同样的模式变化。",
+          "sourceIds": [
+            "T102"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "pattern",
+          "meaning": "a regular way in which things happen"
+        },
+        {
+          "word": "demand",
+          "meaning": "how much people want or need something"
+        },
+        {
+          "word": "seasonal",
+          "meaning": "connected with a season"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈfɒləʊ/",
+      "pos": "v.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T113",
+      "sourceId": "T113",
+      "sourceIds": [
+        "T113"
+      ],
+      "word": "solar term",
+      "meaning": "节气",
+      "sourceItems": [
+        {
+          "sourceId": "T113",
+          "sourceKind": "textbook",
+          "expression": "solar term",
+          "meaning": "节气",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 3",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 118,
+          "originalFields": {
+            "序号": 113,
+            "单元": "Unit 3",
+            "类型": "短语",
+            "单词／短语": "solar term",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "节气",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T113",
+          "introducedAtStation": 8
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T113",
+        "sourceIds": [
+          "T113"
+        ],
+        "expression": "solar term",
+        "phonetic": "/ˈsəʊlə tɜːm/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Qingming is a solar term in the traditional Chinese calendar.",
+          "zh": "清明是中国传统历法中的一个节气。",
+          "sourceIds": [
+            "T113"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "calendar",
+          "meaning": "a way of organising the days and months of a year"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T265",
+      "sourceId": "T265",
+      "sourceIds": [
+        "T265"
+      ],
+      "word": "attend",
+      "meaning": "出席；参加",
+      "sourceItems": [
+        {
+          "sourceId": "T265",
+          "sourceKind": "textbook",
+          "expression": "attend",
+          "meaning": "出席；参加",
+          "partOfSpeech": "v.",
+          "phonetic": "/əˈtend/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 107,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 270,
+          "originalFields": {
+            "序号": 265,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "attend",
+            "音标（教材）": "/əˈtend/",
+            "词性": "v.",
+            "中文释义": "出席；参加",
+            "教材课文页": 107,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T265",
+          "introducedAtStation": 43
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T265",
+        "word": "attend",
+        "ipa": "/əˈtend/",
+        "focus": "开头/ə/轻读；重音在/tend/，末尾/nd/连在一起。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Parents attend the school meeting on Friday.",
+          "zh": "家长们星期五参加学校会议。",
+          "sourceIds": [
+            "T265"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/əˈtend/",
+      "pos": "v.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T264",
+      "sourceId": "T264",
+      "sourceIds": [
+        "T264"
+      ],
+      "word": "recently",
+      "meaning": "不久前；最近",
+      "sourceItems": [
+        {
+          "sourceId": "T264",
+          "sourceKind": "textbook",
+          "expression": "recently",
+          "meaning": "不久前；最近",
+          "partOfSpeech": "adv.",
+          "phonetic": "/ˈriːsntli/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 107,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 269,
+          "originalFields": {
+            "序号": 264,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "recently",
+            "音标（教材）": "/ˈriːsntli/",
+            "词性": "adv.",
+            "中文释义": "不久前；最近",
+            "教材课文页": 107,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T264",
+          "introducedAtStation": 43
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T264",
+        "word": "recently",
+        "ipa": "/ˈriːsntli/",
+        "focus": "首音节/riː/重读；后两音节轻读，词中/s/、/n/、/t/、/l/顺接，词尾字母y读/i/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "A new bookshop opened near our school recently.",
+          "zh": "最近，一家新书店在我们学校附近开业了。",
+          "sourceIds": [
+            "T264"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈriːsntli/",
+      "pos": "adv.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T263",
+      "sourceId": "T263",
+      "sourceIds": [
+        "T263"
+      ],
+      "word": "hike",
+      "meaning": "去……远足；做徒步旅行",
+      "sourceItems": [
+        {
+          "sourceId": "T263",
+          "sourceKind": "textbook",
+          "expression": "hike",
+          "meaning": "去……远足；做徒步旅行",
+          "partOfSpeech": "v.",
+          "phonetic": "/haɪk/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 104,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 268,
+          "originalFields": {
+            "序号": 263,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "hike",
+            "音标（教材）": "/haɪk/",
+            "词性": "v.",
+            "中文释义": "去……远足；做徒步旅行",
+            "教材课文页": 104,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T263",
+          "introducedAtStation": 43
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T263",
+        "word": "hike",
+        "ipa": "/haɪk/",
+        "focus": "/aɪ/有滑动；最后/k/收住，词尾e不另发音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We hike through the hills on Sunday.",
+          "zh": "星期日我们在山间徒步旅行。",
+          "sourceIds": [
+            "T263"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/haɪk/",
+      "pos": "v.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T262",
+      "sourceId": "T262",
+      "sourceIds": [
+        "T262"
+      ],
+      "word": "shape",
+      "meaning": "形状；外形",
+      "sourceItems": [
+        {
+          "sourceId": "T262",
+          "sourceKind": "textbook",
+          "expression": "shape",
+          "meaning": "形状；外形",
+          "partOfSpeech": "n.",
+          "phonetic": "/ʃeɪp/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 267,
+          "originalFields": {
+            "序号": 262,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "shape",
+            "音标（教材）": "/ʃeɪp/",
+            "词性": "n.",
+            "中文释义": "形状；外形",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T262",
+          "introducedAtStation": 43
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T262",
+        "word": "shape",
+        "ipa": "/ʃeɪp/",
+        "focus": "开头字母组合sh读/ʃ/；/eɪ/有滑动，最后/p/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This box has the shape of a star.",
+          "zh": "这个盒子的形状像星星。",
+          "sourceIds": [
+            "T262"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "block",
+          "meaning": "a solid piece used for building or playing"
+        },
+        {
+          "word": "triangle",
+          "meaning": "a flat figure with three straight sides"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ʃeɪp/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T266",
+      "groupId": "T266",
+      "direction": "zh_to_en",
+      "stem": "慈善机构（或组织）",
+      "options": [
+        {
+          "label": "A",
+          "text": "go to bed"
+        },
+        {
+          "label": "B",
+          "text": "charity"
+        },
+        {
+          "label": "C",
+          "text": "be covered by"
+        },
+        {
+          "label": "D",
+          "text": "snack"
+        }
+      ],
+      "answer": "B",
+      "word": "charity",
+      "meaning": "慈善机构（或组织）"
+    },
+    {
+      "id": 2,
+      "sourceId": "T267",
+      "groupId": "T267",
+      "direction": "en_to_zh",
+      "stem": "sale",
+      "options": [
+        {
+          "label": "A",
+          "text": "肯定；没问题；当然；确实"
+        },
+        {
+          "label": "B",
+          "text": "出售；销售"
+        },
+        {
+          "label": "C",
+          "text": "提供；供应"
+        },
+        {
+          "label": "D",
+          "text": "中等身高"
+        }
+      ],
+      "answer": "B",
+      "word": "sale",
+      "meaning": "出售；销售"
+    },
+    {
+      "id": 3,
+      "sourceId": "T268",
+      "groupId": "T268",
+      "direction": "zh_to_en",
+      "stem": "点心；小吃",
+      "options": [
+        {
+          "label": "A",
+          "text": "general"
+        },
+        {
+          "label": "B",
+          "text": "snack"
+        },
+        {
+          "label": "C",
+          "text": "cover"
+        },
+        {
+          "label": "D",
+          "text": "chance"
+        }
+      ],
+      "answer": "B",
+      "word": "snack",
+      "meaning": "点心；小吃"
+    },
+    {
+      "id": 4,
+      "sourceId": "T269",
+      "groupId": "T269",
+      "direction": "en_to_zh",
+      "stem": "decorate",
+      "options": [
+        {
+          "label": "A",
+          "text": "装饰；装潢"
+        },
+        {
+          "label": "B",
+          "text": "离开"
+        },
+        {
+          "label": "C",
+          "text": "原因；理由"
+        },
+        {
+          "label": "D",
+          "text": "宽的；宽阔的"
+        }
+      ],
+      "answer": "A",
+      "word": "decorate",
+      "meaning": "装饰；装潢"
+    },
+    {
+      "id": 5,
+      "sourceId": "T270",
+      "groupId": "T270",
+      "direction": "zh_to_en",
+      "stem": "差别；差异",
+      "options": [
+        {
+          "label": "A",
+          "text": "club"
+        },
+        {
+          "label": "B",
+          "text": "trust"
+        },
+        {
+          "label": "C",
+          "text": "crop"
+        },
+        {
+          "label": "D",
+          "text": "difference"
+        }
+      ],
+      "answer": "D",
+      "word": "difference",
+      "meaning": "差别；差异"
+    },
+    {
+      "id": 6,
+      "sourceId": "T271",
+      "groupId": "T271",
+      "direction": "en_to_zh",
+      "stem": "compete",
+      "options": [
+        {
+          "label": "A",
+          "text": "离开"
+        },
+        {
+          "label": "B",
+          "text": "参加比赛（或竞赛）"
+        },
+        {
+          "label": "C",
+          "text": "使做好准备；把……预备好"
+        },
+        {
+          "label": "D",
+          "text": "计划；方案"
+        }
+      ],
+      "answer": "B",
+      "word": "compete",
+      "meaning": "参加比赛（或竞赛）"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T266",
+      "groupId": "T266",
+      "target": "charity",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a business that sells expensive cars"
+        },
+        {
+          "label": "B",
+          "text": "a club that plays only computer games"
+        },
+        {
+          "label": "C",
+          "text": "an organization that helps people in need"
+        },
+        {
+          "label": "D",
+          "text": "a place that stores old furniture"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "C",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "charity",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "charity"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "慈善机构（或组织）",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “charity” means “an organization that helps people in need”.",
+      "parentExplanation": "本题考查“charity”在本句中的用法；正确英文解释为“an organization that helps people in need”。对应源表释义为“慈善机构（或组织）”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T267",
+      "groupId": "T267",
+      "target": "sale",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the act of repairing something"
+        },
+        {
+          "label": "B",
+          "text": "the act of hiding something"
+        },
+        {
+          "label": "C",
+          "text": "the act of selling something"
+        },
+        {
+          "label": "D",
+          "text": "the act of borrowing something"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "These handmade bags are for sale, not for borrowing.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "These handmade bags are for sale, not for borrowing."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "这些手工袋子用于出售，不供借用。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “sale” means “the act of selling something”.",
+      "parentExplanation": "本题考查“sale”在本句中的用法；正确英文解释为“the act of selling something”。对应源表释义为“出售；销售”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T268",
+      "groupId": "T268",
+      "target": "snack",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "plastic"
+        },
+        {
+          "label": "B",
+          "text": "snack"
+        },
+        {
+          "label": "C",
+          "text": "kilogram"
+        },
+        {
+          "label": "D",
+          "text": "grain"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which word names Ben's small meal?",
+      "answer": "B",
+      "listenScript": "It is the short break between lunch and dinner. Ben eats a small amount of fruit and a biscuit, not a full meal.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "It is the short break between lunch and dinner. Ben eats a small amount of fruit and a biscuit, not a full meal."
+        }
+      ],
+      "explanation": "A small amount of food between main meals is a snack.",
+      "parentExplanation": "两顿正餐间少量吃的食物是snack。",
+      "translation": {
+        "stem": "哪个词指本这次少量进食？",
+        "listenScript": "现在是午饭与晚饭之间的短休息。本吃了一点水果和一块饼干，而不是正餐。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T268",
+        "T139",
+        "T131",
+        "T204"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T269",
+      "groupId": "T269",
+      "target": "decorate",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "divide"
+        },
+        {
+          "label": "B",
+          "text": "decorate"
+        },
+        {
+          "label": "C",
+          "text": "circle"
+        },
+        {
+          "label": "D",
+          "text": "disappear"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which verb describes making the room look more attractive?",
+      "answer": "B",
+      "listenScript": "The pupils hang paper flowers and colourful pictures around the plain room. They want it to look cheerful for the visitors.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The pupils hang paper flowers and colourful pictures around the plain room. They want it to look cheerful for the visitors."
+        }
+      ],
+      "explanation": "Adding paper flowers and pictures makes the room attractive, so they decorate it.",
+      "parentExplanation": "用纸花和图画美化房间是decorate装饰。",
+      "translation": {
+        "stem": "哪个动词描述把房间布置得更好看？",
+        "listenScript": "学生在朴素房间周围挂纸花和彩色图画。他们想让房间看起来欢快，欢迎访客。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T269",
+        "T201",
+        "T103",
+        "T138"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T270",
+      "groupId": "T270",
+      "target": "difference",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a reason why two things are exactly alike"
+        },
+        {
+          "label": "B",
+          "text": "a plan for making something together"
+        },
+        {
+          "label": "C",
+          "text": "a place where two roads meet"
+        },
+        {
+          "label": "D",
+          "text": "a way in which two things are not the same"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "What is the difference between these two pictures? They look almost the same.\nWhat does “difference” mean here?",
+      "translation": {
+        "stem": "这两幅图之间有什么差别？它们看起来几乎一样。 这里“difference”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “difference” means “a way in which two things are not the same”.",
+      "parentExplanation": "本题考查“difference”在本句中的用法；正确英文解释为“a way in which two things are not the same”。对应源表释义为“差别；差异”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T271",
+      "groupId": "T271",
+      "target": "compete",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to watch a contest without taking part"
+        },
+        {
+          "label": "B",
+          "text": "to cancel a contest before it begins"
+        },
+        {
+          "label": "C",
+          "text": "to explain the rules before a contest"
+        },
+        {
+          "label": "D",
+          "text": "take part in a contest"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "Athletes from many schools compete in this swimming contest.\nWhat does “compete” mean here?",
+      "translation": {
+        "stem": "来自许多学校的运动员参加这场游泳比赛。 这里“compete”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “compete” means “take part in a contest”.",
+      "parentExplanation": "本题考查“compete”在本句中的用法；正确英文解释为“take part in a contest”。对应源表释义为“参加比赛（或竞赛）”。",
+      "wordHelp": [
+        {
+          "word": "athlete",
+          "meaning": "a person who takes part in sports"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T261",
+      "groupId": "T261",
+      "target": "member",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a person who belongs to a group"
+        },
+        {
+          "label": "B",
+          "text": "a building used by a group"
+        },
+        {
+          "label": "C",
+          "text": "a rule written for a group"
+        },
+        {
+          "label": "D",
+          "text": "a list of activities for a group"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "Our reading club has twenty members this year.\nWhat does “members” mean here?",
+      "translation": {
+        "stem": "我们的阅读社团今年有二十名成员。 这里“members”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “member” means “a person who belongs to a group”.",
+      "parentExplanation": "本题考查“member”在本句中的用法；正确英文解释为“a person who belongs to a group”。对应源表释义为“成员”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T260",
+      "groupId": "T260",
+      "target": "moment",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a place far away from home"
+        },
+        {
+          "label": "B",
+          "text": "a person in a large group"
+        },
+        {
+          "label": "C",
+          "text": "a very short period of time"
+        },
+        {
+          "label": "D",
+          "text": "a tool for measuring length"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "For a brief moment, the room is completely silent.\nWhat does “moment” mean here?",
+      "translation": {
+        "stem": "短短一瞬间，房间里一片寂静。 这里“moment”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “moment” means “a very short period of time”.",
+      "parentExplanation": "本题考查“moment”在本句中的用法；正确英文解释为“a very short period of time”。对应源表释义为“片刻；瞬间”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T266",
+      "groupId": "T266",
+      "target": "charity",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "charities"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Two local c________ work together to help children.",
+      "answer": "charities",
+      "hint": "organizations that help people in need",
+      "grammar": "Plural noun: charity becomes charities",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Two requires charities; change -y to -ies.",
+      "parentExplanation": "two后用复数charities；charity的y变为ies。",
+      "translation": {
+        "stem": "两家当地慈善机构合作帮助孩子们。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T267",
+      "groupId": "T267",
+      "target": "sale",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "sale"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The s________ of old books raises money for our school garden.",
+      "answer": "sale",
+      "hint": "the act of selling something",
+      "grammar": "The sale of + noun",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The sale of old books means selling the old books.",
+      "parentExplanation": "the sale of old books指出售旧书这件事，填名词sale。",
+      "translation": {
+        "stem": "出售旧书为学校花园筹得了资金。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T268",
+      "groupId": "T268",
+      "target": "snack",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "snack"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia has a small s________ between lunch and dinner.",
+      "answer": "snack",
+      "hint": "a little food eaten between meals",
+      "grammar": "A + singular noun",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A snack is a small amount of food eaten between meals.",
+      "parentExplanation": "a small后用单数snack，指两餐间少量食物。",
+      "translation": {
+        "stem": "米娅在午餐和晚餐之间吃一点小吃。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T269",
+      "groupId": "T269",
+      "target": "decorate",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "decorate"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We use paper flowers to d________ the classroom for the party.",
+      "answer": "decorate",
+      "hint": "make something look more attractive",
+      "grammar": "To + base verb",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use decorate after to.",
+      "parentExplanation": "to后用原形decorate，表示装饰教室。",
+      "translation": {
+        "stem": "我们用纸花装饰教室，为聚会做准备。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T270",
+      "groupId": "T270",
+      "target": "difference",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "differences"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Find three d________ between the old and new maps.",
+      "answer": "differences",
+      "hint": "ways in which things are not the same",
+      "grammar": "Three + plural noun",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Three requires the plural differences.",
+      "parentExplanation": "three后用复数differences，注意名词词尾为-ence。",
+      "translation": {
+        "stem": "请找出新旧地图之间的三个差异。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T271",
+      "groupId": "T271",
+      "target": "compete",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "competes"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia c________ in the school chess contest every year.",
+      "answer": "competes",
+      "hint": "takes part in a contest",
+      "grammar": "Simple present: third-person singular",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Mia is singular, so use competes.",
+      "parentExplanation": "Mia为第三人称单数，使用competes。",
+      "translation": {
+        "stem": "米娅每年参加学校国际象棋比赛。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "athlete",
+          "meaning": "a person who takes part in sports"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T102",
+      "groupId": "T102",
+      "target": "follow",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "follow"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The changes in the river level f________ a regular pattern: it rises after rain and falls in dry weather.",
+      "answer": "follow",
+      "hint": "happen according to a particular pattern",
+      "grammar": "Plural subject + base verb",
+      "initialLetter": "f",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The changes follow a pattern; follow means happen in a particular way.",
+      "parentExplanation": "复数主语changes用follow，表示按某种方式发展，不考跟随某人。",
+      "translation": {
+        "stem": "河流水位变化遵循规律：雨后上升，干燥时下降。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 2,
+      "wordHelp": [
+        {
+          "word": "pattern",
+          "meaning": "a regular way in which things happen"
+        },
+        {
+          "word": "demand",
+          "meaning": "how much people want or need something"
+        },
+        {
+          "word": "seasonal",
+          "meaning": "connected with a season"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T113",
+      "groupId": "T113",
+      "target": "solar term",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "solar terms"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Our class makes twenty-four cards, one for each of the s________ in the traditional Chinese calendar.",
+      "answer": "solar terms",
+      "hint": "traditional periods that mark changes through the year",
+      "grammar": "Each of the + plural noun",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Here, “solar terms” means “one of the twenty-four traditional periods in the Chinese year”. Each of the is followed by the plural phrase solar terms.",
+      "parentExplanation": "each of the后面要接名词复数solar terms。完整句意：我们班制作二十四张卡片，分别对应中国传统历法中的每个节气。",
+      "translation": {
+        "stem": "我们班制作二十四张卡片，分别对应中国传统历法中的每个节气。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 3,
+      "wordHelp": [
+        {
+          "word": "calendar",
+          "meaning": "a way of organising the days and months of a year"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T265",
+      "groupId": "T265",
+      "target": "attend",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "earned money by selling goods"
+        },
+        {
+          "label": "B",
+          "text": "were present at a meeting or event"
+        },
+        {
+          "label": "C",
+          "text": "kept something hidden"
+        },
+        {
+          "label": "D",
+          "text": "travelled around a mountain"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “attended” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Attended means were present at the meeting.",
+      "parentExplanation": "attended为attend的过去式，指出席会议。",
+      "translation": {
+        "stem": "短文中的“attended”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "attended"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T264",
+      "groupId": "T264",
+      "target": "recently",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "at every moment from start to finish"
+        },
+        {
+          "label": "B",
+          "text": "many centuries ago"
+        },
+        {
+          "label": "C",
+          "text": "once every year"
+        },
+        {
+          "label": "D",
+          "text": "not long before the present time"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “Recently” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Recently places the visit not long ago.",
+      "parentExplanation": "Recently为不久前、最近；该目标需要近期过去事件语境。",
+      "translation": {
+        "stem": "短文中的“Recently”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "Recently"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "How did the worker check the children's ideas?",
+      "explanation": "Sentence 5 says she wrote the ideas and checked their agreement.",
+      "parentExplanation": "第5句表明记录后请孩子核对。",
+      "translation": {
+        "stem": "工作人员怎样核对孩子的想法？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "She wrote them down and asked the children to confirm the notes."
+        },
+        {
+          "label": "B",
+          "text": "She removed the children from the meeting at once."
+        },
+        {
+          "label": "C",
+          "text": "She refused to show anyone the board."
+        },
+        {
+          "label": "D",
+          "text": "She copied only the parents' names into a book."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title best fits the passage?",
+      "explanation": "The pupils attend a meeting, offer ideas and learn to discuss their needs.",
+      "parentExplanation": "全文讲学生参会，为社区空间提出想法。",
+      "translation": {
+        "stem": "哪个标题最合适？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A Worker Plans a Journey Without Any Help"
+        },
+        {
+          "label": "B",
+          "text": "Children Share Ideas for a Community Space"
+        },
+        {
+          "label": "C",
+          "text": "A Class Searches for a Lost Drawing"
+        },
+        {
+          "label": "D",
+          "text": "Parents Close the School Reading Room"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T263",
+      "groupId": "T263",
+      "target": "hike",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "perform a character on stage"
+        },
+        {
+          "label": "B",
+          "text": "clean equipment with a cloth"
+        },
+        {
+          "label": "C",
+          "text": "take a long walk in the countryside"
+        },
+        {
+          "label": "D",
+          "text": "travel to a place only by car"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “hike” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Hike describes the countryside walk along a marked path.",
+      "parentExplanation": "hike为去远足、徒步旅行，语境是沿湖边小路行走。",
+      "translation": {
+        "stem": "短文中的“hike”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "hike"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T262",
+      "groupId": "T262",
+      "target": "shape",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the price of something"
+        },
+        {
+          "label": "B",
+          "text": "the outline or form of something"
+        },
+        {
+          "label": "C",
+          "text": "the sound of something"
+        },
+        {
+          "label": "D",
+          "text": "the weight of something"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “shape” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Shape describes the pointed outline of the rock.",
+      "parentExplanation": "shape指岩石外轮廓、形状，此处像三角形。",
+      "translation": {
+        "stem": "短文中的“shape”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "shape"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why do the pupils draw and label the landmarks?",
+      "explanation": "The teacher gives the route-memory purpose in sentence 2, and sentence 6 shows it working.",
+      "parentExplanation": "第2句给出记路线目的，第6句说明返程时能识别地点。",
+      "translation": {
+        "stem": "学生为什么画地标并标注？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        2,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "To find a new price for every rock."
+        },
+        {
+          "label": "B",
+          "text": "To count the number of fish in the water."
+        },
+        {
+          "label": "C",
+          "text": "To replace every sign around the lake."
+        },
+        {
+          "label": "D",
+          "text": "To help them remember and recognise places along the route."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea of the passage?",
+      "explanation": "The group turns observations into useful route notes.",
+      "parentExplanation": "全文讲把徒步观察转成记路线的实用图画记录。",
+      "translation": {
+        "stem": "短文的主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A teacher stops children from using notebooks outdoors."
+        },
+        {
+          "label": "B",
+          "text": "A group races to collect the largest rocks."
+        },
+        {
+          "label": "C",
+          "text": "Drawing landmarks makes a walk easier to remember."
+        },
+        {
+          "label": "D",
+          "text": "A class plans to remove the lake from its map."
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Recently, our class went to a meeting about the new community centre. Parents and children attended together so everyone could suggest useful activities. Mia asked for a quiet reading corner with a low shelf for younger children. Ben suggested a table where pupils could share drawings and craft ideas. A worker wrote each idea on a board and checked that the children agreed with her notes. Before leaving, we each received a copy to discuss back at school. The meeting showed us that children can explain their needs and listen to other people too.",
+      "parallelText": [
+        {
+          "en": "Recently, our class went to a meeting about the new community centre.",
+          "zh": "最近，我们班去参加了一场关于新社区中心的会议。"
+        },
+        {
+          "en": "Parents and children attended together so everyone could suggest useful activities.",
+          "zh": "父母和孩子一起出席，让每个人都能建议实用活动。"
+        },
+        {
+          "en": "Mia asked for a quiet reading corner with a low shelf for younger children.",
+          "zh": "米娅提议设一个安静阅读角，放低书架供较小孩子用。"
+        },
+        {
+          "en": "Ben suggested a table where pupils could share drawings and craft ideas.",
+          "zh": "本建议放一张桌子，供学生分享画作和手工想法。"
+        },
+        {
+          "en": "A worker wrote each idea on a board and checked that the children agreed with her notes.",
+          "zh": "工作人员把每个想法写在板上，并核对孩子们是否认可记录。"
+        },
+        {
+          "en": "Before leaving, we each received a copy to discuss back at school.",
+          "zh": "离开前，每个人拿到一份副本，回校继续讨论。"
+        },
+        {
+          "en": "The meeting showed us that children can explain their needs and listen to other people too.",
+          "zh": "这次会议让我们看到，孩子也可以说明需要，并听取别人的意见。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "community centre",
+          "meaning": "a building where people in an area meet for activities"
+        },
+        {
+          "word": "confirm",
+          "meaning": "say that something is correct"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Our walking group likes to hike along the marked path above the lake. Today, the teacher asks us to draw landmarks that help us remember the route. Ben draws a rock with a pointed shape, like a large triangle. Mia chooses the curved edge of the lake because it looks like the letter C. We add labels and compare the drawings with the path on our map. On the return walk, the landmarks help us recognise where to stop and rest. Our pictures become useful notes rather than just souvenirs of a pleasant walk.",
+      "parallelText": [
+        {
+          "en": "Our walking group likes to hike along the marked path above the lake.",
+          "zh": "我们徒步小组喜欢沿湖上方有标记的小路远足。"
+        },
+        {
+          "en": "Today, the teacher asks us to draw landmarks that help us remember the route.",
+          "zh": "今天老师请我们画下能帮助记住路线的地标。"
+        },
+        {
+          "en": "Ben draws a rock with a pointed shape, like a large triangle.",
+          "zh": "本画一块外形尖尖、像大三角形的石头。"
+        },
+        {
+          "en": "Mia chooses the curved edge of the lake because it looks like the letter C.",
+          "zh": "米娅选了湖的弯曲边缘，因为它像字母C。"
+        },
+        {
+          "en": "We add labels and compare the drawings with the path on our map.",
+          "zh": "我们加上标签，把画与地图上的小路比较。"
+        },
+        {
+          "en": "On the return walk, the landmarks help us recognise where to stop and rest.",
+          "zh": "返回时，这些地标帮助我们识别哪里可以停下休息。"
+        },
+        {
+          "en": "Our pictures become useful notes rather than just souvenirs of a pleasant walk.",
+          "zh": "我们的画成了实用记录，而不仅是愉快徒步的纪念。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "landmark",
+          "meaning": "an easily recognised feature that helps identify a place"
+        },
+        {
+          "word": "souvenir",
+          "meaning": "an object kept to remember a visit"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S044-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T261",
+      "groupId": "T261",
+      "expression": "member",
+      "meaning": "成员",
+      "introducedAtStation": 43,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 44,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S044-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T260",
+      "groupId": "T260",
+      "expression": "moment",
+      "meaning": "片刻；瞬间",
+      "introducedAtStation": 43,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 44,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S044-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T102",
+      "groupId": "T102",
+      "expression": "follow",
+      "meaning": "按……方式发展",
+      "introducedAtStation": 5,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 15,
+      "intervalInStations": 29,
+      "referenceDueStation": 22,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S044-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T113",
+      "groupId": "T113",
+      "expression": "solar term",
+      "meaning": "节气",
+      "introducedAtStation": 8,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 15,
+      "intervalInStations": 29,
+      "referenceDueStation": 22,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S044-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T265",
+      "groupId": "T265",
+      "expression": "attend",
+      "meaning": "出席；参加",
+      "introducedAtStation": 43,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 44,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S044-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T264",
+      "groupId": "T264",
+      "expression": "recently",
+      "meaning": "不久前；最近",
+      "introducedAtStation": 43,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 44,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S044-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T263",
+      "groupId": "T263",
+      "expression": "hike",
+      "meaning": "去……远足；做徒步旅行",
+      "introducedAtStation": 43,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 44,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S044-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T262",
+      "groupId": "T262",
+      "expression": "shape",
+      "meaning": "形状；外形",
+      "introducedAtStation": 43,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 44,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

@@ -1,0 +1,4376 @@
+{
+  "station": 76,
+  "type": "formal_review",
+  "phase": null,
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 76,
+  "newItems": [],
+  "reviewItems": [
+    {
+      "groupId": "E0050",
+      "sourceId": "E0050",
+      "sourceIds": [
+        "E0050"
+      ],
+      "word": "come back",
+      "meaning": "①回来 ②回想起来；回来",
+      "sourceItems": [
+        {
+          "sourceId": "E0050",
+          "sourceKind": "phrase",
+          "expression": "come back",
+          "meaning": "①回来 ②回想起来；回来",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "back为副词，返回地点另接介词",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0050；P0959",
+          "sourceImages": "IMG_2698.heic；IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 85,
+          "originalFields": {
+            "编号": "E0050",
+            "英文表达": "come back",
+            "中文释义": "①回来 ②回想起来；回来",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "back为副词，返回地点另接介词",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“回来 ”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0050；P0959",
+            "来源图片": "IMG_2698.heic；IMG_2719.heic",
+            "原文英文": "come back",
+            "原文释义": "①回来 ②回想起来；回来",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0050",
+          "introducedAtStation": 75
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0050",
+        "sourceIds": [
+          "E0050"
+        ],
+        "expression": "come back",
+        "phonetic": "/kʌm bæk/",
+        "readingForms": [
+          {
+            "expression": "come back",
+            "phonetic": "/kʌm bæk/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0050",
+            "expression": "come back"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please come back to the classroom after lunch.",
+          "zh": "午饭后请回到教室。",
+          "sourceIds": [
+            "E0050"
+          ]
+        },
+        {
+          "en": "The name comes back to me when I see the photo.",
+          "zh": "看到这张照片时，我又想起那个名字。",
+          "sourceIds": [
+            "E0050"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0019",
+      "sourceId": "E0019",
+      "sourceIds": [
+        "E0019"
+      ],
+      "word": "be famous for...",
+      "meaning": "因……而著名",
+      "sourceItems": [
+        {
+          "sourceId": "E0019",
+          "sourceKind": "phrase",
+          "expression": "be famous for...",
+          "meaning": "因……而著名",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "科技文化",
+          "usage": "for后接出名的原因，辨析be famous as",
+          "evidence": "7上U6参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0019",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 80,
+          "originalFields": {
+            "编号": "E0019",
+            "英文表达": "be famous for...",
+            "中文释义": "因……而著名",
+            "学习层级": "核心掌握",
+            "主题": "科技文化",
+            "用法与易错点": "for后接出名的原因，辨析be famous as",
+            "适用训练": "语法填空、完形阅读、书面表达",
+            "教材关联证据": "7上U6参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0019",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "be famous for...",
+            "原文释义": "因……而著名",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/20866078"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0019",
+          "introducedAtStation": 75
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0019",
+        "sourceIds": [
+          "E0019"
+        ],
+        "expression": "be famous for...",
+        "phonetic": "/biː ˈfeɪməs fə …/",
+        "readingForms": [
+          {
+            "expression": "be famous for …",
+            "phonetic": "/biː ˈfeɪməs fə …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0019",
+            "expression": "be famous for..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The town is famous for its beautiful gardens.",
+          "zh": "这个镇因美丽的花园而闻名。",
+          "sourceIds": [
+            "E0019"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "科技文化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0539",
+      "sourceId": "E0539",
+      "sourceIds": [
+        "E0539"
+      ],
+      "word": "with the help of sb.",
+      "meaning": "在某人的帮助下",
+      "sourceItems": [
+        {
+          "sourceId": "E0539",
+          "sourceKind": "phrase",
+          "expression": "with the help of sb.",
+          "meaning": "在某人的帮助下",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "help在此作名词，of后接帮助者，可换with sb.'s help。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0543",
+          "sourceImages": "IMG_2705.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 60,
+          "originalFields": {
+            "编号": "E0539",
+            "英文表达": "with the help of sb.",
+            "中文释义": "在某人的帮助下",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "help在此作名词，of后接帮助者，可换with sb.'s help。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0543",
+            "来源图片": "IMG_2705.heic",
+            "原文英文": "with the help of sb.",
+            "原文释义": "在某人的帮助下",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0539",
+          "introducedAtStation": 71
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0539",
+        "sourceIds": [
+          "E0539"
+        ],
+        "expression": "with the help of sb.",
+        "phonetic": "/wɪð ðə help əv ˈsʌmbədi/",
+        "readingForms": [
+          {
+            "expression": "with the help of somebody",
+            "phonetic": "/wɪð ðə help əv ˈsʌmbədi/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0539",
+            "expression": "with the help of sb."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I finish the model with the help of my sister.",
+          "zh": "我在姐姐的帮助下完成模型。",
+          "sourceIds": [
+            "E0539"
+          ]
+        },
+        {
+          "en": "We find the path with Ben's help.",
+          "zh": "我们在本的帮助下找到了小路。",
+          "sourceIds": [
+            "E0539"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0372",
+      "sourceId": "E0372",
+      "sourceIds": [
+        "E0372"
+      ],
+      "word": "wait for",
+      "meaning": "等，等待，等候",
+      "sourceItems": [
+        {
+          "sourceId": "E0372",
+          "sourceKind": "phrase",
+          "expression": "wait for",
+          "meaning": "等，等待，等候",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "for后接等待的人或物，等待某人做事可用wait for sb. to do。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0372",
+          "sourceImages": "IMG_2703.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 58,
+          "originalFields": {
+            "编号": "E0372",
+            "英文表达": "wait for",
+            "中文释义": "等，等待，等候",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "for后接等待的人或物，等待某人做事可用wait for sb. to do。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0372",
+            "来源图片": "IMG_2703.heic",
+            "原文英文": "wait for",
+            "原文释义": "等，等待，等候",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0372",
+          "introducedAtStation": 71
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0372",
+        "sourceIds": [
+          "E0372"
+        ],
+        "expression": "wait for",
+        "phonetic": "/weɪt fə/",
+        "readingForms": [
+          {
+            "expression": "wait for",
+            "phonetic": "/weɪt fə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0372",
+            "expression": "wait for"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We wait for the bus at the stop.",
+          "zh": "我们在车站等公交车。",
+          "sourceIds": [
+            "E0372"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0068",
+      "sourceId": "E0068",
+      "sourceIds": [
+        "E0068"
+      ],
+      "word": "fall down",
+      "meaning": "跌倒",
+      "sourceItems": [
+        {
+          "sourceId": "E0068",
+          "sourceKind": "phrase",
+          "expression": "fall down",
+          "meaning": "跌倒",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "健康安全",
+          "usage": "fall过去式为fell，叙事注意时态",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0068",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 67,
+          "originalFields": {
+            "编号": "E0068",
+            "英文表达": "fall down",
+            "中文释义": "跌倒",
+            "学习层级": "核心掌握",
+            "主题": "健康安全",
+            "用法与易错点": "fall过去式为fell，叙事注意时态",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于健康与安全情境中的“跌倒”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0068",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "fall down",
+            "原文释义": "跌倒",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0068",
+          "introducedAtStation": 72
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0068",
+        "sourceIds": [
+          "E0068"
+        ],
+        "expression": "fall down",
+        "phonetic": "/fɔːl daʊn/",
+        "readingForms": [
+          {
+            "expression": "fall down",
+            "phonetic": "/fɔːl daʊn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0068",
+            "expression": "fall down"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Ben falls down when he trips over a stone.",
+          "zh": "本被石头绊了一下，摔倒了。",
+          "sourceIds": [
+            "E0068"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "健康安全",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0062",
+      "sourceId": "E0062",
+      "sourceIds": [
+        "E0062"
+      ],
+      "word": "do/take exercise",
+      "meaning": "运动，锻炼",
+      "sourceItems": [
+        {
+          "sourceId": "E0062",
+          "sourceKind": "phrase",
+          "expression": "do/take exercise",
+          "meaning": "运动，锻炼",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "健康安全",
+          "usage": "exercise表锻炼时一般不可数",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0062",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 66,
+          "originalFields": {
+            "编号": "E0062",
+            "英文表达": "do/take exercise",
+            "中文释义": "运动，锻炼",
+            "学习层级": "核心掌握",
+            "主题": "健康安全",
+            "用法与易错点": "exercise表锻炼时一般不可数",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于健康与安全情境中的“运动，锻炼”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0062",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "do/take exercise",
+            "原文释义": "运动，锻炼",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0062",
+          "introducedAtStation": 72
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0062",
+        "sourceIds": [
+          "E0062"
+        ],
+        "expression": "do/take exercise",
+        "phonetic": "/duː ˈeksəsaɪz/ 或 /teɪk ˈeksəsaɪz/",
+        "readingForms": [
+          {
+            "expression": "do exercise",
+            "phonetic": "/duː ˈeksəsaɪz/"
+          },
+          {
+            "expression": "take exercise",
+            "phonetic": "/teɪk ˈeksəsaɪz/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0062",
+            "expression": "do/take exercise"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We do exercise in the park every morning.",
+          "zh": "我们每天早晨在公园锻炼。",
+          "sourceIds": [
+            "E0062"
+          ]
+        },
+        {
+          "en": "My grandfather takes exercise every day.",
+          "zh": "我祖父每天都锻炼。",
+          "sourceIds": [
+            "E0062"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "首字母题的accepted只保留与本题标准答案首字母相符的表达；另一合法并列结构仍保留在同组其他例句与fill主答案中，不删除原源结构。",
+      "ipa": null,
+      "pos": null,
+      "unit": "健康安全",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0028",
+      "sourceId": "E0028",
+      "sourceIds": [
+        "E0028"
+      ],
+      "word": "be in danger",
+      "meaning": "处于危险之中",
+      "sourceItems": [
+        {
+          "sourceId": "E0028",
+          "sourceKind": "phrase",
+          "expression": "be in danger",
+          "meaning": "处于危险之中",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "健康安全",
+          "usage": "danger为名词，辨析dangerous",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0028",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 65,
+          "originalFields": {
+            "编号": "E0028",
+            "英文表达": "be in danger",
+            "中文释义": "处于危险之中",
+            "学习层级": "核心掌握",
+            "主题": "健康安全",
+            "用法与易错点": "danger为名词，辨析dangerous",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于健康与安全情境中的“处于危险之中”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0028",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "be in danger",
+            "原文释义": "处于危险之中",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0028",
+          "introducedAtStation": 72
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0028",
+        "sourceIds": [
+          "E0028"
+        ],
+        "expression": "be in danger",
+        "phonetic": "/biː ɪn ˈdeɪndʒə/",
+        "readingForms": [
+          {
+            "expression": "be in danger",
+            "phonetic": "/biː ɪn ˈdeɪndʒə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0028",
+            "expression": "be in danger"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The small boat is in danger in the storm.",
+          "zh": "小船在暴风雨中处于危险之中。",
+          "sourceIds": [
+            "E0028"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "健康安全",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0024",
+      "sourceId": "E0024",
+      "sourceIds": [
+        "E0024"
+      ],
+      "word": "be good for...",
+      "meaning": "对……有好处",
+      "sourceItems": [
+        {
+          "sourceId": "E0024",
+          "sourceKind": "phrase",
+          "expression": "be good for...",
+          "meaning": "对……有好处",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "健康安全",
+          "usage": "for后接受益对象，辨析be good at",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0024",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 64,
+          "originalFields": {
+            "编号": "E0024",
+            "英文表达": "be good for...",
+            "中文释义": "对……有好处",
+            "学习层级": "核心掌握",
+            "主题": "健康安全",
+            "用法与易错点": "for后接受益对象，辨析be good at",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于健康与安全情境中的“对……有好处”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0024",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "be good for...",
+            "原文释义": "对……有好处",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0024",
+          "introducedAtStation": 72
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0024",
+        "sourceIds": [
+          "E0024"
+        ],
+        "expression": "be good for...",
+        "phonetic": "/biː ɡʊd fə …/",
+        "readingForms": [
+          {
+            "expression": "be good for …",
+            "phonetic": "/biː ɡʊd fə …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0024",
+            "expression": "be good for..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Fresh air is good for us.",
+          "zh": "新鲜空气对我们有好处。",
+          "sourceIds": [
+            "E0024"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "健康安全",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0009",
+      "sourceId": "E0009",
+      "sourceIds": [
+        "E0009"
+      ],
+      "word": "be careful with",
+      "meaning": "注意，当心",
+      "sourceItems": [
+        {
+          "sourceId": "E0009",
+          "sourceKind": "phrase",
+          "expression": "be careful with",
+          "meaning": "注意，当心",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "健康安全",
+          "usage": "with后接需要小心对待的人或物",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0009",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 63,
+          "originalFields": {
+            "编号": "E0009",
+            "英文表达": "be careful with",
+            "中文释义": "注意，当心",
+            "学习层级": "核心掌握",
+            "主题": "健康安全",
+            "用法与易错点": "with后接需要小心对待的人或物",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于健康与安全情境中的“注意，当心”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0009",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "be careful with",
+            "原文释义": "注意，当心",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0009",
+          "introducedAtStation": 72
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0009",
+        "sourceIds": [
+          "E0009"
+        ],
+        "expression": "be careful with",
+        "phonetic": "/biː ˈkeəfəl wɪð/",
+        "readingForms": [
+          {
+            "expression": "be careful with",
+            "phonetic": "/biː ˈkeəfəl wɪð/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0009",
+            "expression": "be careful with"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Be careful with this glass; it is easy to break.",
+          "zh": "小心这个玻璃杯，它很容易碎。",
+          "sourceIds": [
+            "E0009"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "健康安全",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0006",
+      "sourceId": "E0006",
+      "sourceIds": [
+        "E0006"
+      ],
+      "word": "be bad for...",
+      "meaning": "对……有害",
+      "sourceItems": [
+        {
+          "sourceId": "E0006",
+          "sourceKind": "phrase",
+          "expression": "be bad for...",
+          "meaning": "对……有害",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "健康安全",
+          "usage": "for后接受影响对象，辨析be good for",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0006",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 62,
+          "originalFields": {
+            "编号": "E0006",
+            "英文表达": "be bad for...",
+            "中文释义": "对……有害",
+            "学习层级": "核心掌握",
+            "主题": "健康安全",
+            "用法与易错点": "for后接受影响对象，辨析be good for",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于健康与安全情境中的“对……有害”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0006",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "be bad for...",
+            "原文释义": "对……有害",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0006",
+          "introducedAtStation": 72
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0006",
+        "sourceIds": [
+          "E0006"
+        ],
+        "expression": "be bad for...",
+        "phonetic": "/biː bæd fə …/",
+        "readingForms": [
+          {
+            "expression": "be bad for …",
+            "phonetic": "/biː bæd fə …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0006",
+            "expression": "be bad for..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Too much noise is bad for our hearing.",
+          "zh": "过多的噪声对听力有害。",
+          "sourceIds": [
+            "E0006"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "hearing",
+          "meaning": "the ability to hear"
+        },
+        {
+          "word": "chemical",
+          "meaning": "a substance used or produced in chemistry"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "健康安全",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0744",
+      "sourceId": "E0744",
+      "sourceIds": [
+        "E0975"
+      ],
+      "word": "turn round/around",
+      "meaning": "转过身来",
+      "sourceItems": [
+        {
+          "sourceId": "E0975",
+          "sourceKind": "phrase",
+          "expression": "turn round/around",
+          "meaning": "转过身来",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "巩固运用",
+          "topic": "动作变化",
+          "usage": "round与around可替换，表示转身。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P1202",
+          "sourceImages": "IMG_2722.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 283,
+          "originalFields": {
+            "编号": "E0975",
+            "英文表达": "turn round/around",
+            "中文释义": "转过身来",
+            "学习层级": "巩固运用",
+            "主题": "动作变化",
+            "用法与易错点": "round与around可替换，表示转身。",
+            "适用训练": "完形阅读 / 语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；需结合具体语境巩固词义及结构。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P1202",
+            "来源图片": "IMG_2722.heic",
+            "原文英文": "turn round/around",
+            "原文释义": "转过身来",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0744",
+          "introducedAtStation": 71
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0744",
+        "sourceIds": [
+          "E0744",
+          "E0229",
+          "E0975"
+        ],
+        "expression": "turn around",
+        "phonetic": "/tɜːn əˈraʊnd/ 或 /tɜːn raʊnd/",
+        "readingForms": [
+          {
+            "expression": "turn around",
+            "phonetic": "/tɜːn əˈraʊnd/"
+          },
+          {
+            "expression": "turn round",
+            "phonetic": "/tɜːn raʊnd/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0744",
+            "expression": "turn around"
+          },
+          {
+            "sourceId": "E0229",
+            "expression": "turn round"
+          },
+          {
+            "sourceId": "E0975",
+            "expression": "turn round/around"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please turn around and look behind you.",
+          "zh": "请转过身来，看看身后。",
+          "sourceIds": [
+            "E0744",
+            "E0975"
+          ]
+        },
+        {
+          "en": "Ben turns round to speak to the person behind him.",
+          "zh": "本转身同身后的人说话。",
+          "sourceIds": [
+            "E0229",
+            "E0975"
+          ]
+        },
+        {
+          "en": "Please turn the board round so it faces the class.",
+          "zh": "请把这块板转向全班。",
+          "sourceIds": [
+            "E0229"
+          ]
+        },
+        {
+          "en": "Better planning helps the team turn around after a difficult month.",
+          "zh": "更好的规划帮助队伍在艰难的一个月后好转。",
+          "sourceIds": [
+            "E0744"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "源E0229的“（使）翻身，转身，翻转”逐字保留，实例按改变朝向理解；翻面通常用turn over，不把两者等同。E0744另保留“好转”义。",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0837",
+      "sourceId": "E0837",
+      "sourceIds": [
+        "E0837"
+      ],
+      "word": "keep away from",
+      "meaning": "避开：别靠近；远离，避开",
+      "sourceItems": [
+        {
+          "sourceId": "E0837",
+          "sourceKind": "phrase",
+          "expression": "keep away from",
+          "meaning": "避开：别靠近；远离，避开",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "健康安全",
+          "usage": "远离危险用keep away from；使某人远离可加宾语。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0972；P1010",
+          "sourceImages": "IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 71,
+          "originalFields": {
+            "编号": "E0837",
+            "英文表达": "keep away from",
+            "中文释义": "避开：别靠近；远离，避开",
+            "学习层级": "核心掌握",
+            "主题": "健康安全",
+            "用法与易错点": "远离危险用keep away from；使某人远离可加宾语。",
+            "适用训练": "听说交际 / 读写综合",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0972；P1010",
+            "来源图片": "IMG_2719.heic",
+            "原文英文": "keep away from",
+            "原文释义": "避开：别靠近；远离，避开",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0837",
+          "introducedAtStation": 73
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0837",
+        "sourceIds": [
+          "E0837"
+        ],
+        "expression": "keep away from",
+        "phonetic": "/kiːp əˈweɪ frəm/",
+        "readingForms": [
+          {
+            "expression": "keep away from",
+            "phonetic": "/kiːp əˈweɪ frəm/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0837",
+            "expression": "keep away from"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Keep away from the deep water.",
+          "zh": "不要靠近深水。",
+          "sourceIds": [
+            "E0837"
+          ]
+        },
+        {
+          "en": "Please keep the small children away from the fire.",
+          "zh": "请让小孩子们远离火。",
+          "sourceIds": [
+            "E0837"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "健康安全",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0150",
+      "sourceId": "E0150",
+      "sourceIds": [
+        "E0150"
+      ],
+      "word": "look out",
+      "meaning": "留神，小心；当心；小心；注意；向外看",
+      "sourceItems": [
+        {
+          "sourceId": "E0150",
+          "sourceKind": "phrase",
+          "expression": "look out",
+          "meaning": "留神，小心；当心；小心；注意；向外看",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "健康安全",
+          "usage": "用于警告，后接对象需加for",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0150；P0778；P0898；P1047",
+          "sourceImages": "IMG_2700.heic；IMG_2717.heic；IMG_2718.heic；IMG_2720.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 73,
+          "originalFields": {
+            "编号": "E0150",
+            "英文表达": "look out",
+            "中文释义": "留神，小心；当心；小心；注意；向外看",
+            "学习层级": "核心掌握",
+            "主题": "健康安全",
+            "用法与易错点": "用于警告，后接对象需加for",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于健康与安全情境中的“留神，小心”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 4,
+            "原始条目编号": "P0150；P0778；P0898；P1047",
+            "来源图片": "IMG_2700.heic；IMG_2717.heic；IMG_2718.heic；IMG_2720.heic",
+            "原文英文": "look out",
+            "原文释义": "留神，小心；当心；小心；小心；注意；向外看；注意；当心",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0150",
+          "introducedAtStation": 73
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0150",
+        "sourceIds": [
+          "E0150"
+        ],
+        "expression": "look out",
+        "phonetic": "/lʊk aʊt/",
+        "readingForms": [
+          {
+            "expression": "look out",
+            "phonetic": "/lʊk aʊt/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0150",
+            "expression": "look out"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Look out! A bicycle is coming.",
+          "zh": "当心！一辆自行车过来了。",
+          "sourceIds": [
+            "E0150"
+          ]
+        },
+        {
+          "en": "Please look out of the window and tell me what you see.",
+          "zh": "请向窗外看，告诉我你看到了什么。",
+          "sourceIds": [
+            "E0150"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "健康安全",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0124",
+      "sourceId": "E0124",
+      "sourceIds": [
+        "E0124"
+      ],
+      "word": "keep fit",
+      "meaning": "保持健康",
+      "sourceItems": [
+        {
+          "sourceId": "E0124",
+          "sourceKind": "phrase",
+          "expression": "keep fit",
+          "meaning": "保持健康",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "健康安全",
+          "usage": "keep后接形容词fit作表语",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0124",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 72,
+          "originalFields": {
+            "编号": "E0124",
+            "英文表达": "keep fit",
+            "中文释义": "保持健康",
+            "学习层级": "核心掌握",
+            "主题": "健康安全",
+            "用法与易错点": "keep后接形容词fit作表语",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于健康与安全情境中的“保持健康”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0124",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "keep fit",
+            "原文释义": "保持健康",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0124",
+          "introducedAtStation": 73
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0124",
+        "sourceIds": [
+          "E0124"
+        ],
+        "expression": "keep fit",
+        "phonetic": "/kiːp fɪt/",
+        "readingForms": [
+          {
+            "expression": "keep fit",
+            "phonetic": "/kiːp fɪt/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0124",
+            "expression": "keep fit"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Mia walks and swims to keep fit.",
+          "zh": "米娅通过散步和游泳保持健康。",
+          "sourceIds": [
+            "E0124"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "健康安全",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0122",
+      "sourceId": "E0122",
+      "sourceIds": [
+        "E0122"
+      ],
+      "word": "keep away",
+      "meaning": "避免接近，远离；（使）避开；远离",
+      "sourceItems": [
+        {
+          "sourceId": "E0122",
+          "sourceKind": "phrase",
+          "expression": "keep away",
+          "meaning": "避免接近，远离；（使）避开；远离",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "健康安全",
+          "usage": "表示远离对象时常接from",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0122；P1004",
+          "sourceImages": "IMG_2699.heic；IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 70,
+          "originalFields": {
+            "编号": "E0122",
+            "英文表达": "keep away",
+            "中文释义": "避免接近，远离；（使）避开；远离",
+            "学习层级": "核心掌握",
+            "主题": "健康安全",
+            "用法与易错点": "表示远离对象时常接from",
+            "适用训练": "读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于健康与安全情境中的“避免接近，远离”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0122；P1004",
+            "来源图片": "IMG_2699.heic；IMG_2719.heic",
+            "原文英文": "keep away",
+            "原文释义": "避免接近，远离；（使）避开；远离",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0122",
+          "introducedAtStation": 73
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0122",
+        "sourceIds": [
+          "E0122"
+        ],
+        "expression": "keep away",
+        "phonetic": "/kiːp əˈweɪ/",
+        "readingForms": [
+          {
+            "expression": "keep away",
+            "phonetic": "/kiːp əˈweɪ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0122",
+            "expression": "keep away"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The dog may bite, so please keep away.",
+          "zh": "这只狗可能咬人，请远离。",
+          "sourceIds": [
+            "E0122"
+          ]
+        },
+        {
+          "en": "Keep candles away from curtains.",
+          "zh": "让蜡烛远离窗帘。",
+          "sourceIds": [
+            "E0122"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "健康安全",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0099",
+      "sourceId": "E0099",
+      "sourceIds": [
+        "E0099"
+      ],
+      "word": "go to a doctor",
+      "meaning": "去看医生",
+      "sourceItems": [
+        {
+          "sourceId": "E0099",
+          "sourceKind": "phrase",
+          "expression": "go to a doctor",
+          "meaning": "去看医生",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "健康安全",
+          "usage": "doctor前保留a，表示就医",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0099",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 69,
+          "originalFields": {
+            "编号": "E0099",
+            "英文表达": "go to a doctor",
+            "中文释义": "去看医生",
+            "学习层级": "核心掌握",
+            "主题": "健康安全",
+            "用法与易错点": "doctor前保留a，表示就医",
+            "适用训练": "读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于健康与安全情境中的“去看医生”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0099",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "go to a doctor",
+            "原文释义": "去看医生",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0099",
+          "introducedAtStation": 73
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0099",
+        "sourceIds": [
+          "E0099"
+        ],
+        "expression": "go to a doctor",
+        "phonetic": "/ɡəʊ tu ə ˈdɒktə/",
+        "readingForms": [
+          {
+            "expression": "go to a doctor",
+            "phonetic": "/ɡəʊ tu ə ˈdɒktə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0099",
+            "expression": "go to a doctor"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Mia goes to a doctor when she feels ill.",
+          "zh": "米娅感觉不适时会去看医生。",
+          "sourceIds": [
+            "E0099"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "健康安全",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0348",
+      "sourceId": "E0348",
+      "sourceIds": [
+        "E0348"
+      ],
+      "word": "across from...",
+      "meaning": "在……对面",
+      "sourceItems": [
+        {
+          "sourceId": "E0348",
+          "sourceKind": "phrase",
+          "expression": "across from...",
+          "meaning": "在……对面",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "from后接参照地点，表示在对面",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0348",
+          "sourceImages": "IMG_2702.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 81,
+          "originalFields": {
+            "编号": "E0348",
+            "英文表达": "across from...",
+            "中文释义": "在……对面",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "from后接参照地点，表示在对面",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“在……对面”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0348",
+            "来源图片": "IMG_2702.heic",
+            "原文英文": "across from...",
+            "原文释义": "在……对面",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0348",
+          "introducedAtStation": 75
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0348",
+        "sourceIds": [
+          "E0348"
+        ],
+        "expression": "across from...",
+        "phonetic": "/əˈkrɒs frəm …/",
+        "readingForms": [
+          {
+            "expression": "across from …",
+            "phonetic": "/əˈkrɒs frəm …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0348",
+            "expression": "across from..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The library is across from the park.",
+          "zh": "图书馆在公园对面。",
+          "sourceIds": [
+            "E0348"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0313",
+      "sourceId": "E0313",
+      "sourceIds": [
+        "E0313"
+      ],
+      "word": "arrive at/in",
+      "meaning": "到达，抵达",
+      "sourceItems": [
+        {
+          "sourceId": "E0313",
+          "sourceKind": "phrase",
+          "expression": "arrive at/in",
+          "meaning": "到达，抵达",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "小地点用at，大地点用in，home前不加介词",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0313",
+          "sourceImages": "IMG_2702.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 83,
+          "originalFields": {
+            "编号": "E0313",
+            "英文表达": "arrive at/in",
+            "中文释义": "到达，抵达",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "小地点用at，大地点用in，home前不加介词",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“到达，抵达”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0313",
+            "来源图片": "IMG_2702.heic",
+            "原文英文": "arrive at/in",
+            "原文释义": "到达，抵达",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0313",
+          "introducedAtStation": 75
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0313",
+        "sourceIds": [
+          "E0313"
+        ],
+        "expression": "arrive at/in",
+        "phonetic": "/əˈraɪv ət/ 或 /əˈraɪv ɪn/",
+        "readingForms": [
+          {
+            "expression": "arrive at",
+            "phonetic": "/əˈraɪv ət/"
+          },
+          {
+            "expression": "arrive in",
+            "phonetic": "/əˈraɪv ɪn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0313",
+            "expression": "arrive at/in"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We arrive at the station at nine.",
+          "zh": "我们九点到达车站。",
+          "sourceIds": [
+            "E0313"
+          ]
+        },
+        {
+          "en": "They arrive in Guangzhou in the morning.",
+          "zh": "他们早晨到达广州。",
+          "sourceIds": [
+            "E0313"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "同一来源arrive at/in保留at具体地点与in城市/大地区两结构；home前不加at/in。",
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0244",
+      "sourceId": "E0244",
+      "sourceIds": [
+        "E0244"
+      ],
+      "word": "between...and...",
+      "meaning": "在……和……之间",
+      "sourceItems": [
+        {
+          "sourceId": "E0244",
+          "sourceKind": "phrase",
+          "expression": "between...and...",
+          "meaning": "在……和……之间",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "原资料另一处译为“……和……都”有误，应区分both...and...。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0244；S104",
+          "sourceImages": "IMG_2701.heic；IMG_2711.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 84,
+          "originalFields": {
+            "编号": "E0244",
+            "英文表达": "between...and...",
+            "中文释义": "在……和……之间",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "原资料另一处译为“……和……都”有误，应区分both...and...。",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“在……和……之间”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0244；S104",
+            "来源图片": "IMG_2701.heic；IMG_2711.heic",
+            "原文英文": "between...and...",
+            "原文释义": "在……和……之间；……和……都",
+            "校对说明": "原文释义为“……和……都”，与 between...and... 的通常含义及例句不符，按原文保留。；原资料另一处译为“……和……都”有误，应区分both...and...。",
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0244",
+          "introducedAtStation": 75
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0244",
+        "sourceIds": [
+          "E0244"
+        ],
+        "expression": "between...and...",
+        "phonetic": "/bɪˈtwiːn … ənd …/",
+        "readingForms": [
+          {
+            "expression": "between … and …",
+            "phonetic": "/bɪˈtwiːn … ənd …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0244",
+            "expression": "between...and..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The library is between the school and the park.",
+          "zh": "图书馆在学校和公园之间。",
+          "sourceIds": [
+            "E0244"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "原义为在……和……之间，不误作both...and...（两者都）。",
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0237",
+      "sourceId": "E0237",
+      "sourceIds": [
+        "E0237"
+      ],
+      "word": "all over",
+      "meaning": "遍及",
+      "sourceItems": [
+        {
+          "sourceId": "E0237",
+          "sourceKind": "phrase",
+          "expression": "all over",
+          "meaning": "遍及",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "over后接范围，如the world",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0237",
+          "sourceImages": "IMG_2701.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 82,
+          "originalFields": {
+            "编号": "E0237",
+            "英文表达": "all over",
+            "中文释义": "遍及",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "over后接范围，如the world",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“遍及”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0237",
+            "来源图片": "IMG_2701.heic",
+            "原文英文": "all over",
+            "原文释义": "遍及",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0237",
+          "introducedAtStation": 75
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0237",
+        "sourceIds": [
+          "E0237"
+        ],
+        "expression": "all over",
+        "phonetic": "/ɔːl ˈəʊvə/",
+        "readingForms": [
+          {
+            "expression": "all over",
+            "phonetic": "/ɔːl ˈəʊvə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0237",
+            "expression": "all over"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "There are flowers all over the park.",
+          "zh": "公园里到处都是花。",
+          "sourceIds": [
+            "E0237"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "E0050",
+      "groupId": "E0050",
+      "direction": "zh_to_en",
+      "stem": "①回来 ②回想起来；回来",
+      "options": [
+        {
+          "label": "A",
+          "text": "come back"
+        },
+        {
+          "label": "B",
+          "text": "daily life"
+        },
+        {
+          "label": "C",
+          "text": "suggestion"
+        },
+        {
+          "label": "D",
+          "text": "what's more"
+        }
+      ],
+      "answer": "A",
+      "word": "come back",
+      "meaning": "①回来 ②回想起来；回来"
+    },
+    {
+      "id": 2,
+      "sourceId": "E0019",
+      "groupId": "E0019",
+      "direction": "en_to_zh",
+      "stem": "be famous for...",
+      "options": [
+        {
+          "label": "A",
+          "text": "实验；试验"
+        },
+        {
+          "label": "B",
+          "text": "拥有；有"
+        },
+        {
+          "label": "C",
+          "text": "北；北方"
+        },
+        {
+          "label": "D",
+          "text": "因……而著名"
+        }
+      ],
+      "answer": "D",
+      "word": "be famous for...",
+      "meaning": "因……而著名"
+    },
+    {
+      "id": 3,
+      "sourceId": "E0539",
+      "groupId": "E0539",
+      "direction": "zh_to_en",
+      "stem": "在某人的帮助下",
+      "options": [
+        {
+          "label": "A",
+          "text": "on sale"
+        },
+        {
+          "label": "B",
+          "text": "valuable"
+        },
+        {
+          "label": "C",
+          "text": "with the help of sb."
+        },
+        {
+          "label": "D",
+          "text": "solution"
+        }
+      ],
+      "answer": "C",
+      "word": "with the help of sb.",
+      "meaning": "在某人的帮助下"
+    },
+    {
+      "id": 4,
+      "sourceId": "E0372",
+      "groupId": "E0372",
+      "direction": "en_to_zh",
+      "stem": "wait for",
+      "options": [
+        {
+          "label": "A",
+          "text": "离开"
+        },
+        {
+          "label": "B",
+          "text": "初级中学"
+        },
+        {
+          "label": "C",
+          "text": "看守；照看"
+        },
+        {
+          "label": "D",
+          "text": "等，等待，等候"
+        }
+      ],
+      "answer": "D",
+      "word": "wait for",
+      "meaning": "等，等待，等候"
+    },
+    {
+      "id": 5,
+      "sourceId": "E0068",
+      "groupId": "E0068",
+      "direction": "zh_to_en",
+      "stem": "跌倒",
+      "options": [
+        {
+          "label": "A",
+          "text": "fall down"
+        },
+        {
+          "label": "B",
+          "text": "area"
+        },
+        {
+          "label": "C",
+          "text": "right away"
+        },
+        {
+          "label": "D",
+          "text": "crop"
+        }
+      ],
+      "answer": "A",
+      "word": "fall down",
+      "meaning": "跌倒"
+    },
+    {
+      "id": 6,
+      "sourceId": "E0062",
+      "groupId": "E0062",
+      "direction": "en_to_zh",
+      "stem": "do/take exercise",
+      "options": [
+        {
+          "label": "A",
+          "text": "沙漠；荒漠"
+        },
+        {
+          "label": "B",
+          "text": "持续；继续存在"
+        },
+        {
+          "label": "C",
+          "text": "听说"
+        },
+        {
+          "label": "D",
+          "text": "运动，锻炼"
+        }
+      ],
+      "answer": "D",
+      "word": "do/take exercise",
+      "meaning": "运动，锻炼"
+    },
+    {
+      "id": 7,
+      "sourceId": "E0028",
+      "groupId": "E0028",
+      "direction": "zh_to_en",
+      "stem": "处于危险之中",
+      "options": [
+        {
+          "label": "A",
+          "text": "senior"
+        },
+        {
+          "label": "B",
+          "text": "be in danger"
+        },
+        {
+          "label": "C",
+          "text": "warm up"
+        },
+        {
+          "label": "D",
+          "text": "size"
+        }
+      ],
+      "answer": "B",
+      "word": "be in danger",
+      "meaning": "处于危险之中"
+    },
+    {
+      "id": 8,
+      "sourceId": "E0024",
+      "groupId": "E0024",
+      "direction": "en_to_zh",
+      "stem": "be good for...",
+      "options": [
+        {
+          "label": "A",
+          "text": "深的"
+        },
+        {
+          "label": "B",
+          "text": "欣赏；赏识"
+        },
+        {
+          "label": "C",
+          "text": "在……的中心"
+        },
+        {
+          "label": "D",
+          "text": "对……有好处"
+        }
+      ],
+      "answer": "D",
+      "word": "be good for...",
+      "meaning": "对……有好处"
+    },
+    {
+      "id": 9,
+      "sourceId": "E0009",
+      "groupId": "E0009",
+      "direction": "zh_to_en",
+      "stem": "注意，当心",
+      "options": [
+        {
+          "label": "A",
+          "text": "bit"
+        },
+        {
+          "label": "B",
+          "text": "provide ... with ..."
+        },
+        {
+          "label": "C",
+          "text": "be careful with"
+        },
+        {
+          "label": "D",
+          "text": "in the end"
+        }
+      ],
+      "answer": "C",
+      "word": "be careful with",
+      "meaning": "注意，当心"
+    },
+    {
+      "id": 10,
+      "sourceId": "E0006",
+      "groupId": "E0006",
+      "direction": "en_to_zh",
+      "stem": "be bad for...",
+      "options": [
+        {
+          "label": "A",
+          "text": "大叫；叫喊"
+        },
+        {
+          "label": "B",
+          "text": "减肥"
+        },
+        {
+          "label": "C",
+          "text": "指点；实用的提示"
+        },
+        {
+          "label": "D",
+          "text": "对……有害"
+        }
+      ],
+      "answer": "D",
+      "word": "be bad for...",
+      "meaning": "对……有害"
+    },
+    {
+      "id": 11,
+      "sourceId": "E0975",
+      "groupId": "E0744",
+      "direction": "zh_to_en",
+      "stem": "转过身来",
+      "options": [
+        {
+          "label": "A",
+          "text": "remote control"
+        },
+        {
+          "label": "B",
+          "text": "be divided into"
+        },
+        {
+          "label": "C",
+          "text": "freezing"
+        },
+        {
+          "label": "D",
+          "text": "turn round/around"
+        }
+      ],
+      "answer": "D",
+      "word": "turn round/around",
+      "meaning": "转过身来"
+    },
+    {
+      "id": 12,
+      "sourceId": "E0837",
+      "groupId": "E0837",
+      "direction": "en_to_zh",
+      "stem": "keep away from",
+      "options": [
+        {
+          "label": "A",
+          "text": "注意，当心"
+        },
+        {
+          "label": "B",
+          "text": "避开：别靠近；远离，避开"
+        },
+        {
+          "label": "C",
+          "text": "吉他"
+        },
+        {
+          "label": "D",
+          "text": "立刻，马上"
+        }
+      ],
+      "answer": "B",
+      "word": "keep away from",
+      "meaning": "避开：别靠近；远离，避开"
+    },
+    {
+      "id": 13,
+      "sourceId": "E0150",
+      "groupId": "E0150",
+      "direction": "zh_to_en",
+      "stem": "留神，小心；当心；小心；注意；向外看",
+      "options": [
+        {
+          "label": "A",
+          "text": "insect"
+        },
+        {
+          "label": "B",
+          "text": "keep away from"
+        },
+        {
+          "label": "C",
+          "text": "look out"
+        },
+        {
+          "label": "D",
+          "text": "billion"
+        }
+      ],
+      "answer": "C",
+      "word": "look out",
+      "meaning": "留神，小心；当心；小心；注意；向外看"
+    },
+    {
+      "id": 14,
+      "sourceId": "E0124",
+      "groupId": "E0124",
+      "direction": "en_to_zh",
+      "stem": "keep fit",
+      "options": [
+        {
+          "label": "A",
+          "text": "呼吸"
+        },
+        {
+          "label": "B",
+          "text": "在……和……之间"
+        },
+        {
+          "label": "C",
+          "text": "岛"
+        },
+        {
+          "label": "D",
+          "text": "保持健康"
+        }
+      ],
+      "answer": "D",
+      "word": "keep fit",
+      "meaning": "保持健康"
+    },
+    {
+      "id": 15,
+      "sourceId": "E0122",
+      "groupId": "E0122",
+      "direction": "zh_to_en",
+      "stem": "避免接近，远离；（使）避开；远离",
+      "options": [
+        {
+          "label": "A",
+          "text": "talk about"
+        },
+        {
+          "label": "B",
+          "text": "keep away"
+        },
+        {
+          "label": "C",
+          "text": "in time"
+        },
+        {
+          "label": "D",
+          "text": "real"
+        }
+      ],
+      "answer": "B",
+      "word": "keep away",
+      "meaning": "避免接近，远离；（使）避开；远离"
+    },
+    {
+      "id": 16,
+      "sourceId": "E0099",
+      "groupId": "E0099",
+      "direction": "en_to_zh",
+      "stem": "go to a doctor",
+      "options": [
+        {
+          "label": "A",
+          "text": "深的"
+        },
+        {
+          "label": "B",
+          "text": "米"
+        },
+        {
+          "label": "C",
+          "text": "看守；照看"
+        },
+        {
+          "label": "D",
+          "text": "去看医生"
+        }
+      ],
+      "answer": "D",
+      "word": "go to a doctor",
+      "meaning": "去看医生"
+    },
+    {
+      "id": 17,
+      "sourceId": "E0348",
+      "groupId": "E0348",
+      "direction": "zh_to_en",
+      "stem": "在……对面",
+      "options": [
+        {
+          "label": "A",
+          "text": "be careful with"
+        },
+        {
+          "label": "B",
+          "text": "go to bed"
+        },
+        {
+          "label": "C",
+          "text": "influence"
+        },
+        {
+          "label": "D",
+          "text": "across from..."
+        }
+      ],
+      "answer": "D",
+      "word": "across from...",
+      "meaning": "在……对面"
+    },
+    {
+      "id": 18,
+      "sourceId": "E0313",
+      "groupId": "E0313",
+      "direction": "en_to_zh",
+      "stem": "arrive at/in",
+      "options": [
+        {
+          "label": "A",
+          "text": "打扫（或清除）干净"
+        },
+        {
+          "label": "B",
+          "text": "拥有；有"
+        },
+        {
+          "label": "C",
+          "text": "到达，抵达"
+        },
+        {
+          "label": "D",
+          "text": "友谊；朋友关系"
+        }
+      ],
+      "answer": "C",
+      "word": "arrive at/in",
+      "meaning": "到达，抵达"
+    },
+    {
+      "id": 19,
+      "sourceId": "E0244",
+      "groupId": "E0244",
+      "direction": "zh_to_en",
+      "stem": "在……和……之间",
+      "options": [
+        {
+          "label": "A",
+          "text": "pie"
+        },
+        {
+          "label": "B",
+          "text": "between...and..."
+        },
+        {
+          "label": "C",
+          "text": "butterfly"
+        },
+        {
+          "label": "D",
+          "text": "mood"
+        }
+      ],
+      "answer": "B",
+      "word": "between...and...",
+      "meaning": "在……和……之间"
+    },
+    {
+      "id": 20,
+      "sourceId": "E0237",
+      "groupId": "E0237",
+      "direction": "en_to_zh",
+      "stem": "all over",
+      "options": [
+        {
+          "label": "A",
+          "text": "遍及"
+        },
+        {
+          "label": "B",
+          "text": "南；南方"
+        },
+        {
+          "label": "C",
+          "text": "自信的；有自信心的"
+        },
+        {
+          "label": "D",
+          "text": "太阳能"
+        }
+      ],
+      "answer": "A",
+      "word": "all over",
+      "meaning": "遍及"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0050",
+      "groupId": "E0050",
+      "target": "come back",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "return to the place where the speaker is"
+        },
+        {
+          "label": "B",
+          "text": "to put a new object in a collection"
+        },
+        {
+          "label": "C",
+          "text": "to move to the front of a queue"
+        },
+        {
+          "label": "D",
+          "text": "to leave and never return"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "A",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "come back",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "come back"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "①回来 ②回想起来；回来",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “come back” means “return to the place where the speaker is”.",
+      "parentExplanation": "本题考查“come back”在本句中的用法；正确英文解释为“return to the place where the speaker is”。对应源表释义为“①回来 ②回想起来；回来”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0019",
+      "groupId": "E0019",
+      "target": "be famous for...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to be divided into several small groups"
+        },
+        {
+          "label": "B",
+          "text": "to be kept far away from something"
+        },
+        {
+          "label": "C",
+          "text": "to be completely different from something"
+        },
+        {
+          "label": "D",
+          "text": "to be known by many people because of something"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "These two villages are famous for their tea. People come from far away to buy it.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "These two villages are famous for their tea. People come from far away to buy it."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "这两个村庄因茶叶而著名。人们从远处来买茶。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “be famous for...” means “to be known by many people because of something”.",
+      "parentExplanation": "本题考查“be famous for...”在本句中的用法；正确英文解释为“to be known by many people because of something”。对应源表释义为“因……而著名”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0539",
+      "groupId": "E0539",
+      "target": "with the help of sb.",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "medium height"
+        },
+        {
+          "label": "B",
+          "text": "on foot"
+        },
+        {
+          "label": "C",
+          "text": "with the help of sb."
+        },
+        {
+          "label": "D",
+          "text": "full of energy"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression says that the grandmother's support makes success possible?",
+      "answer": "C",
+      "listenScript": "Chen cannot untie a tight knot in a rope. His grandmother shows him each step, and he finally loosens it by following her guidance.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Chen cannot untie a tight knot in a rope. His grandmother shows him each step, and he finally loosens it by following her guidance."
+        }
+      ],
+      "explanation": "Chen succeeds by following his grandmother's guidance, so he does it with the help of his grandmother.",
+      "parentExplanation": "陈在奶奶指导下解开绳结，体现with the help of someone在某人的帮助下。",
+      "translation": {
+        "stem": "哪个表达说明奶奶的帮助促成成功？",
+        "listenScript": "陈解不开绳子上的紧结。奶奶一步步教他，他按指导终于把结解松了。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T074",
+        "E0539",
+        "T075",
+        "T028"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0372",
+      "groupId": "E0372",
+      "target": "wait for",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "cry out"
+        },
+        {
+          "label": "B",
+          "text": "wait for"
+        },
+        {
+          "label": "C",
+          "text": "wake up"
+        },
+        {
+          "label": "D",
+          "text": "put on"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which phrase describes staying until the meal comes?",
+      "answer": "B",
+      "listenScript": "The café cannot serve our meal yet. We stay at the table and talk until the food is brought out.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The café cannot serve our meal yet. We stay at the table and talk until the food is brought out."
+        }
+      ],
+      "explanation": "The group waits for the meal before eating.",
+      "parentExplanation": "一直等到上餐，是wait for the meal，等待食物。",
+      "translation": {
+        "stem": "哪个短语描述一直待到食物到来？",
+        "listenScript": "咖啡馆还没法上餐。我们留在桌边聊天，直到食物端来。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0372",
+        "T077",
+        "T032",
+        "T034"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0068",
+      "groupId": "E0068",
+      "target": "fall down",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to rise high into the air"
+        },
+        {
+          "label": "B",
+          "text": "to stand still without moving"
+        },
+        {
+          "label": "C",
+          "text": "to fall to the ground"
+        },
+        {
+          "label": "D",
+          "text": "to run quickly along a path"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Ben fell down yesterday when he tripped over a stone.\nWhat does “fell down” mean here?",
+      "translation": {
+        "stem": "昨天本被石头绊了一下，跌倒了。 这里“fell down”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “fall down” means “to fall to the ground”.",
+      "parentExplanation": "本题考查“fall down”在本句中的用法；正确英文解释为“to fall to the ground”。对应源表释义为“跌倒”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0062",
+      "groupId": "E0062",
+      "target": "do/take exercise",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to read a book for information"
+        },
+        {
+          "label": "B",
+          "text": "to cook food for a family"
+        },
+        {
+          "label": "C",
+          "text": "to make a model from paper"
+        },
+        {
+          "label": "D",
+          "text": "to do physical activity for health"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "My grandfather takes exercise every morning by walking in the park.\nWhat does “takes exercise” mean here?",
+      "translation": {
+        "stem": "我祖父每天早晨通过在公园散步来锻炼。 这里“takes exercise”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “do/take exercise” means “to do physical activity for health”.",
+      "parentExplanation": "本题考查“do/take exercise”在本句中的用法；正确英文解释为“to do physical activity for health”。对应源表释义为“运动，锻炼”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0028",
+      "groupId": "E0028",
+      "target": "be in danger",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to be in a situation where harm may happen"
+        },
+        {
+          "label": "B",
+          "text": "to be completely safe from harm"
+        },
+        {
+          "label": "C",
+          "text": "to be ready to start a game"
+        },
+        {
+          "label": "D",
+          "text": "to be able to remember a name"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "The small boat is in danger because large waves are hitting it.\nWhat does “is in danger” mean here?",
+      "translation": {
+        "stem": "小船正处于危险之中，因为大浪不断拍打着它。 这里“is in danger”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “be in danger” means “to be in a situation where harm may happen”.",
+      "parentExplanation": "本题考查“be in danger”在本句中的用法；正确英文解释为“to be in a situation where harm may happen”。对应源表释义为“处于危险之中”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0024",
+      "groupId": "E0024",
+      "target": "be good for...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to harm someone's health"
+        },
+        {
+          "label": "B",
+          "text": "to make someone forget things"
+        },
+        {
+          "label": "C",
+          "text": "to help or benefit someone or something"
+        },
+        {
+          "label": "D",
+          "text": "to damage something slowly"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Regular exercise is good for your health.\nWhat does “is good for” mean here?",
+      "translation": {
+        "stem": "经常运动对健康有好处。 这里“is good for”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “be good for...” means “to help or benefit someone or something”.",
+      "parentExplanation": "本题考查“be good for...”在本句中的用法；正确英文解释为“to help or benefit someone or something”。对应源表释义为“对……有好处”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0009",
+      "groupId": "E0009",
+      "target": "be careful with",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "be careful with"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Please b________ this glass; it can break easily.",
+      "answer": "be careful with",
+      "hint": "treat something with care",
+      "grammar": "Imperative: be careful with",
+      "initialLetter": "b",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use be careful with in the request, before the object.",
+      "parentExplanation": "祈使句用be careful with；with后接要小心对待的物品。",
+      "translation": {
+        "stem": "请小心这个玻璃杯，它很容易碎。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0006",
+      "groupId": "E0006",
+      "target": "be bad for...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "is bad for"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Dumping rubbish in this stream i________ the fish that live there.",
+      "answer": "is bad for",
+      "hint": "harms or damages",
+      "grammar": "Gerund subject + is bad for",
+      "initialLetter": "i",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The -ing subject Dumping rubbish is treated as singular and takes is.",
+      "parentExplanation": "动名词短语Dumping rubbish...作主语，be用is；for后接受影响对象。",
+      "translation": {
+        "stem": "往这条小溪倒垃圾对生活在那里的鱼有害。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 2,
+      "wordHelp": [
+        {
+          "word": "hearing",
+          "meaning": "the ability to hear"
+        },
+        {
+          "word": "chemical",
+          "meaning": "a substance used or produced in chemistry"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0975",
+      "groupId": "E0744",
+      "target": "turn round/around",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "turns around",
+        "turns round"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia t________ to see who is calling from behind her.",
+      "answer": "turns around",
+      "hint": "faces the other direction",
+      "grammar": "Simple present: third-person singular",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Mia is singular, so use turns around or turns round.",
+      "parentExplanation": "Mia为第三人称单数，用turns around；turns round也正确。",
+      "translation": {
+        "stem": "米娅转过身来，看是谁在身后叫她。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0837",
+      "groupId": "E0837",
+      "target": "keep away from",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "keep the children away from"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The fire is hot. Please k________ it.",
+      "answer": "keep the children away from",
+      "hint": "make the children stay at a distance from",
+      "grammar": "Keep + object + away from",
+      "initialLetter": "k",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Keep the children away from it uses an object after keep.",
+      "parentExplanation": "keep the children away from it保留使某人远离的结构，不能漏away或from。",
+      "translation": {
+        "stem": "火很烫，请让孩子们远离它。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0150",
+      "groupId": "E0150",
+      "target": "look out",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "Look out",
+        "look out"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "L________! A bicycle is coming towards you.",
+      "answer": "Look out",
+      "hint": "be careful",
+      "grammar": "Warning phrase",
+      "initialLetter": "l",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Look out is a warning to be careful.",
+      "parentExplanation": "Look out可独立用于警告，表示留神、当心。",
+      "translation": {
+        "stem": "当心！一辆自行车正朝你过来。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0124",
+      "groupId": "E0124",
+      "target": "keep fit",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "keep fit"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We swim every week to k________.",
+      "answer": "keep fit",
+      "hint": "remain healthy and physically strong",
+      "grammar": "Keep + adjective",
+      "initialLetter": "k",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Keep fit uses the adjective fit after keep.",
+      "parentExplanation": "keep后接形容词fit，表示保持健康。",
+      "translation": {
+        "stem": "我们每周游泳以保持健康。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0122",
+      "groupId": "E0122",
+      "target": "keep away",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "keep them away from"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Candles can start a fire. Please k________ the curtains.",
+      "answer": "keep them away from",
+      "hint": "make them stay at a distance from something",
+      "grammar": "Keep + object + away from",
+      "initialLetter": "k",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Keep them away from takes them as the object being moved away.",
+      "parentExplanation": "keep them away from中them指蜡烛，保留使某物远离的结构。",
+      "translation": {
+        "stem": "蜡烛可能引发火灾，请让它们远离窗帘。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0099",
+      "groupId": "E0099",
+      "target": "go to a doctor",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "go to a doctor",
+        "go to the doctor"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia feels ill, so she decides to g________.",
+      "answer": "go to a doctor",
+      "hint": "visit a doctor for medical help",
+      "grammar": "Go to a doctor",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Go to a doctor means visit one for medical help.",
+      "parentExplanation": "to后用原形短语go to a doctor；go to the doctor也是自然说法。",
+      "translation": {
+        "stem": "米娅身体不适，因此决定去看医生。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0348",
+      "groupId": "E0348",
+      "target": "across from...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "on the opposite side from something"
+        },
+        {
+          "label": "B",
+          "text": "inside the same building as something"
+        },
+        {
+          "label": "C",
+          "text": "far beyond every street"
+        },
+        {
+          "label": "D",
+          "text": "directly underneath something"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “across from” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, \"across from\" means \"on the opposite side from something\". The sentence says: \"The teacher shows us a bakery across from the entrance on the opposite side of the road.\".",
+      "parentExplanation": "第3句译为：老师给我们看入口对面马路另一边的面包店。 其中“across from”对应本源词条的“在……对面”；本题只考句中实际使用的意思。",
+      "translation": {
+        "stem": "短文中的“across from”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "across from"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0313",
+      "groupId": "E0313",
+      "target": "arrive at/in",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "reach a particular place as a destination"
+        },
+        {
+          "label": "B",
+          "text": "look for a place on a map"
+        },
+        {
+          "label": "C",
+          "text": "stay inside a place overnight"
+        },
+        {
+          "label": "D",
+          "text": "leave a place without stopping"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “arrive at” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, \"arrive at\" means \"reach a particular place as a destination\". The sentence says: \"We arrive at the centre early, before its front doors open.\".",
+      "parentExplanation": "第2句译为：我们很早到达中心，前门还没有开。 其中“arrive at”对应本源词条的“到达，抵达”；本题只考句中实际使用的意思。",
+      "translation": {
+        "stem": "短文中的“arrive at”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "arrive at"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What do the students do before the centre opens?",
+      "explanation": "The passage says: \"Its owner shows old photographs of the street in the window. While we wait, we compare the pictures with the buildings around us. A tall wall in one photograph no longer stands, but the little bridge remains.\" This supports the answer: \"Compare old street photographs with present buildings.\".",
+      "parentExplanation": "对应原文：店主把这条街的老照片摆在橱窗里。 等待时，我们把照片与周围建筑比较。 一张照片上的高墙已不见，小桥却还在。 因此正确选项为“Compare old street photographs with present buildings.”。",
+      "translation": {
+        "stem": "中心开放前，学生做了什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Paint a new wall across the road."
+        },
+        {
+          "label": "B",
+          "text": "Ride the bus home immediately."
+        },
+        {
+          "label": "C",
+          "text": "Compare old street photographs with present buildings."
+        },
+        {
+          "label": "D",
+          "text": "Buy every photograph from the owner."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the passage mainly about?",
+      "explanation": "The passage says: \"Our class takes a bus to a small local history centre. We arrive at the centre early, before its front doors open. The teacher shows us a bakery across from the entrance on the opposite side of the road. Its owner shows old photographs of the street in the window. While we wait, we compare the pictures with the buildings around us. A tall wall in one photograph no longer stands, but the little bridge remains. By opening time, we already have questions about changes in the neighbourhood.\" This supports the answer: \"An early arrival leads to questions about local changes\".",
+      "parentExplanation": "对应原文：我们班坐公交车去一家小型地方历史中心。 我们很早到达中心，前门还没有开。 老师给我们看入口对面马路另一边的面包店。 店主把这条街的老照片摆在橱窗里。 等待时，我们把照片与周围建筑比较。 一张照片上的高墙已不见，小桥却还在。 开门时，我们已经有了关于社区变化的问题。 因此正确选项为“An early arrival leads to questions about local changes”。",
+      "translation": {
+        "stem": "这篇短文主要讲什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A class learns to drive a bus"
+        },
+        {
+          "label": "B",
+          "text": "A teacher builds a new bridge"
+        },
+        {
+          "label": "C",
+          "text": "An early arrival leads to questions about local changes"
+        },
+        {
+          "label": "D",
+          "text": "A bakery replaces a history centre"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0244",
+      "groupId": "E0244",
+      "target": "between...and...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "in the space separating a tree from a painted rock"
+        },
+        {
+          "label": "B",
+          "text": "behind every object at the entrance"
+        },
+        {
+          "label": "C",
+          "text": "farther away than the whole exhibition"
+        },
+        {
+          "label": "D",
+          "text": "inside both the tree and the rock"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “between a tree and a painted rock” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, \"between a tree and a painted rock\" means \"in the space separating a tree from a painted rock\". The sentence says: \"At the entrance, a large paper fox stands between a tree and a painted rock.\".",
+      "parentExplanation": "第2句译为：入口处，一只大纸狐狸立在一棵树和一块彩绘石头之间。 其中“between a tree and a painted rock”对应本源词条的“在……和……之间”；本题只考句中实际使用的意思。",
+      "translation": {
+        "stem": "短文中的“between a tree and a painted rock”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "between a tree and a painted rock"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0237",
+      "groupId": "E0237",
+      "target": "all over",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "outside the area completely"
+        },
+        {
+          "label": "B",
+          "text": "in many places throughout an area"
+        },
+        {
+          "label": "C",
+          "text": "directly above one object"
+        },
+        {
+          "label": "D",
+          "text": "only at one central point"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “all over” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, \"all over\" means \"in many places throughout an area\". The sentence says: \"There are models from families all over the town, not just from one school.\".",
+      "parentExplanation": "第4句译为：模型来自镇上各处的家庭，而不只来自一所学校。 其中“all over”对应本源词条的“遍及”；本题只考句中实际使用的意思。",
+      "translation": {
+        "stem": "短文中的“all over”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "all over"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What is special about the narrator’s favourite bird?",
+      "explanation": "The passage says: \"Every display has a card explaining how its maker reused ordinary materials. My favourite bird has wings made from a broken umbrella.\" This supports the answer: \"Its wings are made from a broken umbrella.\".",
+      "parentExplanation": "对应原文：每个展品都有卡片，说明制作者如何再利用普通材料。 我最喜欢的鸟，用坏雨伞做成了翅膀。 因此正确选项为“Its wings are made from a broken umbrella.”。",
+      "translation": {
+        "stem": "叙述者最喜欢的鸟有什么特点？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "It is the only real animal in the room."
+        },
+        {
+          "label": "B",
+          "text": "Its wings are made from a broken umbrella."
+        },
+        {
+          "label": "C",
+          "text": "It has no card beside it."
+        },
+        {
+          "label": "D",
+          "text": "It comes from another country."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title best fits the passage?",
+      "explanation": "The passage says: \"Our town holds a weekend exhibition of handmade animal models. At the entrance, a large paper fox stands between a tree and a painted rock. Children follow its footprints to a room full of smaller creatures. There are models from families all over the town, not just from one school. Every display has a card explaining how its maker reused ordinary materials. My favourite bird has wings made from a broken umbrella. Before leaving, we write down ideas for things we could make from objects at home.\" This supports the answer: \"New Creatures from Old Materials\".",
+      "parentExplanation": "对应原文：我们镇周末举办手工动物模型展。 入口处，一只大纸狐狸立在一棵树和一块彩绘石头之间。 孩子们沿它的脚印走进满是小动物的房间。 模型来自镇上各处的家庭，而不只来自一所学校。 每个展品都有卡片，说明制作者如何再利用普通材料。 我最喜欢的鸟，用坏雨伞做成了翅膀。 离开前，我们记下可以用家中物件做东西的想法。 因此正确选项为“New Creatures from Old Materials”。",
+      "translation": {
+        "stem": "哪个标题最适合这篇短文？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A Race between a Fox and a Bird"
+        },
+        {
+          "label": "B",
+          "text": "How to Repair Every Umbrella"
+        },
+        {
+          "label": "C",
+          "text": "A Town without Any Animals"
+        },
+        {
+          "label": "D",
+          "text": "New Creatures from Old Materials"
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Our class takes a bus to a small local history centre. We arrive at the centre early, before its front doors open. The teacher shows us a bakery across from the entrance on the opposite side of the road. Its owner shows old photographs of the street in the window. While we wait, we compare the pictures with the buildings around us. A tall wall in one photograph no longer stands, but the little bridge remains. By opening time, we already have questions about changes in the neighbourhood.",
+      "parallelText": [
+        {
+          "en": "Our class takes a bus to a small local history centre.",
+          "zh": "我们班坐公交车去一家小型地方历史中心。"
+        },
+        {
+          "en": "We arrive at the centre early, before its front doors open.",
+          "zh": "我们很早到达中心，前门还没有开。"
+        },
+        {
+          "en": "The teacher shows us a bakery across from the entrance on the opposite side of the road.",
+          "zh": "老师给我们看入口对面马路另一边的面包店。"
+        },
+        {
+          "en": "Its owner shows old photographs of the street in the window.",
+          "zh": "店主在橱窗里展示这条街的旧照片。"
+        },
+        {
+          "en": "While we wait, we compare the pictures with the buildings around us.",
+          "zh": "等待时，我们把照片与周围建筑比较。"
+        },
+        {
+          "en": "A tall wall in one photograph no longer stands, but the little bridge remains.",
+          "zh": "一张照片里的高墙已不再矗立，但小桥仍然保留着。"
+        },
+        {
+          "en": "By opening time, we already have questions about changes in the neighbourhood.",
+          "zh": "到开门时，我们已经对街区的变化产生了许多问题。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "bakery",
+          "meaning": "a shop that makes and sells bread"
+        },
+        {
+          "word": "remains",
+          "meaning": "continues to be there"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Our town holds a weekend exhibition of handmade animal models. At the entrance, a large paper fox stands between a tree and a painted rock. Children follow its footprints to a room full of smaller creatures. There are models from families all over the town, not just from one school. Every display has a card explaining how its maker reused ordinary materials. My favourite bird has wings made from a broken umbrella. Before leaving, we write down ideas for things we could make from objects at home.",
+      "parallelText": [
+        {
+          "en": "Our town holds a weekend exhibition of handmade animal models.",
+          "zh": "我们镇周末举办手工动物模型展。"
+        },
+        {
+          "en": "At the entrance, a large paper fox stands between a tree and a painted rock.",
+          "zh": "入口处，一只大纸狐狸立在一棵树和一块彩绘石头之间。"
+        },
+        {
+          "en": "Children follow its footprints to a room full of smaller creatures.",
+          "zh": "孩子们沿它的脚印走进满是小动物的房间。"
+        },
+        {
+          "en": "There are models from families all over the town, not just from one school.",
+          "zh": "模型来自镇上各处的家庭，而不只来自一所学校。"
+        },
+        {
+          "en": "Every display has a card explaining how its maker reused ordinary materials.",
+          "zh": "每个展品都有卡片，说明制作者如何再利用普通材料。"
+        },
+        {
+          "en": "My favourite bird has wings made from a broken umbrella.",
+          "zh": "我最喜欢的鸟，用坏雨伞做成了翅膀。"
+        },
+        {
+          "en": "Before leaving, we write down ideas for things we could make from objects at home.",
+          "zh": "离开前，我们记下可以用家中物件做东西的想法。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "exhibition",
+          "meaning": "a public display of things to look at"
+        },
+        {
+          "word": "reuse",
+          "meaning": "use something again for a new purpose"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S076-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 1,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0050",
+      "groupId": "E0050",
+      "expression": "come back",
+      "meaning": "①回来 ②回想起来；回来",
+      "introducedAtStation": 75,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 76,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 2,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0019",
+      "groupId": "E0019",
+      "expression": "be famous for...",
+      "meaning": "因……而著名",
+      "introducedAtStation": 75,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 76,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L1-R3",
+      "lap": 1,
+      "position": 3,
+      "questionNumber": 3,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0539",
+      "groupId": "E0539",
+      "expression": "with the help of sb.",
+      "meaning": "在某人的帮助下",
+      "introducedAtStation": 71,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 72,
+      "intervalInStations": 4,
+      "referenceDueStation": 75,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L1-R4",
+      "lap": 1,
+      "position": 4,
+      "questionNumber": 4,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0372",
+      "groupId": "E0372",
+      "expression": "wait for",
+      "meaning": "等，等待，等候",
+      "introducedAtStation": 71,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 72,
+      "intervalInStations": 4,
+      "referenceDueStation": 75,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L1-R5",
+      "lap": 1,
+      "position": 5,
+      "questionNumber": 5,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0068",
+      "groupId": "E0068",
+      "expression": "fall down",
+      "meaning": "跌倒",
+      "introducedAtStation": 72,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 73,
+      "intervalInStations": 3,
+      "referenceDueStation": 76,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L1-R6",
+      "lap": 1,
+      "position": 6,
+      "questionNumber": 6,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0062",
+      "groupId": "E0062",
+      "expression": "do/take exercise",
+      "meaning": "运动，锻炼",
+      "introducedAtStation": 72,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 73,
+      "intervalInStations": 3,
+      "referenceDueStation": 76,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L1-R7",
+      "lap": 1,
+      "position": 7,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0028",
+      "groupId": "E0028",
+      "expression": "be in danger",
+      "meaning": "处于危险之中",
+      "introducedAtStation": 72,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 73,
+      "intervalInStations": 3,
+      "referenceDueStation": 76,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L1-R8",
+      "lap": 1,
+      "position": 8,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0024",
+      "groupId": "E0024",
+      "expression": "be good for...",
+      "meaning": "对……有好处",
+      "introducedAtStation": 72,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 73,
+      "intervalInStations": 3,
+      "referenceDueStation": 76,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 9,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0009",
+      "groupId": "E0009",
+      "expression": "be careful with",
+      "meaning": "注意，当心",
+      "introducedAtStation": 72,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 73,
+      "intervalInStations": 3,
+      "referenceDueStation": 76,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 10,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0006",
+      "groupId": "E0006",
+      "expression": "be bad for...",
+      "meaning": "对……有害",
+      "introducedAtStation": 72,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 73,
+      "intervalInStations": 3,
+      "referenceDueStation": 76,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L2-R3",
+      "lap": 2,
+      "position": 3,
+      "questionNumber": 11,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0975",
+      "groupId": "E0744",
+      "expression": "turn round/around",
+      "meaning": "转过身来",
+      "introducedAtStation": 71,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 73,
+      "intervalInStations": 3,
+      "referenceDueStation": 76,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "源短语表：巩固运用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L2-R4",
+      "lap": 2,
+      "position": 4,
+      "questionNumber": 12,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0837",
+      "groupId": "E0837",
+      "expression": "keep away from",
+      "meaning": "避开：别靠近；远离，避开",
+      "introducedAtStation": 73,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 74,
+      "intervalInStations": 2,
+      "referenceDueStation": 77,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L2-R5",
+      "lap": 2,
+      "position": 5,
+      "questionNumber": 13,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0150",
+      "groupId": "E0150",
+      "expression": "look out",
+      "meaning": "留神，小心；当心；小心；注意；向外看",
+      "introducedAtStation": 73,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 74,
+      "intervalInStations": 2,
+      "referenceDueStation": 77,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L2-R6",
+      "lap": 2,
+      "position": 6,
+      "questionNumber": 14,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0124",
+      "groupId": "E0124",
+      "expression": "keep fit",
+      "meaning": "保持健康",
+      "introducedAtStation": 73,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 74,
+      "intervalInStations": 2,
+      "referenceDueStation": 77,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L2-R7",
+      "lap": 2,
+      "position": 7,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0122",
+      "groupId": "E0122",
+      "expression": "keep away",
+      "meaning": "避免接近，远离；（使）避开；远离",
+      "introducedAtStation": 73,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 74,
+      "intervalInStations": 2,
+      "referenceDueStation": 77,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L2-R8",
+      "lap": 2,
+      "position": 8,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0099",
+      "groupId": "E0099",
+      "expression": "go to a doctor",
+      "meaning": "去看医生",
+      "introducedAtStation": 73,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 74,
+      "intervalInStations": 2,
+      "referenceDueStation": 77,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0348",
+      "groupId": "E0348",
+      "expression": "across from...",
+      "meaning": "在……对面",
+      "introducedAtStation": 75,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 76,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0313",
+      "groupId": "E0313",
+      "expression": "arrive at/in",
+      "meaning": "到达，抵达",
+      "introducedAtStation": 75,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 76,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0244",
+      "groupId": "E0244",
+      "expression": "between...and...",
+      "meaning": "在……和……之间",
+      "introducedAtStation": 75,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 76,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S076-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0237",
+      "groupId": "E0237",
+      "expression": "all over",
+      "meaning": "遍及",
+      "introducedAtStation": 75,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 76,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

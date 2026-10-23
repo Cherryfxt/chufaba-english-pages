@@ -1,0 +1,3167 @@
+{
+  "station": 115,
+  "type": "new_learning",
+  "phase": "phrase_supplement",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 115,
+  "newItems": [
+    {
+      "groupId": "E0296",
+      "sourceId": "E0296",
+      "sourceIds": [
+        "E0296"
+      ],
+      "word": "think about",
+      "meaning": "思考，思索；思考",
+      "sourceItems": [
+        {
+          "sourceId": "E0296",
+          "sourceKind": "phrase",
+          "expression": "think about",
+          "meaning": "思考，思索；思考",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "校园学习",
+          "usage": "about后接思考内容或doing",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0296；P0647",
+          "sourceImages": "IMG_2702.heic；IMG_2715.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 267,
+          "originalFields": {
+            "编号": "E0296",
+            "英文表达": "think about",
+            "中文释义": "思考，思索；思考",
+            "学习层级": "核心掌握",
+            "主题": "校园学习",
+            "用法与易错点": "about后接思考内容或doing",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于校园活动与学习表达中的“思考，思索”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0296；P0647",
+            "来源图片": "IMG_2702.heic；IMG_2715.heic",
+            "原文英文": "think about",
+            "原文释义": "思考，思索；思考",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0296",
+          "introducedAtStation": 115
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0296",
+        "sourceIds": [
+          "E0296"
+        ],
+        "expression": "think about",
+        "phonetic": "/θɪŋk əˈbaʊt/",
+        "readingForms": [
+          {
+            "expression": "think about",
+            "phonetic": "/θɪŋk əˈbaʊt/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0296",
+            "expression": "think about"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Think about the question before you answer.",
+          "zh": "回答前，想一想这个问题。",
+          "sourceIds": [
+            "E0296"
+          ],
+          "branch": "noun"
+        },
+        {
+          "en": "We think about visiting the museum.",
+          "zh": "我们考虑去参观博物馆。",
+          "sourceIds": [
+            "E0296"
+          ],
+          "branch": "gerund"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "校园学习",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0347",
+      "sourceId": "E0347",
+      "sourceIds": [
+        "E0347"
+      ],
+      "word": "write down",
+      "meaning": "写下，记下；写下",
+      "sourceItems": [
+        {
+          "sourceId": "E0347",
+          "sourceKind": "phrase",
+          "expression": "write down",
+          "meaning": "写下，记下；写下",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "校园学习",
+          "usage": "代词宾语放write与down之间",
+          "evidence": "8上U2参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0347；P0669",
+          "sourceImages": "IMG_2702.heic；IMG_2716.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 268,
+          "originalFields": {
+            "编号": "E0347",
+            "英文表达": "write down",
+            "中文释义": "写下，记下；写下",
+            "学习层级": "核心掌握",
+            "主题": "校园学习",
+            "用法与易错点": "代词宾语放write与down之间",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "8上U2参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0347；P0669",
+            "来源图片": "IMG_2702.heic；IMG_2716.heic",
+            "原文英文": "write down",
+            "原文释义": "写下，记下；写下",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/23287257"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0347",
+          "introducedAtStation": 115
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0347",
+        "sourceIds": [
+          "E0347"
+        ],
+        "expression": "write down",
+        "phonetic": "/raɪt daʊn/",
+        "readingForms": [
+          {
+            "expression": "write down",
+            "phonetic": "/raɪt daʊn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0347",
+            "expression": "write down"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Write down your ideas before you forget them.",
+          "zh": "忘记之前，把你的想法写下来。",
+          "sourceIds": [
+            "E0347"
+          ],
+          "branch": null
+        },
+        {
+          "en": "The number is useful; write it down.",
+          "zh": "这个号码有用，把它记下来。",
+          "sourceIds": [
+            "E0347"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "校园学习",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0012",
+      "sourceId": "E0012",
+      "sourceIds": [
+        "E0012"
+      ],
+      "word": "be covered with/by...",
+      "meaning": "被……覆盖",
+      "sourceItems": [
+        {
+          "sourceId": "E0012",
+          "sourceKind": "phrase",
+          "expression": "be covered with/by...",
+          "meaning": "被……覆盖",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "自然环保",
+          "usage": "covered保留过去分词形式，区分with和by",
+          "evidence": "7上U4参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0012",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 269,
+          "originalFields": {
+            "编号": "E0012",
+            "英文表达": "be covered with/by...",
+            "中文释义": "被……覆盖",
+            "学习层级": "核心掌握",
+            "主题": "自然环保",
+            "用法与易错点": "covered保留过去分词形式，区分with和by",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "7上U4参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0012",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "be covered with/by...",
+            "原文释义": "被……覆盖",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/20866078"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0012",
+          "introducedAtStation": 115
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0012",
+        "sourceIds": [
+          "E0012"
+        ],
+        "expression": "be covered with/by...",
+        "phonetic": "/biː ˈkʌvəd wɪð …/ 或 /biː ˈkʌvəd baɪ …/",
+        "readingForms": [
+          {
+            "expression": "be covered with …",
+            "phonetic": "/biː ˈkʌvəd wɪð …/"
+          },
+          {
+            "expression": "be covered by …",
+            "phonetic": "/biː ˈkʌvəd baɪ …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0012",
+            "expression": "be covered with/by..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。",
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The cake is covered with cream.",
+          "zh": "蛋糕上覆盖着奶油。",
+          "sourceIds": [
+            "E0012"
+          ],
+          "branch": "with"
+        },
+        {
+          "en": "The path is covered by fallen leaves.",
+          "zh": "小路被落叶覆盖。",
+          "sourceIds": [
+            "E0012"
+          ],
+          "branch": "by"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "with/by在部分覆盖语境都可用。本组按提示分别操练源保留分支，不声称另一介词在所有场合必错。",
+      "ipa": null,
+      "pos": null,
+      "unit": "自然环保",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0026",
+      "sourceId": "E0026",
+      "sourceIds": [
+        "E0026"
+      ],
+      "word": "be home to",
+      "meaning": "有……栖息，是……的家乡",
+      "sourceItems": [
+        {
+          "sourceId": "E0026",
+          "sourceKind": "phrase",
+          "expression": "be home to",
+          "meaning": "有……栖息，是……的家乡",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "自然环保",
+          "usage": "home为名词，to后接栖息物种或人群",
+          "evidence": "7上U4参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0026",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 270,
+          "originalFields": {
+            "编号": "E0026",
+            "英文表达": "be home to",
+            "中文释义": "有……栖息，是……的家乡",
+            "学习层级": "核心掌握",
+            "主题": "自然环保",
+            "用法与易错点": "home为名词，to后接栖息物种或人群",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "7上U4参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0026",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "be home to",
+            "原文释义": "有……栖息，是……的家乡",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/20866078"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0026",
+          "introducedAtStation": 115
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0026",
+        "sourceIds": [
+          "E0026"
+        ],
+        "expression": "be home to",
+        "phonetic": "/biː həʊm tə/",
+        "readingForms": [
+          {
+            "expression": "be home to",
+            "phonetic": "/biː həʊm tə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0026",
+            "expression": "be home to"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The forest is home to many birds.",
+          "zh": "这片森林是许多鸟类的栖息地。",
+          "sourceIds": [
+            "E0026"
+          ],
+          "branch": null
+        },
+        {
+          "en": "The town is home to families from many places.",
+          "zh": "这个镇是来自许多地方的家庭的家园。",
+          "sourceIds": [
+            "E0026"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "自然环保",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0652",
+      "sourceId": "E0652",
+      "sourceIds": [
+        "E0652"
+      ],
+      "word": "cut down",
+      "meaning": "削减；砍倒；缩小",
+      "sourceItems": [
+        {
+          "sourceId": "E0652",
+          "sourceKind": "phrase",
+          "expression": "cut down",
+          "meaning": "削减；砍倒；缩小",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "自然环保",
+          "usage": "cut down trees / cut down on waste；区分宾语与on。",
+          "evidence": "7上U4参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0679；P0990",
+          "sourceImages": "IMG_2716.heic；IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 272,
+          "originalFields": {
+            "编号": "E0652",
+            "英文表达": "cut down",
+            "中文释义": "削减；砍倒；缩小",
+            "学习层级": "核心掌握",
+            "主题": "自然环保",
+            "用法与易错点": "cut down trees / cut down on waste；区分宾语与on。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "7上U4参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0679；P0990",
+            "来源图片": "IMG_2716.heic；IMG_2719.heic",
+            "原文英文": "cut down",
+            "原文释义": "削减；砍倒；砍倒；削减；缩小",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/20866078"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0652",
+          "introducedAtStation": 115
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0652",
+        "sourceIds": [
+          "E0652"
+        ],
+        "expression": "cut down",
+        "phonetic": "/kʌt daʊn/",
+        "readingForms": [
+          {
+            "expression": "cut down",
+            "phonetic": "/kʌt daʊn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0652",
+            "expression": "cut down"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Workers cut down the dead tree beside the road.",
+          "zh": "工人砍倒路边的枯树。",
+          "sourceIds": [
+            "E0652"
+          ],
+          "branch": "fell_tree"
+        },
+        {
+          "en": "We cut down on paper waste by printing less.",
+          "zh": "我们减少打印，削减纸张浪费。",
+          "sourceIds": [
+            "E0652"
+          ],
+          "branch": "reduce_on"
+        },
+        {
+          "en": "We cut down the waiting time by opening another desk.",
+          "zh": "我们增加一个服务台，缩短等待时间。",
+          "sourceIds": [
+            "E0652"
+          ],
+          "branch": "reduce_direct"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "自然环保",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0513",
+      "sourceId": "E0513",
+      "sourceIds": [
+        "E0513"
+      ],
+      "word": "grow up",
+      "meaning": "①成长，长大成人②形成，兴起",
+      "sourceItems": [
+        {
+          "sourceId": "E0513",
+          "sourceKind": "phrase",
+          "expression": "grow up",
+          "meaning": "①成长，长大成人②形成，兴起",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "自然环保",
+          "usage": "成长义通常不接直接宾语，grow过去式为grew。",
+          "evidence": "8上U8参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0517",
+          "sourceImages": "IMG_2704.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 273,
+          "originalFields": {
+            "编号": "E0513",
+            "英文表达": "grow up",
+            "中文释义": "①成长，长大成人②形成，兴起",
+            "学习层级": "核心掌握",
+            "主题": "自然环保",
+            "用法与易错点": "成长义通常不接直接宾语，grow过去式为grew。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "8上U8参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0517",
+            "来源图片": "IMG_2704.heic",
+            "原文英文": "grow up",
+            "原文释义": "①成长，长大成人②形成，兴起",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/23287257"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0513",
+          "introducedAtStation": 115
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0513",
+        "sourceIds": [
+          "E0513"
+        ],
+        "expression": "grow up",
+        "phonetic": "/ɡrəʊ ʌp/",
+        "readingForms": [
+          {
+            "expression": "grow up",
+            "phonetic": "/ɡrəʊ ʌp/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0513",
+            "expression": "grow up"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Children grow up and become more independent.",
+          "zh": "孩子们逐渐长大，变得更加独立。",
+          "sourceIds": [
+            "E0513"
+          ],
+          "branch": "become_adult"
+        },
+        {
+          "en": "A small town grew up around the railway station.",
+          "zh": "火车站周围逐渐形成一个小镇。",
+          "sourceIds": [
+            "E0513"
+          ],
+          "branch": "form_develop"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "自然环保",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "E0583",
+      "sourceId": "E0583",
+      "sourceIds": [
+        "E0583"
+      ],
+      "word": "teach oneself",
+      "meaning": "自学",
+      "sourceItems": [
+        {
+          "sourceId": "E0583",
+          "sourceKind": "phrase",
+          "expression": "teach oneself",
+          "meaning": "自学",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "校园学习",
+          "usage": "teach oneself = learn by oneself，反身代词与主语一致。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0587",
+          "sourceImages": "IMG_2705.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 266,
+          "originalFields": {
+            "编号": "E0583",
+            "英文表达": "teach oneself",
+            "中文释义": "自学",
+            "学习层级": "核心掌握",
+            "主题": "校园学习",
+            "用法与易错点": "teach oneself = learn by oneself，反身代词与主语一致。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0587",
+            "来源图片": "IMG_2705.heic",
+            "原文英文": "teach oneself",
+            "原文释义": "自学",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0583",
+          "introducedAtStation": 114
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0583",
+        "sourceIds": [
+          "E0583"
+        ],
+        "expression": "teach oneself",
+        "phonetic": "/tiːtʃ wʌnˈself/",
+        "readingForms": [
+          {
+            "expression": "teach oneself",
+            "phonetic": "/tiːtʃ wʌnˈself/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0583",
+            "expression": "teach oneself"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I teach myself Japanese using a beginner's book.",
+          "zh": "我用一本入门书自学日语。",
+          "sourceIds": [
+            "E0583"
+          ],
+          "branch": null
+        },
+        {
+          "en": "Mia teaches herself to draw.",
+          "zh": "米娅自学画画。",
+          "sourceIds": [
+            "E0583"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "校园学习",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0366",
+      "sourceId": "E0366",
+      "sourceIds": [
+        "E0366"
+      ],
+      "word": "prepare for...",
+      "meaning": "为……作准备",
+      "sourceItems": [
+        {
+          "sourceId": "E0366",
+          "sourceKind": "phrase",
+          "expression": "prepare for...",
+          "meaning": "为……作准备",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "校园学习",
+          "usage": "for后接考试或活动，辨析prepare to do",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0366",
+          "sourceImages": "IMG_2702.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 260,
+          "originalFields": {
+            "编号": "E0366",
+            "英文表达": "prepare for...",
+            "中文释义": "为……作准备",
+            "学习层级": "核心掌握",
+            "主题": "校园学习",
+            "用法与易错点": "for后接考试或活动，辨析prepare to do",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于校园活动与学习表达中的“为……作准备”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0366",
+            "来源图片": "IMG_2702.heic",
+            "原文英文": "prepare for...",
+            "原文释义": "为……作准备",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0366",
+          "introducedAtStation": 114
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0366",
+        "sourceIds": [
+          "E0366"
+        ],
+        "expression": "prepare for...",
+        "phonetic": "/prɪˈpeə fə …/",
+        "readingForms": [
+          {
+            "expression": "prepare for …",
+            "phonetic": "/prɪˈpeə fə …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0366",
+            "expression": "prepare for..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We prepare for the test by reviewing our notes.",
+          "zh": "我们通过复习笔记准备考试。",
+          "sourceIds": [
+            "E0366"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "校园学习",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0219",
+      "sourceId": "E0219",
+      "sourceIds": [
+        "E0219"
+      ],
+      "word": "take/make notes",
+      "meaning": "记笔记",
+      "sourceItems": [
+        {
+          "sourceId": "E0219",
+          "sourceKind": "phrase",
+          "expression": "take/make notes",
+          "meaning": "记笔记",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "校园学习",
+          "usage": "notes常用复数，可接on加主题",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0219",
+          "sourceImages": "IMG_2701.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 265,
+          "originalFields": {
+            "编号": "E0219",
+            "英文表达": "take/make notes",
+            "中文释义": "记笔记",
+            "学习层级": "核心掌握",
+            "主题": "校园学习",
+            "用法与易错点": "notes常用复数，可接on加主题",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于校园活动与学习表达中的“记笔记”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0219",
+            "来源图片": "IMG_2701.heic",
+            "原文英文": "take/make notes",
+            "原文释义": "记笔记",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0219",
+          "introducedAtStation": 114
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0219",
+        "sourceIds": [
+          "E0219"
+        ],
+        "expression": "take/make notes",
+        "phonetic": "/teɪk nəʊts/ 或 /meɪk nəʊts/",
+        "readingForms": [
+          {
+            "expression": "take notes",
+            "phonetic": "/teɪk nəʊts/"
+          },
+          {
+            "expression": "make notes",
+            "phonetic": "/meɪk nəʊts/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0219",
+            "expression": "take/make notes"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We take notes during the lesson.",
+          "zh": "我们课上记笔记。",
+          "sourceIds": [
+            "E0219"
+          ],
+          "branch": "take"
+        },
+        {
+          "en": "Mia makes notes on the main ideas.",
+          "zh": "米娅就主要观点做笔记。",
+          "sourceIds": [
+            "E0219"
+          ],
+          "branch": "make"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "校园学习",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0906",
+      "sourceId": "E0906",
+      "sourceIds": [
+        "E0906"
+      ],
+      "word": "make (great) progress",
+      "meaning": "取得（很大）进步",
+      "sourceItems": [
+        {
+          "sourceId": "E0906",
+          "sourceKind": "phrase",
+          "expression": "make (great) progress",
+          "meaning": "取得（很大）进步",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "校园学习",
+          "usage": "progress不可数，不加a或s。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P1084",
+          "sourceImages": "IMG_2720.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 254,
+          "originalFields": {
+            "编号": "E0906",
+            "英文表达": "make (great) progress",
+            "中文释义": "取得（很大）进步",
+            "学习层级": "核心掌握",
+            "主题": "校园学习",
+            "用法与易错点": "progress不可数，不加a或s。",
+            "适用训练": "读写综合 / 书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P1084",
+            "来源图片": "IMG_2720.heic",
+            "原文英文": "make (great) progress",
+            "原文释义": "取得（很大）进步",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0906",
+          "introducedAtStation": 113
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0906",
+        "sourceIds": [
+          "E0906"
+        ],
+        "expression": "make (great) progress",
+        "phonetic": "/meɪk ˈprəʊɡres/ 或 /meɪk ɡreɪt ˈprəʊɡres/",
+        "readingForms": [
+          {
+            "expression": "make progress",
+            "phonetic": "/meɪk ˈprəʊɡres/"
+          },
+          {
+            "expression": "make great progress",
+            "phonetic": "/meɪk ɡreɪt ˈprəʊɡres/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0906",
+            "expression": "make (great) progress"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。",
+          "progress在make progress中是名词，采用首音节重音/ˈprəʊɡres/。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We make progress by practising every day.",
+          "zh": "我们通过每天练习取得进步。",
+          "sourceIds": [
+            "E0906"
+          ],
+          "branch": "plain"
+        },
+        {
+          "en": "Mia makes great progress in reading this term.",
+          "zh": "米娅本学期阅读进步很大。",
+          "sourceIds": [
+            "E0906"
+          ],
+          "branch": "great"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "校园学习",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0157",
+      "sourceId": "E0157",
+      "sourceIds": [
+        "E0157"
+      ],
+      "word": "make a mistake",
+      "meaning": "犯错误",
+      "sourceItems": [
+        {
+          "sourceId": "E0157",
+          "sourceKind": "phrase",
+          "expression": "make a mistake",
+          "meaning": "犯错误",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "校园学习",
+          "usage": "mistake可数，可用a或复数",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0157",
+          "sourceImages": "IMG_2700.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 255,
+          "originalFields": {
+            "编号": "E0157",
+            "英文表达": "make a mistake",
+            "中文释义": "犯错误",
+            "学习层级": "核心掌握",
+            "主题": "校园学习",
+            "用法与易错点": "mistake可数，可用a或复数",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于校园活动与学习表达中的“犯错误”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0157",
+            "来源图片": "IMG_2700.heic",
+            "原文英文": "make a mistake",
+            "原文释义": "犯错误",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0157",
+          "introducedAtStation": 113
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0157",
+        "sourceIds": [
+          "E0157",
+          "E0729"
+        ],
+        "expression": "make a mistake",
+        "phonetic": "/meɪk ə mɪˈsteɪk/ 或 /meɪk mɪˈsteɪks/",
+        "readingForms": [
+          {
+            "expression": "make a mistake",
+            "phonetic": "/meɪk ə mɪˈsteɪk/"
+          },
+          {
+            "expression": "make mistakes",
+            "phonetic": "/meɪk mɪˈsteɪks/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0157",
+            "expression": "make a mistake"
+          },
+          {
+            "sourceId": "E0729",
+            "expression": "make mistakes"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I make a mistake in the last answer.",
+          "zh": "我在最后一题中犯了个错误。",
+          "sourceIds": [
+            "E0157"
+          ],
+          "branch": "singular"
+        },
+        {
+          "en": "We all make mistakes while learning.",
+          "zh": "我们学习中都会犯错。",
+          "sourceIds": [
+            "E0157",
+            "E0729"
+          ],
+          "branch": "plural"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "校园学习",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0967",
+      "sourceId": "E0967",
+      "sourceIds": [
+        "E0967"
+      ],
+      "word": "take turns",
+      "meaning": "轮流",
+      "sourceItems": [
+        {
+          "sourceId": "E0967",
+          "sourceKind": "phrase",
+          "expression": "take turns",
+          "meaning": "轮流",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "校园学习",
+          "usage": "轮流做某事接to do，turns用复数。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P1184",
+          "sourceImages": "IMG_2722.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 264,
+          "originalFields": {
+            "编号": "E0967",
+            "英文表达": "take turns",
+            "中文释义": "轮流",
+            "学习层级": "核心掌握",
+            "主题": "校园学习",
+            "用法与易错点": "轮流做某事接to do，turns用复数。",
+            "适用训练": "读写综合 / 书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P1184",
+            "来源图片": "IMG_2722.heic",
+            "原文英文": "take turns",
+            "原文释义": "轮流",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0967",
+          "introducedAtStation": 114
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0967",
+        "sourceIds": [
+          "E0967"
+        ],
+        "expression": "take turns",
+        "phonetic": "/teɪk tɜːnz/",
+        "readingForms": [
+          {
+            "expression": "take turns",
+            "phonetic": "/teɪk tɜːnz/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0967",
+            "expression": "take turns"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We take turns to use the computer.",
+          "zh": "我们轮流用电脑。",
+          "sourceIds": [
+            "E0967"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "校园学习",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0942",
+      "sourceId": "E0942",
+      "sourceIds": [
+        "E0942"
+      ],
+      "word": "take (an active) part in",
+      "meaning": "（积极）参加",
+      "sourceItems": [
+        {
+          "sourceId": "E0942",
+          "sourceKind": "phrase",
+          "expression": "take (an active) part in",
+          "meaning": "（积极）参加",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "校园学习",
+          "usage": "active前有an；无修饰通常take part in。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P1146",
+          "sourceImages": "IMG_2721.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 261,
+          "originalFields": {
+            "编号": "E0942",
+            "英文表达": "take (an active) part in",
+            "中文释义": "（积极）参加",
+            "学习层级": "核心掌握",
+            "主题": "校园学习",
+            "用法与易错点": "active前有an；无修饰通常take part in。",
+            "适用训练": "读写综合 / 书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P1146",
+            "来源图片": "IMG_2721.heic",
+            "原文英文": "take (an active) part in",
+            "原文释义": "（积极）参加",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0942",
+          "introducedAtStation": 114
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0942",
+        "sourceIds": [
+          "E0942",
+          "E0205"
+        ],
+        "expression": "take (an active) part in",
+        "phonetic": "/teɪk pɑːt ɪn/ 或 /teɪk ən ˈæktɪv pɑːt ɪn/",
+        "readingForms": [
+          {
+            "expression": "take part in",
+            "phonetic": "/teɪk pɑːt ɪn/"
+          },
+          {
+            "expression": "take an active part in",
+            "phonetic": "/teɪk ən ˈæktɪv pɑːt ɪn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0942",
+            "expression": "take (an active) part in"
+          },
+          {
+            "sourceId": "E0205",
+            "expression": "take an active part in"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We take part in the school fair.",
+          "zh": "我们参加学校集市。",
+          "sourceIds": [
+            "E0942"
+          ],
+          "branch": "plain"
+        },
+        {
+          "en": "We take an active part in planning the school fair.",
+          "zh": "我们积极参与学校集市的策划。",
+          "sourceIds": [
+            "E0942",
+            "E0205"
+          ],
+          "branch": "active"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "校园学习",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0843",
+      "sourceId": "E0843",
+      "sourceIds": [
+        "E0843"
+      ],
+      "word": "take an interest in",
+      "meaning": "对...感兴趣",
+      "sourceItems": [
+        {
+          "sourceId": "E0843",
+          "sourceKind": "phrase",
+          "expression": "take an interest in",
+          "meaning": "对...感兴趣",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "校园学习",
+          "usage": "in后接名词或doing，interest前有an。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0981",
+          "sourceImages": "IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 262,
+          "originalFields": {
+            "编号": "E0843",
+            "英文表达": "take an interest in",
+            "中文释义": "对...感兴趣",
+            "学习层级": "核心掌握",
+            "主题": "校园学习",
+            "用法与易错点": "in后接名词或doing，interest前有an。",
+            "适用训练": "读写综合 / 书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0981",
+            "来源图片": "IMG_2719.heic",
+            "原文英文": "take an interest in",
+            "原文释义": "对...感兴趣",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0843",
+          "introducedAtStation": 114
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0843",
+        "sourceIds": [
+          "E0843"
+        ],
+        "expression": "take an interest in",
+        "phonetic": "/teɪk ən ˈɪntrəst ɪn/",
+        "readingForms": [
+          {
+            "expression": "take an interest in",
+            "phonetic": "/teɪk ən ˈɪntrəst ɪn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0843",
+            "expression": "take an interest in"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Mia takes an interest in local history.",
+          "zh": "米娅对本地历史感兴趣。",
+          "sourceIds": [
+            "E0843"
+          ],
+          "branch": "noun"
+        },
+        {
+          "en": "Ben takes an interest in making models.",
+          "zh": "本对制作模型感兴趣。",
+          "sourceIds": [
+            "E0843"
+          ],
+          "branch": "gerund"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "校园学习",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "E0296",
+      "groupId": "E0296",
+      "direction": "zh_to_en",
+      "stem": "思考，思索；思考",
+      "options": [
+        {
+          "label": "A",
+          "text": "take turns"
+        },
+        {
+          "label": "B",
+          "text": "leave a message"
+        },
+        {
+          "label": "C",
+          "text": "think about"
+        },
+        {
+          "label": "D",
+          "text": "call back"
+        }
+      ],
+      "answer": "C",
+      "word": "think about",
+      "meaning": "思考，思索；思考"
+    },
+    {
+      "id": 2,
+      "sourceId": "E0347",
+      "groupId": "E0347",
+      "direction": "en_to_zh",
+      "stem": "write down",
+      "options": [
+        {
+          "label": "A",
+          "text": "思考，思索；思考"
+        },
+        {
+          "label": "B",
+          "text": "写下，记下；写下"
+        },
+        {
+          "label": "C",
+          "text": "给...打电话"
+        },
+        {
+          "label": "D",
+          "text": "解释；说明"
+        }
+      ],
+      "answer": "B",
+      "word": "write down",
+      "meaning": "写下，记下；写下"
+    },
+    {
+      "id": 3,
+      "sourceId": "E0012",
+      "groupId": "E0012",
+      "direction": "zh_to_en",
+      "stem": "被……覆盖",
+      "options": [
+        {
+          "label": "A",
+          "text": "be covered with/by..."
+        },
+        {
+          "label": "B",
+          "text": "natural"
+        },
+        {
+          "label": "C",
+          "text": "bar"
+        },
+        {
+          "label": "D",
+          "text": "tell about"
+        }
+      ],
+      "answer": "A",
+      "word": "be covered with/by...",
+      "meaning": "被……覆盖"
+    },
+    {
+      "id": 4,
+      "sourceId": "E0026",
+      "groupId": "E0026",
+      "direction": "en_to_zh",
+      "stem": "be home to",
+      "options": [
+        {
+          "label": "A",
+          "text": "有……栖息，是……的家乡"
+        },
+        {
+          "label": "B",
+          "text": "在……的中心"
+        },
+        {
+          "label": "C",
+          "text": "放进；加进"
+        },
+        {
+          "label": "D",
+          "text": "太阳能"
+        }
+      ],
+      "answer": "A",
+      "word": "be home to",
+      "meaning": "有……栖息，是……的家乡"
+    },
+    {
+      "id": 5,
+      "sourceId": "E0652",
+      "groupId": "E0652",
+      "direction": "zh_to_en",
+      "stem": "削减；砍倒；缩小",
+      "options": [
+        {
+          "label": "A",
+          "text": "right away"
+        },
+        {
+          "label": "B",
+          "text": "excuse me"
+        },
+        {
+          "label": "C",
+          "text": "hike"
+        },
+        {
+          "label": "D",
+          "text": "cut down"
+        }
+      ],
+      "answer": "D",
+      "word": "cut down",
+      "meaning": "削减；砍倒；缩小"
+    },
+    {
+      "id": 6,
+      "sourceId": "E0513",
+      "groupId": "E0513",
+      "direction": "en_to_zh",
+      "stem": "grow up",
+      "options": [
+        {
+          "label": "A",
+          "text": "系统"
+        },
+        {
+          "label": "B",
+          "text": "计划（或打算）做某事"
+        },
+        {
+          "label": "C",
+          "text": "决心；坚毅；坚定"
+        },
+        {
+          "label": "D",
+          "text": "①成长，长大成人②形成，兴起"
+        }
+      ],
+      "answer": "D",
+      "word": "grow up",
+      "meaning": "①成长，长大成人②形成，兴起"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0296",
+      "groupId": "E0296",
+      "target": "think about",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to refuse to consider an idea at all"
+        },
+        {
+          "label": "B",
+          "text": "to accept a choice without any thought"
+        },
+        {
+          "label": "C",
+          "text": "to forget a thought as soon as it appears"
+        },
+        {
+          "label": "D",
+          "text": "to consider something in your mind"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "D",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "think about",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "think about"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "思考，思索；思考",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “think about” means “to consider something in your mind”.",
+      "parentExplanation": "本题考查“think about”在本句中的用法；正确英文解释为“to consider something in your mind”。对应源表释义为“思考，思索；思考”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0347",
+      "groupId": "E0347",
+      "target": "write down",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to record something in writing"
+        },
+        {
+          "label": "B",
+          "text": "to erase something already written"
+        },
+        {
+          "label": "C",
+          "text": "to cover a page so no one can read it"
+        },
+        {
+          "label": "D",
+          "text": "to say something without recording it"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "Please write down the phone number in your notebook.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Please write down the phone number in your notebook."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "请把电话号码记在笔记本里。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “write down” means “to record something in writing”.",
+      "parentExplanation": "本题考查“write down”在本句中的用法；正确英文解释为“to record something in writing”。对应源表释义为“写下，记下；写下”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0012",
+      "groupId": "E0012",
+      "target": "be covered with/by...",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "be covered with/by..."
+        },
+        {
+          "label": "B",
+          "text": "on foot"
+        },
+        {
+          "label": "C",
+          "text": "medium height"
+        },
+        {
+          "label": "D",
+          "text": "full of energy"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which phrase describes the path’s surface?",
+      "answer": "A",
+      "listenScript": "By morning, snow hides every part of the path. No stones or earth can be seen under the white layer.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "By morning, snow hides every part of the path. No stones or earth can be seen under the white layer."
+        }
+      ],
+      "explanation": "The path is covered with snow because snow lies across its entire surface.",
+      "parentExplanation": "表面整片被雪覆盖，可用be covered with/by snow，保留两个介词分支。",
+      "translation": {
+        "stem": "哪个短语描述小路表面？",
+        "listenScript": "到了早晨，雪盖住小路每一处。白色的一层下面，看不到石子和泥土。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T028",
+        "T074",
+        "E0012",
+        "T075"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0026",
+      "groupId": "E0026",
+      "target": "be home to",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "take part in"
+        },
+        {
+          "label": "B",
+          "text": "get ... ready for"
+        },
+        {
+          "label": "C",
+          "text": "be home to"
+        },
+        {
+          "label": "D",
+          "text": "be willing to do something"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression describes the woodland as a place where these birds live?",
+      "answer": "C",
+      "listenScript": "The woodland has many nests and sheltered places. Birds live there, raise their young there and return there each evening.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The woodland has many nests and sheltered places. Birds live there, raise their young there and return there each evening."
+        }
+      ],
+      "explanation": "The woodland is home to the birds because they live and nest there.",
+      "parentExplanation": "鸟儿在那里生活繁殖，林地is home to这些鸟，是栖息地。",
+      "translation": {
+        "stem": "哪个表达描述林地是这些鸟的栖息地？",
+        "listenScript": "林地里有许多巢和遮蔽处。鸟儿在那里生活、育雏，每晚回去。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T069",
+        "E0026",
+        "T027",
+        "T076"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0652",
+      "groupId": "E0652",
+      "target": "cut down",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to measure something without changing it"
+        },
+        {
+          "label": "B",
+          "text": "to plant new trees and increase every amount"
+        },
+        {
+          "label": "C",
+          "text": "to fell a tree by cutting it"
+        },
+        {
+          "label": "D",
+          "text": "to repair a tree and double the size of everything"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Workers must cut down the dead tree before it falls onto the road.\nWhat does “cut down” mean here?",
+      "translation": {
+        "stem": "工人必须在枯树倒向公路前把它砍倒。 这里“cut down”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “cut down” means “to fell a tree by cutting it”.",
+      "parentExplanation": "本题考查“cut down”在本句中的用法；正确英文解释为“to fell a tree by cutting it”。对应源表释义为“削减；砍倒；缩小”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0513",
+      "groupId": "E0513",
+      "target": "grow up",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to become younger and disappear immediately"
+        },
+        {
+          "label": "B",
+          "text": "to grow older towards adulthood"
+        },
+        {
+          "label": "C",
+          "text": "to lose all strength without developing"
+        },
+        {
+          "label": "D",
+          "text": "to remain exactly the same size and form forever"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "As children grow up, they learn to do more things for themselves.\nWhat does “grow up” mean here?",
+      "translation": {
+        "stem": "随着孩子们长大，他们学会自己做更多事情。 这里“grow up”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “grow up” means “to grow older towards adulthood”.",
+      "parentExplanation": "本题考查“grow up”在本句中的用法；正确英文解释为“to grow older towards adulthood”。对应源表释义为“①成长，长大成人②形成，兴起”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0583",
+      "groupId": "E0583",
+      "target": "teach oneself",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to learn something without a teacher by using your own effort"
+        },
+        {
+          "label": "B",
+          "text": "to give a lesson to every other student"
+        },
+        {
+          "label": "C",
+          "text": "to wait for someone else to complete all learning"
+        },
+        {
+          "label": "D",
+          "text": "to refuse to try learning on your own"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "Mia teaches herself to draw by following the steps in an art guide.\nWhat does “teaches herself to draw” mean here?",
+      "translation": {
+        "stem": "米娅跟着美术指南上的步骤自学画画。 这里“teaches herself to draw”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “teach oneself” means “to learn something without a teacher by using your own effort”.",
+      "parentExplanation": "本题考查“teach oneself”在本句中的用法；正确英文解释为“to learn something without a teacher by using your own effort”。对应源表释义为“自学”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0366",
+      "groupId": "E0366",
+      "target": "prepare for...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to cancel a task before beginning it"
+        },
+        {
+          "label": "B",
+          "text": "to avoid all preparation for an event"
+        },
+        {
+          "label": "C",
+          "text": "to get ready for an event or task"
+        },
+        {
+          "label": "D",
+          "text": "to forget every arrangement already made"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Mia prepares for the school show by practising her song every day.\nWhat does “prepares for” mean here?",
+      "translation": {
+        "stem": "米娅每天练歌，为学校演出作准备。 这里“prepares for”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “prepare for...” means “to get ready for an event or task”.",
+      "parentExplanation": "本题考查“prepare for...”在本句中的用法；正确英文解释为“to get ready for an event or task”。对应源表释义为“为……作准备”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0296",
+      "groupId": "E0296",
+      "target": "think about",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "think about"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We t________ taking the train instead of driving, because it may be easier.",
+      "answer": "think about",
+      "hint": "Use the considering phrase followed by an -ing action.",
+      "grammar": "think about + 动名词",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The possible action taking the train follows the preposition about.",
+      "parentExplanation": "about是介词，后接动名词taking，不接take原形。",
+      "translation": {
+        "stem": "我们考虑乘火车而不是开车，因为那样可能更方便。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0347",
+      "groupId": "E0347",
+      "target": "write down",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "write it down"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This address is important. Please w________ before the screen changes.",
+      "answer": "write it down",
+      "hint": "Use it for the address; place the pronoun in the middle.",
+      "grammar": "write + 代词宾语 + down",
+      "initialLetter": "w",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A pronoun object goes between write and down.",
+      "parentExplanation": "it指地址，必须放write和down之间，不能写write down it。",
+      "translation": {
+        "stem": "这个地址很重要。请在屏幕变化前把它记下来。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0012",
+      "groupId": "E0012",
+      "target": "be covered with/by...",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "is covered with"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The cake i________ cream, so none of its top is visible.",
+      "answer": "is covered with",
+      "hint": "Use the passive covering phrase with with; agree with the singular cake.",
+      "grammar": "be covered with + 覆盖物",
+      "initialLetter": "i",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Cream covers the surface, expressed here with is covered with.",
+      "parentExplanation": "按提示用with分支；cake配is，covered保留过去分词。",
+      "translation": {
+        "stem": "蛋糕上覆盖着奶油，所以顶部完全看不见。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0026",
+      "groupId": "E0026",
+      "target": "be home to",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "is home to"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This forest i________ many kinds of birds that nest in its trees.",
+      "answer": "is home to",
+      "hint": "Use the three-word phrase meaning is the place where something lives.",
+      "grammar": "be home to + 栖息物种",
+      "initialLetter": "i",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The birds live and nest there, so the forest is home to them.",
+      "parentExplanation": "是某物栖息地用be home to；forest单数配is，home前不加a。",
+      "translation": {
+        "stem": "这片森林是许多鸟类的栖息地，它们在树上筑巢。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0652",
+      "groupId": "E0652",
+      "target": "cut down",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "cut down on"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We can c________ paper waste by printing on both sides.",
+      "answer": "cut down on",
+      "hint": "Use the three-word reduction phrase with on before what is reduced.",
+      "grammar": "cut down on + 消耗或浪费",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Reducing how much paper is wasted is cutting down on waste.",
+      "parentExplanation": "减少某种消耗、浪费用cut down on，on不可省略。",
+      "translation": {
+        "stem": "我们可以通过双面打印减少纸张浪费。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0513",
+      "groupId": "E0513",
+      "target": "grow up",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "grew up"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "A new town g________ around the railway station many years ago.",
+      "answer": "grew up",
+      "hint": "Use the past tense of the two-word phrase meaning formed and developed gradually.",
+      "grammar": "grew up；形成义",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The town formed over time; the past of grow is grew.",
+      "parentExplanation": "本题为城镇逐渐形成义；many years ago提示过去式grew up。",
+      "translation": {
+        "stem": "多年前，一个新镇在火车站周围逐渐形成。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0219",
+      "groupId": "E0219",
+      "target": "take/make notes",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "take notes"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We t________ during the lesson so that we can remember the main points later.",
+      "answer": "take notes",
+      "hint": "Use the note-recording phrase with take and a plural noun.",
+      "grammar": "take notes",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Recording key points during learning is taking notes.",
+      "parentExplanation": "按提示使用take notes分支；notes通常用复数。",
+      "translation": {
+        "stem": "我们课上记笔记，便于之后回忆要点。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0906",
+      "groupId": "E0906",
+      "target": "make (great) progress",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "make progress"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Regular practice helps us m________ and do the task better each week.",
+      "answer": "make progress",
+      "hint": "Use the two-word phrase meaning improve; do not add an article before the noun.",
+      "grammar": "make progress；不可数名词",
+      "initialLetter": "m",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Doing the task better over time is making progress.",
+      "parentExplanation": "progress不可数，make progress中不加a，也不加s。",
+      "translation": {
+        "stem": "定期练习帮助我们取得进步，每周都把任务做得更好。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0157",
+      "groupId": "E0157",
+      "target": "make a mistake",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "do something incorrectly"
+        },
+        {
+          "label": "B",
+          "text": "ask someone to explain a new term"
+        },
+        {
+          "label": "C",
+          "text": "complete a task without any error"
+        },
+        {
+          "label": "D",
+          "text": "repair an object successfully"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “make a mistake” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, \"make a mistake\" means \"do something incorrectly\". The sentence says: \"When my turn comes, I make a mistake and move the camera too close.\".",
+      "parentExplanation": "第3句译为：轮到我时，我犯了错，把设备移得太近。 其中“make a mistake”对应本源词条的“犯错误”；本题只考句中实际使用的意思。",
+      "translation": {
+        "stem": "短文中的“make a mistake”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "make a mistake"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0967",
+      "groupId": "E0967",
+      "target": "take turns",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "all use an object at the same instant"
+        },
+        {
+          "label": "B",
+          "text": "let only one person work throughout"
+        },
+        {
+          "label": "C",
+          "text": "change the position of every table"
+        },
+        {
+          "label": "D",
+          "text": "perform an action one person after another"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “take turns” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, \"take turns\" means \"perform an action one person after another\". The sentence says: \"We take turns adjusting the lens while the others watch the large screen.\".",
+      "parentExplanation": "第2句译为：我们轮流调镜头，其他人看大屏幕。 其中“take turns”对应本源词条的“轮流”；本题只考句中实际使用的意思。",
+      "translation": {
+        "stem": "短文中的“take turns”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "take turns"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What makes the picture clear again?",
+      "explanation": "The passage says: \"A partner asks me to move the camera back a little and watch the screen. Soon the tiny lines become sharp, and I explain which adjustment helped.\" This supports the answer: \"Moving the camera a little farther from the object.\".",
+      "parentExplanation": "对应原文：搭档让我把设备往后移一点，观察屏幕。 很快，小线条变清晰，我解释了哪次调整起了作用。 因此正确选项为“Moving the camera a little farther from the object.”。",
+      "translation": {
+        "stem": "什么让画面重新清晰？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Covering the screen with paper."
+        },
+        {
+          "label": "B",
+          "text": "Touching the object underneath the lens."
+        },
+        {
+          "label": "C",
+          "text": "Moving the camera a little farther from the object."
+        },
+        {
+          "label": "D",
+          "text": "Turning the table upside down."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the passage mainly about?",
+      "explanation": "The passage says: \"Our science club has one magnifying camera for a table of tiny objects. We take turns adjusting the lens while the others watch the large screen. When my turn comes, I make a mistake and move the camera too close. The picture becomes unclear, but I do not touch the object underneath. A partner asks me to move the camera back a little and watch the screen. Soon the tiny lines become sharp, and I explain which adjustment helped. The next person begins with that setting instead of repeating the same error.\" This supports the answer: \"Sharing equipment and learning from an adjustment error\".",
+      "parentExplanation": "对应原文：科学社团只有一台放大摄像设备，供观察桌上的小物件。 我们轮流调镜头，其他人看大屏幕。 轮到我时，我犯了错，把设备移得太近。 画面变模糊了，但我没有碰下面的物体。 搭档让我把设备往后移一点，观察屏幕。 很快，小线条变清晰，我解释了哪次调整起了作用。 下一个人从这个设置开始，没有重复同样的错误。 因此正确选项为“Sharing equipment and learning from an adjustment error”。",
+      "translation": {
+        "stem": "这篇短文主要讲什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Buying a camera for every club member"
+        },
+        {
+          "label": "B",
+          "text": "Sharing equipment and learning from an adjustment error"
+        },
+        {
+          "label": "C",
+          "text": "Moving a Science Club into a Shop"
+        },
+        {
+          "label": "D",
+          "text": "A Group That Refuses to Watch a Screen"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0942",
+      "groupId": "E0942",
+      "target": "take (an active) part in",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "finish a task before anyone begins"
+        },
+        {
+          "label": "B",
+          "text": "watch an activity without helping"
+        },
+        {
+          "label": "C",
+          "text": "avoid every shared task"
+        },
+        {
+          "label": "D",
+          "text": "participate energetically and contribute to an activity"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “take an active part in” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, \"take an active part in\" means \"participate energetically and contribute to an activity\". The sentence says: \"I take an active part in painting the signs and suggesting where each should hang.\".",
+      "parentExplanation": "第2句译为：我积极参与刷标牌，也建议每块该挂在哪。 其中“take an active part in”对应本源词条的“（积极）参加”；本题只考句中实际使用的意思。",
+      "translation": {
+        "stem": "短文中的“take an active part in”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "take an active part in"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0843",
+      "groupId": "E0843",
+      "target": "take an interest in",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "begin to feel curiosity and want to learn about something"
+        },
+        {
+          "label": "B",
+          "text": "borrow something without intending to learn"
+        },
+        {
+          "label": "C",
+          "text": "force someone else to do a task"
+        },
+        {
+          "label": "D",
+          "text": "lose all desire to know about something"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “take an interest in” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, \"take an interest in\" means \"begin to feel curiosity and want to learn about something\". The sentence says: \"Soon she begins to take an interest in the lettering on the old shop signs.\".",
+      "parentExplanation": "第4句译为：很快，她开始对旧店招上的字体产生兴趣。 其中“take an interest in”对应本源词条的“对...感兴趣”；本题只考句中实际使用的意思。",
+      "translation": {
+        "stem": "短文中的“take an interest in”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "take an interest in"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What leads Aya to study lettering?",
+      "explanation": "The passage says: \"Before the town play, our youth group helps build a simple street scene. My friend Aya first comes only to carry brushes and wash the pots. Soon she begins to take an interest in the lettering on the old shop signs. She studies photographs, then draws careful examples for us to compare.\" This supports the answer: \"She helps with the play and notices old shop signs.\".",
+      "parentExplanation": "对应原文：镇上戏剧开始前，我们青年小组帮忙搭建简单的街道场景。 朋友阿雅最初只是来搬画笔、洗罐子。 很快，她开始对旧店招上的字体产生兴趣。 她研究照片，再认真画出示例供我们比较。 因此正确选项为“She helps with the play and notices old shop signs.”。",
+      "translation": {
+        "stem": "什么引导阿雅研究字体？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "She buys every photograph in the town."
+        },
+        {
+          "label": "B",
+          "text": "She helps with the play and notices old shop signs."
+        },
+        {
+          "label": "C",
+          "text": "She decides never to help the group again."
+        },
+        {
+          "label": "D",
+          "text": "She is asked to leave before painting starts."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title best fits the passage?",
+      "explanation": "The passage says: \"Before the town play, our youth group helps build a simple street scene. I take an active part in painting the signs and suggesting where each should hang. My friend Aya first comes only to carry brushes and wash the pots. Soon she begins to take an interest in the lettering on the old shop signs. She studies photographs, then draws careful examples for us to compare. The director chooses one of her designs for the centre of the stage. Aya smiles when she sees it, surprised by how a small helping job opened a new interest.\" This supports the answer: \"A Small Helping Job Opens a New Interest\".",
+      "parentExplanation": "对应原文：镇上戏剧开始前，我们青年小组帮忙搭建简单的街道场景。 我积极参与刷标牌，也建议每块该挂在哪。 朋友阿雅最初只是来搬画笔、洗罐子。 很快，她开始对旧店招上的字体产生兴趣。 她研究照片，再认真画出示例供我们比较。 导演选了她的一款设计，放在舞台中央。 看到它时，阿雅笑了，惊讶于一项小小帮忙竟开启了新兴趣。 因此正确选项为“A Small Helping Job Opens a New Interest”。",
+      "translation": {
+        "stem": "哪个标题最适合这篇短文？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A Director Paints Every Wall Alone"
+        },
+        {
+          "label": "B",
+          "text": "A Town without Any Shop Signs"
+        },
+        {
+          "label": "C",
+          "text": "A Small Helping Job Opens a New Interest"
+        },
+        {
+          "label": "D",
+          "text": "The Last Brush in the Art Room"
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Our science club has one magnifying camera for a table of tiny objects. We take turns adjusting the lens while the others watch the large screen. When my turn comes, I make a mistake and move the camera too close. The picture becomes unclear, but I do not touch the object underneath. A partner asks me to move the camera back a little and watch the screen. Soon the tiny lines become sharp, and I explain which adjustment helped. The next person begins with that setting instead of repeating the same error.",
+      "parallelText": [
+        {
+          "en": "Our science club has one magnifying camera for a table of tiny objects.",
+          "zh": "科学社团只有一台放大摄像设备，供观察桌上的小物件。"
+        },
+        {
+          "en": "We take turns adjusting the lens while the others watch the large screen.",
+          "zh": "我们轮流调镜头，其他人看大屏幕。"
+        },
+        {
+          "en": "When my turn comes, I make a mistake and move the camera too close.",
+          "zh": "轮到我时，我犯了错，把设备移得太近。"
+        },
+        {
+          "en": "The picture becomes unclear, but I do not touch the object underneath.",
+          "zh": "画面变模糊了，但我没有碰下面的物体。"
+        },
+        {
+          "en": "A partner asks me to move the camera back a little and watch the screen.",
+          "zh": "搭档让我把设备往后移一点，观察屏幕。"
+        },
+        {
+          "en": "Soon the tiny lines become sharp, and I explain which adjustment helped.",
+          "zh": "很快，小线条变清晰，我解释了哪次调整起了作用。"
+        },
+        {
+          "en": "The next person begins with that setting instead of repeating the same error.",
+          "zh": "下一个人从这个设置开始，没有重复同样的错误。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "lens",
+          "meaning": "the curved glass part that helps a camera form a picture"
+        },
+        {
+          "word": "adjustment",
+          "meaning": "a small change to make something work better"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Before the town play, our youth group helps build a simple street scene. I take an active part in painting the signs and suggesting where each should hang. My friend Aya first comes only to carry brushes and wash the pots. Soon she begins to take an interest in the lettering on the old shop signs. She studies photographs, then draws careful examples for us to compare. The director chooses one of her designs for the centre of the stage. Aya smiles when she sees it, surprised by how a small helping job opened a new interest.",
+      "parallelText": [
+        {
+          "en": "Before the town play, our youth group helps build a simple street scene.",
+          "zh": "镇上戏剧开始前，我们青年小组帮忙搭建简单的街道场景。"
+        },
+        {
+          "en": "I take an active part in painting the signs and suggesting where each should hang.",
+          "zh": "我积极参与刷标牌，也建议每块该挂在哪。"
+        },
+        {
+          "en": "My friend Aya first comes only to carry brushes and wash the pots.",
+          "zh": "朋友阿雅最初只是来搬画笔、洗罐子。"
+        },
+        {
+          "en": "Soon she begins to take an interest in the lettering on the old shop signs.",
+          "zh": "很快，她开始对旧店招上的字体产生兴趣。"
+        },
+        {
+          "en": "She studies photographs, then draws careful examples for us to compare.",
+          "zh": "她研究照片，再认真画出示例供我们比较。"
+        },
+        {
+          "en": "The director chooses one of her designs for the centre of the stage.",
+          "zh": "导演选了她的一款设计，放在舞台中央。"
+        },
+        {
+          "en": "Aya smiles when she sees it, surprised by how a small helping job opened a new interest.",
+          "zh": "看到它时，阿雅笑了，惊讶于一项小小帮忙竟开启了新兴趣。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "lettering",
+          "meaning": "the style or shapes of written letters"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S115-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0583",
+      "groupId": "E0583",
+      "expression": "teach oneself",
+      "meaning": "自学",
+      "introducedAtStation": 114,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 115,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S115-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0366",
+      "groupId": "E0366",
+      "expression": "prepare for...",
+      "meaning": "为……作准备",
+      "introducedAtStation": 114,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 115,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S115-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0219",
+      "groupId": "E0219",
+      "expression": "take/make notes",
+      "meaning": "记笔记",
+      "introducedAtStation": 114,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 115,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S115-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0906",
+      "groupId": "E0906",
+      "expression": "make (great) progress",
+      "meaning": "取得（很大）进步",
+      "introducedAtStation": 113,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 114,
+      "intervalInStations": 1,
+      "referenceDueStation": 117,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S115-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0157",
+      "groupId": "E0157",
+      "expression": "make a mistake",
+      "meaning": "犯错误",
+      "introducedAtStation": 113,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 2,
+      "referenceDueStation": 114,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S115-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0967",
+      "groupId": "E0967",
+      "expression": "take turns",
+      "meaning": "轮流",
+      "introducedAtStation": 114,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 115,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S115-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0942",
+      "groupId": "E0942",
+      "expression": "take (an active) part in",
+      "meaning": "（积极）参加",
+      "introducedAtStation": 114,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 115,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S115-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0843",
+      "groupId": "E0843",
+      "expression": "take an interest in",
+      "meaning": "对...感兴趣",
+      "introducedAtStation": 114,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 115,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

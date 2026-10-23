@@ -1,0 +1,2573 @@
+{
+  "station": 10,
+  "type": "new_learning",
+  "phase": "textbook",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 10,
+  "newItems": [
+    {
+      "groupId": "T122",
+      "sourceId": "T122",
+      "sourceIds": [
+        "T122"
+      ],
+      "word": "billion",
+      "meaning": "十亿",
+      "sourceItems": [
+        {
+          "sourceId": "T122",
+          "sourceKind": "textbook",
+          "expression": "billion",
+          "meaning": "十亿",
+          "partOfSpeech": "num.",
+          "phonetic": "/ˈbɪljən/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 52,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 127,
+          "originalFields": {
+            "序号": 122,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "billion",
+            "音标（教材）": "/ˈbɪljən/",
+            "词性": "num.",
+            "中文释义": "十亿",
+            "教材课文页": 52,
+            "词表PDF页": 3,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T122",
+          "introducedAtStation": 10
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T122",
+        "word": "billion",
+        "ipa": "/ˈbɪljən/",
+        "focus": "重音在/bɪl/；后段/jən/保留/j/，/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "One billion is one thousand million.",
+          "zh": "十亿是一千个一百万。",
+          "sourceIds": [
+            "T122"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈbɪljən/",
+      "pos": "num.",
+      "unit": "Unit 4",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T123",
+      "sourceId": "T123",
+      "sourceIds": [
+        "T123"
+      ],
+      "word": "cover",
+      "meaning": "盖；覆盖",
+      "sourceItems": [
+        {
+          "sourceId": "T123",
+          "sourceKind": "textbook",
+          "expression": "cover",
+          "meaning": "盖；覆盖",
+          "partOfSpeech": "v.",
+          "phonetic": "/ˈkʌvə(r)/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 52,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 128,
+          "originalFields": {
+            "序号": 123,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "cover",
+            "音标（教材）": "/ˈkʌvə(r)/",
+            "词性": "v.",
+            "中文释义": "盖；覆盖",
+            "教材课文页": 52,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T123",
+          "introducedAtStation": 10
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T123",
+        "word": "cover",
+        "ipa": "/ˈkʌvə(r)/",
+        "focus": "重音在/kʌ/；后面的/v/浊读，最后/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Snow covers the ground in winter.",
+          "zh": "冬天雪覆盖地面。",
+          "sourceIds": [
+            "T123"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈkʌvə(r)/",
+      "pos": "v.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T124",
+      "sourceId": "T124",
+      "sourceIds": [
+        "T124"
+      ],
+      "word": "area",
+      "meaning": "地区；地域",
+      "sourceItems": [
+        {
+          "sourceId": "T124",
+          "sourceKind": "textbook",
+          "expression": "area",
+          "meaning": "地区；地域",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈeəriə/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 129,
+          "originalFields": {
+            "序号": 124,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "area",
+            "音标（教材）": "/ˈeəriə/",
+            "词性": "n.",
+            "中文释义": "地区；地域",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T124",
+          "introducedAtStation": 10
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T124",
+        "word": "area",
+        "ipa": "/ˈeəriə/",
+        "focus": "重音在/eə/；后面的/riə/连续轻读，保留相邻元音的变化。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Many families live in this area.",
+          "zh": "许多家庭住在这个地区。",
+          "sourceIds": [
+            "T124"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈeəriə/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T125",
+      "sourceId": "T125",
+      "sourceIds": [
+        "T125"
+      ],
+      "word": "freezing",
+      "meaning": "极冷的",
+      "sourceItems": [
+        {
+          "sourceId": "T125",
+          "sourceKind": "textbook",
+          "expression": "freezing",
+          "meaning": "极冷的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈfriːzɪŋ/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 130,
+          "originalFields": {
+            "序号": 125,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "freezing",
+            "音标（教材）": "/ˈfriːzɪŋ/",
+            "词性": "adj.",
+            "中文释义": "极冷的",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T125",
+          "introducedAtStation": 10
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T125",
+        "word": "freezing",
+        "ipa": "/ˈfriːzɪŋ/",
+        "focus": "重读/friː/；中间/z/是浊辅音，最后/ŋ/不加/ɡ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "It is freezing outside, so I wear a warm coat.",
+          "zh": "外面极冷，所以我穿一件暖和的外套。",
+          "sourceIds": [
+            "T125"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈfriːzɪŋ/",
+      "pos": "adj.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T126",
+      "sourceId": "T126",
+      "sourceIds": [
+        "T126"
+      ],
+      "word": "north",
+      "meaning": "北；北方",
+      "sourceItems": [
+        {
+          "sourceId": "T126",
+          "sourceKind": "textbook",
+          "expression": "north",
+          "meaning": "北；北方",
+          "partOfSpeech": "n.",
+          "phonetic": "/nɔːθ/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 131,
+          "originalFields": {
+            "序号": 126,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "north",
+            "音标（教材）": "/nɔːθ/",
+            "词性": "n.",
+            "中文释义": "北；北方",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T126",
+          "introducedAtStation": 10
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T126",
+        "word": "north",
+        "ipa": "/nɔːθ/",
+        "focus": "/ɔː/拉长；末尾字母组合th读/θ/，不是/s/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Our school is in the north of the town.",
+          "zh": "我们的学校在镇的北部。",
+          "sourceIds": [
+            "T126"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/nɔːθ/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T127",
+      "sourceId": "T127",
+      "sourceIds": [
+        "T127"
+      ],
+      "word": "pole",
+      "meaning": "（行星的）极；地极",
+      "sourceItems": [
+        {
+          "sourceId": "T127",
+          "sourceKind": "textbook",
+          "expression": "pole",
+          "meaning": "（行星的）极；地极",
+          "partOfSpeech": "n.",
+          "phonetic": "/pəʊl/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 132,
+          "originalFields": {
+            "序号": 127,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "pole",
+            "音标（教材）": "/pəʊl/",
+            "词性": "n.",
+            "中文释义": "（行星的）极；地极",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T127",
+          "introducedAtStation": 10
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T127",
+        "word": "pole",
+        "ipa": "/pəʊl/",
+        "focus": "/əʊ/有滑动；最后/l/收尾，不读成多一拍。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The North Pole is very cold.",
+          "zh": "北极非常冷。",
+          "sourceIds": [
+            "T127"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "line",
+          "meaning": "a long thin mark or an imagined path between two points"
+        }
+      ],
+      "notes": null,
+      "ipa": "/pəʊl/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "T100",
+      "sourceId": "T100",
+      "sourceIds": [
+        "T100"
+      ],
+      "word": "alive",
+      "meaning": "有生气；有活力",
+      "sourceItems": [
+        {
+          "sourceId": "T100",
+          "sourceKind": "textbook",
+          "expression": "alive",
+          "meaning": "有生气；有活力",
+          "partOfSpeech": "adj.",
+          "phonetic": "/əˈlaɪv/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 44,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 105,
+          "originalFields": {
+            "序号": 100,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "alive",
+            "音标（教材）": "/əˈlaɪv/",
+            "词性": "adj.",
+            "中文释义": "有生气；有活力",
+            "教材课文页": 44,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T100",
+          "introducedAtStation": 4
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T100",
+        "word": "alive",
+        "ipa": "/əˈlaɪv/",
+        "focus": "开头/ə/轻读；重音在/laɪv/，最后/v/声带振动。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The park is alive with music.",
+          "zh": "公园里乐声四起，充满活力。",
+          "sourceIds": [
+            "T100"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/əˈlaɪv/",
+      "pos": "adj.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T098",
+      "sourceId": "T098",
+      "sourceIds": [
+        "T098"
+      ],
+      "word": "article",
+      "meaning": "文章",
+      "sourceItems": [
+        {
+          "sourceId": "T098",
+          "sourceKind": "textbook",
+          "expression": "article",
+          "meaning": "文章",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈɑːtɪkl/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 44,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 103,
+          "originalFields": {
+            "序号": 98,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "article",
+            "音标（教材）": "/ˈɑːtɪkl/",
+            "词性": "n.",
+            "中文释义": "文章",
+            "教材课文页": 44,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T098",
+          "introducedAtStation": 4
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T098",
+        "word": "article",
+        "ipa": "/ˈɑːtɪkl/",
+        "focus": "首音节重读，元音/ɑː/拉长；后两音节轻读，末尾/l/不再接额外元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "I read an article about birds.",
+          "zh": "我读一篇关于鸟的文章。",
+          "sourceIds": [
+            "T098"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈɑːtɪkl/",
+      "pos": "n.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T095",
+      "sourceId": "T095",
+      "sourceIds": [
+        "T095"
+      ],
+      "word": "snake",
+      "meaning": "蛇",
+      "sourceItems": [
+        {
+          "sourceId": "T095",
+          "sourceKind": "textbook",
+          "expression": "snake",
+          "meaning": "蛇",
+          "partOfSpeech": "n.",
+          "phonetic": "/sneɪk/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 37,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 100,
+          "originalFields": {
+            "序号": 95,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "snake",
+            "音标（教材）": "/sneɪk/",
+            "词性": "n.",
+            "中文释义": "蛇",
+            "教材课文页": 37,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T095",
+          "introducedAtStation": 4
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T095",
+        "word": "snake",
+        "ipa": "/sneɪk/",
+        "focus": "开头/sn/连读；/eɪ/有滑动，最后/k/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "There is a snake under the tree.",
+          "zh": "树下有一条蛇。",
+          "sourceIds": [
+            "T095"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/sneɪk/",
+      "pos": "n.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T104",
+      "sourceId": "T104",
+      "sourceIds": [
+        "T104"
+      ],
+      "word": "decide",
+      "meaning": "对……作出抉择；决定",
+      "sourceItems": [
+        {
+          "sourceId": "T104",
+          "sourceKind": "textbook",
+          "expression": "decide",
+          "meaning": "对……作出抉择；决定",
+          "partOfSpeech": "v.",
+          "phonetic": "/dɪˈsaɪd/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 109,
+          "originalFields": {
+            "序号": 104,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "decide",
+            "音标（教材）": "/dɪˈsaɪd/",
+            "词性": "v.",
+            "中文释义": "对……作出抉择；决定",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T104",
+          "introducedAtStation": 5
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T104",
+        "word": "decide",
+        "ipa": "/dɪˈsaɪd/",
+        "focus": "重音在/saɪd/；字母c在这里读/s/，末尾/d/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We decide on a name for our club.",
+          "zh": "我们决定社团的名字。",
+          "sourceIds": [
+            "T104"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/dɪˈsaɪd/",
+      "pos": "v.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T089",
+      "sourceId": "T089",
+      "sourceIds": [
+        "T089"
+      ],
+      "word": "loudly",
+      "meaning": "喧闹地；响亮地",
+      "sourceItems": [
+        {
+          "sourceId": "T089",
+          "sourceKind": "textbook",
+          "expression": "loudly",
+          "meaning": "喧闹地；响亮地",
+          "partOfSpeech": "adv.",
+          "phonetic": "/ˈlaʊdli/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 37,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 94,
+          "originalFields": {
+            "序号": 89,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "loudly",
+            "音标（教材）": "/ˈlaʊdli/",
+            "词性": "adv.",
+            "中文释义": "喧闹地；响亮地",
+            "教材课文页": 37,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T089",
+          "introducedAtStation": 3
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T089",
+        "word": "loudly",
+        "ipa": "/ˈlaʊdli/",
+        "focus": "重音在/laʊd/；/aʊ/有滑动，/d/后紧接/l/，不另加元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Please do not talk loudly in the library.",
+          "zh": "请不要在图书馆里大声说话。",
+          "sourceIds": [
+            "T089"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈlaʊdli/",
+      "pos": "adv.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T099",
+      "sourceId": "T099",
+      "sourceIds": [
+        "T099"
+      ],
+      "word": "reason",
+      "meaning": "原因；理由",
+      "sourceItems": [
+        {
+          "sourceId": "T099",
+          "sourceKind": "textbook",
+          "expression": "reason",
+          "meaning": "原因；理由",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈriːzn/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 44,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 104,
+          "originalFields": {
+            "序号": 99,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "reason",
+            "音标（教材）": "/ˈriːzn/",
+            "词性": "n.",
+            "中文释义": "原因；理由",
+            "教材课文页": 44,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T099",
+          "introducedAtStation": 4
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T099",
+        "word": "reason",
+        "ipa": "/ˈriːzn/",
+        "focus": "重读首音节/riː/；第二音节轻读，保留浊辅音/z/和词尾/n/，不在/n/后补元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "What is your reason for this answer?",
+          "zh": "你给出这个答案的理由是什么？",
+          "sourceIds": [
+            "T099"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈriːzn/",
+      "pos": "n.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T097",
+      "sourceId": "T097",
+      "sourceIds": [
+        "T097"
+      ],
+      "word": "part",
+      "meaning": "区域；地区",
+      "sourceItems": [
+        {
+          "sourceId": "T097",
+          "sourceKind": "textbook",
+          "expression": "part",
+          "meaning": "区域；地区",
+          "partOfSpeech": "n.",
+          "phonetic": "/pɑːt/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 40,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 102,
+          "originalFields": {
+            "序号": 97,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "part",
+            "音标（教材）": "/pɑːt/",
+            "词性": "n.",
+            "中文释义": "区域；地区",
+            "教材课文页": 40,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T097",
+          "introducedAtStation": 4
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T097",
+        "word": "part",
+        "ipa": "/pɑːt/",
+        "focus": "/ɑː/拉长；按源音标不另添r音，末尾/t/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This part of the town has many trees.",
+          "zh": "镇上的这个区域有很多树。",
+          "sourceIds": [
+            "T097"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/pɑːt/",
+      "pos": "n.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T096",
+      "sourceId": "T096",
+      "sourceIds": [
+        "T096"
+      ],
+      "word": "through",
+      "meaning": "自始至终；从头到尾",
+      "sourceItems": [
+        {
+          "sourceId": "T096",
+          "sourceKind": "textbook",
+          "expression": "through",
+          "meaning": "自始至终；从头到尾",
+          "partOfSpeech": "prep.",
+          "phonetic": "/θruː/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 37,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 101,
+          "originalFields": {
+            "序号": 96,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "through",
+            "音标（教材）": "/θruː/",
+            "词性": "prep.",
+            "中文释义": "自始至终；从头到尾",
+            "教材课文页": 37,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T096",
+          "introducedAtStation": 4
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T096",
+        "word": "through",
+        "ipa": "/θruː/",
+        "focus": "开头/θr/直接连读，不加元音；/uː/拉长，gh不另发音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The baby sleeps through the night.",
+          "zh": "宝宝整夜都在睡觉。",
+          "sourceIds": [
+            "T096"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/θruː/",
+      "pos": "prep.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T122",
+      "groupId": "T122",
+      "direction": "zh_to_en",
+      "stem": "十亿",
+      "options": [
+        {
+          "label": "A",
+          "text": "magazine"
+        },
+        {
+          "label": "B",
+          "text": "in fact"
+        },
+        {
+          "label": "C",
+          "text": "billion"
+        },
+        {
+          "label": "D",
+          "text": "improve"
+        }
+      ],
+      "answer": "C",
+      "word": "billion",
+      "meaning": "十亿"
+    },
+    {
+      "id": 2,
+      "sourceId": "T123",
+      "groupId": "T123",
+      "direction": "en_to_zh",
+      "stem": "cover",
+      "options": [
+        {
+          "label": "A",
+          "text": "期待，盼望；盼望；期待"
+        },
+        {
+          "label": "B",
+          "text": "（使）分开"
+        },
+        {
+          "label": "C",
+          "text": "盖；覆盖"
+        },
+        {
+          "label": "D",
+          "text": "基于……"
+        }
+      ],
+      "answer": "C",
+      "word": "cover",
+      "meaning": "盖；覆盖"
+    },
+    {
+      "id": 3,
+      "sourceId": "T124",
+      "groupId": "T124",
+      "direction": "zh_to_en",
+      "stem": "地区；地域",
+      "options": [
+        {
+          "label": "A",
+          "text": "look forward to"
+        },
+        {
+          "label": "B",
+          "text": "modern dance"
+        },
+        {
+          "label": "C",
+          "text": "area"
+        },
+        {
+          "label": "D",
+          "text": "take somebody's place"
+        }
+      ],
+      "answer": "C",
+      "word": "area",
+      "meaning": "地区；地域"
+    },
+    {
+      "id": 4,
+      "sourceId": "T125",
+      "groupId": "T125",
+      "direction": "en_to_zh",
+      "stem": "freezing",
+      "options": [
+        {
+          "label": "A",
+          "text": "脚印；足迹"
+        },
+        {
+          "label": "B",
+          "text": "起床"
+        },
+        {
+          "label": "C",
+          "text": "极冷的"
+        },
+        {
+          "label": "D",
+          "text": "同一的；相同的"
+        }
+      ],
+      "answer": "C",
+      "word": "freezing",
+      "meaning": "极冷的"
+    },
+    {
+      "id": 5,
+      "sourceId": "T126",
+      "groupId": "T126",
+      "direction": "zh_to_en",
+      "stem": "北；北方",
+      "options": [
+        {
+          "label": "A",
+          "text": "put on"
+        },
+        {
+          "label": "B",
+          "text": "north"
+        },
+        {
+          "label": "C",
+          "text": "success"
+        },
+        {
+          "label": "D",
+          "text": "look forward to"
+        }
+      ],
+      "answer": "B",
+      "word": "north",
+      "meaning": "北；北方"
+    },
+    {
+      "id": 6,
+      "sourceId": "T127",
+      "groupId": "T127",
+      "direction": "en_to_zh",
+      "stem": "pole",
+      "options": [
+        {
+          "label": "A",
+          "text": "外貌"
+        },
+        {
+          "label": "B",
+          "text": "闪电"
+        },
+        {
+          "label": "C",
+          "text": "（行星的）极；地极"
+        },
+        {
+          "label": "D",
+          "text": "看守；照看"
+        }
+      ],
+      "answer": "C",
+      "word": "pole",
+      "meaning": "（行星的）极；地极"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T122",
+      "groupId": "T122",
+      "target": "billion",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the number one hundred"
+        },
+        {
+          "label": "B",
+          "text": "the number one thousand"
+        },
+        {
+          "label": "C",
+          "text": "the number one million"
+        },
+        {
+          "label": "D",
+          "text": "the number one thousand million"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "D",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "billion",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "billion"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "十亿",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “billion” means “the number one thousand million”.",
+      "parentExplanation": "本题考查“billion”在本句中的用法；正确英文解释为“the number one thousand million”。对应源表释义为“十亿”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T123",
+      "groupId": "T123",
+      "target": "cover",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to take something into the air"
+        },
+        {
+          "label": "B",
+          "text": "to make a loud sound at night"
+        },
+        {
+          "label": "C",
+          "text": "spread something over a surface"
+        },
+        {
+          "label": "D",
+          "text": "to walk from school to home"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "cover",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "cover"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "盖；覆盖",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “cover” means “spread something over a surface”.",
+      "parentExplanation": "本题考查“cover”在本句中的用法；正确英文解释为“spread something over a surface”。对应源表释义为“盖；覆盖”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T124",
+      "groupId": "T124",
+      "target": "area",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "area"
+        },
+        {
+          "label": "B",
+          "text": "planet"
+        },
+        {
+          "label": "C",
+          "text": "file"
+        },
+        {
+          "label": "D",
+          "text": "solar term"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which word names the part of the country that Mia marks?",
+      "answer": "A",
+      "listenScript": "Mia draws a line around three villages and their fields on a map. She colours this part of the country green for her report.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Mia draws a line around three villages and their fields on a map. She colours this part of the country green for her report."
+        }
+      ],
+      "explanation": "Area names a region or part of a place, such as the land Mia marks.",
+      "parentExplanation": "area表示地区、地域，对应地图上圈出的区域。",
+      "translation": {
+        "stem": "哪个词指米娅标出的这片地区？",
+        "listenScript": "米娅在地图上把三个村庄和周围田地圈起来。她把国家的这片区域涂成绿色，写进报告。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T124",
+        "T121",
+        "T119",
+        "T113"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T125",
+      "groupId": "T125",
+      "target": "freezing",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "wet"
+        },
+        {
+          "label": "B",
+          "text": "clear"
+        },
+        {
+          "label": "C",
+          "text": "freezing"
+        },
+        {
+          "label": "D",
+          "text": "peaceful"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which word best describes the temperature?",
+      "answer": "C",
+      "listenScript": "Ben waits for a bus in thick gloves and still feels painfully cold. Ice covers the ground, and he wishes he could go indoors.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Ben waits for a bus in thick gloves and still feels painfully cold. Ice covers the ground, and he wishes he could go indoors."
+        }
+      ],
+      "explanation": "The very low temperature and ice show that it is freezing.",
+      "parentExplanation": "厚手套仍冷、地面结冰说明极冷，对应freezing。",
+      "translation": {
+        "stem": "哪个词最能描述气温？",
+        "listenScript": "本戴着厚手套等公共汽车，仍觉得冷得难受。地面结着冰，他希望能进到室内。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T125",
+        "T081",
+        "T088",
+        "T094"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T126",
+      "groupId": "T126",
+      "target": "north",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the direction opposite south"
+        },
+        {
+          "label": "B",
+          "text": "the part of a day after sunset"
+        },
+        {
+          "label": "C",
+          "text": "the direction opposite west"
+        },
+        {
+          "label": "D",
+          "text": "the land next to the sea"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "On a map with south at the bottom, north is at the top.\nWhat does “north” mean here?",
+      "translation": {
+        "stem": "在南方位于下方的地图上，北方在上方。 这里“north”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “north” means “the direction opposite south”.",
+      "parentExplanation": "本题考查“north”在本句中的用法；正确英文解释为“the direction opposite south”。对应源表释义为“北；北方”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T127",
+      "groupId": "T127",
+      "target": "pole",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the middle part of a school day"
+        },
+        {
+          "label": "B",
+          "text": "the outer edge of a flower"
+        },
+        {
+          "label": "C",
+          "text": "one end of a planet's north-south line"
+        },
+        {
+          "label": "D",
+          "text": "the flat top of a small table"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "The North Pole is one end of Earth's north-south line.\nWhat does “Pole” mean here?",
+      "translation": {
+        "stem": "北极是地球南北轴线的一端。 这里“Pole”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “pole” means “one end of a planet's north-south line”.",
+      "parentExplanation": "本题考查“pole”在本句中的用法；正确英文解释为“one end of a planet's north-south line”。对应源表释义为“（行星的）极；地极”。",
+      "wordHelp": [
+        {
+          "word": "line",
+          "meaning": "a long thin mark or an imagined path between two points"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T100",
+      "groupId": "T100",
+      "target": "alive",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "very quiet and empty"
+        },
+        {
+          "label": "B",
+          "text": "far from home"
+        },
+        {
+          "label": "C",
+          "text": "cold and wet"
+        },
+        {
+          "label": "D",
+          "text": "full of energy and activity"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "The square is alive with games and songs. It is full of energy.\nWhat does “alive” mean here?",
+      "translation": {
+        "stem": "广场上有游戏和歌声，充满活力。 这里“alive”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “alive” means “full of energy and activity”.",
+      "parentExplanation": "本题考查“alive”在本句中的用法；正确英文解释为“full of energy and activity”。对应源表释义为“有生气；有活力”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T098",
+      "groupId": "T098",
+      "target": "article",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a person in a club"
+        },
+        {
+          "label": "B",
+          "text": "a piece of writing in a magazine or newspaper"
+        },
+        {
+          "label": "C",
+          "text": "a place for games"
+        },
+        {
+          "label": "D",
+          "text": "a sound in the sky"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "I read two articles about animals.\nWhat does “articles” mean here?",
+      "translation": {
+        "stem": "我读两篇关于动物的文章。 这里“articles”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “article” means “a piece of writing in a magazine or newspaper”.",
+      "parentExplanation": "本题考查“article”在本句中的用法；正确英文解释为“a piece of writing in a magazine or newspaper”。对应源表释义为“文章”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T122",
+      "groupId": "T122",
+      "target": "billion",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "billion"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The number 2,000,000,000 is two b________.",
+      "answer": "billion",
+      "hint": "the unit for one thousand million",
+      "grammar": "Billion after an exact number",
+      "initialLetter": "b",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Billion stays singular after the number two.",
+      "parentExplanation": "billion前有确定数词two时，billion本身不加s。",
+      "translation": {
+        "stem": "2,000,000,000这个数是二十亿。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T123",
+      "groupId": "T123",
+      "target": "cover",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "covers"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "In winter, snow c________ the fields.",
+      "answer": "covers",
+      "hint": "spreads over the top of",
+      "grammar": "Simple present: uncountable subject",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Snow is uncountable, so use covers in the simple present.",
+      "parentExplanation": "snow是不可数名词，主语为单数意义，cover用covers。",
+      "translation": {
+        "stem": "冬天，雪覆盖田野。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T124",
+      "groupId": "T124",
+      "target": "area",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "area"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This a________ has many farms and few tall buildings.",
+      "answer": "area",
+      "hint": "a part of a town, country or other place",
+      "grammar": "Singular countable noun",
+      "initialLetter": "a",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "This area means this part of a place.",
+      "parentExplanation": "area在此表示地区、地域；this后用单数。",
+      "translation": {
+        "stem": "这个地区有许多农场，几乎没有高楼。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T125",
+      "groupId": "T125",
+      "target": "freezing",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "freezing"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "It is f________ outside. My hands are very cold even in gloves.",
+      "answer": "freezing",
+      "hint": "extremely cold",
+      "grammar": "Adjective after be",
+      "initialLetter": "f",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Freezing describes very low temperatures.",
+      "parentExplanation": "freezing表示极冷的，作表语。",
+      "translation": {
+        "stem": "外面极冷。即使戴着手套，我的手也很冷。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T126",
+      "groupId": "T126",
+      "target": "north",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "north"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This village is in the n________ of the country, far from its southern coast.",
+      "answer": "north",
+      "hint": "the northern part, opposite the south",
+      "grammar": "The north of a place",
+      "initialLetter": "n",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The north of the country means its northern part.",
+      "parentExplanation": "the north of表示……的北部，north作名词。",
+      "translation": {
+        "stem": "这个村庄在国家北部，远离南部海岸。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T127",
+      "groupId": "T127",
+      "target": "pole",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "poles"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Earth has two p________: one in the north and one in the south.",
+      "answer": "poles",
+      "hint": "the two ends of a planet's north-south line",
+      "grammar": "Plural countable noun",
+      "initialLetter": "p",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Two requires the plural noun poles.",
+      "parentExplanation": "two后用复数poles，这里指地球的两极。",
+      "translation": {
+        "stem": "地球有两个极：一个在北方，一个在南方。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "line",
+          "meaning": "a long thin mark or an imagined path between two points"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T095",
+      "groupId": "T095",
+      "target": "snake",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "snakes"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "There are two s________ in the picture.",
+      "answer": "snakes",
+      "hint": "long animals with no legs",
+      "grammar": "Plural nouns",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Two needs a plural noun: snakes.",
+      "parentExplanation": "two 后用复数 snakes。",
+      "translation": {
+        "stem": "图画里有两条蛇。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T104",
+      "groupId": "T104",
+      "target": "decide",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "decide"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We need to d________ on a date for the trip. We must choose one.",
+      "answer": "decide",
+      "hint": "choose after thinking",
+      "grammar": "Need to + base verb",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use decide after need to; decide on means make a choice about something.",
+      "parentExplanation": "need to后用原形decide；decide on a date表示选定日期。",
+      "translation": {
+        "stem": "我们需要决定旅行日期，必须选定一天。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T089",
+      "groupId": "T089",
+      "target": "loudly",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "with a strong, easily heard voice"
+        },
+        {
+          "label": "B",
+          "text": "in a very quiet voice"
+        },
+        {
+          "label": "C",
+          "text": "without making any sound"
+        },
+        {
+          "label": "D",
+          "text": "with your eyes closed"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “loudly” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Loudly means with a strong, easily heard voice here.",
+      "parentExplanation": "loudly说明叫喊声响亮，能让另一边的人听见。",
+      "translation": {
+        "stem": "短文中的“loudly”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "loudly"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T099",
+      "groupId": "T099",
+      "target": "reason",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the cause of something or why it happens"
+        },
+        {
+          "label": "B",
+          "text": "the outside look of a person"
+        },
+        {
+          "label": "C",
+          "text": "the edge of a sheet of paper"
+        },
+        {
+          "label": "D",
+          "text": "the name of a school club"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “reason” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Reason names the cause of their difficulty reading the number: the mud.",
+      "parentExplanation": "reason为看不清号码的原因，即卡片上的泥。",
+      "translation": {
+        "stem": "短文中的“reason”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "reason"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why do the children ask the worker for help?",
+      "explanation": "The muddy card prevents them reading the number, and the worker helps contact the owner.",
+      "parentExplanation": "第3至6句表明号码被泥盖住，工作人员帮助联系主人。",
+      "translation": {
+        "stem": "孩子们为什么向工作人员求助？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "They need a new path across the town."
+        },
+        {
+          "label": "B",
+          "text": "They want to take every animal home."
+        },
+        {
+          "label": "C",
+          "text": "They want to buy a new collar from the park."
+        },
+        {
+          "label": "D",
+          "text": "They cannot read the muddy phone number and want to find the owner."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the passage mainly about?",
+      "explanation": "The children notice the dog, seek help and help reunite it with its owner.",
+      "parentExplanation": "全文围绕孩子求助、让狗与主人团聚展开。",
+      "translation": {
+        "stem": "短文主要讲什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A family builds a park gate for animals."
+        },
+        {
+          "label": "B",
+          "text": "A park worker teaches a dog a new game."
+        },
+        {
+          "label": "C",
+          "text": "Two children lose their own phone in the mud."
+        },
+        {
+          "label": "D",
+          "text": "Two children get help to return a lost dog to its owner."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T097",
+      "groupId": "T097",
+      "target": "part",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a sound made by an animal"
+        },
+        {
+          "label": "B",
+          "text": "an area of a place"
+        },
+        {
+          "label": "C",
+          "text": "a meal eaten outdoors"
+        },
+        {
+          "label": "D",
+          "text": "a period of one hundred years"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “part” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Part means an area of the town, not a role in a play.",
+      "parentExplanation": "part在此为镇上的区域、地区，不是戏剧角色。",
+      "translation": {
+        "stem": "短文中的“part”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "part"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T096",
+      "groupId": "T096",
+      "target": "through",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "from the start to the end of a time period"
+        },
+        {
+          "label": "B",
+          "text": "just before a period starts"
+        },
+        {
+          "label": "C",
+          "text": "after the end of a period"
+        },
+        {
+          "label": "D",
+          "text": "only during the first minute"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “through” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Through means from the start to the end of the morning.",
+      "parentExplanation": "through指从上午开始到结束，自始至终，不是穿过空间。",
+      "translation": {
+        "stem": "短文中的“through”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "through"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "How can pupils remember which books they hear about?",
+      "explanation": "Mia records the titles so the pupils can find the books later.",
+      "parentExplanation": "第5句说明米娅把书名写在黑板上，便于以后查找。",
+      "translation": {
+        "stem": "学生怎样记住听到的书？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Mia writes the titles on the board."
+        },
+        {
+          "label": "B",
+          "text": "Their parents put every book in a car."
+        },
+        {
+          "label": "C",
+          "text": "The librarian closes the room at once."
+        },
+        {
+          "label": "D",
+          "text": "They copy every page of every book."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title best fits the passage?",
+      "explanation": "The club moves inside and shares books despite the morning rain.",
+      "parentExplanation": "全文讲阅读社团雨天移到室内继续分享图书。",
+      "translation": {
+        "stem": "哪个标题最合适？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Buying New Umbrellas for Everyone"
+        },
+        {
+          "label": "B",
+          "text": "A Race Home Before the Rain"
+        },
+        {
+          "label": "C",
+          "text": "A Town Without a Library"
+        },
+        {
+          "label": "D",
+          "text": "Sharing Books on a Rainy Morning"
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Ben and Lily see a small dog alone near the park gate. Lily calls loudly so the people across the path can hear her. Nobody answers, and Ben notices a name card on the dog's collar. The card is covered with mud, which is the reason they cannot read the phone number. They ask a park worker for help instead of leaving the dog alone. The worker cleans the card and calls the owner, who comes to the gate. The children are glad that asking for help brings the dog and its owner together.",
+      "parallelText": [
+        {
+          "en": "Ben and Lily see a small dog alone near the park gate.",
+          "zh": "本和莉莉在公园门口附近看见一只落单的小狗。"
+        },
+        {
+          "en": "Lily calls loudly so the people across the path can hear her.",
+          "zh": "莉莉响亮地叫喊，让小路另一边的人听见。"
+        },
+        {
+          "en": "Nobody answers, and Ben notices a name card on the dog's collar.",
+          "zh": "没有人回应，本注意到狗项圈上的姓名卡。"
+        },
+        {
+          "en": "The card is covered with mud, which is the reason they cannot read the phone number.",
+          "zh": "卡片满是泥，这就是他们看不清电话号码的原因。"
+        },
+        {
+          "en": "They ask a park worker for help instead of leaving the dog alone.",
+          "zh": "他们向公园工作人员求助，而不把小狗独自留下。"
+        },
+        {
+          "en": "The worker cleans the card and calls the owner, who comes to the gate.",
+          "zh": "工作人员擦净卡片，打电话给主人，主人来到门口。"
+        },
+        {
+          "en": "The children are glad that asking for help brings the dog and its owner together.",
+          "zh": "孩子们很高兴，求助让小狗与主人团聚。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "collar",
+          "meaning": "a band around an animal's neck"
+        },
+        {
+          "word": "owner",
+          "meaning": "the person something belongs to"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Our reading club meets in a quiet part of the town near the library. One Saturday, rain falls through the whole morning, from the time we arrive until lunch. We cannot sit outside, so the librarian opens a room with a large table. Each person brings a different book and reads a favourite page to the group. Mia writes the book titles on the board so we can find them later. At lunch, our parents arrive with umbrellas to take us home. The rainy morning gives us new books to share instead of stopping our meeting.",
+      "parallelText": [
+        {
+          "en": "Our reading club meets in a quiet part of the town near the library.",
+          "zh": "我们的阅读社团在镇上靠近图书馆的一片安静区域见面。"
+        },
+        {
+          "en": "One Saturday, rain falls through the whole morning, from the time we arrive until lunch.",
+          "zh": "一个周六，雨从我们到达一直下到午饭，持续了一整个上午。"
+        },
+        {
+          "en": "We cannot sit outside, so the librarian opens a room with a large table.",
+          "zh": "我们不能坐户外，于是图书管理员打开一间有大桌子的房间。"
+        },
+        {
+          "en": "Each person brings a different book and reads a favourite page to the group.",
+          "zh": "每个人带来不同的书，向大家读最喜欢的一页。"
+        },
+        {
+          "en": "Mia writes the book titles on the board so we can find them later.",
+          "zh": "米娅把书名写在黑板上，让大家以后可以找到。"
+        },
+        {
+          "en": "At lunch, our parents arrive with umbrellas to take us home.",
+          "zh": "午饭时，父母带着雨伞来接我们回家。"
+        },
+        {
+          "en": "The rainy morning gives us new books to share instead of stopping our meeting.",
+          "zh": "这个雨天上午没有让聚会停止，反而带来了可分享的新书。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "librarian",
+          "meaning": "a person who works in a library"
+        },
+        {
+          "word": "titles",
+          "meaning": "the names of books or other works"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S010-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T100",
+      "groupId": "T100",
+      "expression": "alive",
+      "meaning": "有生气；有活力",
+      "introducedAtStation": 4,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 6,
+      "referenceDueStation": 5,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S010-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T098",
+      "groupId": "T098",
+      "expression": "article",
+      "meaning": "文章",
+      "introducedAtStation": 4,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 6,
+      "referenceDueStation": 5,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S010-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T095",
+      "groupId": "T095",
+      "expression": "snake",
+      "meaning": "蛇",
+      "introducedAtStation": 4,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 6,
+      "referenceDueStation": 5,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S010-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T104",
+      "groupId": "T104",
+      "expression": "decide",
+      "meaning": "对……作出抉择；决定",
+      "introducedAtStation": 5,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 5,
+      "referenceDueStation": 6,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S010-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T089",
+      "groupId": "T089",
+      "expression": "loudly",
+      "meaning": "喧闹地；响亮地",
+      "introducedAtStation": 3,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 4,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S010-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T099",
+      "groupId": "T099",
+      "expression": "reason",
+      "meaning": "原因；理由",
+      "introducedAtStation": 4,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 6,
+      "referenceDueStation": 5,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S010-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T097",
+      "groupId": "T097",
+      "expression": "part",
+      "meaning": "区域；地区",
+      "introducedAtStation": 4,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 6,
+      "referenceDueStation": 5,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S010-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T096",
+      "groupId": "T096",
+      "expression": "through",
+      "meaning": "自始至终；从头到尾",
+      "introducedAtStation": 4,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 6,
+      "referenceDueStation": 5,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

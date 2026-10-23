@@ -1,0 +1,3018 @@
+{
+  "station": 100,
+  "type": "new_learning",
+  "phase": "phrase_supplement",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 100,
+  "newItems": [
+    {
+      "groupId": "E0074",
+      "sourceId": "E0074",
+      "sourceIds": [
+        "E0074"
+      ],
+      "word": "get dressed",
+      "meaning": "穿好衣服",
+      "sourceItems": [
+        {
+          "sourceId": "E0074",
+          "sourceKind": "phrase",
+          "expression": "get dressed",
+          "meaning": "穿好衣服",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "dressed为过去分词，不能写get dress",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0074",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 194,
+          "originalFields": {
+            "编号": "E0074",
+            "英文表达": "get dressed",
+            "中文释义": "穿好衣服",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "dressed为过去分词，不能写get dress",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“穿好衣服”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0074",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "get dressed",
+            "原文释义": "穿好衣服",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0074",
+          "introducedAtStation": 100
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0074",
+        "sourceIds": [
+          "E0074"
+        ],
+        "expression": "get dressed",
+        "phonetic": "/ɡet drest/",
+        "readingForms": [
+          {
+            "expression": "get dressed",
+            "phonetic": "/ɡet drest/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0074",
+            "expression": "get dressed"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I get dressed before breakfast.",
+          "zh": "我早饭前穿好衣服。",
+          "sourceIds": [
+            "E0074"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0619",
+      "sourceId": "E0619",
+      "sourceIds": [
+        "E0619"
+      ],
+      "word": "give back",
+      "meaning": "归还；归还，送回",
+      "sourceItems": [
+        {
+          "sourceId": "E0619",
+          "sourceKind": "phrase",
+          "expression": "give back",
+          "meaning": "归还；归还，送回",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "give it back / give sth. back to sb.。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0628；P0848；P0854",
+          "sourceImages": "IMG_2715.heic；IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 196,
+          "originalFields": {
+            "编号": "E0619",
+            "英文表达": "give back",
+            "中文释义": "归还；归还，送回",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "give it back / give sth. back to sb.。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 3,
+            "原始条目编号": "P0628；P0848；P0854",
+            "来源图片": "IMG_2715.heic；IMG_2718.heic",
+            "原文英文": "give back",
+            "原文释义": "归还；归还，送回",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0619",
+          "introducedAtStation": 100
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0619",
+        "sourceIds": [
+          "E0619"
+        ],
+        "expression": "give back",
+        "phonetic": "/ɡɪv bæk/",
+        "readingForms": [
+          {
+            "expression": "give back",
+            "phonetic": "/ɡɪv bæk/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0619",
+            "expression": "give back"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please give my pencil back to me.",
+          "zh": "请把我的铅笔还给我。",
+          "sourceIds": [
+            "E0619"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0782",
+      "sourceId": "E0782",
+      "sourceIds": [
+        "E0782"
+      ],
+      "word": "go home",
+      "meaning": "回家",
+      "sourceItems": [
+        {
+          "sourceId": "E0782",
+          "sourceKind": "phrase",
+          "expression": "go home",
+          "meaning": "回家",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "home作副词，不写go to home。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0885",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 197,
+          "originalFields": {
+            "编号": "E0782",
+            "英文表达": "go home",
+            "中文释义": "回家",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "home作副词，不写go to home。",
+            "适用训练": "听说交际 / 语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0885",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "go home",
+            "原文释义": "回家",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0782",
+          "introducedAtStation": 100
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0782",
+        "sourceIds": [
+          "E0782"
+        ],
+        "expression": "go home",
+        "phonetic": "/ɡəʊ həʊm/",
+        "readingForms": [
+          {
+            "expression": "go home",
+            "phonetic": "/ɡəʊ həʊm/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0782",
+            "expression": "go home"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We go home after school.",
+          "zh": "我们放学后回家。",
+          "sourceIds": [
+            "E0782"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0106",
+      "sourceId": "E0106",
+      "sourceIds": [
+        "E0106"
+      ],
+      "word": "have fun",
+      "meaning": "玩得高兴",
+      "sourceItems": [
+        {
+          "sourceId": "E0106",
+          "sourceKind": "phrase",
+          "expression": "have fun",
+          "meaning": "玩得高兴",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "fun不可数，后接doing表示做某事很开心",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0106",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 199,
+          "originalFields": {
+            "编号": "E0106",
+            "英文表达": "have fun",
+            "中文释义": "玩得高兴",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "fun不可数，后接doing表示做某事很开心",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“玩得高兴”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0106",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "have fun",
+            "原文释义": "玩得高兴",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0106",
+          "introducedAtStation": 100
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0106",
+        "sourceIds": [
+          "E0106"
+        ],
+        "expression": "have fun",
+        "phonetic": "/hæv fʌn/",
+        "readingForms": [
+          {
+            "expression": "have fun",
+            "phonetic": "/hæv fʌn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0106",
+            "expression": "have fun"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We have fun playing games in the park.",
+          "zh": "我们在公园玩游戏，玩得很开心。",
+          "sourceIds": [
+            "E0106"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0112",
+      "sourceId": "E0112",
+      "sourceIds": [
+        "E0112"
+      ],
+      "word": "have to do sth.",
+      "meaning": "不得不做某事",
+      "sourceItems": [
+        {
+          "sourceId": "E0112",
+          "sourceKind": "phrase",
+          "expression": "have to do sth.",
+          "meaning": "不得不做某事",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "第三人称用has to，否定借助do/does",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0112；S040",
+          "sourceImages": "IMG_2699.heic；IMG_2708.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 200,
+          "originalFields": {
+            "编号": "E0112",
+            "英文表达": "have to do sth.",
+            "中文释义": "不得不做某事",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "第三人称用has to，否定借助do/does",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“不得不做某事”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0112；S040",
+            "来源图片": "IMG_2699.heic；IMG_2708.heic",
+            "原文英文": "have to do sth.",
+            "原文释义": "不得不做某事",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0112",
+          "introducedAtStation": 100
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0112",
+        "sourceIds": [
+          "E0112"
+        ],
+        "expression": "have to do sth.",
+        "phonetic": "/hæf tə duː ˈsʌmθɪŋ/",
+        "readingForms": [
+          {
+            "expression": "have to do something",
+            "phonetic": "/hæf tə duː ˈsʌmθɪŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0112",
+            "expression": "have to do sth."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。",
+          "have to表示必须时采用常见读法/hæf tə/，此处不读拥有义的/hæv/。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We have to leave now to catch the bus.",
+          "zh": "为了赶公交车，我们现在不得不离开。",
+          "sourceIds": [
+            "E0112"
+          ]
+        },
+        {
+          "en": "Mia has to finish her homework before the game.",
+          "zh": "米娅不得不在游戏前完成作业。",
+          "sourceIds": [
+            "E0112"
+          ]
+        },
+        {
+          "en": "Ben does not have to work on Sunday.",
+          "zh": "本星期日不必工作。",
+          "sourceIds": [
+            "E0112"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0120",
+      "sourceId": "E0120",
+      "sourceIds": [
+        "E0120"
+      ],
+      "word": "help yourself (to sth.)",
+      "meaning": "自己取（食物等）",
+      "sourceItems": [
+        {
+          "sourceId": "E0120",
+          "sourceKind": "phrase",
+          "expression": "help yourself (to sth.)",
+          "meaning": "自己取（食物等）",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "yourself/yourselves随用餐人数变化",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0120",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 201,
+          "originalFields": {
+            "编号": "E0120",
+            "英文表达": "help yourself (to sth.)",
+            "中文释义": "自己取（食物等）",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "yourself/yourselves随用餐人数变化",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“自己取（食物等）”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0120",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "help yourself (to sth.)",
+            "原文释义": "自己取（食物等）",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0120",
+          "introducedAtStation": 100
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0120",
+        "sourceIds": [
+          "E0120"
+        ],
+        "expression": "help yourself (to sth.)",
+        "phonetic": "/help jɔːˈself/ 或 /help jɔːˈself tə ˈsʌmθɪŋ/",
+        "readingForms": [
+          {
+            "expression": "help yourself",
+            "phonetic": "/help jɔːˈself/"
+          },
+          {
+            "expression": "help yourself to something",
+            "phonetic": "/help jɔːˈself tə ˈsʌmθɪŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0120",
+            "expression": "help yourself (to sth.)"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。",
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Help yourself to some fruit, Ben.",
+          "zh": "本，自己拿点水果吃吧。",
+          "sourceIds": [
+            "E0120"
+          ]
+        },
+        {
+          "en": "Please help yourselves, everyone.",
+          "zh": "大家请自便。",
+          "sourceIds": [
+            "E0120"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "E0064",
+      "sourceId": "E0064",
+      "sourceIds": [
+        "E0064"
+      ],
+      "word": "do/wash the dishes",
+      "meaning": "清洗餐具",
+      "sourceItems": [
+        {
+          "sourceId": "E0064",
+          "sourceKind": "phrase",
+          "expression": "do/wash the dishes",
+          "meaning": "清洗餐具",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "dishes用复数，表示洗餐具",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0064",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 192,
+          "originalFields": {
+            "编号": "E0064",
+            "英文表达": "do/wash the dishes",
+            "中文释义": "清洗餐具",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "dishes用复数，表示洗餐具",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“清洗餐具”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0064",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "do/wash the dishes",
+            "原文释义": "清洗餐具",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0064",
+          "introducedAtStation": 99
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0064",
+        "sourceIds": [
+          "E0064"
+        ],
+        "expression": "do/wash the dishes",
+        "phonetic": "/duː ðə ˈdɪʃɪz/ 或 /wɒʃ ðə ˈdɪʃɪz/",
+        "readingForms": [
+          {
+            "expression": "do the dishes",
+            "phonetic": "/duː ðə ˈdɪʃɪz/"
+          },
+          {
+            "expression": "wash the dishes",
+            "phonetic": "/wɒʃ ðə ˈdɪʃɪz/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0064",
+            "expression": "do/wash the dishes"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We do the dishes after dinner.",
+          "zh": "我们晚饭后洗餐具。",
+          "sourceIds": [
+            "E0064"
+          ]
+        },
+        {
+          "en": "Mia washes the dishes after lunch.",
+          "zh": "米娅午餐后清洗餐具。",
+          "sourceIds": [
+            "E0064"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "首字母题的accepted只保留与本题标准答案首字母相符的表达；另一合法并列结构仍保留在同组其他例句与fill主答案中，不删除原源结构。",
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0037",
+      "sourceId": "E0037",
+      "sourceIds": [
+        "E0037"
+      ],
+      "word": "be ready to do sth.",
+      "meaning": "准备好做某事",
+      "sourceItems": [
+        {
+          "sourceId": "E0037",
+          "sourceKind": "phrase",
+          "expression": "be ready to do sth.",
+          "meaning": "准备好做某事",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "to后接动词原形，辨析ready for",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0037",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 187,
+          "originalFields": {
+            "编号": "E0037",
+            "英文表达": "be ready to do sth.",
+            "中文释义": "准备好做某事",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "to后接动词原形，辨析ready for",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“准备好做某事”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0037",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "be ready to do sth.",
+            "原文释义": "准备好做某事",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0037",
+          "introducedAtStation": 99
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0037",
+        "sourceIds": [
+          "E0037"
+        ],
+        "expression": "be ready to do sth.",
+        "phonetic": "/biː ˈredi tə duː ˈsʌmθɪŋ/",
+        "readingForms": [
+          {
+            "expression": "be ready to do something",
+            "phonetic": "/biː ˈredi tə duː ˈsʌmθɪŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0037",
+            "expression": "be ready to do sth."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We are ready to leave because our bags are packed.",
+          "zh": "我们已准备好出发，因为行李都收好了。",
+          "sourceIds": [
+            "E0037"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "present",
+          "meaning": "show and explain something to other people"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T059",
+      "sourceId": "T059",
+      "sourceIds": [
+        "T059"
+      ],
+      "word": "just",
+      "meaning": "恰好",
+      "sourceItems": [
+        {
+          "sourceId": "T059",
+          "sourceKind": "textbook",
+          "expression": "just",
+          "meaning": "恰好",
+          "partOfSpeech": "adv.",
+          "phonetic": "/dʒʌst/",
+          "unit": "Unit 2",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 30,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 64,
+          "originalFields": {
+            "序号": 59,
+            "单元": "Unit 2",
+            "类型": "单词",
+            "单词／短语": "just",
+            "音标（教材）": "/dʒʌst/",
+            "词性": "adv.",
+            "中文释义": "恰好",
+            "教材课文页": 30,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T059",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T059",
+        "word": "just",
+        "ipa": "/dʒʌst/",
+        "focus": "开头字母j在本词读/dʒ/；/ʌ/短读，结尾/st/不补元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This box is just the right size for my books.",
+          "zh": "这个箱子的大小恰好适合放我的书。",
+          "sourceIds": [
+            "T059"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "锁定教材恰好义。",
+      "ipa": "/dʒʌst/",
+      "pos": "adv.",
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T044",
+      "sourceId": "T044",
+      "sourceIds": [
+        "T044"
+      ],
+      "word": "develop",
+      "meaning": "培养；发展",
+      "sourceItems": [
+        {
+          "sourceId": "T044",
+          "sourceKind": "textbook",
+          "expression": "develop",
+          "meaning": "培养；发展",
+          "partOfSpeech": "v.",
+          "phonetic": "/dɪˈveləp/",
+          "unit": "Unit 2",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 24,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 49,
+          "originalFields": {
+            "序号": 44,
+            "单元": "Unit 2",
+            "类型": "单词",
+            "单词／短语": "develop",
+            "音标（教材）": "/dɪˈveləp/",
+            "词性": "v.",
+            "中文释义": "培养；发展",
+            "教材课文页": 24,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T044",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T044",
+        "word": "develop",
+        "ipa": "/dɪˈveləp/",
+        "focus": "重音在/vel/；开头/dɪ/轻读，结尾/əp/中的/ə/不重读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Clubs help students develop new interests.",
+          "zh": "社团帮助学生培养新的兴趣。",
+          "sourceIds": [
+            "T044"
+          ]
+        },
+        {
+          "en": "My reading skills develop as I read more.",
+          "zh": "随着阅读量增加，我的阅读技能不断发展。",
+          "sourceIds": [
+            "T044"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/dɪˈveləp/",
+      "pos": "v.",
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0828",
+      "sourceId": "E0828",
+      "sourceIds": [
+        "E0828"
+      ],
+      "word": "come in",
+      "meaning": "进入，进来",
+      "sourceItems": [
+        {
+          "sourceId": "E0828",
+          "sourceKind": "phrase",
+          "expression": "come in",
+          "meaning": "进入，进来",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "come in可作请进的祈使句。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0961",
+          "sourceImages": "IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 191,
+          "originalFields": {
+            "编号": "E0828",
+            "英文表达": "come in",
+            "中文释义": "进入，进来",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "come in可作请进的祈使句。",
+            "适用训练": "听说交际 / 语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0961",
+            "来源图片": "IMG_2719.heic",
+            "原文英文": "come in",
+            "原文释义": "进入，进来",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0828",
+          "introducedAtStation": 99
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0828",
+        "sourceIds": [
+          "E0828"
+        ],
+        "expression": "come in",
+        "phonetic": "/kʌm ɪn/",
+        "readingForms": [
+          {
+            "expression": "come in",
+            "phonetic": "/kʌm ɪn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0828",
+            "expression": "come in"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please come in and sit down.",
+          "zh": "请进来坐下。",
+          "sourceIds": [
+            "E0828"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0622",
+      "sourceId": "E0622",
+      "sourceIds": [
+        "E0622"
+      ],
+      "word": "call back",
+      "meaning": "回电话；回电；召回",
+      "sourceItems": [
+        {
+          "sourceId": "E0622",
+          "sourceKind": "phrase",
+          "expression": "call back",
+          "meaning": "回电话；回电；召回",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "call sb. back；代词用call him/her back。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0631；P0842",
+          "sourceImages": "IMG_2715.heic；IMG_2717.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 189,
+          "originalFields": {
+            "编号": "E0622",
+            "英文表达": "call back",
+            "中文释义": "回电话；回电；召回",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "call sb. back；代词用call him/her back。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0631；P0842",
+            "来源图片": "IMG_2715.heic；IMG_2717.heic",
+            "原文英文": "call back",
+            "原文释义": "回电话；回电；召回",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0622",
+          "introducedAtStation": 99
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0622",
+        "sourceIds": [
+          "E0622"
+        ],
+        "expression": "call back",
+        "phonetic": "/kɔːl bæk/",
+        "readingForms": [
+          {
+            "expression": "call back",
+            "phonetic": "/kɔːl bæk/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0622",
+            "expression": "call back"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Mia misses my call and calls me back later.",
+          "zh": "米娅没接到我的电话，稍后给我回了电话。",
+          "sourceIds": [
+            "E0622"
+          ]
+        },
+        {
+          "en": "The coach calls the players back to the field.",
+          "zh": "教练把队员们召回场地。",
+          "sourceIds": [
+            "E0622"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0458",
+      "sourceId": "E0458",
+      "sourceIds": [
+        "E0458"
+      ],
+      "word": "eat out",
+      "meaning": "出去吃饭",
+      "sourceItems": [
+        {
+          "sourceId": "E0458",
+          "sourceKind": "phrase",
+          "expression": "eat out",
+          "meaning": "出去吃饭",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "out作副词，表示在外就餐，不接食物作直接宾语。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0461",
+          "sourceImages": "IMG_2704.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 193,
+          "originalFields": {
+            "编号": "E0458",
+            "英文表达": "eat out",
+            "中文释义": "出去吃饭",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "out作副词，表示在外就餐，不接食物作直接宾语。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0461",
+            "来源图片": "IMG_2704.heic",
+            "原文英文": "eat out",
+            "原文释义": "出去吃饭",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0458",
+          "introducedAtStation": 99
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0458",
+        "sourceIds": [
+          "E0458"
+        ],
+        "expression": "eat out",
+        "phonetic": "/iːt aʊt/",
+        "readingForms": [
+          {
+            "expression": "eat out",
+            "phonetic": "/iːt aʊt/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0458",
+            "expression": "eat out"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We eat out at a restaurant on special days.",
+          "zh": "我们在特别的日子会去餐馆吃饭。",
+          "sourceIds": [
+            "E0458"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0360",
+      "sourceId": "E0360",
+      "sourceIds": [
+        "E0360"
+      ],
+      "word": "buy sth. for sb. (=buy sb. sth.)",
+      "meaning": "给某人买某物",
+      "sourceItems": [
+        {
+          "sourceId": "E0360",
+          "sourceKind": "phrase",
+          "expression": "buy sth. for sb. (=buy sb. sth.)",
+          "meaning": "给某人买某物",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "日常生活",
+          "usage": "双宾语换序后用for，不用to",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0360",
+          "sourceImages": "IMG_2702.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 188,
+          "originalFields": {
+            "编号": "E0360",
+            "英文表达": "buy sth. for sb. (=buy sb. sth.)",
+            "中文释义": "给某人买某物",
+            "学习层级": "核心掌握",
+            "主题": "日常生活",
+            "用法与易错点": "双宾语换序后用for，不用to",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于日常作息与生活事务中的“给某人买某物”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0360",
+            "来源图片": "IMG_2702.heic",
+            "原文英文": "buy sth. for sb. (=buy sb. sth.)",
+            "原文释义": "给某人买某物",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0360",
+          "introducedAtStation": 99
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0360",
+        "sourceIds": [
+          "E0360"
+        ],
+        "expression": "buy sth. for sb. (=buy sb. sth.)",
+        "phonetic": "/baɪ ˈsʌmθɪŋ fə ˈsʌmbədi/ 或 /baɪ ˈsʌmbədi ˈsʌmθɪŋ/",
+        "readingForms": [
+          {
+            "expression": "buy something for somebody",
+            "phonetic": "/baɪ ˈsʌmθɪŋ fə ˈsʌmbədi/"
+          },
+          {
+            "expression": "buy somebody something",
+            "phonetic": "/baɪ ˈsʌmbədi ˈsʌmθɪŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0360",
+            "expression": "buy sth. for sb. (=buy sb. sth.)"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。",
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Mum buys a notebook for me.",
+          "zh": "妈妈给我买一本笔记本。",
+          "sourceIds": [
+            "E0360"
+          ]
+        },
+        {
+          "en": "We buy our teacher some flowers.",
+          "zh": "我们给老师买一些花。",
+          "sourceIds": [
+            "E0360"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "日常生活",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "E0074",
+      "groupId": "E0074",
+      "direction": "zh_to_en",
+      "stem": "穿好衣服",
+      "options": [
+        {
+          "label": "A",
+          "text": "in the centre of"
+        },
+        {
+          "label": "B",
+          "text": "glad"
+        },
+        {
+          "label": "C",
+          "text": "poster"
+        },
+        {
+          "label": "D",
+          "text": "get dressed"
+        }
+      ],
+      "answer": "D",
+      "word": "get dressed",
+      "meaning": "穿好衣服"
+    },
+    {
+      "id": 2,
+      "sourceId": "E0619",
+      "groupId": "E0619",
+      "direction": "en_to_zh",
+      "stem": "give back",
+      "options": [
+        {
+          "label": "A",
+          "text": "指南；手册"
+        },
+        {
+          "label": "B",
+          "text": "培养；发展"
+        },
+        {
+          "label": "C",
+          "text": "归还；归还，送回"
+        },
+        {
+          "label": "D",
+          "text": "解释；说明"
+        }
+      ],
+      "answer": "C",
+      "word": "give back",
+      "meaning": "归还；归还，送回"
+    },
+    {
+      "id": 3,
+      "sourceId": "E0782",
+      "groupId": "E0782",
+      "direction": "zh_to_en",
+      "stem": "回家",
+      "options": [
+        {
+          "label": "A",
+          "text": "ring"
+        },
+        {
+          "label": "B",
+          "text": "go home"
+        },
+        {
+          "label": "C",
+          "text": "leave for"
+        },
+        {
+          "label": "D",
+          "text": "popular"
+        }
+      ],
+      "answer": "B",
+      "word": "go home",
+      "meaning": "回家"
+    },
+    {
+      "id": 4,
+      "sourceId": "E0106",
+      "groupId": "E0106",
+      "direction": "en_to_zh",
+      "stem": "have fun",
+      "options": [
+        {
+          "label": "A",
+          "text": "困难的"
+        },
+        {
+          "label": "B",
+          "text": "玩得高兴"
+        },
+        {
+          "label": "C",
+          "text": "意识到"
+        },
+        {
+          "label": "D",
+          "text": "名单；目录"
+        }
+      ],
+      "answer": "B",
+      "word": "have fun",
+      "meaning": "玩得高兴"
+    },
+    {
+      "id": 5,
+      "sourceId": "E0112",
+      "groupId": "E0112",
+      "direction": "zh_to_en",
+      "stem": "不得不做某事",
+      "options": [
+        {
+          "label": "A",
+          "text": "a bit of"
+        },
+        {
+          "label": "B",
+          "text": "take a trip"
+        },
+        {
+          "label": "C",
+          "text": "get ... ready for"
+        },
+        {
+          "label": "D",
+          "text": "have to do sth."
+        }
+      ],
+      "answer": "D",
+      "word": "have to do sth.",
+      "meaning": "不得不做某事"
+    },
+    {
+      "id": 6,
+      "sourceId": "E0120",
+      "groupId": "E0120",
+      "direction": "en_to_zh",
+      "stem": "help yourself (to sth.)",
+      "options": [
+        {
+          "label": "A",
+          "text": "交通堵塞"
+        },
+        {
+          "label": "B",
+          "text": "自己取（食物等）"
+        },
+        {
+          "label": "C",
+          "text": "特色；特征"
+        },
+        {
+          "label": "D",
+          "text": "网站"
+        }
+      ],
+      "answer": "B",
+      "word": "help yourself (to sth.)",
+      "meaning": "自己取（食物等）"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0074",
+      "groupId": "E0074",
+      "target": "get dressed",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to take all your clothes off"
+        },
+        {
+          "label": "B",
+          "text": "to put clothes away in a cupboard"
+        },
+        {
+          "label": "C",
+          "text": "to put clothes on your body"
+        },
+        {
+          "label": "D",
+          "text": "to wash clothes in a machine"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "C",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "get dressed",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "get dressed"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "穿好衣服",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “get dressed” means “to put clothes on your body”.",
+      "parentExplanation": "本题考查“get dressed”在本句中的用法；正确英文解释为“to put clothes on your body”。对应源表释义为“穿好衣服”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0619",
+      "groupId": "E0619",
+      "target": "give back",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to throw something far away"
+        },
+        {
+          "label": "B",
+          "text": "to keep something that belongs to someone else"
+        },
+        {
+          "label": "C",
+          "text": "to return something to its owner or earlier place"
+        },
+        {
+          "label": "D",
+          "text": "to hide something where no one can find it"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "This is my pencil. Please give it back to me after class.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "This is my pencil. Please give it back to me after class."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "这是我的铅笔，请下课后把它还给我。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “give back” means “to return something to its owner or earlier place”.",
+      "parentExplanation": "本题考查“give back”在本句中的用法；正确英文解释为“to return something to its owner or earlier place”。对应源表释义为“归还；归还，送回”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0782",
+      "groupId": "E0782",
+      "target": "go home",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "describe"
+        },
+        {
+          "label": "B",
+          "text": "watch over"
+        },
+        {
+          "label": "C",
+          "text": "go home"
+        },
+        {
+          "label": "D",
+          "text": "improve"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression describes Ben returning to his family's house?",
+      "answer": "C",
+      "listenScript": "The club meeting is finished. Ben packs his bag and leaves school for the house where he lives with his family.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The club meeting is finished. Ben packs his bag and leaves school for the house where he lives with his family."
+        }
+      ],
+      "explanation": "The situation supports “go home”: The club meeting is finished. Ben packs his bag and leaves school for the house where he lives with his family.",
+      "parentExplanation": "情境证据：社团活动结束了。本收好书包，离开学校，回到和家人一起住的家。；对应本题“回家”这一用法。",
+      "translation": {
+        "stem": "哪个表达描述本回到家人住的房子？",
+        "listenScript": "社团活动结束了。本收好书包，离开学校，回到和家人一起住的家。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0782",
+        "T004",
+        "T013",
+        "T030"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0106",
+      "groupId": "E0106",
+      "target": "have fun",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "improve"
+        },
+        {
+          "label": "B",
+          "text": "have fun"
+        },
+        {
+          "label": "C",
+          "text": "describe"
+        },
+        {
+          "label": "D",
+          "text": "watch over"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression describes the children enjoying themselves?",
+      "answer": "B",
+      "listenScript": "The children laugh as they play a gentle guessing game. Everyone enjoys the afternoon, even when their guesses are wrong.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The children laugh as they play a gentle guessing game. Everyone enjoys the afternoon, even when their guesses are wrong."
+        }
+      ],
+      "explanation": "The situation supports “have fun”: The children laugh as they play a gentle guessing game. Everyone enjoys the afternoon, even when their guesses are wrong.",
+      "parentExplanation": "情境证据：孩子们玩轻松的猜谜游戏时笑个不停。即使猜错，大家也很享受这个下午。；对应本题“玩得高兴”这一用法。",
+      "translation": {
+        "stem": "哪个表达描述孩子们玩得高兴？",
+        "listenScript": "孩子们玩轻松的猜谜游戏时笑个不停。即使猜错，大家也很享受这个下午。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0106",
+        "T004",
+        "T013",
+        "T030"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0112",
+      "groupId": "E0112",
+      "target": "have to do sth.",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to choose something only for fun"
+        },
+        {
+          "label": "B",
+          "text": "to be unable to do something"
+        },
+        {
+          "label": "C",
+          "text": "to need to do something because it is necessary"
+        },
+        {
+          "label": "D",
+          "text": "to finish an activity and stop doing it"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "We have to leave now or we will miss the bus.\nWhat does “have to leave” mean here?",
+      "translation": {
+        "stem": "我们现在必须离开，否则就会错过公交车。 这里“have to leave”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “have to do sth.” means “to need to do something because it is necessary”.",
+      "parentExplanation": "本题考查“have to do sth.”在本句中的用法；正确英文解释为“to need to do something because it is necessary”。对应源表释义为“不得不做某事”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0120",
+      "groupId": "E0120",
+      "target": "help yourself (to sth.)",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to ask everyone to leave the table"
+        },
+        {
+          "label": "B",
+          "text": "to hide the food before guests arrive"
+        },
+        {
+          "label": "C",
+          "text": "to take food or drink for yourself when offered"
+        },
+        {
+          "label": "D",
+          "text": "to give all the food to someone else"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "“Ben, please help yourself to some fruit.”\nWhat does “help yourself to” mean here?",
+      "translation": {
+        "stem": "“本，请自己拿点水果吃。” 这里“help yourself to”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “help yourself (to sth.)” means “to take food or drink for yourself when offered”.",
+      "parentExplanation": "本题考查“help yourself (to sth.)”在本句中的用法；正确英文解释为“to take food or drink for yourself when offered”。对应源表释义为“自己取（食物等）”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0064",
+      "groupId": "E0064",
+      "target": "do/wash the dishes",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to buy new furniture for a kitchen"
+        },
+        {
+          "label": "B",
+          "text": "to clean the plates, cups and other items used for eating"
+        },
+        {
+          "label": "C",
+          "text": "to put food on a dining table"
+        },
+        {
+          "label": "D",
+          "text": "to cut food into small pieces"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "Mia washes the dishes after lunch every Sunday.\nWhat does “washes the dishes” mean here?",
+      "translation": {
+        "stem": "米娅每周日午饭后清洗餐具。 这里“washes the dishes”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “do/wash the dishes” means “to clean the plates, cups and other items used for eating”.",
+      "parentExplanation": "本题考查“do/wash the dishes”在本句中的用法；正确英文解释为“to clean the plates, cups and other items used for eating”。对应源表释义为“清洗餐具”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0037",
+      "groupId": "E0037",
+      "target": "be ready to do sth.",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to be prepared to do something"
+        },
+        {
+          "label": "B",
+          "text": "to forget how to do something"
+        },
+        {
+          "label": "C",
+          "text": "to refuse to do something at all"
+        },
+        {
+          "label": "D",
+          "text": "to be too tired to do something"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "Ben is ready to present his project to the class; he has all his notes.\nWhat does “is ready to present” mean here?",
+      "translation": {
+        "stem": "本已经准备好向全班展示项目，他把笔记都带齐了。 这里“is ready to present”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “be ready to do sth.” means “to be prepared to do something”.",
+      "parentExplanation": "本题考查“be ready to do sth.”在本句中的用法；正确英文解释为“to be prepared to do something”。对应源表释义为“准备好做某事”。",
+      "wordHelp": [
+        {
+          "word": "present",
+          "meaning": "show and explain something to other people"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0074",
+      "groupId": "E0074",
+      "target": "get dressed",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "gets dressed"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia g________ by herself every morning.",
+      "answer": "gets dressed",
+      "hint": "puts her clothes on",
+      "grammar": "Simple present: gets dressed",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Mia takes gets, while dressed stays unchanged.",
+      "parentExplanation": "Mia为第三人称单数，用gets dressed；dressed形式不变。",
+      "translation": {
+        "stem": "米娅每天早晨都自己穿衣服。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0619",
+      "groupId": "E0619",
+      "target": "give back",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "give the books back to",
+        "give back the books to"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We must g________ the library before Friday.",
+      "answer": "give the books back to",
+      "hint": "return the books to their earlier place",
+      "grammar": "Give something back to somebody",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Give the books back to is followed by the place receiving them.",
+      "parentExplanation": "give the books back to the library表示把书归还图书馆；名词宾语也可放back后。",
+      "translation": {
+        "stem": "我们必须在星期五前把这些书还给图书馆。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0782",
+      "groupId": "E0782",
+      "target": "go home",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "go home"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We g________ after school to have dinner with our families.",
+      "answer": "go home",
+      "hint": "return to the place where we live",
+      "grammar": "Go + adverb home",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Home is an adverb here, so do not add to.",
+      "parentExplanation": "home作副词，go home中不能加to。",
+      "translation": {
+        "stem": "我们放学后回家，和家人吃晚饭。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0106",
+      "groupId": "E0106",
+      "target": "have fun",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "have fun"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We h________ at the party and enjoy every game.",
+      "answer": "have fun",
+      "hint": "enjoy ourselves",
+      "grammar": "Have + uncountable fun",
+      "initialLetter": "h",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Have fun means enjoy yourself; fun is uncountable.",
+      "parentExplanation": "have fun表示玩得开心，fun不可数，不加a或s。",
+      "translation": {
+        "stem": "我们在聚会上玩得开心，喜欢每一个游戏。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0112",
+      "groupId": "E0112",
+      "target": "have to do sth.",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "has to finish"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia h________ her homework before she can play.",
+      "answer": "has to finish",
+      "hint": "needs to complete something",
+      "grammar": "Third-person singular: has to do",
+      "initialLetter": "h",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Mia is singular, so have to becomes has to; finish stays in the base form.",
+      "parentExplanation": "Mia为第三人称单数，用has to，后面的finish仍用原形。",
+      "translation": {
+        "stem": "米娅必须完成作业后才能玩。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0120",
+      "groupId": "E0120",
+      "target": "help yourself (to sth.)",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "help yourselves"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "“Mia and Ben, the food is on the table. Please h________.”",
+      "answer": "help yourselves",
+      "hint": "take food for yourselves",
+      "grammar": "Plural addressees: help yourselves",
+      "initialLetter": "h",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use yourselves for two people; no to is needed when food is not named after the phrase.",
+      "parentExplanation": "对两人说用yourselves；没有后接食物时可省略to部分。",
+      "translation": {
+        "stem": "“米娅和本，食物在桌上，请自便。”",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T059",
+      "groupId": "T059",
+      "target": "just",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "just"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We arrive j________ as the doors open, at the exact same moment.",
+      "answer": "just",
+      "hint": "Use the adverb meaning exactly, not recently or only.",
+      "grammar": "just as + 时间从句",
+      "initialLetter": "j",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The arrivals and the opening occur at exactly the same instant.",
+      "parentExplanation": "at the exact same moment强调恰好，just修饰as引导的时间从句。",
+      "translation": {
+        "stem": "我们恰好在开门的同一时刻到达。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 2,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T044",
+      "groupId": "T044",
+      "target": "develop",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "develops"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "As new shops open, the quiet village gradually d________ into a busy town.",
+      "answer": "develops",
+      "hint": "Use the verb meaning grows and changes over time; agree with the village.",
+      "grammar": "单数主语 + develops into",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The village grows and changes into a town, so it develops.",
+      "parentExplanation": "村庄逐渐发展为城镇，用develop into；单数village配develops。",
+      "translation": {
+        "stem": "随着新店开张，安静的村庄逐渐发展成繁忙的城镇。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 3,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0828",
+      "groupId": "E0828",
+      "target": "come in",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "enter the place where the speaker is"
+        },
+        {
+          "label": "B",
+          "text": "wait outside without entering"
+        },
+        {
+          "label": "C",
+          "text": "leave the place where the speaker is"
+        },
+        {
+          "label": "D",
+          "text": "walk around the whole building"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “come in” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “come in” means “enter the place where the speaker is”. The sentence says: The teacher opens the door and asks me to come in.",
+      "parentExplanation": "“come in”在此处对应“进入，进来”中的本句义项；句意为：老师打开门，请我进来。",
+      "translation": {
+        "stem": "短文中的“come in”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "come in"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0622",
+      "groupId": "E0622",
+      "target": "call back",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "end all telephone contact permanently"
+        },
+        {
+          "label": "B",
+          "text": "write a letter instead of making a call"
+        },
+        {
+          "label": "C",
+          "text": "telephone someone after an earlier call"
+        },
+        {
+          "label": "D",
+          "text": "summon runners to return from a path"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “call back” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “call back” means “telephone someone after an earlier call”. The sentence says: She cannot answer then, so she plans to call back after setting out the paints.",
+      "parentExplanation": "“call back”在此处对应“回电话；回电；召回”中的本句义项；句意为：她当时无法接听，便打算摆好颜料后回电话。",
+      "translation": {
+        "stem": "短文中的“call back”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "call back"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why does the teacher wait before returning the call?",
+      "explanation": "The answer is “She needs to set out the paints first.”. Evidence: She cannot answer then, so she plans to call back after setting out the paints. Once everything is ready, she returns the call and tells the other teacher where to meet.",
+      "parentExplanation": "正确项为“She needs to set out the paints first.”。原文依据：她当时无法接听，便打算摆好颜料后回电话。一切准备好后，她回了电话，告诉另一位老师在哪里碰面。",
+      "translation": {
+        "stem": "老师为什么稍后才回电话？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The caller asks her to leave town."
+        },
+        {
+          "label": "B",
+          "text": "She needs to set out the paints first."
+        },
+        {
+          "label": "C",
+          "text": "Her phone is lost outside."
+        },
+        {
+          "label": "D",
+          "text": "The class has no clean water."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title fits best?",
+      "explanation": "The answer is “Preparing a Painting Class and Returning a Call”. Evidence: I arrive early at the community centre for a painting lesson. The teacher opens the door and asks me to come in. While I choose a seat, her phone rings beside a box of brushes. She cannot answer then, so she plans to call back after setting out the paints. I help put cups of clean water on the tables. Once everything is ready, she returns the call and tells the other teacher where to meet. The class begins with everyone inside and all the materials in place.",
+      "parentExplanation": "正确项为“Preparing a Painting Class and Returning a Call”。原文依据：我早早来到社区中心上绘画课。老师打开门，请我进来。我选座位时，她放在一盒画笔旁的手机响了。她当时无法接听，便打算摆好颜料后回电话。我帮着把干净的水杯放到桌上。一切准备好后，她回了电话，告诉另一位老师在哪里碰面。所有人到齐、材料放好后，课程开始了。",
+      "translation": {
+        "stem": "哪个标题最合适？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The Centre Closes Before a Lesson"
+        },
+        {
+          "label": "B",
+          "text": "A Phone Falls into Paint"
+        },
+        {
+          "label": "C",
+          "text": "A Student Buys Every Brush"
+        },
+        {
+          "label": "D",
+          "text": "Preparing a Painting Class and Returning a Call"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0458",
+      "groupId": "E0458",
+      "target": "eat out",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "cook every meal at home"
+        },
+        {
+          "label": "B",
+          "text": "have a meal at a restaurant instead of at home"
+        },
+        {
+          "label": "C",
+          "text": "take food out of a cupboard"
+        },
+        {
+          "label": "D",
+          "text": "finish all the food on a plate"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “eat out” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “eat out” means “have a meal at a restaurant instead of at home”. The sentence says: It is my grandfather's birthday, and our family decides to eat out.",
+      "parentExplanation": "“eat out”在此处对应“出去吃饭”中的本句义项；句意为：今天是爷爷生日，我们家决定出去吃饭。",
+      "translation": {
+        "stem": "短文中的“eat out”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "eat out"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0360",
+      "groupId": "E0360",
+      "target": "buy sth. for sb. (=buy sb. sth.)",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "purchase a notebook as something for him to have"
+        },
+        {
+          "label": "B",
+          "text": "borrow a notebook from him"
+        },
+        {
+          "label": "C",
+          "text": "sell his notebook to a shop"
+        },
+        {
+          "label": "D",
+          "text": "ask him to buy a notebook for the writer"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “buy a notebook for him” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “buy a notebook for him” means “purchase a notebook as something for him to have”. The sentence says: Before dinner, I buy a notebook for him at the shop next door.",
+      "parentExplanation": "“buy a notebook for him”在此处对应“给某人买某物”中的本句义项；句意为：晚饭前，我在隔壁商店给他买了一本笔记本。",
+      "translation": {
+        "stem": "短文中的“buy a notebook for him”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "buy a notebook for him"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why is a notebook a suitable gift?",
+      "explanation": "The answer is “Grandfather likes writing stories about places he visited.”. Evidence: Before dinner, I buy a notebook for him at the shop next door. He likes writing down stories about the places he visited. I write its title on the first page and invite him to finish it later.",
+      "parentExplanation": "正确项为“Grandfather likes writing stories about places he visited.”。原文依据：晚饭前，我在隔壁商店给他买了一本笔记本。他喜欢记下自己去过的地方的故事。我把标题写在第一页，请他之后把故事写完。",
+      "translation": {
+        "stem": "为什么笔记本适合作为礼物？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        3,
+        4,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Grandfather likes writing stories about places he visited."
+        },
+        {
+          "label": "B",
+          "text": "The shop sells only birthday cakes."
+        },
+        {
+          "label": "C",
+          "text": "The family has no restaurant table."
+        },
+        {
+          "label": "D",
+          "text": "Grandfather needs to learn to cook."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the passage mainly about?",
+      "explanation": "The answer is “A family celebrates a birthday with a meal and a thoughtful gift.”. Evidence: It is my grandfather's birthday, and our family decides to eat out. We choose a small restaurant near his home instead of cooking there. Before dinner, I buy a notebook for him at the shop next door. He likes writing down stories about the places he visited. At the table, he tells us one story while we wait for our food. I write its title on the first page and invite him to finish it later. He smiles and says the meal and the gift both make his birthday special.",
+      "parentExplanation": "正确项为“A family celebrates a birthday with a meal and a thoughtful gift.”。原文依据：今天是爷爷生日，我们家决定出去吃饭。我们选了他家附近一家小餐馆，没有在家做饭。晚饭前，我在隔壁商店给他买了一本笔记本。他喜欢记下自己去过的地方的故事。在餐桌上等上菜时，他给我们讲了一个故事。我把标题写在第一页，请他之后把故事写完。他笑着说，这顿饭和这份礼物都让生日很特别。",
+      "translation": {
+        "stem": "这篇短文主要讲什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A shop teaches everyone to write titles."
+        },
+        {
+          "label": "B",
+          "text": "A family celebrates a birthday with a meal and a thoughtful gift."
+        },
+        {
+          "label": "C",
+          "text": "A grandfather loses a notebook on a trip."
+        },
+        {
+          "label": "D",
+          "text": "A child starts working in a restaurant."
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "I arrive early at the community centre for a painting lesson. The teacher opens the door and asks me to come in. While I choose a seat, her phone rings beside a box of brushes. She cannot answer then, so she plans to call back after setting out the paints. I help put cups of clean water on the tables. Once everything is ready, she returns the call and tells the other teacher where to meet. The class begins with everyone inside and all the materials in place.",
+      "parallelText": [
+        {
+          "en": "I arrive early at the community centre for a painting lesson.",
+          "zh": "我早早来到社区中心上绘画课。"
+        },
+        {
+          "en": "The teacher opens the door and asks me to come in.",
+          "zh": "老师打开门，请我进来。"
+        },
+        {
+          "en": "While I choose a seat, her phone rings beside a box of brushes.",
+          "zh": "我选座位时，她放在一盒画笔旁的手机响了。"
+        },
+        {
+          "en": "She cannot answer then, so she plans to call back after setting out the paints.",
+          "zh": "她当时无法接听，便打算摆好颜料后回电话。"
+        },
+        {
+          "en": "I help put cups of clean water on the tables.",
+          "zh": "我帮着把干净的水杯放到桌上。"
+        },
+        {
+          "en": "Once everything is ready, she returns the call and tells the other teacher where to meet.",
+          "zh": "一切准备好后，她回了电话，告诉另一位老师在哪里碰面。"
+        },
+        {
+          "en": "The class begins with everyone inside and all the materials in place.",
+          "zh": "所有人到齐、材料放好后，课程开始了。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "community centre",
+          "meaning": "a building used for local activities and meetings"
+        },
+        {
+          "word": "material",
+          "meaning": "something needed to do or make a thing"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "It is my grandfather's birthday, and our family decides to eat out. We choose a small restaurant near his home instead of cooking there. Before dinner, I buy a notebook for him at the shop next door. He likes writing down stories about the places he visited. At the table, he tells us one story while we wait for our food. I write its title on the first page and invite him to finish it later. He smiles and says the meal and the gift both make his birthday special.",
+      "parallelText": [
+        {
+          "en": "It is my grandfather's birthday, and our family decides to eat out.",
+          "zh": "今天是爷爷生日，我们家决定出去吃饭。"
+        },
+        {
+          "en": "We choose a small restaurant near his home instead of cooking there.",
+          "zh": "我们选了他家附近一家小餐馆，没有在家做饭。"
+        },
+        {
+          "en": "Before dinner, I buy a notebook for him at the shop next door.",
+          "zh": "晚饭前，我在隔壁商店给他买了一本笔记本。"
+        },
+        {
+          "en": "He likes writing down stories about the places he visited.",
+          "zh": "他喜欢记下自己去过的地方的故事。"
+        },
+        {
+          "en": "At the table, he tells us one story while we wait for our food.",
+          "zh": "在餐桌上等上菜时，他给我们讲了一个故事。"
+        },
+        {
+          "en": "I write its title on the first page and invite him to finish it later.",
+          "zh": "我把标题写在第一页，请他之后把故事写完。"
+        },
+        {
+          "en": "He smiles and says the meal and the gift both make his birthday special.",
+          "zh": "他笑着说，这顿饭和这份礼物都让生日很特别。"
+        }
+      ],
+      "wordHelp": []
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S100-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0064",
+      "groupId": "E0064",
+      "expression": "do/wash the dishes",
+      "meaning": "清洗餐具",
+      "introducedAtStation": 99,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 100,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S100-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0037",
+      "groupId": "E0037",
+      "expression": "be ready to do sth.",
+      "meaning": "准备好做某事",
+      "introducedAtStation": 99,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 100,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S100-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T059",
+      "groupId": "T059",
+      "expression": "just",
+      "meaning": "恰好",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 4,
+      "previousReviewStation": 57,
+      "intervalInStations": 43,
+      "referenceDueStation": 71,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S100-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T044",
+      "groupId": "T044",
+      "expression": "develop",
+      "meaning": "培养；发展",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 4,
+      "previousReviewStation": 57,
+      "intervalInStations": 43,
+      "referenceDueStation": 71,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S100-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0828",
+      "groupId": "E0828",
+      "expression": "come in",
+      "meaning": "进入，进来",
+      "introducedAtStation": 99,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 100,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S100-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0622",
+      "groupId": "E0622",
+      "expression": "call back",
+      "meaning": "回电话；回电；召回",
+      "introducedAtStation": 99,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 100,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S100-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0458",
+      "groupId": "E0458",
+      "expression": "eat out",
+      "meaning": "出去吃饭",
+      "introducedAtStation": 99,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 100,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S100-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0360",
+      "groupId": "E0360",
+      "expression": "buy sth. for sb. (=buy sb. sth.)",
+      "meaning": "给某人买某物",
+      "introducedAtStation": 99,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 100,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

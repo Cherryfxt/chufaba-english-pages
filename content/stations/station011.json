@@ -1,0 +1,2667 @@
+{
+  "station": 11,
+  "type": "new_learning",
+  "phase": "textbook",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 11,
+  "newItems": [
+    {
+      "groupId": "T128",
+      "sourceId": "T128",
+      "sourceIds": [
+        "T128"
+      ],
+      "word": "desert",
+      "meaning": "沙漠；荒漠",
+      "sourceItems": [
+        {
+          "sourceId": "T128",
+          "sourceKind": "textbook",
+          "expression": "desert",
+          "meaning": "沙漠；荒漠",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈdezət/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 133,
+          "originalFields": {
+            "序号": 128,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "desert",
+            "音标（教材）": "/ˈdezət/",
+            "词性": "n.",
+            "中文释义": "沙漠；荒漠",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T128",
+          "introducedAtStation": 11
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T128",
+        "word": "desert",
+        "ipa": "/ˈdezət/",
+        "focus": "本项“沙漠”重音在/de/；字母s按源音标读/z/，后段/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Few plants grow in this dry desert.",
+          "zh": "很少有植物生长在这片干旱的沙漠里。",
+          "sourceIds": [
+            "T128"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈdezət/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T129",
+      "sourceId": "T129",
+      "sourceIds": [
+        "T129"
+      ],
+      "word": "metre",
+      "meaning": "米",
+      "sourceItems": [
+        {
+          "sourceId": "T129",
+          "sourceKind": "textbook",
+          "expression": "metre",
+          "meaning": "米",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈmiːtə(r)/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 134,
+          "originalFields": {
+            "序号": 129,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "metre",
+            "音标（教材）": "/ˈmiːtə(r)/",
+            "词性": "n.",
+            "中文释义": "米",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T129",
+          "introducedAtStation": 11
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T129",
+        "word": "metre",
+        "ipa": "/ˈmiːtə(r)/",
+        "focus": "重读/miː/；/iː/拉长，最后/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The door is about two metres high.",
+          "zh": "这扇门大约两米高。",
+          "sourceIds": [
+            "T129"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "centimetre",
+          "meaning": "a small unit for measuring length"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈmiːtə(r)/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T130",
+      "sourceId": "T130",
+      "sourceIds": [
+        "T130"
+      ],
+      "word": "reach",
+      "meaning": "足够达到",
+      "sourceItems": [
+        {
+          "sourceId": "T130",
+          "sourceKind": "textbook",
+          "expression": "reach",
+          "meaning": "足够达到",
+          "partOfSpeech": "v.",
+          "phonetic": "/riːtʃ/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 135,
+          "originalFields": {
+            "序号": 130,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "reach",
+            "音标（教材）": "/riːtʃ/",
+            "词性": "v.",
+            "中文释义": "足够达到",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T130",
+          "introducedAtStation": 11
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T130",
+        "word": "reach",
+        "ipa": "/riːtʃ/",
+        "focus": "/iː/拉长；末尾字母组合ch读/tʃ/，不是/ʃ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "I can reach the low shelf without a chair.",
+          "zh": "不用椅子我也够得着这个低书架。",
+          "sourceIds": [
+            "T130"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "branch",
+          "meaning": "a part of a tree that grows out from its main stem"
+        }
+      ],
+      "notes": "教材原义“足够达到”逐字保留；本批通过伸手够到的语境落地，不自行替换成抵达某地。",
+      "ipa": "/riːtʃ/",
+      "pos": "v.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T131",
+      "sourceId": "T131",
+      "sourceIds": [
+        "T131"
+      ],
+      "word": "grain",
+      "meaning": "谷粒",
+      "sourceItems": [
+        {
+          "sourceId": "T131",
+          "sourceKind": "textbook",
+          "expression": "grain",
+          "meaning": "谷粒",
+          "partOfSpeech": "n.",
+          "phonetic": "/ɡreɪn/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 136,
+          "originalFields": {
+            "序号": 131,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "grain",
+            "音标（教材）": "/ɡreɪn/",
+            "词性": "n.",
+            "中文释义": "谷粒",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T131",
+          "introducedAtStation": 11
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T131",
+        "word": "grain",
+        "ipa": "/ɡreɪn/",
+        "focus": "开头/ɡr/连读；/eɪ/有滑动，最后/n/收尾。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "There is a grain of rice on the table.",
+          "zh": "桌上有一粒米。",
+          "sourceIds": [
+            "T131"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ɡreɪn/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T132",
+      "sourceId": "T132",
+      "sourceIds": [
+        "T132"
+      ],
+      "word": "wide",
+      "meaning": "宽的；宽阔的",
+      "sourceItems": [
+        {
+          "sourceId": "T132",
+          "sourceKind": "textbook",
+          "expression": "wide",
+          "meaning": "宽的；宽阔的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/waɪd/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 137,
+          "originalFields": {
+            "序号": 132,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "wide",
+            "音标（教材）": "/waɪd/",
+            "词性": "adj.",
+            "中文释义": "宽的；宽阔的",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T132",
+          "introducedAtStation": 11
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T132",
+        "word": "wide",
+        "ipa": "/waɪd/",
+        "focus": "/aɪ/有滑动；最后/d/收住，不另加元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This is a wide river.",
+          "zh": "这是一条宽阔的河流。",
+          "sourceIds": [
+            "T132"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "lane",
+          "meaning": "one part of a road for a line of vehicles"
+        }
+      ],
+      "notes": null,
+      "ipa": "/waɪd/",
+      "pos": "adj.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T133",
+      "sourceId": "T133",
+      "sourceIds": [
+        "T133"
+      ],
+      "word": "whale",
+      "meaning": "鲸",
+      "sourceItems": [
+        {
+          "sourceId": "T133",
+          "sourceKind": "textbook",
+          "expression": "whale",
+          "meaning": "鲸",
+          "partOfSpeech": "n.",
+          "phonetic": "/weɪl/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 138,
+          "originalFields": {
+            "序号": 133,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "whale",
+            "音标（教材）": "/weɪl/",
+            "词性": "n.",
+            "中文释义": "鲸",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T133",
+          "introducedAtStation": 11
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T133",
+        "word": "whale",
+        "ipa": "/weɪl/",
+        "focus": "按源音标，字母组合wh读/w/，不另读/h/；/eɪ/有滑动。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "A whale comes to the surface to breathe.",
+          "zh": "一头鲸浮到水面呼吸。",
+          "sourceIds": [
+            "T133"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "breathe",
+          "meaning": "take air into your body and let it out again"
+        },
+        {
+          "word": "surface",
+          "meaning": "the top or outside part of something"
+        }
+      ],
+      "notes": null,
+      "ipa": "/weɪl/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "T101",
+      "sourceId": "T101",
+      "sourceIds": [
+        "T101"
+      ],
+      "word": "sandcastle",
+      "meaning": "沙堡",
+      "sourceItems": [
+        {
+          "sourceId": "T101",
+          "sourceKind": "textbook",
+          "expression": "sandcastle",
+          "meaning": "沙堡",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈsændkɑːsl/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 44,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 106,
+          "originalFields": {
+            "序号": 101,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "sandcastle",
+            "音标（教材）": "/ˈsændkɑːsl/",
+            "词性": "n.",
+            "中文释义": "沙堡",
+            "教材课文页": 44,
+            "词表PDF页": 2,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T101",
+          "introducedAtStation": 5
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T101",
+        "word": "sandcastle",
+        "ipa": "/ˈsændkɑːsl/",
+        "focus": "重音在/sænd/；后段/ɑː/拉长，castle中的t按源音标不发音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The children make a sandcastle on the beach.",
+          "zh": "孩子们在海滩上堆沙堡。",
+          "sourceIds": [
+            "T101"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈsændkɑːsl/",
+      "pos": "n.",
+      "unit": "Unit 3",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T115",
+      "sourceId": "T115",
+      "sourceIds": [
+        "T115"
+      ],
+      "word": "be divided into",
+      "meaning": "被划分成……",
+      "sourceItems": [
+        {
+          "sourceId": "T115",
+          "sourceKind": "textbook",
+          "expression": "be divided into",
+          "meaning": "被划分成……",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 3",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 120,
+          "originalFields": {
+            "序号": 115,
+            "单元": "Unit 3",
+            "类型": "短语",
+            "单词／短语": "be divided into",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "被划分成……",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T115",
+          "introducedAtStation": 8
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T115",
+        "sourceIds": [
+          "T115"
+        ],
+        "expression": "be divided into",
+        "phonetic": "/bi dɪˈvaɪdɪd ˈɪntuː/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Our class is divided into four groups for the activity.",
+          "zh": "我们的班级为这项活动被分成四组。",
+          "sourceIds": [
+            "T115"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "此处be divided into作为教材既定短语学习，不据此扩展被动语态时态体系。",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T109",
+      "sourceId": "T109",
+      "sourceIds": [
+        "T109"
+      ],
+      "word": "continue",
+      "meaning": "持续；继续存在",
+      "sourceItems": [
+        {
+          "sourceId": "T109",
+          "sourceKind": "textbook",
+          "expression": "continue",
+          "meaning": "持续；继续存在",
+          "partOfSpeech": "v.",
+          "phonetic": "/kənˈtɪnjuː/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 114,
+          "originalFields": {
+            "序号": 109,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "continue",
+            "音标（教材）": "/kənˈtɪnjuː/",
+            "词性": "v.",
+            "中文释义": "持续；继续存在",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T109",
+          "introducedAtStation": 8
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T109",
+        "word": "continue",
+        "ipa": "/kənˈtɪnjuː/",
+        "focus": "重音在/tɪn/；开头/kən/轻读，末尾/juː/保留/j/，/uː/拉长。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The rain may continue all afternoon.",
+          "zh": "这场雨可能会持续整个下午。",
+          "sourceIds": [
+            "T109"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "chairperson",
+          "meaning": "the person who leads a meeting"
+        }
+      ],
+      "notes": null,
+      "ipa": "/kənˈtɪnjuː/",
+      "pos": "v.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T113",
+      "sourceId": "T113",
+      "sourceIds": [
+        "T113"
+      ],
+      "word": "solar term",
+      "meaning": "节气",
+      "sourceItems": [
+        {
+          "sourceId": "T113",
+          "sourceKind": "textbook",
+          "expression": "solar term",
+          "meaning": "节气",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 3",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 118,
+          "originalFields": {
+            "序号": 113,
+            "单元": "Unit 3",
+            "类型": "短语",
+            "单词／短语": "solar term",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "节气",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T113",
+          "introducedAtStation": 8
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T113",
+        "sourceIds": [
+          "T113"
+        ],
+        "expression": "solar term",
+        "phonetic": "/ˈsəʊlə tɜːm/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Qingming is a solar term in the traditional Chinese calendar.",
+          "zh": "清明是中国传统历法中的一个节气。",
+          "sourceIds": [
+            "T113"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "calendar",
+          "meaning": "a way of organising the days and months of a year"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T102",
+      "sourceId": "T102",
+      "sourceIds": [
+        "T102"
+      ],
+      "word": "follow",
+      "meaning": "按……方式发展",
+      "sourceItems": [
+        {
+          "sourceId": "T102",
+          "sourceKind": "textbook",
+          "expression": "follow",
+          "meaning": "按……方式发展",
+          "partOfSpeech": "v.",
+          "phonetic": "/ˈfɒləʊ/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 107,
+          "originalFields": {
+            "序号": 102,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "follow",
+            "音标（教材）": "/ˈfɒləʊ/",
+            "词性": "v.",
+            "中文释义": "按……方式发展",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T102",
+          "introducedAtStation": 5
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T102",
+        "word": "follow",
+        "ipa": "/ˈfɒləʊ/",
+        "focus": "重读/fɒ/；结尾/əʊ/有滑动，不能读成单独的/ɒ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The weather here follows the same pattern each year.",
+          "zh": "这里的天气每年都按同样的模式变化。",
+          "sourceIds": [
+            "T102"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "pattern",
+          "meaning": "a regular way in which things happen"
+        },
+        {
+          "word": "demand",
+          "meaning": "how much people want or need something"
+        },
+        {
+          "word": "seasonal",
+          "meaning": "connected with a season"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈfɒləʊ/",
+      "pos": "v.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T106",
+      "sourceId": "T106",
+      "sourceIds": [
+        "T106"
+      ],
+      "word": "culture",
+      "meaning": "文化；文明",
+      "sourceItems": [
+        {
+          "sourceId": "T106",
+          "sourceKind": "textbook",
+          "expression": "culture",
+          "meaning": "文化；文明",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈkʌltʃə(r)/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 111,
+          "originalFields": {
+            "序号": 106,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "culture",
+            "音标（教材）": "/ˈkʌltʃə(r)/",
+            "词性": "n.",
+            "中文释义": "文化；文明",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T106",
+          "introducedAtStation": 5
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T106",
+        "word": "culture",
+        "ipa": "/ˈkʌltʃə(r)/",
+        "focus": "重读/kʌl/；后段/tʃ/是一个清辅音，最后/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We learn about Chinese culture at school.",
+          "zh": "我们在学校学习中国文化。",
+          "sourceIds": [
+            "T106"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈkʌltʃə(r)/",
+      "pos": "n.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T105",
+      "sourceId": "T105",
+      "sourceIds": [
+        "T105"
+      ],
+      "word": "crop",
+      "meaning": "庄稼；作物",
+      "sourceItems": [
+        {
+          "sourceId": "T105",
+          "sourceKind": "textbook",
+          "expression": "crop",
+          "meaning": "庄稼；作物",
+          "partOfSpeech": "n.",
+          "phonetic": "/krɒp/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 110,
+          "originalFields": {
+            "序号": 105,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "crop",
+            "音标（教材）": "/krɒp/",
+            "词性": "n.",
+            "中文释义": "庄稼；作物",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T105",
+          "introducedAtStation": 5
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T105",
+        "word": "crop",
+        "ipa": "/krɒp/",
+        "focus": "开头/kr/连读；/ɒ/短读，最后/p/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Rice is an important crop here.",
+          "zh": "水稻是这里的重要作物。",
+          "sourceIds": [
+            "T105"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/krɒp/",
+      "pos": "n.",
+      "unit": "Unit 3",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T103",
+      "sourceId": "T103",
+      "sourceIds": [
+        "T103"
+      ],
+      "word": "divide",
+      "meaning": "（使）分开",
+      "sourceItems": [
+        {
+          "sourceId": "T103",
+          "sourceKind": "textbook",
+          "expression": "divide",
+          "meaning": "（使）分开",
+          "partOfSpeech": "v.",
+          "phonetic": "/dɪˈvaɪd/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 108,
+          "originalFields": {
+            "序号": 103,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "divide",
+            "音标（教材）": "/dɪˈvaɪd/",
+            "词性": "v.",
+            "中文释义": "（使）分开",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T103",
+          "introducedAtStation": 5
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T103",
+        "word": "divide",
+        "ipa": "/dɪˈvaɪd/",
+        "focus": "重音在/vaɪd/；/aɪ/有滑动，开头/dɪ/轻短。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We divide the class into two groups.",
+          "zh": "我们把全班分成两组。",
+          "sourceIds": [
+            "T103"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/dɪˈvaɪd/",
+      "pos": "v.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T128",
+      "groupId": "T128",
+      "direction": "zh_to_en",
+      "stem": "沙漠；荒漠",
+      "options": [
+        {
+          "label": "A",
+          "text": "reach"
+        },
+        {
+          "label": "B",
+          "text": "snake"
+        },
+        {
+          "label": "C",
+          "text": "energy"
+        },
+        {
+          "label": "D",
+          "text": "desert"
+        }
+      ],
+      "answer": "D",
+      "word": "desert",
+      "meaning": "沙漠；荒漠"
+    },
+    {
+      "id": 2,
+      "sourceId": "T129",
+      "groupId": "T129",
+      "direction": "en_to_zh",
+      "stem": "metre",
+      "options": [
+        {
+          "label": "A",
+          "text": "大叫；叫喊"
+        },
+        {
+          "label": "B",
+          "text": "米"
+        },
+        {
+          "label": "C",
+          "text": "基于……"
+        },
+        {
+          "label": "D",
+          "text": "极冷的"
+        }
+      ],
+      "answer": "B",
+      "word": "metre",
+      "meaning": "米"
+    },
+    {
+      "id": 3,
+      "sourceId": "T130",
+      "groupId": "T130",
+      "direction": "zh_to_en",
+      "stem": "足够达到",
+      "options": [
+        {
+          "label": "A",
+          "text": "reach"
+        },
+        {
+          "label": "B",
+          "text": "tradition"
+        },
+        {
+          "label": "C",
+          "text": "work one's land"
+        },
+        {
+          "label": "D",
+          "text": "celebrate"
+        }
+      ],
+      "answer": "A",
+      "word": "reach",
+      "meaning": "足够达到"
+    },
+    {
+      "id": 4,
+      "sourceId": "T131",
+      "groupId": "T131",
+      "direction": "en_to_zh",
+      "stem": "grain",
+      "options": [
+        {
+          "label": "A",
+          "text": "培养；发展"
+        },
+        {
+          "label": "B",
+          "text": "（把……）打包"
+        },
+        {
+          "label": "C",
+          "text": "深的"
+        },
+        {
+          "label": "D",
+          "text": "谷粒"
+        }
+      ],
+      "answer": "D",
+      "word": "grain",
+      "meaning": "谷粒"
+    },
+    {
+      "id": 5,
+      "sourceId": "T132",
+      "groupId": "T132",
+      "direction": "zh_to_en",
+      "stem": "宽的；宽阔的",
+      "options": [
+        {
+          "label": "A",
+          "text": "go to bed"
+        },
+        {
+          "label": "B",
+          "text": "practise"
+        },
+        {
+          "label": "C",
+          "text": "get up"
+        },
+        {
+          "label": "D",
+          "text": "wide"
+        }
+      ],
+      "answer": "D",
+      "word": "wide",
+      "meaning": "宽的；宽阔的"
+    },
+    {
+      "id": 6,
+      "sourceId": "T133",
+      "groupId": "T133",
+      "direction": "en_to_zh",
+      "stem": "whale",
+      "options": [
+        {
+          "label": "A",
+          "text": "鲸"
+        },
+        {
+          "label": "B",
+          "text": "情绪；心情"
+        },
+        {
+          "label": "C",
+          "text": "上升"
+        },
+        {
+          "label": "D",
+          "text": "安静的；平静的"
+        }
+      ],
+      "answer": "A",
+      "word": "whale",
+      "meaning": "鲸"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T128",
+      "groupId": "T128",
+      "target": "desert",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a large dry region with very little rain"
+        },
+        {
+          "label": "B",
+          "text": "a small room for school lessons"
+        },
+        {
+          "label": "C",
+          "text": "a deep area of water in the sea"
+        },
+        {
+          "label": "D",
+          "text": "a wet area full of tall trees"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "A",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "desert",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "desert"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "沙漠；荒漠",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “desert” means “a large dry region with very little rain”.",
+      "parentExplanation": "本题考查“desert”在本句中的用法；正确英文解释为“a large dry region with very little rain”。对应源表释义为“沙漠；荒漠”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T129",
+      "groupId": "T129",
+      "target": "metre",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a unit used to measure how hot water is"
+        },
+        {
+          "label": "B",
+          "text": "a unit used to count a hundred years"
+        },
+        {
+          "label": "C",
+          "text": "a unit of length equal to one hundred centimetres"
+        },
+        {
+          "label": "D",
+          "text": "a unit used to name a million people"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "metre",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "metre"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "米",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “metre” means “a unit of length equal to one hundred centimetres”.",
+      "parentExplanation": "本题考查“metre”在本句中的用法；正确英文解释为“a unit of length equal to one hundred centimetres”。对应源表释义为“米”。",
+      "wordHelp": [
+        {
+          "word": "centimetre",
+          "meaning": "a small unit for measuring length"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T130",
+      "groupId": "T130",
+      "target": "reach",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "reach"
+        },
+        {
+          "label": "B",
+          "text": "cover"
+        },
+        {
+          "label": "C",
+          "text": "divide"
+        },
+        {
+          "label": "D",
+          "text": "kick"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which verb describes what Lily can do?",
+      "answer": "A",
+      "listenScript": "The shelf is low. Lily stretches out her arm and can touch the book without a chair.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The shelf is low. Lily stretches out her arm and can touch the book without a chair."
+        }
+      ],
+      "explanation": "She can touch it by stretching her arm, so she can reach it.",
+      "parentExplanation": "伸手可以触及，承接reach的足够达到、够得着义。",
+      "translation": {
+        "stem": "哪个动词描述莉莉能做到的事？",
+        "listenScript": "书架很低。莉莉伸手，不用椅子就能够到书。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T130",
+        "T123",
+        "T103",
+        "T084"
+      ],
+      "wordHelp": [
+        {
+          "word": "branch",
+          "meaning": "a part of a tree that grows out from its main stem"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T131",
+      "groupId": "T131",
+      "target": "grain",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "grain"
+        },
+        {
+          "label": "B",
+          "text": "planet"
+        },
+        {
+          "label": "C",
+          "text": "file"
+        },
+        {
+          "label": "D",
+          "text": "pole"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which word names the single rice seed?",
+      "answer": "A",
+      "listenScript": "Mia opens a bag of rice. One tiny seed falls onto the table, and she puts it back in the bag.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Mia opens a bag of rice. One tiny seed falls onto the table, and she puts it back in the bag."
+        }
+      ],
+      "explanation": "One small seed of rice is a grain.",
+      "parentExplanation": "一粒米是grain，承接谷粒义。",
+      "translation": {
+        "stem": "哪个词表示这一粒米？",
+        "listenScript": "米娅打开一袋米。一粒小小的米落在桌上，她把它放回袋里。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T131",
+        "T119",
+        "T127",
+        "T121"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T132",
+      "groupId": "T132",
+      "target": "wide",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "having very little water inside"
+        },
+        {
+          "label": "B",
+          "text": "measuring a long distance from top to bottom"
+        },
+        {
+          "label": "C",
+          "text": "making very little sound"
+        },
+        {
+          "label": "D",
+          "text": "measuring a long distance from side to side"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "This road has six lanes. It is very wide.\nWhat does “wide” mean here?",
+      "translation": {
+        "stem": "这条路有六条车道。它很宽。 这里“wide”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “wide” means “measuring a long distance from side to side”.",
+      "parentExplanation": "本题考查“wide”在本句中的用法；正确英文解释为“measuring a long distance from side to side”。对应源表释义为“宽的；宽阔的”。",
+      "wordHelp": [
+        {
+          "word": "lane",
+          "meaning": "one part of a road for a line of vehicles"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T133",
+      "groupId": "T133",
+      "target": "whale",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a very large sea animal that breathes air"
+        },
+        {
+          "label": "B",
+          "text": "a farm bird that lays eggs"
+        },
+        {
+          "label": "C",
+          "text": "a small insect that flies over flowers"
+        },
+        {
+          "label": "D",
+          "text": "a tree that grows in a wet forest"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "This huge sea animal breathes air. It is a whale.\nWhat does “whale” mean here?",
+      "translation": {
+        "stem": "这种巨大的海洋动物呼吸空气。它是一头鲸。 这里“whale”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “whale” means “a very large sea animal that breathes air”.",
+      "parentExplanation": "本题考查“whale”在本句中的用法；正确英文解释为“a very large sea animal that breathes air”。对应源表释义为“鲸”。",
+      "wordHelp": [
+        {
+          "word": "breathe",
+          "meaning": "take air into your body and let it out again"
+        },
+        {
+          "word": "surface",
+          "meaning": "the top or outside part of something"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T101",
+      "groupId": "T101",
+      "target": "sandcastle",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a small castle made of sand"
+        },
+        {
+          "label": "B",
+          "text": "a toy boat"
+        },
+        {
+          "label": "C",
+          "text": "a drawing of a tree"
+        },
+        {
+          "label": "D",
+          "text": "a house made of ice"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "The girls build two sandcastles from the wet sand on the beach.\nWhat does “sandcastles” mean here?",
+      "translation": {
+        "stem": "女孩们用海滩上的湿沙堆了两座沙堡。 这里“sandcastles”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “sandcastle” means “a small castle made of sand”.",
+      "parentExplanation": "本题考查“sandcastle”在本句中的用法；正确英文解释为“a small castle made of sand”。对应源表释义为“沙堡”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T115",
+      "groupId": "T115",
+      "target": "be divided into",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to be separated into two or more parts or groups"
+        },
+        {
+          "label": "B",
+          "text": "to be changed into a different colour"
+        },
+        {
+          "label": "C",
+          "text": "to be hidden under a table"
+        },
+        {
+          "label": "D",
+          "text": "to be carried away from a place"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "The children are divided into three groups for the activity.\nWhat does “are divided into” mean here?",
+      "translation": {
+        "stem": "孩子们为活动被分成三组。 这里“are divided into”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “be divided into” means “to be separated into two or more parts or groups”.",
+      "parentExplanation": "本题考查“be divided into”在本句中的用法；正确英文解释为“to be separated into two or more parts or groups”。对应源表释义为“被划分成……”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T128",
+      "groupId": "T128",
+      "target": "desert",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "deserts"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Some d________ are cold, but they still get very little rain.",
+      "answer": "deserts",
+      "hint": "large dry regions where little rain falls",
+      "grammar": "Plural countable noun",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Some and are require the plural noun deserts.",
+      "parentExplanation": "some与are提示使用复数deserts；沙漠不一定炎热。",
+      "translation": {
+        "stem": "有些沙漠很冷，但降雨仍然很少。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T129",
+      "groupId": "T129",
+      "target": "metre",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "metres",
+        "meters"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This wall is three m________ high.",
+      "answer": "metres",
+      "hint": "units of length, each equal to one hundred centimetres",
+      "grammar": "Plural unit after a number",
+      "initialLetter": "m",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Three requires the plural form metres.",
+      "parentExplanation": "three后用复数metres；美式拼写meters同样可接受。",
+      "translation": {
+        "stem": "这面墙有三米高。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "centimetre",
+          "meaning": "a small unit for measuring length"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T130",
+      "groupId": "T130",
+      "target": "reach",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "reach"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The shelf is low, so I can r________ the books on it.",
+      "answer": "reach",
+      "hint": "be able to touch something by putting out your hand",
+      "grammar": "Can + base verb",
+      "initialLetter": "r",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "After can, use the base form reach. Here it means being able to touch something.",
+      "parentExplanation": "can后用reach原形，此处保留教材“足够达到”义，用语境表达够得着，不扩成抵达目的地。",
+      "translation": {
+        "stem": "书架很低，所以我够得着上面的书。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "branch",
+          "meaning": "a part of a tree that grows out from its main stem"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T131",
+      "groupId": "T131",
+      "target": "grain",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "grain"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "There is one g________ of rice on the floor.",
+      "answer": "grain",
+      "hint": "a small seed from a food plant",
+      "grammar": "A grain of + food",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A grain of rice means one small seed of rice.",
+      "parentExplanation": "one grain of rice表示一粒米，grain为可数名词。",
+      "translation": {
+        "stem": "地板上有一粒米。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T132",
+      "groupId": "T132",
+      "target": "wide",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "wide"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The bridge is ten metres w________ from one side to the other.",
+      "answer": "wide",
+      "hint": "having a large distance between its two sides",
+      "grammar": "Measurement + adjective",
+      "initialLetter": "w",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use wide after a measurement to describe width.",
+      "parentExplanation": "ten metres wide表示十米宽；不使用表示长度的long。",
+      "translation": {
+        "stem": "这座桥从一侧到另一侧有十米宽。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "lane",
+          "meaning": "one part of a road for a line of vehicles"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T133",
+      "groupId": "T133",
+      "target": "whale",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "whales"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Some w________ live in cold seas and come up to breathe.",
+      "answer": "whales",
+      "hint": "very large sea animals that breathe air",
+      "grammar": "Plural countable noun",
+      "initialLetter": "w",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Some requires a plural countable noun here: whales.",
+      "parentExplanation": "some后用复数whales，表示一些鲸。",
+      "translation": {
+        "stem": "有些鲸生活在寒冷海域，会浮上来呼吸。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "breathe",
+          "meaning": "take air into your body and let it out again"
+        },
+        {
+          "word": "surface",
+          "meaning": "the top or outside part of something"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T109",
+      "groupId": "T109",
+      "target": "continue",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "continue"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The loud noise may c________ for another hour before the work is finished.",
+      "answer": "continue",
+      "hint": "go on existing",
+      "grammar": "May + base verb",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "May is followed by the base form continue.",
+      "parentExplanation": "may后用动词原形continue，表示噪声持续存在。",
+      "translation": {
+        "stem": "工作完成前，这种巨大的噪声可能还会持续一小时。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "chairperson",
+          "meaning": "the person who leads a meeting"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T113",
+      "groupId": "T113",
+      "target": "solar term",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "solar term"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Qingming is one of the twenty-four periods in the traditional Chinese year. It is a s________.",
+      "answer": "solar term",
+      "hint": "one of the twenty-four traditional divisions of the Chinese year",
+      "grammar": "Singular countable noun phrase",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Solar term is the name for one of these twenty-four periods.",
+      "parentExplanation": "solar term表示节气，a后用单数形式。",
+      "translation": {
+        "stem": "清明是中国传统历法中的二十四个时段之一。它是一个节气。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "calendar",
+          "meaning": "a way of organising the days and months of a year"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T102",
+      "groupId": "T102",
+      "target": "follow",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "happen without any pattern"
+        },
+        {
+          "label": "B",
+          "text": "happen or develop in a particular way"
+        },
+        {
+          "label": "C",
+          "text": "separate something into groups"
+        },
+        {
+          "label": "D",
+          "text": "draw a new shape on paper"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “follow” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Follow means happen or develop in a particular way; it does not mean walk behind a person here.",
+      "parentExplanation": "follow在此为按某方式发展，体现节庆遵循一套模式，不是跟在人后。",
+      "translation": {
+        "stem": "短文中的“follow”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "follow"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T106",
+      "groupId": "T106",
+      "target": "culture",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the distance between two places"
+        },
+        {
+          "label": "B",
+          "text": "the shared ways of life, arts and traditions of people"
+        },
+        {
+          "label": "C",
+          "text": "the mass of an object"
+        },
+        {
+          "label": "D",
+          "text": "a report about tomorrow's weather"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “culture” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Culture means the shared ways of life, songs, food and stories of the people.",
+      "parentExplanation": "culture指人们共享的生活、歌曲、食物、故事等文化。",
+      "translation": {
+        "stem": "短文中的“culture”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "culture"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "How does the new family learn about the festivals?",
+      "explanation": "They help set up tables, listen to stories and join the songs and meal.",
+      "parentExplanation": "第4至6句列出帮忙、听故事、唱歌和用餐等参与方式。",
+      "translation": {
+        "stem": "新家庭怎样了解节庆？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "They leave the village before the events begin."
+        },
+        {
+          "label": "B",
+          "text": "They ask everyone to stop singing."
+        },
+        {
+          "label": "C",
+          "text": "They read only the names on a map."
+        },
+        {
+          "label": "D",
+          "text": "They join the work, listen and take part."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea of the passage?",
+      "explanation": "Joining the village activities gives the family a fuller understanding.",
+      "parentExplanation": "全文通过新家庭参与活动体现了解文化的方式。",
+      "translation": {
+        "stem": "短文的主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A village decides never to share its songs."
+        },
+        {
+          "label": "B",
+          "text": "Some children try to find a missing storybook."
+        },
+        {
+          "label": "C",
+          "text": "A family changes every festival into a sports race."
+        },
+        {
+          "label": "D",
+          "text": "Taking part helps a family understand village traditions."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T105",
+      "groupId": "T105",
+      "target": "crop",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a tool for measuring a road"
+        },
+        {
+          "label": "B",
+          "text": "a plant grown for food or another useful product"
+        },
+        {
+          "label": "C",
+          "text": "a room for school meals"
+        },
+        {
+          "label": "D",
+          "text": "an animal living in the sea"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “crop” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Crop means a plant grown for food, here beans or rice.",
+      "parentExplanation": "crop为作为粮食等种植的庄稼、作物，语境为豆类和水稻。",
+      "translation": {
+        "stem": "短文中的“crop”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "crop"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T103",
+      "groupId": "T103",
+      "target": "divide",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "keep everything together as one"
+        },
+        {
+          "label": "B",
+          "text": "separate something into smaller parts or groups"
+        },
+        {
+          "label": "C",
+          "text": "increase the height of something"
+        },
+        {
+          "label": "D",
+          "text": "paint something a new colour"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “divide” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Divide means separate the garden into smaller areas.",
+      "parentExplanation": "divide指把园地分开成较小的区域。",
+      "translation": {
+        "stem": "短文中的“divide”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "divide"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why do the pupils make labels?",
+      "explanation": "Sentence 4 states that labels tell visitors what grows in each area.",
+      "parentExplanation": "第4句说明标牌帮助访客识别种植的植物。",
+      "translation": {
+        "stem": "学生为什么制作标牌？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "So visitors must leave before seeing the garden."
+        },
+        {
+          "label": "B",
+          "text": "So visitors can identify the plants in each area."
+        },
+        {
+          "label": "C",
+          "text": "So the kitchen can sell every label."
+        },
+        {
+          "label": "D",
+          "text": "So they can stop recording plant heights."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title best fits the passage?",
+      "explanation": "The club divides a garden, grows two crops and records the changes.",
+      "parentExplanation": "全文围绕园地分区、种植和记录变化展开。",
+      "translation": {
+        "stem": "哪个标题最合适？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A Book About Plants in Space"
+        },
+        {
+          "label": "B",
+          "text": "A Race to Buy New Garden Tools"
+        },
+        {
+          "label": "C",
+          "text": "Closing the School Kitchen"
+        },
+        {
+          "label": "D",
+          "text": "Learning from Two Growing Areas"
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "In a storybook, a village holds the same three festivals every year. The events follow a clear pattern: people gather, share songs and end with a meal. A new family wants to learn about the village's culture. The neighbours invite them to help put tables in the square. While working together, they hear old stories and ask about the festival food. The children learn a song and join the other children at the meal. By taking part, the family learns more than it can learn from pictures alone.",
+      "parallelText": [
+        {
+          "en": "In a storybook, a village holds the same three festivals every year.",
+          "zh": "一本故事书里，一个村庄每年举办相同的三个节庆。"
+        },
+        {
+          "en": "The events follow a clear pattern: people gather, share songs and end with a meal.",
+          "zh": "这些活动按清晰的模式发展：人们聚集、分享歌曲，最后一起吃饭。"
+        },
+        {
+          "en": "A new family wants to learn about the village's culture.",
+          "zh": "一个新家庭想了解这个村庄的文化。"
+        },
+        {
+          "en": "The neighbours invite them to help put tables in the square.",
+          "zh": "邻居邀请他们帮忙在广场摆桌子。"
+        },
+        {
+          "en": "While working together, they hear old stories and ask about the festival food.",
+          "zh": "一起做事时，他们听老故事，询问节庆食物。"
+        },
+        {
+          "en": "The children learn a song and join the other children at the meal.",
+          "zh": "孩子们学了一首歌，用餐时加入其他孩子。"
+        },
+        {
+          "en": "By taking part, the family learns more than it can learn from pictures alone.",
+          "zh": "通过参与，这家人学到的比只看图片更多。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "pattern",
+          "meaning": "a way that events happen in order"
+        },
+        {
+          "word": "festival",
+          "meaning": "a special event with shared activities"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "The science club has a garden beside the school kitchen. At the start of the term, the pupils divide it into two growing areas. They choose beans as one crop and plant rice in the other area. Each group makes a label so visitors know what grows there. Mia records the plant heights, and Ben checks the water each morning. They compare their notes to see how the two growing areas change. The club plans to show these notes beside the plants on the school open day.",
+      "parallelText": [
+        {
+          "en": "The science club has a garden beside the school kitchen.",
+          "zh": "科学社团在学校厨房旁有一块园地。"
+        },
+        {
+          "en": "At the start of the term, the pupils divide it into two growing areas.",
+          "zh": "学期开始时，学生把园地分成两个种植区。"
+        },
+        {
+          "en": "They choose beans as one crop and plant rice in the other area.",
+          "zh": "他们选择豆类作为一种作物，在另一区种水稻。"
+        },
+        {
+          "en": "Each group makes a label so visitors know what grows there.",
+          "zh": "每组制作标牌，让访客知道那里种着什么。"
+        },
+        {
+          "en": "Mia records the plant heights, and Ben checks the water each morning.",
+          "zh": "米娅记录植株高度，本每天早晨检查水。"
+        },
+        {
+          "en": "They compare their notes to see how the two growing areas change.",
+          "zh": "他们比较记录，看看两个种植区怎样变化。"
+        },
+        {
+          "en": "The club plans to show these notes beside the plants on the school open day.",
+          "zh": "社团计划在学校开放日把记录展示在植物旁。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "label",
+          "meaning": "a small sign that gives information"
+        },
+        {
+          "word": "plant height",
+          "meaning": "how tall a plant is"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S011-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T101",
+      "groupId": "T101",
+      "expression": "sandcastle",
+      "meaning": "沙堡",
+      "introducedAtStation": 5,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 6,
+      "referenceDueStation": 6,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S011-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T115",
+      "groupId": "T115",
+      "expression": "be divided into",
+      "meaning": "被划分成……",
+      "introducedAtStation": 8,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 3,
+      "referenceDueStation": 9,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S011-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T109",
+      "groupId": "T109",
+      "expression": "continue",
+      "meaning": "持续；继续存在",
+      "introducedAtStation": 8,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 3,
+      "referenceDueStation": 9,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S011-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T113",
+      "groupId": "T113",
+      "expression": "solar term",
+      "meaning": "节气",
+      "introducedAtStation": 8,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 3,
+      "referenceDueStation": 9,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S011-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T102",
+      "groupId": "T102",
+      "expression": "follow",
+      "meaning": "按……方式发展",
+      "introducedAtStation": 5,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 6,
+      "referenceDueStation": 6,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S011-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T106",
+      "groupId": "T106",
+      "expression": "culture",
+      "meaning": "文化；文明",
+      "introducedAtStation": 5,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 6,
+      "referenceDueStation": 6,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S011-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T105",
+      "groupId": "T105",
+      "expression": "crop",
+      "meaning": "庄稼；作物",
+      "introducedAtStation": 5,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 6,
+      "referenceDueStation": 6,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S011-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T103",
+      "groupId": "T103",
+      "expression": "divide",
+      "meaning": "（使）分开",
+      "introducedAtStation": 5,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 6,
+      "referenceDueStation": 6,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "出发吧！英语赛季",
+  "short_name": "出发吧！",
+  "description": "一个赛季，126站；每站三圈挑战。公开在线学练，无需登录，学习进度仅保存在本机。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#10171d",
+  "theme_color": "#10171d",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}

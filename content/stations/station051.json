@@ -1,0 +1,2602 @@
+{
+  "station": 51,
+  "type": "new_learning",
+  "phase": "textbook",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 51,
+  "newItems": [
+    {
+      "groupId": "T296",
+      "sourceId": "T296",
+      "sourceIds": [
+        "T296"
+      ],
+      "word": "seem",
+      "meaning": "好像；似乎",
+      "sourceItems": [
+        {
+          "sourceId": "T296",
+          "sourceKind": "textbook",
+          "expression": "seem",
+          "meaning": "好像；似乎",
+          "partOfSpeech": "v.",
+          "phonetic": "/siːm/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 301,
+          "originalFields": {
+            "序号": 296,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "seem",
+            "音标（教材）": "/siːm/",
+            "词性": "v.",
+            "中文释义": "好像；似乎",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T296",
+          "introducedAtStation": 51
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T296",
+        "word": "seem",
+        "ipa": "/siːm/",
+        "focus": "/iː/拉长；末尾/m/闭唇收尾，ee不拆成两个元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This bag seems heavy. Can I help you carry it?",
+          "zh": "这个包好像很重。我能帮你拿吗？",
+          "sourceIds": [
+            "T296"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "rest",
+          "meaning": "a short time without work or activity"
+        }
+      ],
+      "notes": null,
+      "ipa": "/siːm/",
+      "pos": "v.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T297",
+      "sourceId": "T297",
+      "sourceIds": [
+        "T297"
+      ],
+      "word": "impossible",
+      "meaning": "不可能的",
+      "sourceItems": [
+        {
+          "sourceId": "T297",
+          "sourceKind": "textbook",
+          "expression": "impossible",
+          "meaning": "不可能的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ɪmˈpɒsəbl/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 302,
+          "originalFields": {
+            "序号": 297,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "impossible",
+            "音标（教材）": "/ɪmˈpɒsəbl/",
+            "词性": "adj.",
+            "中文释义": "不可能的",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T297",
+          "introducedAtStation": 51
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T297",
+        "word": "impossible",
+        "ipa": "/ɪmˈpɒsəbl/",
+        "focus": "开头/ɪm/轻读；重音在/pɒ/所在音节，词尾ble轻读，/l/后不再补元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "It is impossible for a person to live without water.",
+          "zh": "人不喝水是无法活下去的。",
+          "sourceIds": [
+            "T297"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ɪmˈpɒsəbl/",
+      "pos": "adj.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T298",
+      "sourceId": "T298",
+      "sourceIds": [
+        "T298"
+      ],
+      "word": "single",
+      "meaning": "单个的",
+      "sourceItems": [
+        {
+          "sourceId": "T298",
+          "sourceKind": "textbook",
+          "expression": "single",
+          "meaning": "单个的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈsɪŋɡl/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 303,
+          "originalFields": {
+            "序号": 298,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "single",
+            "音标（教材）": "/ˈsɪŋɡl/",
+            "词性": "adj.",
+            "中文释义": "单个的",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T298",
+          "introducedAtStation": 51
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T298",
+        "word": "single",
+        "ipa": "/ˈsɪŋɡl/",
+        "focus": "重音在/sɪŋ/；中间/ŋɡ/按源音标两个辅音都保留，不只读/ŋ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "There is a single coin in the box.",
+          "zh": "盒子里只有一枚硬币。",
+          "sourceIds": [
+            "T298"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈsɪŋɡl/",
+      "pos": "adj.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T299",
+      "sourceId": "T299",
+      "sourceIds": [
+        "T299"
+      ],
+      "word": "nail",
+      "meaning": "钉；钉子",
+      "sourceItems": [
+        {
+          "sourceId": "T299",
+          "sourceKind": "textbook",
+          "expression": "nail",
+          "meaning": "钉；钉子",
+          "partOfSpeech": "n.",
+          "phonetic": "/neɪl/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 304,
+          "originalFields": {
+            "序号": 299,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "nail",
+            "音标（教材）": "/neɪl/",
+            "词性": "n.",
+            "中文释义": "钉；钉子",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T299",
+          "introducedAtStation": 51
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T299",
+        "word": "nail",
+        "ipa": "/neɪl/",
+        "focus": "/eɪ/有滑动；末尾/l/收尾，ai不拆开读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The worker hits a nail into the wood.",
+          "zh": "工人把一枚钉子敲进木头。",
+          "sourceIds": [
+            "T299"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "hammer",
+          "meaning": "a tool with a heavy head used for hitting things"
+        }
+      ],
+      "notes": null,
+      "ipa": "/neɪl/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T300",
+      "sourceId": "T300",
+      "sourceIds": [
+        "T300"
+      ],
+      "word": "explain",
+      "meaning": "解释；说明",
+      "sourceItems": [
+        {
+          "sourceId": "T300",
+          "sourceKind": "textbook",
+          "expression": "explain",
+          "meaning": "解释；说明",
+          "partOfSpeech": "v.",
+          "phonetic": "/ɪkˈspleɪn/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 305,
+          "originalFields": {
+            "序号": 300,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "explain",
+            "音标（教材）": "/ɪkˈspleɪn/",
+            "词性": "v.",
+            "中文释义": "解释；说明",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T300",
+          "introducedAtStation": 51
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T300",
+        "word": "explain",
+        "ipa": "/ɪkˈspleɪn/",
+        "focus": "开头/ɪk/轻读；重音在/spleɪn/，/spl/直接连读，/eɪ/有滑动。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The teacher explains the rule with an example.",
+          "zh": "老师用一个例子说明规则。",
+          "sourceIds": [
+            "T300"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ɪkˈspleɪn/",
+      "pos": "v.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T301",
+      "sourceId": "T301",
+      "sourceIds": [
+        "T301"
+      ],
+      "word": "bit",
+      "meaning": "一部分",
+      "sourceItems": [
+        {
+          "sourceId": "T301",
+          "sourceKind": "textbook",
+          "expression": "bit",
+          "meaning": "一部分",
+          "partOfSpeech": "n.",
+          "phonetic": "/bɪt/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 306,
+          "originalFields": {
+            "序号": 301,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "bit",
+            "音标（教材）": "/bɪt/",
+            "词性": "n.",
+            "中文释义": "一部分",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T301",
+          "introducedAtStation": 51
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T301",
+        "word": "bit",
+        "ipa": "/bɪt/",
+        "focus": "/ɪ/短读；最后/t/收住，和长/iː/区别开。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "There is a small bit of bread on the plate.",
+          "zh": "盘子里有一小块面包。",
+          "sourceIds": [
+            "T301"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/bɪt/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "T291",
+      "sourceId": "T291",
+      "sourceIds": [
+        "T291"
+      ],
+      "word": "handle",
+      "meaning": "（用手）触",
+      "sourceItems": [
+        {
+          "sourceId": "T291",
+          "sourceKind": "textbook",
+          "expression": "handle",
+          "meaning": "（用手）触",
+          "partOfSpeech": "v.",
+          "phonetic": "/ˈhændl/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 296,
+          "originalFields": {
+            "序号": 291,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "handle",
+            "音标（教材）": "/ˈhændl/",
+            "词性": "v.",
+            "中文释义": "（用手）触",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T291",
+          "introducedAtStation": 50
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T291",
+        "word": "handle",
+        "ipa": "/ˈhændl/",
+        "focus": "首音节重读，元音为/æ/；第二音节轻读，保留/d/和/l/，不在词尾/l/后补元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Please do not handle the glass objects without gloves.",
+          "zh": "不戴手套请不要用手触摸这些玻璃制品。",
+          "sourceIds": [
+            "T291"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "原义仅为（用手）触，不使用处理问题或应付情况的义项。",
+      "ipa": "/ˈhændl/",
+      "pos": "v.",
+      "unit": "Unit 8",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T290",
+      "sourceId": "T290",
+      "sourceIds": [
+        "T290"
+      ],
+      "word": "valuable",
+      "meaning": "贵重的",
+      "sourceItems": [
+        {
+          "sourceId": "T290",
+          "sourceKind": "textbook",
+          "expression": "valuable",
+          "meaning": "贵重的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈvæljuəbl/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 295,
+          "originalFields": {
+            "序号": 290,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "valuable",
+            "音标（教材）": "/ˈvæljuəbl/",
+            "词性": "adj.",
+            "中文释义": "贵重的",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T290",
+          "introducedAtStation": 50
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T290",
+        "word": "valuable",
+        "ipa": "/ˈvæljuəbl/",
+        "focus": "重音在/væl/；中间/juə/保留/j/和元音变化，结尾/bl/紧接。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This old coin is valuable and costs a lot of money.",
+          "zh": "这枚古硬币很贵重，值很多钱。",
+          "sourceIds": [
+            "T290"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "worth",
+          "meaning": "having a particular value in money"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈvæljuəbl/",
+      "pos": "adj.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T079",
+      "sourceId": "T079",
+      "sourceIds": [
+        "T079"
+      ],
+      "word": "pick up",
+      "meaning": "取（某物）",
+      "sourceItems": [
+        {
+          "sourceId": "T079",
+          "sourceKind": "textbook",
+          "expression": "pick up",
+          "meaning": "取（某物）",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 2",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 30,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 84,
+          "originalFields": {
+            "序号": 79,
+            "单元": "Unit 2",
+            "类型": "短语",
+            "单词／短语": "pick up",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "取（某物）",
+            "教材课文页": 30,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T079",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T079",
+        "sourceIds": [
+          "T079"
+        ],
+        "expression": "pick up",
+        "phonetic": "/pɪk ʌp/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "I go to the office to pick up a letter waiting for me.",
+          "zh": "我去办公室取一封等我领取的信。",
+          "sourceIds": [
+            "T079"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "教材指定取某物义；不以捡起、接人、学会等其他义替代。",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T078",
+      "sourceId": "T078",
+      "sourceIds": [
+        "T078"
+      ],
+      "word": "clean up",
+      "meaning": "打扫干净",
+      "sourceItems": [
+        {
+          "sourceId": "T078",
+          "sourceKind": "textbook",
+          "expression": "clean up",
+          "meaning": "打扫干净",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 2",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 28,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 83,
+          "originalFields": {
+            "序号": 78,
+            "单元": "Unit 2",
+            "类型": "短语",
+            "单词／短语": "clean up",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "打扫干净",
+            "教材课文页": 28,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T078",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T078",
+        "sourceIds": [
+          "T078"
+        ],
+        "expression": "clean up",
+        "phonetic": "/kliːn ʌp/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "We clean up the playground after the sports day.",
+          "zh": "运动会后，我们把操场打扫干净。",
+          "sourceIds": [
+            "T078"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "代词宾语需放中间，如clean it up；此处使用名词宾语。",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T295",
+      "sourceId": "T295",
+      "sourceIds": [
+        "T295"
+      ],
+      "word": "absolutely",
+      "meaning": "极其",
+      "sourceItems": [
+        {
+          "sourceId": "T295",
+          "sourceKind": "textbook",
+          "expression": "absolutely",
+          "meaning": "极其",
+          "partOfSpeech": "adv.",
+          "phonetic": "/ˈæbsəluːtli/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 300,
+          "originalFields": {
+            "序号": 295,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "absolutely",
+            "音标（教材）": "/ˈæbsəluːtli/",
+            "词性": "adv.",
+            "中文释义": "极其",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T295",
+          "introducedAtStation": 50
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T295",
+        "word": "absolutely",
+        "ipa": "/ˈæbsəluːtli/",
+        "focus": "按源重音在/æb/；后段/luːt/中的/uː/拉长，/tl/之间不添元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The view from the hill is absolutely fantastic.",
+          "zh": "从山丘上看到的风景极其美妙。",
+          "sourceIds": [
+            "T295"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "identical",
+          "meaning": "exactly the same"
+        }
+      ],
+      "notes": "保留原教材adv.极其，不新增独立回答表示当然的用法。",
+      "ipa": "/ˈæbsəluːtli/",
+      "pos": "adv.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T294",
+      "sourceId": "T294",
+      "sourceIds": [
+        "T294"
+      ],
+      "word": "envelope",
+      "meaning": "信封",
+      "sourceItems": [
+        {
+          "sourceId": "T294",
+          "sourceKind": "textbook",
+          "expression": "envelope",
+          "meaning": "信封",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈenvələʊp/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 299,
+          "originalFields": {
+            "序号": 294,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "envelope",
+            "音标（教材）": "/ˈenvələʊp/",
+            "词性": "n.",
+            "中文释义": "信封",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T294",
+          "introducedAtStation": 50
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T294",
+        "word": "envelope",
+        "ipa": "/ˈenvələʊp/",
+        "focus": "首音节重读，元音为/e/；中间/ə/轻读，末音节/ləʊp/含双元音/əʊ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Put the letter in an envelope.",
+          "zh": "把信放进信封。",
+          "sourceIds": [
+            "T294"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈenvələʊp/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T293",
+      "sourceId": "T293",
+      "sourceIds": [
+        "T293"
+      ],
+      "word": "add",
+      "meaning": "增加；添加",
+      "sourceItems": [
+        {
+          "sourceId": "T293",
+          "sourceKind": "textbook",
+          "expression": "add",
+          "meaning": "增加；添加",
+          "partOfSpeech": "v.",
+          "phonetic": "/æd/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 298,
+          "originalFields": {
+            "序号": 293,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "add",
+            "音标（教材）": "/æd/",
+            "词性": "v.",
+            "中文释义": "增加；添加",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T293",
+          "introducedAtStation": 50
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T293",
+        "word": "add",
+        "ipa": "/æd/",
+        "focus": "/æ/口张开、短读；最后/d/收住，双写dd不读两次。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Please add some water to the soup.",
+          "zh": "请往汤里加一些水。",
+          "sourceIds": [
+            "T293"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/æd/",
+      "pos": "v.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T292",
+      "sourceId": "T292",
+      "sourceIds": [
+        "T292"
+      ],
+      "word": "glove",
+      "meaning": "（分手指的）手套",
+      "sourceItems": [
+        {
+          "sourceId": "T292",
+          "sourceKind": "textbook",
+          "expression": "glove",
+          "meaning": "（分手指的）手套",
+          "partOfSpeech": "n.",
+          "phonetic": "/ɡlʌv/",
+          "unit": "Unit 8",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 117,
+          "wordListPdfPage": 6,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 297,
+          "originalFields": {
+            "序号": 292,
+            "单元": "Unit 8",
+            "类型": "单词",
+            "单词／短语": "glove",
+            "音标（教材）": "/ɡlʌv/",
+            "词性": "n.",
+            "中文释义": "（分手指的）手套",
+            "教材课文页": 117,
+            "词表PDF页": 6,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T292",
+          "introducedAtStation": 50
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T292",
+        "word": "glove",
+        "ipa": "/ɡlʌv/",
+        "focus": "开头/ɡl/相连；/ʌ/短读，最后/v/浊读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "I wear gloves to keep my hands warm.",
+          "zh": "我戴分指手套来保暖。",
+          "sourceIds": [
+            "T292"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ɡlʌv/",
+      "pos": "n.",
+      "unit": "Unit 8",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T296",
+      "groupId": "T296",
+      "direction": "zh_to_en",
+      "stem": "好像；似乎",
+      "options": [
+        {
+          "label": "A",
+          "text": "decorate"
+        },
+        {
+          "label": "B",
+          "text": "website"
+        },
+        {
+          "label": "C",
+          "text": "popular"
+        },
+        {
+          "label": "D",
+          "text": "seem"
+        }
+      ],
+      "answer": "D",
+      "word": "seem",
+      "meaning": "好像；似乎"
+    },
+    {
+      "id": 2,
+      "sourceId": "T297",
+      "groupId": "T297",
+      "direction": "en_to_zh",
+      "stem": "impossible",
+      "options": [
+        {
+          "label": "A",
+          "text": "不可能的"
+        },
+        {
+          "label": "B",
+          "text": "有作用；有影响"
+        },
+        {
+          "label": "C",
+          "text": "哭着入睡"
+        },
+        {
+          "label": "D",
+          "text": "大众喜爱的；广受欢迎的"
+        }
+      ],
+      "answer": "A",
+      "word": "impossible",
+      "meaning": "不可能的"
+    },
+    {
+      "id": 3,
+      "sourceId": "T298",
+      "groupId": "T298",
+      "direction": "zh_to_en",
+      "stem": "单个的",
+      "options": [
+        {
+          "label": "A",
+          "text": "sandstorm"
+        },
+        {
+          "label": "B",
+          "text": "fact file"
+        },
+        {
+          "label": "C",
+          "text": "single"
+        },
+        {
+          "label": "D",
+          "text": "pollution"
+        }
+      ],
+      "answer": "C",
+      "word": "single",
+      "meaning": "单个的"
+    },
+    {
+      "id": 4,
+      "sourceId": "T299",
+      "groupId": "T299",
+      "direction": "en_to_zh",
+      "stem": "nail",
+      "options": [
+        {
+          "label": "A",
+          "text": "钉；钉子"
+        },
+        {
+          "label": "B",
+          "text": "历史上著名（或重要）的；可名垂青史的"
+        },
+        {
+          "label": "C",
+          "text": "雷"
+        },
+        {
+          "label": "D",
+          "text": "日常生活"
+        }
+      ],
+      "answer": "A",
+      "word": "nail",
+      "meaning": "钉；钉子"
+    },
+    {
+      "id": 5,
+      "sourceId": "T300",
+      "groupId": "T300",
+      "direction": "zh_to_en",
+      "stem": "解释；说明",
+      "options": [
+        {
+          "label": "A",
+          "text": "have picnics"
+        },
+        {
+          "label": "B",
+          "text": "south"
+        },
+        {
+          "label": "C",
+          "text": "wife"
+        },
+        {
+          "label": "D",
+          "text": "explain"
+        }
+      ],
+      "answer": "D",
+      "word": "explain",
+      "meaning": "解释；说明"
+    },
+    {
+      "id": 6,
+      "sourceId": "T301",
+      "groupId": "T301",
+      "direction": "en_to_zh",
+      "stem": "bit",
+      "options": [
+        {
+          "label": "A",
+          "text": "增加；添加"
+        },
+        {
+          "label": "B",
+          "text": "杂志"
+        },
+        {
+          "label": "C",
+          "text": "一部分"
+        },
+        {
+          "label": "D",
+          "text": "拥有；有"
+        }
+      ],
+      "answer": "C",
+      "word": "bit",
+      "meaning": "一部分"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T296",
+      "groupId": "T296",
+      "target": "seem",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to make something exactly the same"
+        },
+        {
+          "label": "B",
+          "text": "appear to have a particular quality"
+        },
+        {
+          "label": "C",
+          "text": "to know something with complete certainty"
+        },
+        {
+          "label": "D",
+          "text": "to explain how something works"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "B",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "seem",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "seem"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "好像；似乎",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “seem” means “appear to have a particular quality”.",
+      "parentExplanation": "本题考查“seem”在本句中的用法；正确英文解释为“appear to have a particular quality”。对应源表释义为“好像；似乎”。",
+      "wordHelp": [
+        {
+          "word": "rest",
+          "meaning": "a short time without work or activity"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T297",
+      "groupId": "T297",
+      "target": "impossible",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "easy for everyone to do"
+        },
+        {
+          "label": "B",
+          "text": "already finished before now"
+        },
+        {
+          "label": "C",
+          "text": "likely to happen very soon"
+        },
+        {
+          "label": "D",
+          "text": "not able to happen or be done"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "impossible",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "impossible"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "不可能的",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “impossible” means “not able to happen or be done”.",
+      "parentExplanation": "本题考查“impossible”在本句中的用法；正确英文解释为“not able to happen or be done”。对应源表释义为“不可能的”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T298",
+      "groupId": "T298",
+      "target": "single",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "collection"
+        },
+        {
+          "label": "B",
+          "text": "seem"
+        },
+        {
+          "label": "C",
+          "text": "single"
+        },
+        {
+          "label": "D",
+          "text": "event"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which word describes the number of tickets left?",
+      "answer": "C",
+      "listenScript": "There is just one ticket left for the show. No second ticket is available.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "There is just one ticket left for the show. No second ticket is available."
+        }
+      ],
+      "explanation": "Only one ticket remains, so it is a single ticket.",
+      "parentExplanation": "只剩一张票，single表示单个的，不是extra等其他意思。",
+      "translation": {
+        "stem": "哪个词能描述剩余票的数量？",
+        "listenScript": "演出只剩一张票，没有第二张可买。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T298",
+        "T296",
+        "T288",
+        "T272"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T299",
+      "groupId": "T299",
+      "target": "nail",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "remote control"
+        },
+        {
+          "label": "B",
+          "text": "nail"
+        },
+        {
+          "label": "C",
+          "text": "ring"
+        },
+        {
+          "label": "D",
+          "text": "annual"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "What is the small metal pin?",
+      "answer": "B",
+      "listenScript": "A carpenter uses a hammer to push a small pointed metal pin into wood. The pin holds two pieces together.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "A carpenter uses a hammer to push a small pointed metal pin into wood. The pin holds two pieces together."
+        }
+      ],
+      "explanation": "A nail is a small pointed metal object driven into wood.",
+      "parentExplanation": "用锤子敲入木头、连接材料的金属钉是nail。",
+      "translation": {
+        "stem": "这根金属小钉是什么？",
+        "listenScript": "木工用锤子把一根尖头金属小钉敲进木头，用它连接两块木料。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T299",
+        "T287",
+        "T282",
+        "T274"
+      ],
+      "wordHelp": [
+        {
+          "word": "hammer",
+          "meaning": "a tool with a heavy head used for hitting things"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T300",
+      "groupId": "T300",
+      "target": "explain",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "make something clear by giving information"
+        },
+        {
+          "label": "B",
+          "text": "to move something to the opposite side"
+        },
+        {
+          "label": "C",
+          "text": "to count objects one by one"
+        },
+        {
+          "label": "D",
+          "text": "to hide information so people cannot understand"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "Can you explain this rule to me? I do not understand it.\nWhat does “explain” mean here?",
+      "translation": {
+        "stem": "你能向我解释这条规则吗？我不理解。 这里“explain”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “explain” means “make something clear by giving information”.",
+      "parentExplanation": "本题考查“explain”在本句中的用法；正确英文解释为“make something clear by giving information”。对应源表释义为“解释；说明”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T301",
+      "groupId": "T301",
+      "target": "bit",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the exact time of an event"
+        },
+        {
+          "label": "B",
+          "text": "a small part of something"
+        },
+        {
+          "label": "C",
+          "text": "the whole of something"
+        },
+        {
+          "label": "D",
+          "text": "a set of objects kept as a collection"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "There is a small bit of paper under the desk.\nWhat does “bit” mean here?",
+      "translation": {
+        "stem": "桌子底下有一小片纸。 这里“bit”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “bit” means “a small part of something”.",
+      "parentExplanation": "本题考查“bit”在本句中的用法；正确英文解释为“a small part of something”。对应源表释义为“一部分”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T291",
+      "groupId": "T291",
+      "target": "handle",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to explain something using words"
+        },
+        {
+          "label": "B",
+          "text": "to keep something far from your hands"
+        },
+        {
+          "label": "C",
+          "text": "touch or hold something with your hands"
+        },
+        {
+          "label": "D",
+          "text": "to look at something without touching it"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "The worker wears gloves when she handles these glass objects.\nWhat does “handles” mean here?",
+      "translation": {
+        "stem": "工人在用手触摸这些玻璃制品时戴着手套。 这里“handles”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “handle” means “touch or hold something with your hands”.",
+      "parentExplanation": "本题考查“handle”在本句中的用法；正确英文解释为“touch or hold something with your hands”。对应源表释义为“（用手）触”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T290",
+      "groupId": "T290",
+      "target": "valuable",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "easy for everyone to replace"
+        },
+        {
+          "label": "B",
+          "text": "soft enough to bend with one hand"
+        },
+        {
+          "label": "C",
+          "text": "worth a lot of money"
+        },
+        {
+          "label": "D",
+          "text": "costing almost no money"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Please keep these valuable objects in a safe place. They cost a great deal of money.\nWhat does “valuable” mean here?",
+      "translation": {
+        "stem": "请把这些贵重物品放在安全的地方。它们值很多钱。 这里“valuable”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “valuable” means “worth a lot of money”.",
+      "parentExplanation": "本题考查“valuable”在本句中的用法；正确英文解释为“worth a lot of money”。对应源表释义为“贵重的”。",
+      "wordHelp": [
+        {
+          "word": "worth",
+          "meaning": "having a particular value in money"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T296",
+      "groupId": "T296",
+      "target": "seem",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "seems"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The question s________ difficult, but we can solve it together.",
+      "answer": "seems",
+      "hint": "appears to have a particular quality",
+      "grammar": "Simple present: singular subject",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The question is singular, so use seems.",
+      "parentExplanation": "the question作单数主语，使用seems，后接形容词difficult。",
+      "translation": {
+        "stem": "这道题好像很难，但我们可以一起解决。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "rest",
+          "meaning": "a short time without work or activity"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T297",
+      "groupId": "T297",
+      "target": "impossible",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "impossible"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Moving this huge rock by hand is i________ for me. I cannot do it.",
+      "answer": "impossible",
+      "hint": "not able to be done",
+      "grammar": "Adjective after be",
+      "initialLetter": "i",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Cannot do it shows that the task is impossible for the speaker.",
+      "parentExplanation": "后句cannot do it说明对说话者而言不可能完成，填impossible。",
+      "translation": {
+        "stem": "徒手搬动这块巨石对我来说是不可能的。我做不到。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T298",
+      "groupId": "T298",
+      "target": "single",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "single"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "There is a s________ coin in the box, not two or three.",
+      "answer": "single",
+      "hint": "only one",
+      "grammar": "Adjective before a singular noun",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Single stresses that there is only one coin.",
+      "parentExplanation": "single修饰coin表示单个的、仅一个的。",
+      "translation": {
+        "stem": "盒子里有单独一枚硬币，而不是两三枚。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T299",
+      "groupId": "T299",
+      "target": "nail",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "nail"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Use a hammer to hit this n________ into the wood.",
+      "answer": "nail",
+      "hint": "a thin pointed metal object used to join or hold things",
+      "grammar": "Singular countable noun",
+      "initialLetter": "n",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Nail names the pointed metal object used with a hammer.",
+      "parentExplanation": "nail在本条为钉子，不考手指甲义。",
+      "translation": {
+        "stem": "用锤子把这枚钉子敲进木头里。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "hammer",
+          "meaning": "a tool with a heavy head used for hitting things"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T300",
+      "groupId": "T300",
+      "target": "explain",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "explains"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The guide e________ how to use the equipment in simple words.",
+      "answer": "explains",
+      "hint": "makes something clear by giving information",
+      "grammar": "Simple present: singular subject",
+      "initialLetter": "e",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The guide is singular, so use explains.",
+      "parentExplanation": "the guide为单数主语，explain用explains。",
+      "translation": {
+        "stem": "这本指南用简单的词语说明怎样使用设备。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T301",
+      "groupId": "T301",
+      "target": "bit",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "bit"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Only a little b________ of the cake is left on the plate.",
+      "answer": "bit",
+      "hint": "a small part of a larger thing",
+      "grammar": "A little bit of + noun",
+      "initialLetter": "b",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A bit of the cake means a small remaining part of it.",
+      "parentExplanation": "bit表示整体中的一部分；a little bit of the cake为一小部分蛋糕。",
+      "translation": {
+        "stem": "盘子里只剩下蛋糕的一小部分。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T079",
+      "groupId": "T079",
+      "target": "pick up",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "picks up"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia books a ticket online and p________ her ticket at the cinema before the film.",
+      "answer": "picks up",
+      "hint": "Use the phrase meaning collects an item from a counter; make it agree with Mia.",
+      "grammar": "第三人称单数picks up；领取义",
+      "initialLetter": "p",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Collecting the booked ticket at the cinema is picking it up.",
+      "parentExplanation": "领取已经订好的票，是取票义；Mia配picks up，不是从地上捡起。",
+      "translation": {
+        "stem": "米娅网上订票，电影开始前到影院取票。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T078",
+      "groupId": "T078",
+      "target": "clean up",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "clean up"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "There is litter on the grass. Let's c________ the park by picking it all up.",
+      "answer": "clean up",
+      "hint": "Use the two-word phrase meaning make a place clean and tidy.",
+      "grammar": "Let's clean up + 地点",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Removing all the litter makes the park clean, so clean up fits.",
+      "parentExplanation": "清除垃圾使公园干净，用clean up；Let's后用原形。",
+      "translation": {
+        "stem": "草地上有垃圾。我们把垃圾全部捡走，把公园打扫干净吧。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T295",
+      "groupId": "T295",
+      "target": "absolutely",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "extremely"
+        },
+        {
+          "label": "B",
+          "text": "only a little"
+        },
+        {
+          "label": "C",
+          "text": "only once a year"
+        },
+        {
+          "label": "D",
+          "text": "in exactly the same place"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “absolutely” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 4, “absolutely” means “extremely” in this situation.",
+      "parentExplanation": "第4句中“absolutely”在语境中表示“极其”；句子为“A week later, a reply says that our visitor is absolutely delighted to hear what we learned.”。",
+      "translation": {
+        "stem": "短文中的“absolutely”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "absolutely"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T294",
+      "groupId": "T294",
+      "target": "envelope",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a paper cover for a letter"
+        },
+        {
+          "label": "B",
+          "text": "a piece of paper stuck onto an object"
+        },
+        {
+          "label": "C",
+          "text": "a sheet of paper with a drawing of a house"
+        },
+        {
+          "label": "D",
+          "text": "a small metal object used as money"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “envelope” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 3, “envelope” means “a paper cover for a letter” in this situation.",
+      "parentExplanation": "第3句中“envelope”在语境中表示“信封”；句子为“We put the finished letter into an envelope and check the address before posting it.”。",
+      "translation": {
+        "stem": "短文中的“envelope”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "envelope"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What makes the class’s thanks clear?",
+      "explanation": "Sentence 5 says that specific examples made the thanks clear.",
+      "parentExplanation": "第5句明确指出，具体的学习例子让感谢更清楚。",
+      "translation": {
+        "stem": "什么让全班的感谢表达得清楚？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The letter includes specific examples of what pupils learned."
+        },
+        {
+          "label": "B",
+          "text": "The letter is sent without any address on it."
+        },
+        {
+          "label": "C",
+          "text": "The pupils avoid saying anything about the visit."
+        },
+        {
+          "label": "D",
+          "text": "The class changes the date to a time before the visit."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea of the passage?",
+      "explanation": "The class shares concrete thanks and preserves the correspondence with real dates.",
+      "parentExplanation": "全文介绍写出具体感谢、收到回信并准确保存记录。",
+      "translation": {
+        "stem": "短文的主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Some helpers throw away both letters without reading them."
+        },
+        {
+          "label": "B",
+          "text": "A class asks a visitor never to return to its school."
+        },
+        {
+          "label": "C",
+          "text": "A class writes meaningful thanks and keeps an accurate record."
+        },
+        {
+          "label": "D",
+          "text": "A visitor sends a letter before any pupil writes."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T293",
+      "groupId": "T293",
+      "target": "add",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to take something away from a group"
+        },
+        {
+          "label": "B",
+          "text": "to separate two things from each other"
+        },
+        {
+          "label": "C",
+          "text": "to leave the amount exactly the same"
+        },
+        {
+          "label": "D",
+          "text": "put something more into or with something"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “add” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 4, “add” means “put something more into or with something” in this situation.",
+      "parentExplanation": "第4句中“add”在语境中表示“增加；添加”；句子为“The group decides to add a paper tree near the edge so that the picture looks more complete.”。",
+      "translation": {
+        "stem": "短文中的“add”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "add"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T292",
+      "groupId": "T292",
+      "target": "glove",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a piece of clothing that covers the neck"
+        },
+        {
+          "label": "B",
+          "text": "a hand covering with separate parts for the fingers"
+        },
+        {
+          "label": "C",
+          "text": "a piece of clothing that covers a foot"
+        },
+        {
+          "label": "D",
+          "text": "a piece of clothing that covers the head"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “glove” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 2, “glove” means “a hand covering with separate parts for the fingers” in this situation.",
+      "parentExplanation": "第2句中“glove”在语境中表示“（分手指的）手套”；句子为“Before the work begins, a helper gives each pupil a glove with separate parts for the fingers.”。",
+      "translation": {
+        "stem": "短文中的“glove”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "glove"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why does the group check the space before using paste?",
+      "explanation": "Sentence 5 explains that they avoid moving sticky pieces many times.",
+      "parentExplanation": "第5句给出目的：避免多次挪动黏纸片。",
+      "translation": {
+        "stem": "小组为什么在用糨糊前检查空间？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "It wants the picture to have no trees at all."
+        },
+        {
+          "label": "B",
+          "text": "It does not want to cover any part of the table."
+        },
+        {
+          "label": "C",
+          "text": "It wants to avoid moving sticky paper pieces repeatedly."
+        },
+        {
+          "label": "D",
+          "text": "It plans to leave every paper piece on the floor."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea of the passage?",
+      "explanation": "The group prepares the area, checks the design and cleans up after the activity.",
+      "parentExplanation": "全文围绕手工活动的准备、布局和收拾展开。",
+      "translation": {
+        "stem": "短文的主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A craft group plans its work and keeps the shared area tidy."
+        },
+        {
+          "label": "B",
+          "text": "Some pupils decide to make a picture with no paper."
+        },
+        {
+          "label": "C",
+          "text": "A teacher asks pupils to leave the table covered in rubbish."
+        },
+        {
+          "label": "D",
+          "text": "A craft group uses paste without making any preparations."
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Our class sends a thank-you letter to a visitor who showed us how to care for books. Each pupil writes one sentence, and two helpers arrange the sentences on a clean page. We put the finished letter into an envelope and check the address before posting it. A week later, a reply says that our visitor is absolutely delighted to hear what we learned. The class reads the reply together and notices that specific examples made our thanks clear. We keep a copy of both letters in our class record, with the real dates they were sent.",
+      "parallelText": [
+        {
+          "en": "Our class sends a thank-you letter to a visitor who showed us how to care for books.",
+          "zh": "我们班给一位曾教我们爱护书本的来访者寄感谢信。"
+        },
+        {
+          "en": "Each pupil writes one sentence, and two helpers arrange the sentences on a clean page.",
+          "zh": "每个学生写一句话，两位帮忙者把句子排在一张干净的纸上。"
+        },
+        {
+          "en": "We put the finished letter into an envelope and check the address before posting it.",
+          "zh": "我们把写好的信放进信封，寄出前核对地址。"
+        },
+        {
+          "en": "A week later, a reply says that our visitor is absolutely delighted to hear what we learned.",
+          "zh": "一周后，回信说来访者极其高兴听到我们学到的东西。"
+        },
+        {
+          "en": "The class reads the reply together and notices that specific examples made our thanks clear.",
+          "zh": "全班一起读回信，发现具体例子使我们的感谢表达得很清楚。"
+        },
+        {
+          "en": "We keep a copy of both letters in our class record, with the real dates they were sent.",
+          "zh": "我们把两封信的复印件都存入班级记录，标上实际寄出的日期。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "delighted",
+          "meaning": "very pleased"
+        },
+        {
+          "word": "specific",
+          "meaning": "clear and exact"
+        },
+        {
+          "word": "reply",
+          "meaning": "a written or spoken answer"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "The school craft group is making a large picture with pieces of coloured paper. Before the work begins, a helper gives each pupil a glove with separate parts for the fingers. The teacher explains that this activity uses a messy paste and shows how to keep the table covered. The group decides to add a paper tree near the edge so that the picture looks more complete. They check the space before putting on the paste, rather than moving sticky pieces many times. When they finish, they remove the covers and leave the work area as tidy as they found it.",
+      "parallelText": [
+        {
+          "en": "The school craft group is making a large picture with pieces of coloured paper.",
+          "zh": "学校手工小组正在用彩色纸片制作一幅大画。"
+        },
+        {
+          "en": "Before the work begins, a helper gives each pupil a glove with separate parts for the fingers.",
+          "zh": "开始前，一位帮忙者给每个学生发了一只分手指的手套。"
+        },
+        {
+          "en": "The teacher explains that this activity uses a messy paste and shows how to keep the table covered.",
+          "zh": "老师解释，这次活动使用容易弄脏桌面的糨糊，并示范如何覆盖桌面。"
+        },
+        {
+          "en": "The group decides to add a paper tree near the edge so that the picture looks more complete.",
+          "zh": "小组决定在边缘附近增加一棵纸树，让画面更完整。"
+        },
+        {
+          "en": "They check the space before putting on the paste, rather than moving sticky pieces many times.",
+          "zh": "他们先检查空间再涂糨糊，不反复挪动黏着的纸片。"
+        },
+        {
+          "en": "When they finish, they remove the covers and leave the work area as tidy as they found it.",
+          "zh": "完成后，他们移去桌面的覆盖物，把工作区域恢复整洁。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "paste",
+          "meaning": "a thick material used to stick things together"
+        },
+        {
+          "word": "messy",
+          "meaning": "likely to make things untidy or dirty"
+        },
+        {
+          "word": "sticky",
+          "meaning": "able to stick to other things"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S051-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T291",
+      "groupId": "T291",
+      "expression": "handle",
+      "meaning": "（用手）触",
+      "introducedAtStation": 50,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 51,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S051-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T290",
+      "groupId": "T290",
+      "expression": "valuable",
+      "meaning": "贵重的",
+      "introducedAtStation": 50,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 51,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S051-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T079",
+      "groupId": "T079",
+      "expression": "pick up",
+      "meaning": "取（某物）",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 28,
+      "intervalInStations": 23,
+      "referenceDueStation": 35,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S051-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T078",
+      "groupId": "T078",
+      "expression": "clean up",
+      "meaning": "打扫干净",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 29,
+      "intervalInStations": 22,
+      "referenceDueStation": 36,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S051-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T295",
+      "groupId": "T295",
+      "expression": "absolutely",
+      "meaning": "极其",
+      "introducedAtStation": 50,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 51,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S051-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T294",
+      "groupId": "T294",
+      "expression": "envelope",
+      "meaning": "信封",
+      "introducedAtStation": 50,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 51,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S051-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T293",
+      "groupId": "T293",
+      "expression": "add",
+      "meaning": "增加；添加",
+      "introducedAtStation": 50,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 51,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S051-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T292",
+      "groupId": "T292",
+      "expression": "glove",
+      "meaning": "（分手指的）手套",
+      "introducedAtStation": 50,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 51,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

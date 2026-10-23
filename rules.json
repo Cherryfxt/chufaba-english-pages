@@ -1,0 +1,57 @@
+{
+  "id": "chufaba-24q-v1-20261022",
+  "status": "confirmed",
+  "confirmedOn": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "stationCount": 126,
+  "newLearningStationCount": 90,
+  "formalReviewStationCount": 36,
+  "questionsPerLap": 8,
+  "lapCount": 3,
+  "typicalNewItems": 6,
+  "firstAnswerPoints": [10, 15, 20],
+  "coinsPerPoint": 0.5,
+  "firstCorrectionFraction": 0.5,
+  "mileageBands": [
+    {"minimumCorrect": 0, "miles": 0, "stars": 1},
+    {"minimumCorrect": 15, "miles": 100, "stars": 2},
+    {"minimumCorrect": 20, "miles": 140, "stars": 3}
+  ],
+  "honors": [
+    {"level": 1, "title": "正式发车", "points": 0, "miles": 0, "requiresCompletedStation": true},
+    {"level": 2, "title": "起步新秀", "points": 1300, "miles": 500, "requiresCompletedStation": true},
+    {"level": 3, "title": "稳定车手", "points": 4000, "miles": 1800, "requiresCompletedStation": true},
+    {"level": 4, "title": "弯道进阶", "points": 9000, "miles": 4200, "requiresCompletedStation": true},
+    {"level": 5, "title": "赛道骨干", "points": 16000, "miles": 7500, "requiresCompletedStation": true},
+    {"level": 6, "title": "领跑挑战者", "points": 24000, "miles": 11000, "requiresCompletedStation": true},
+    {"level": 7, "title": "赛季冠军", "points": 30000, "miles": 13000, "requiresCompletedStation": true},
+    {"level": 8, "title": "传奇车手", "points": 36000, "miles": 15500, "requiresCompletedStation": true}
+  ],
+  "dropStages": [
+    {"minimumTotalPoints": 0, "interval": 700},
+    {"minimumTotalPoints": 4000, "interval": 1000},
+    {"minimumTotalPoints": 16000, "interval": 1300}
+  ],
+  "dropGuaranteeTrainingDays": 5,
+  "maximumRandomDropsPerDate": 1,
+  "starterPartsCount": 3,
+  "randomPoolSize": 45,
+  "dropCounting": {
+    "firstCorrectionPointsIncluded": true,
+    "lockIntervalAtCycleStart": true,
+    "carryPointOverflow": true,
+    "resetProgressOnDayGuarantee": true,
+    "trainingDayRequires": ["completedFormalStation", "completedOriginalWrongPracticeWithSubmissions"],
+    "excludeFromTrainingDay": ["wordListeningOnly", "warmupOnly", "replayOnly"],
+    "checkOnlyOnRealLearningSettlement": true,
+    "sameDateCountsOnce": true,
+    "stopAtPoolExhaustion": true
+  },
+  "historyPolicy": {
+    "preservePerStationRulesVersion": true,
+    "preserveQuestionDenominator": true,
+    "rescaleOldRewards": false,
+    "autoApproveReviewRecommendations": false,
+    "grantRewardsDuringImport": false
+  }
+}

@@ -1,0 +1,3705 @@
+{
+  "station": 21,
+  "type": "formal_review",
+  "phase": null,
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 21,
+  "newItems": [],
+  "reviewItems": [
+    {
+      "groupId": "T125",
+      "sourceId": "T125",
+      "sourceIds": [
+        "T125"
+      ],
+      "word": "freezing",
+      "meaning": "极冷的",
+      "sourceItems": [
+        {
+          "sourceId": "T125",
+          "sourceKind": "textbook",
+          "expression": "freezing",
+          "meaning": "极冷的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈfriːzɪŋ/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 130,
+          "originalFields": {
+            "序号": 125,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "freezing",
+            "音标（教材）": "/ˈfriːzɪŋ/",
+            "词性": "adj.",
+            "中文释义": "极冷的",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T125",
+          "introducedAtStation": 10
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T125",
+        "word": "freezing",
+        "ipa": "/ˈfriːzɪŋ/",
+        "focus": "重读/friː/；中间/z/是浊辅音，最后/ŋ/不加/ɡ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "It is freezing outside, so I wear a warm coat.",
+          "zh": "外面极冷，所以我穿一件暖和的外套。",
+          "sourceIds": [
+            "T125"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈfriːzɪŋ/",
+      "pos": "adj.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T124",
+      "sourceId": "T124",
+      "sourceIds": [
+        "T124"
+      ],
+      "word": "area",
+      "meaning": "地区；地域",
+      "sourceItems": [
+        {
+          "sourceId": "T124",
+          "sourceKind": "textbook",
+          "expression": "area",
+          "meaning": "地区；地域",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈeəriə/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 129,
+          "originalFields": {
+            "序号": 124,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "area",
+            "音标（教材）": "/ˈeəriə/",
+            "词性": "n.",
+            "中文释义": "地区；地域",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T124",
+          "introducedAtStation": 10
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T124",
+        "word": "area",
+        "ipa": "/ˈeəriə/",
+        "focus": "重音在/eə/；后面的/riə/连续轻读，保留相邻元音的变化。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Many families live in this area.",
+          "zh": "许多家庭住在这个地区。",
+          "sourceIds": [
+            "T124"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈeəriə/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T123",
+      "sourceId": "T123",
+      "sourceIds": [
+        "T123"
+      ],
+      "word": "cover",
+      "meaning": "盖；覆盖",
+      "sourceItems": [
+        {
+          "sourceId": "T123",
+          "sourceKind": "textbook",
+          "expression": "cover",
+          "meaning": "盖；覆盖",
+          "partOfSpeech": "v.",
+          "phonetic": "/ˈkʌvə(r)/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 52,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 128,
+          "originalFields": {
+            "序号": 123,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "cover",
+            "音标（教材）": "/ˈkʌvə(r)/",
+            "词性": "v.",
+            "中文释义": "盖；覆盖",
+            "教材课文页": 52,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T123",
+          "introducedAtStation": 10
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T123",
+        "word": "cover",
+        "ipa": "/ˈkʌvə(r)/",
+        "focus": "重音在/kʌ/；后面的/v/浊读，最后/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Snow covers the ground in winter.",
+          "zh": "冬天雪覆盖地面。",
+          "sourceIds": [
+            "T123"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈkʌvə(r)/",
+      "pos": "v.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T122",
+      "sourceId": "T122",
+      "sourceIds": [
+        "T122"
+      ],
+      "word": "billion",
+      "meaning": "十亿",
+      "sourceItems": [
+        {
+          "sourceId": "T122",
+          "sourceKind": "textbook",
+          "expression": "billion",
+          "meaning": "十亿",
+          "partOfSpeech": "num.",
+          "phonetic": "/ˈbɪljən/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 52,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 127,
+          "originalFields": {
+            "序号": 122,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "billion",
+            "音标（教材）": "/ˈbɪljən/",
+            "词性": "num.",
+            "中文释义": "十亿",
+            "教材课文页": 52,
+            "词表PDF页": 3,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T122",
+          "introducedAtStation": 10
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T122",
+        "word": "billion",
+        "ipa": "/ˈbɪljən/",
+        "focus": "重音在/bɪl/；后段/jən/保留/j/，/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "One billion is one thousand million.",
+          "zh": "十亿是一千个一百万。",
+          "sourceIds": [
+            "T122"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈbɪljən/",
+      "pos": "num.",
+      "unit": "Unit 4",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T118",
+      "sourceId": "T118",
+      "sourceIds": [
+        "T118"
+      ],
+      "word": "system",
+      "meaning": "系统",
+      "sourceItems": [
+        {
+          "sourceId": "T118",
+          "sourceKind": "textbook",
+          "expression": "system",
+          "meaning": "系统",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈsɪstəm/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 52,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 123,
+          "originalFields": {
+            "序号": 118,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "system",
+            "音标（教材）": "/ˈsɪstəm/",
+            "词性": "n.",
+            "中文释义": "系统",
+            "教材课文页": 52,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T118",
+          "introducedAtStation": 9
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T118",
+        "word": "system",
+        "ipa": "/ˈsɪstəm/",
+        "focus": "重读/sɪs/中的短/ɪ/；最后/təm/中的/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The school has a system for sharing books.",
+          "zh": "学校有一套共享图书的系统。",
+          "sourceIds": [
+            "T118"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈsɪstəm/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T141",
+      "sourceId": "T141",
+      "sourceIds": [
+        "T141"
+      ],
+      "word": "protect",
+      "meaning": "保护",
+      "sourceItems": [
+        {
+          "sourceId": "T141",
+          "sourceKind": "textbook",
+          "expression": "protect",
+          "meaning": "保护",
+          "partOfSpeech": "v.",
+          "phonetic": "/prəˈtekt/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 56,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 146,
+          "originalFields": {
+            "序号": 141,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "protect",
+            "音标（教材）": "/prəˈtekt/",
+            "词性": "v.",
+            "中文释义": "保护",
+            "教材课文页": 56,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T141",
+          "introducedAtStation": 15
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T141",
+        "word": "protect",
+        "ipa": "/prəˈtekt/",
+        "focus": "重音在/tekt/；开头/prə/弱读，最后/kt/不加元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We protect the trees by keeping fires away from them.",
+          "zh": "我们让火远离树木，以保护树木。",
+          "sourceIds": [
+            "T141"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/prəˈtekt/",
+      "pos": "v.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T145",
+      "sourceId": "T145",
+      "sourceIds": [
+        "T145"
+      ],
+      "word": "oil",
+      "meaning": "石油；原油",
+      "sourceItems": [
+        {
+          "sourceId": "T145",
+          "sourceKind": "textbook",
+          "expression": "oil",
+          "meaning": "石油；原油",
+          "partOfSpeech": "n.",
+          "phonetic": "/ɔɪl/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 59,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 150,
+          "originalFields": {
+            "序号": 145,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "oil",
+            "音标（教材）": "/ɔɪl/",
+            "词性": "n.",
+            "中文释义": "石油；原油",
+            "教材课文页": 59,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T145",
+          "introducedAtStation": 15
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T145",
+        "word": "oil",
+        "ipa": "/ɔɪl/",
+        "focus": "/ɔɪ/由/ɔ/滑向/ɪ/；末尾/l/不另加元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Workers take oil from deep below the ground.",
+          "zh": "工人从地下深处开采石油。",
+          "sourceIds": [
+            "T145"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "fuel",
+          "meaning": "a material used to produce heat or power"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ɔɪl/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T144",
+      "sourceId": "T144",
+      "sourceIds": [
+        "T144"
+      ],
+      "word": "burn",
+      "meaning": "燃烧；烧",
+      "sourceItems": [
+        {
+          "sourceId": "T144",
+          "sourceKind": "textbook",
+          "expression": "burn",
+          "meaning": "燃烧；烧",
+          "partOfSpeech": "v.",
+          "phonetic": "/bɜːn/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 59,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 149,
+          "originalFields": {
+            "序号": 144,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "burn",
+            "音标（教材）": "/bɜːn/",
+            "词性": "v.",
+            "中文释义": "燃烧；烧",
+            "教材课文页": 59,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T144",
+          "introducedAtStation": 15
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T144",
+        "word": "burn",
+        "ipa": "/bɜːn/",
+        "focus": "元音/ɜː/拉长；按源音标不另添r音，最后/n/收尾。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Dry wood burns easily.",
+          "zh": "干燥的木头很容易燃烧。",
+          "sourceIds": [
+            "T144"
+          ]
+        },
+        {
+          "en": "A small fire burns the dry leaves.",
+          "zh": "一小团火烧着干叶。",
+          "sourceIds": [
+            "T144"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "分别承接原义燃烧和烧；不将词条扩成晒伤等未列义项。",
+      "ipa": "/bɜːn/",
+      "pos": "v.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T143",
+      "sourceId": "T143",
+      "sourceIds": [
+        "T143"
+      ],
+      "word": "groundwater",
+      "meaning": "地下水",
+      "sourceItems": [
+        {
+          "sourceId": "T143",
+          "sourceKind": "textbook",
+          "expression": "groundwater",
+          "meaning": "地下水",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈɡraʊndwɔːtə(r)/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 59,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 148,
+          "originalFields": {
+            "序号": 143,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "groundwater",
+            "音标（教材）": "/ˈɡraʊndwɔːtə(r)/",
+            "词性": "n.",
+            "中文释义": "地下水",
+            "教材课文页": 59,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T143",
+          "introducedAtStation": 15
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T143",
+        "word": "groundwater",
+        "ipa": "/ˈɡraʊndwɔːtə(r)/",
+        "focus": "重音在/ɡraʊnd/；/aʊ/有滑动，water段的/ɔː/拉长。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Some villages use groundwater for drinking.",
+          "zh": "有些村庄使用地下水饮用。",
+          "sourceIds": [
+            "T143"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "soil",
+          "meaning": "the earth in which plants grow"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈɡraʊndwɔːtə(r)/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T142",
+      "sourceId": "T142",
+      "sourceIds": [
+        "T142"
+      ],
+      "word": "chemical",
+      "meaning": "化学制品；化学品",
+      "sourceItems": [
+        {
+          "sourceId": "T142",
+          "sourceKind": "textbook",
+          "expression": "chemical",
+          "meaning": "化学制品；化学品",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈkemɪkl/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 59,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 147,
+          "originalFields": {
+            "序号": 142,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "chemical",
+            "音标（教材）": "/ˈkemɪkl/",
+            "词性": "n.",
+            "中文释义": "化学制品；化学品",
+            "教材课文页": 59,
+            "词表PDF页": 3,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T142",
+          "introducedAtStation": 15
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T142",
+        "word": "chemical",
+        "ipa": "/ˈkemɪkl/",
+        "focus": "开头字母组合ch在本词读/k/；重音在/ke/，结尾/kl/紧接。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Some cleaning chemicals are harmful if people drink them.",
+          "zh": "有些清洁化学品如果被人饮用会有害。",
+          "sourceIds": [
+            "T142"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "substance",
+          "meaning": "a kind of material"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈkemɪkl/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T140",
+      "sourceId": "T140",
+      "sourceIds": [
+        "T140"
+      ],
+      "word": "pollution",
+      "meaning": "污染",
+      "sourceItems": [
+        {
+          "sourceId": "T140",
+          "sourceKind": "textbook",
+          "expression": "pollution",
+          "meaning": "污染",
+          "partOfSpeech": "n.",
+          "phonetic": "/pəˈluːʃn/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 56,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 145,
+          "originalFields": {
+            "序号": 140,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "pollution",
+            "音标（教材）": "/pəˈluːʃn/",
+            "词性": "n.",
+            "中文释义": "污染",
+            "教材课文页": 56,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T140",
+          "introducedAtStation": 15
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T140",
+        "word": "pollution",
+        "ipa": "/pəˈluːʃn/",
+        "focus": "重音在/luː/，/uː/拉长；开头/pə/轻读，词尾tion轻读成一个音节，保留/ʃ/和/n/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Water pollution can harm fish.",
+          "zh": "水污染会伤害鱼类。",
+          "sourceIds": [
+            "T140"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "waste",
+          "meaning": "unwanted material that people throw away"
+        }
+      ],
+      "notes": null,
+      "ipa": "/pəˈluːʃn/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T150",
+      "sourceId": "T150",
+      "sourceIds": [
+        "T150"
+      ],
+      "word": "however",
+      "meaning": "然而；不过",
+      "sourceItems": [
+        {
+          "sourceId": "T150",
+          "sourceKind": "textbook",
+          "expression": "however",
+          "meaning": "然而；不过",
+          "partOfSpeech": "adv.",
+          "phonetic": "/haʊˈevə(r)/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 61,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 155,
+          "originalFields": {
+            "序号": 150,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "however",
+            "音标（教材）": "/haʊˈevə(r)/",
+            "词性": "adv.",
+            "中文释义": "然而；不过",
+            "教材课文页": 61,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T150",
+          "introducedAtStation": 16
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T150",
+        "word": "however",
+        "ipa": "/haʊˈevə(r)/",
+        "focus": "重音落在中间音节，元音为/e/；开头/haʊ/有/aʊ/滑动，词尾/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The walk is long. However, the view is wonderful.",
+          "zh": "路程很长。然而，景色很美。",
+          "sourceIds": [
+            "T150"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "contrasting",
+          "meaning": "showing a clear difference between two things"
+        }
+      ],
+      "notes": null,
+      "ipa": "/haʊˈevə(r)/",
+      "pos": "adv.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T151",
+      "sourceId": "T151",
+      "sourceIds": [
+        "T151"
+      ],
+      "word": "emperor",
+      "meaning": "皇帝",
+      "sourceItems": [
+        {
+          "sourceId": "T151",
+          "sourceKind": "textbook",
+          "expression": "emperor",
+          "meaning": "皇帝",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈempərə(r)/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 62,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 156,
+          "originalFields": {
+            "序号": 151,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "emperor",
+            "音标（教材）": "/ˈempərə(r)/",
+            "词性": "n.",
+            "中文释义": "皇帝",
+            "教材课文页": 62,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T151",
+          "introducedAtStation": 16
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T151",
+        "word": "emperor",
+        "ipa": "/ˈempərə(r)/",
+        "focus": "重音在/em/；后面的/pərə/弱读，不把每一段都读重。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The emperor in this story lives in a large palace.",
+          "zh": "这个故事里的皇帝住在一座大宫殿里。",
+          "sourceIds": [
+            "T151"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "empire",
+          "meaning": "a group of countries or lands ruled by one ruler"
+        },
+        {
+          "word": "palace",
+          "meaning": "a large home for a ruler"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈempərə(r)/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T149",
+      "sourceId": "T149",
+      "sourceIds": [
+        "T149"
+      ],
+      "word": "own",
+      "meaning": "自己的；本人的",
+      "sourceItems": [
+        {
+          "sourceId": "T149",
+          "sourceKind": "textbook",
+          "expression": "own",
+          "meaning": "自己的；本人的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/əʊn/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 60,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 154,
+          "originalFields": {
+            "序号": 149,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "own",
+            "音标（教材）": "/əʊn/",
+            "词性": "adj.",
+            "中文释义": "自己的；本人的",
+            "教材课文页": 60,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": "本单元仅列adj.释义；字母索引另列p.117的v.释义未合入本条。"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T149",
+          "introducedAtStation": 16
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T149",
+        "word": "own",
+        "ipa": "/əʊn/",
+        "focus": "/əʊ/有滑动；末尾/n/收尾，本表不在开头加/w/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "I have my own desk in my room.",
+          "zh": "我的房间里有我自己的书桌。",
+          "sourceIds": [
+            "T149"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "T149仅为adj.自己的；不把其他来源中own作动词的掌握并入。",
+      "ipa": "/əʊn/",
+      "pos": "adj.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T148",
+      "sourceId": "T148",
+      "sourceIds": [
+        "T148"
+      ],
+      "word": "website",
+      "meaning": "网站",
+      "sourceItems": [
+        {
+          "sourceId": "T148",
+          "sourceKind": "textbook",
+          "expression": "website",
+          "meaning": "网站",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈwebsaɪt/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 60,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 153,
+          "originalFields": {
+            "序号": 148,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "website",
+            "音标（教材）": "/ˈwebsaɪt/",
+            "词性": "n.",
+            "中文释义": "网站",
+            "教材课文页": 60,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": "教材页码被批注遮挡，已用PDF第12页字母索引核对为p.60。"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T148",
+          "introducedAtStation": 16
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T148",
+        "word": "website",
+        "ipa": "/ˈwebsaɪt/",
+        "focus": "重音在/web/；后段/saɪt/的/aɪ/有滑动，最后/t/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Our school website has news about the sports day.",
+          "zh": "我们学校的网站上有关于运动会的新闻。",
+          "sourceIds": [
+            "T148"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "internet",
+          "meaning": "the system that connects computers around the world"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈwebsaɪt/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T147",
+      "sourceId": "T147",
+      "sourceIds": [
+        "T147"
+      ],
+      "word": "harmful",
+      "meaning": "有害的",
+      "sourceItems": [
+        {
+          "sourceId": "T147",
+          "sourceKind": "textbook",
+          "expression": "harmful",
+          "meaning": "有害的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈhɑːmfl/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 59,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 152,
+          "originalFields": {
+            "序号": 147,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "harmful",
+            "音标（教材）": "/ˈhɑːmfl/",
+            "词性": "adj.",
+            "中文释义": "有害的",
+            "教材课文页": 59,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T147",
+          "introducedAtStation": 16
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T147",
+        "word": "harmful",
+        "ipa": "/ˈhɑːmfl/",
+        "focus": "首音节/hɑːm/重读，/ɑː/拉长；ful是轻读的第二音节，词尾/l/不再接额外元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Dirty water can be harmful to animals.",
+          "zh": "脏水可能对动物有害。",
+          "sourceIds": [
+            "T147"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "damage",
+          "meaning": "harm to something"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈhɑːmfl/",
+      "pos": "adj.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T129",
+      "sourceId": "T129",
+      "sourceIds": [
+        "T129"
+      ],
+      "word": "metre",
+      "meaning": "米",
+      "sourceItems": [
+        {
+          "sourceId": "T129",
+          "sourceKind": "textbook",
+          "expression": "metre",
+          "meaning": "米",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈmiːtə(r)/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 134,
+          "originalFields": {
+            "序号": 129,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "metre",
+            "音标（教材）": "/ˈmiːtə(r)/",
+            "词性": "n.",
+            "中文释义": "米",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T129",
+          "introducedAtStation": 11
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T129",
+        "word": "metre",
+        "ipa": "/ˈmiːtə(r)/",
+        "focus": "重读/miː/；/iː/拉长，最后/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The door is about two metres high.",
+          "zh": "这扇门大约两米高。",
+          "sourceIds": [
+            "T129"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "centimetre",
+          "meaning": "a small unit for measuring length"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈmiːtə(r)/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T128",
+      "sourceId": "T128",
+      "sourceIds": [
+        "T128"
+      ],
+      "word": "desert",
+      "meaning": "沙漠；荒漠",
+      "sourceItems": [
+        {
+          "sourceId": "T128",
+          "sourceKind": "textbook",
+          "expression": "desert",
+          "meaning": "沙漠；荒漠",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈdezət/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 133,
+          "originalFields": {
+            "序号": 128,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "desert",
+            "音标（教材）": "/ˈdezət/",
+            "词性": "n.",
+            "中文释义": "沙漠；荒漠",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T128",
+          "introducedAtStation": 11
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T128",
+        "word": "desert",
+        "ipa": "/ˈdezət/",
+        "focus": "本项“沙漠”重音在/de/；字母s按源音标读/z/，后段/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Few plants grow in this dry desert.",
+          "zh": "很少有植物生长在这片干旱的沙漠里。",
+          "sourceIds": [
+            "T128"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈdezət/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T127",
+      "sourceId": "T127",
+      "sourceIds": [
+        "T127"
+      ],
+      "word": "pole",
+      "meaning": "（行星的）极；地极",
+      "sourceItems": [
+        {
+          "sourceId": "T127",
+          "sourceKind": "textbook",
+          "expression": "pole",
+          "meaning": "（行星的）极；地极",
+          "partOfSpeech": "n.",
+          "phonetic": "/pəʊl/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 132,
+          "originalFields": {
+            "序号": 127,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "pole",
+            "音标（教材）": "/pəʊl/",
+            "词性": "n.",
+            "中文释义": "（行星的）极；地极",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T127",
+          "introducedAtStation": 10
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T127",
+        "word": "pole",
+        "ipa": "/pəʊl/",
+        "focus": "/əʊ/有滑动；最后/l/收尾，不读成多一拍。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The North Pole is very cold.",
+          "zh": "北极非常冷。",
+          "sourceIds": [
+            "T127"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "line",
+          "meaning": "a long thin mark or an imagined path between two points"
+        }
+      ],
+      "notes": null,
+      "ipa": "/pəʊl/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T126",
+      "sourceId": "T126",
+      "sourceIds": [
+        "T126"
+      ],
+      "word": "north",
+      "meaning": "北；北方",
+      "sourceItems": [
+        {
+          "sourceId": "T126",
+          "sourceKind": "textbook",
+          "expression": "north",
+          "meaning": "北；北方",
+          "partOfSpeech": "n.",
+          "phonetic": "/nɔːθ/",
+          "unit": "Unit 4",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 53,
+          "wordListPdfPage": 3,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 131,
+          "originalFields": {
+            "序号": 126,
+            "单元": "Unit 4",
+            "类型": "单词",
+            "单词／短语": "north",
+            "音标（教材）": "/nɔːθ/",
+            "词性": "n.",
+            "中文释义": "北；北方",
+            "教材课文页": 53,
+            "词表PDF页": 3,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T126",
+          "introducedAtStation": 10
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T126",
+        "word": "north",
+        "ipa": "/nɔːθ/",
+        "focus": "/ɔː/拉长；末尾字母组合th读/θ/，不是/s/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Our school is in the north of the town.",
+          "zh": "我们的学校在镇的北部。",
+          "sourceIds": [
+            "T126"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/nɔːθ/",
+      "pos": "n.",
+      "unit": "Unit 4",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T125",
+      "groupId": "T125",
+      "direction": "zh_to_en",
+      "stem": "极冷的",
+      "options": [
+        {
+          "label": "A",
+          "text": "go to bed"
+        },
+        {
+          "label": "B",
+          "text": "south"
+        },
+        {
+          "label": "C",
+          "text": "fresh"
+        },
+        {
+          "label": "D",
+          "text": "freezing"
+        }
+      ],
+      "answer": "D",
+      "word": "freezing",
+      "meaning": "极冷的"
+    },
+    {
+      "id": 2,
+      "sourceId": "T124",
+      "groupId": "T124",
+      "direction": "en_to_zh",
+      "stem": "area",
+      "options": [
+        {
+          "label": "A",
+          "text": "擅长……"
+        },
+        {
+          "label": "B",
+          "text": "北；北方"
+        },
+        {
+          "label": "C",
+          "text": "地区；地域"
+        },
+        {
+          "label": "D",
+          "text": "情绪；心情"
+        }
+      ],
+      "answer": "C",
+      "word": "area",
+      "meaning": "地区；地域"
+    },
+    {
+      "id": 3,
+      "sourceId": "T123",
+      "groupId": "T123",
+      "direction": "zh_to_en",
+      "stem": "盖；覆盖",
+      "options": [
+        {
+          "label": "A",
+          "text": "through"
+        },
+        {
+          "label": "B",
+          "text": "work one's land"
+        },
+        {
+          "label": "C",
+          "text": "cover"
+        },
+        {
+          "label": "D",
+          "text": "local"
+        }
+      ],
+      "answer": "C",
+      "word": "cover",
+      "meaning": "盖；覆盖"
+    },
+    {
+      "id": 4,
+      "sourceId": "T122",
+      "groupId": "T122",
+      "direction": "en_to_zh",
+      "stem": "billion",
+      "options": [
+        {
+          "label": "A",
+          "text": "外貌"
+        },
+        {
+          "label": "B",
+          "text": "十亿"
+        },
+        {
+          "label": "C",
+          "text": "庆祝；庆贺"
+        },
+        {
+          "label": "D",
+          "text": "去旅行"
+        }
+      ],
+      "answer": "B",
+      "word": "billion",
+      "meaning": "十亿"
+    },
+    {
+      "id": 5,
+      "sourceId": "T118",
+      "groupId": "T118",
+      "direction": "zh_to_en",
+      "stem": "系统",
+      "options": [
+        {
+          "label": "A",
+          "text": "club"
+        },
+        {
+          "label": "B",
+          "text": "chemical"
+        },
+        {
+          "label": "C",
+          "text": "wet"
+        },
+        {
+          "label": "D",
+          "text": "system"
+        }
+      ],
+      "answer": "D",
+      "word": "system",
+      "meaning": "系统"
+    },
+    {
+      "id": 6,
+      "sourceId": "T141",
+      "groupId": "T141",
+      "direction": "en_to_zh",
+      "stem": "protect",
+      "options": [
+        {
+          "label": "A",
+          "text": "参与"
+        },
+        {
+          "label": "B",
+          "text": "高兴的；愉快的"
+        },
+        {
+          "label": "C",
+          "text": "污染"
+        },
+        {
+          "label": "D",
+          "text": "保护"
+        }
+      ],
+      "answer": "D",
+      "word": "protect",
+      "meaning": "保护"
+    },
+    {
+      "id": 7,
+      "sourceId": "T145",
+      "groupId": "T145",
+      "direction": "zh_to_en",
+      "stem": "石油；原油",
+      "options": [
+        {
+          "label": "A",
+          "text": "friendship"
+        },
+        {
+          "label": "B",
+          "text": "watch over"
+        },
+        {
+          "label": "C",
+          "text": "straight"
+        },
+        {
+          "label": "D",
+          "text": "oil"
+        }
+      ],
+      "answer": "D",
+      "word": "oil",
+      "meaning": "石油；原油"
+    },
+    {
+      "id": 8,
+      "sourceId": "T144",
+      "groupId": "T144",
+      "direction": "en_to_zh",
+      "stem": "burn",
+      "options": [
+        {
+          "label": "A",
+          "text": "塑料污染"
+        },
+        {
+          "label": "B",
+          "text": "燃烧；烧"
+        },
+        {
+          "label": "C",
+          "text": "参加"
+        },
+        {
+          "label": "D",
+          "text": "文化；文明"
+        }
+      ],
+      "answer": "B",
+      "word": "burn",
+      "meaning": "燃烧；烧"
+    },
+    {
+      "id": 9,
+      "sourceId": "T143",
+      "groupId": "T143",
+      "direction": "zh_to_en",
+      "stem": "地下水",
+      "options": [
+        {
+          "label": "A",
+          "text": "hunt"
+        },
+        {
+          "label": "B",
+          "text": "groundwater"
+        },
+        {
+          "label": "C",
+          "text": "luckily"
+        },
+        {
+          "label": "D",
+          "text": "continue"
+        }
+      ],
+      "answer": "B",
+      "word": "groundwater",
+      "meaning": "地下水"
+    },
+    {
+      "id": 10,
+      "sourceId": "T142",
+      "groupId": "T142",
+      "direction": "en_to_zh",
+      "stem": "chemical",
+      "options": [
+        {
+          "label": "A",
+          "text": "极冷的"
+        },
+        {
+          "label": "B",
+          "text": "化学制品；化学品"
+        },
+        {
+          "label": "C",
+          "text": "原因；理由"
+        },
+        {
+          "label": "D",
+          "text": "打猎"
+        }
+      ],
+      "answer": "B",
+      "word": "chemical",
+      "meaning": "化学制品；化学品"
+    },
+    {
+      "id": 11,
+      "sourceId": "T140",
+      "groupId": "T140",
+      "direction": "zh_to_en",
+      "stem": "污染",
+      "options": [
+        {
+          "label": "A",
+          "text": "medium height"
+        },
+        {
+          "label": "B",
+          "text": "solar term"
+        },
+        {
+          "label": "C",
+          "text": "pollution"
+        },
+        {
+          "label": "D",
+          "text": "desert"
+        }
+      ],
+      "answer": "C",
+      "word": "pollution",
+      "meaning": "污染"
+    },
+    {
+      "id": 12,
+      "sourceId": "T150",
+      "groupId": "T150",
+      "direction": "en_to_zh",
+      "stem": "however",
+      "options": [
+        {
+          "label": "A",
+          "text": "醒；醒来"
+        },
+        {
+          "label": "B",
+          "text": "然而；不过"
+        },
+        {
+          "label": "C",
+          "text": "关心他人的；体贴人的"
+        },
+        {
+          "label": "D",
+          "text": "庆祝；庆贺"
+        }
+      ],
+      "answer": "B",
+      "word": "however",
+      "meaning": "然而；不过"
+    },
+    {
+      "id": 13,
+      "sourceId": "T151",
+      "groupId": "T151",
+      "direction": "zh_to_en",
+      "stem": "皇帝",
+      "options": [
+        {
+          "label": "A",
+          "text": "honest"
+        },
+        {
+          "label": "B",
+          "text": "thunder"
+        },
+        {
+          "label": "C",
+          "text": "basic"
+        },
+        {
+          "label": "D",
+          "text": "emperor"
+        }
+      ],
+      "answer": "D",
+      "word": "emperor",
+      "meaning": "皇帝"
+    },
+    {
+      "id": 14,
+      "sourceId": "T149",
+      "groupId": "T149",
+      "direction": "en_to_zh",
+      "stem": "own",
+      "options": [
+        {
+          "label": "A",
+          "text": "系统"
+        },
+        {
+          "label": "B",
+          "text": "自己的；本人的"
+        },
+        {
+          "label": "C",
+          "text": "幸运地；幸好"
+        },
+        {
+          "label": "D",
+          "text": "初级中学"
+        }
+      ],
+      "answer": "B",
+      "word": "own",
+      "meaning": "自己的；本人的"
+    },
+    {
+      "id": 15,
+      "sourceId": "T148",
+      "groupId": "T148",
+      "direction": "zh_to_en",
+      "stem": "网站",
+      "options": [
+        {
+          "label": "A",
+          "text": "lightning"
+        },
+        {
+          "label": "B",
+          "text": "get up"
+        },
+        {
+          "label": "C",
+          "text": "website"
+        },
+        {
+          "label": "D",
+          "text": "take part in"
+        }
+      ],
+      "answer": "C",
+      "word": "website",
+      "meaning": "网站"
+    },
+    {
+      "id": 16,
+      "sourceId": "T147",
+      "groupId": "T147",
+      "direction": "en_to_zh",
+      "stem": "harmful",
+      "options": [
+        {
+          "label": "A",
+          "text": "喧闹地；响亮地"
+        },
+        {
+          "label": "B",
+          "text": "有害的"
+        },
+        {
+          "label": "C",
+          "text": "出现"
+        },
+        {
+          "label": "D",
+          "text": "擅长……"
+        }
+      ],
+      "answer": "B",
+      "word": "harmful",
+      "meaning": "有害的"
+    },
+    {
+      "id": 17,
+      "sourceId": "T129",
+      "groupId": "T129",
+      "direction": "zh_to_en",
+      "stem": "米",
+      "options": [
+        {
+          "label": "A",
+          "text": "metre"
+        },
+        {
+          "label": "B",
+          "text": "look forward to"
+        },
+        {
+          "label": "C",
+          "text": "fact file"
+        },
+        {
+          "label": "D",
+          "text": "confident"
+        }
+      ],
+      "answer": "A",
+      "word": "metre",
+      "meaning": "米"
+    },
+    {
+      "id": 18,
+      "sourceId": "T128",
+      "groupId": "T128",
+      "direction": "en_to_zh",
+      "stem": "desert",
+      "options": [
+        {
+          "label": "A",
+          "text": "沙漠；荒漠"
+        },
+        {
+          "label": "B",
+          "text": "期待，盼望；盼望；期待"
+        },
+        {
+          "label": "C",
+          "text": "基于……"
+        },
+        {
+          "label": "D",
+          "text": "喧闹地；响亮地"
+        }
+      ],
+      "answer": "A",
+      "word": "desert",
+      "meaning": "沙漠；荒漠"
+    },
+    {
+      "id": 19,
+      "sourceId": "T127",
+      "groupId": "T127",
+      "direction": "zh_to_en",
+      "stem": "（行星的）极；地极",
+      "options": [
+        {
+          "label": "A",
+          "text": "blow away"
+        },
+        {
+          "label": "B",
+          "text": "be good at"
+        },
+        {
+          "label": "C",
+          "text": "pole"
+        },
+        {
+          "label": "D",
+          "text": "crop"
+        }
+      ],
+      "answer": "C",
+      "word": "pole",
+      "meaning": "（行星的）极；地极"
+    },
+    {
+      "id": 20,
+      "sourceId": "T126",
+      "groupId": "T126",
+      "direction": "en_to_zh",
+      "stem": "north",
+      "options": [
+        {
+          "label": "A",
+          "text": "档案"
+        },
+        {
+          "label": "B",
+          "text": "脚印；足迹"
+        },
+        {
+          "label": "C",
+          "text": "雷"
+        },
+        {
+          "label": "D",
+          "text": "北；北方"
+        }
+      ],
+      "answer": "D",
+      "word": "north",
+      "meaning": "北；北方"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T125",
+      "groupId": "T125",
+      "target": "freezing",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "extremely hot"
+        },
+        {
+          "label": "B",
+          "text": "extremely cold"
+        },
+        {
+          "label": "C",
+          "text": "very easy to carry"
+        },
+        {
+          "label": "D",
+          "text": "full of bright colours"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "B",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "freezing",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "freezing"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "极冷的",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “freezing” means “extremely cold”.",
+      "parentExplanation": "本题考查“freezing”在本句中的用法；正确英文解释为“extremely cold”。对应源表释义为“极冷的”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T124",
+      "groupId": "T124",
+      "target": "area",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a very long period of time"
+        },
+        {
+          "label": "B",
+          "text": "a region within a larger place"
+        },
+        {
+          "label": "C",
+          "text": "a small piece of plastic"
+        },
+        {
+          "label": "D",
+          "text": "a group of songs for a club"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "These two areas have different weather. One is wet and the other is dry.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "These two areas have different weather. One is wet and the other is dry."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "这两个地区的天气不同。一个潮湿，另一个干燥。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “area” means “a region within a larger place”.",
+      "parentExplanation": "本题考查“area”在本句中的用法；正确英文解释为“a region within a larger place”。对应源表释义为“地区；地域”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T123",
+      "groupId": "T123",
+      "target": "cover",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "decide"
+        },
+        {
+          "label": "B",
+          "text": "gather"
+        },
+        {
+          "label": "C",
+          "text": "kick"
+        },
+        {
+          "label": "D",
+          "text": "cover"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which verb describes putting the cloth over the model?",
+      "answer": "D",
+      "listenScript": "Before the guessing game, Ben spreads a cloth over a model so nobody can see it. He removes the cloth when everyone is ready.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Before the guessing game, Ben spreads a cloth over a model so nobody can see it. He removes the cloth when everyone is ready."
+        }
+      ],
+      "explanation": "To put something over another thing is to cover it.",
+      "parentExplanation": "布铺在模型上遮住它，用动词cover盖、覆盖，不是采集、踢或决定。",
+      "translation": {
+        "stem": "哪个动词描述把布放在模型上的动作？",
+        "listenScript": "猜谜游戏前，本把布铺在模型上，让大家看不见。大家准备好后，他把布拿开。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T123",
+        "T093",
+        "T084",
+        "T104"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T122",
+      "groupId": "T122",
+      "target": "billion",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "area"
+        },
+        {
+          "label": "B",
+          "text": "billion"
+        },
+        {
+          "label": "C",
+          "text": "grain"
+        },
+        {
+          "label": "D",
+          "text": "metre"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which word names Ben's number?",
+      "answer": "B",
+      "listenScript": "Ben writes the digit one and then nine zeros. He wants a single word for that very large number.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Ben writes the digit one and then nine zeros. He wants a single word for that very large number."
+        }
+      ],
+      "explanation": "One followed by nine zeros is one billion.",
+      "parentExplanation": "1后面9个0是1,000,000,000，即十亿；脚本未直接念出billion。",
+      "translation": {
+        "stem": "哪个词表示本写的这个数？",
+        "listenScript": "本写下数字1，然后在后面写9个0。他想用一个单词说出这个很大的数。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T122",
+        "T129",
+        "T131",
+        "T124"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T118",
+      "groupId": "T118",
+      "target": "system",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "connected parts that work together"
+        },
+        {
+          "label": "B",
+          "text": "a deep hole in the ground"
+        },
+        {
+          "label": "C",
+          "text": "a holiday in a small town"
+        },
+        {
+          "label": "D",
+          "text": "a single grain of rice"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "All the parts work together. They form one system.\nWhat does “system” mean here?",
+      "translation": {
+        "stem": "所有部分共同工作。它们组成一个系统。 这里“system”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “system” means “connected parts that work together”.",
+      "parentExplanation": "本题考查“system”在本句中的用法；正确英文解释为“connected parts that work together”。对应源表释义为“系统”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T141",
+      "groupId": "T141",
+      "target": "protect",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to put someone or something in danger"
+        },
+        {
+          "label": "B",
+          "text": "keep someone or something safe from harm"
+        },
+        {
+          "label": "C",
+          "text": "to find out how long something is"
+        },
+        {
+          "label": "D",
+          "text": "to divide something into small pieces"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "This strong fence protects the young trees from farm animals.\nWhat does “protects” mean here?",
+      "translation": {
+        "stem": "这道结实的围栏保护小树免受农场动物损害。 这里“protects”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “protect” means “keep someone or something safe from harm”.",
+      "parentExplanation": "本题考查“protect”在本句中的用法；正确英文解释为“keep someone or something safe from harm”。对应源表释义为“保护”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T145",
+      "groupId": "T145",
+      "target": "oil",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a manufactured material used for rulers"
+        },
+        {
+          "label": "B",
+          "text": "a seed that people cook and eat"
+        },
+        {
+          "label": "C",
+          "text": "a solid rock used to build walls"
+        },
+        {
+          "label": "D",
+          "text": "the natural underground liquid used to make fuel"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "This ship carries oil from the ground to a place that makes fuel.\nWhat does “oil” mean here?",
+      "translation": {
+        "stem": "这艘船把石油运到制造燃料的地方。 这里“oil”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “oil” means “the natural underground liquid used to make fuel”.",
+      "parentExplanation": "本题考查“oil”在本句中的用法；正确英文解释为“the natural underground liquid used to make fuel”。对应源表释义为“石油；原油”。",
+      "wordHelp": [
+        {
+          "word": "fuel",
+          "meaning": "a material used to produce heat or power"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T144",
+      "groupId": "T144",
+      "target": "burn",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to move quietly through the air"
+        },
+        {
+          "label": "B",
+          "text": "to become wet in the rain"
+        },
+        {
+          "label": "C",
+          "text": "set something on fire"
+        },
+        {
+          "label": "D",
+          "text": "to turn into ice in cold weather"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Please do not burn paper in the classroom. It can start a fire.\nWhat does “burn” mean here?",
+      "translation": {
+        "stem": "请不要在教室里烧纸。这样可能引发火灾。 这里“burn”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “burn” means “set something on fire”.",
+      "parentExplanation": "本题考查“burn”在本句中的用法；正确英文解释为“set something on fire”。对应源表释义为“燃烧；烧”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T143",
+      "groupId": "T143",
+      "target": "groundwater",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "groundwater"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Waste can move down through the soil and make the g________ dirty.",
+      "answer": "groundwater",
+      "hint": "water found under the ground",
+      "grammar": "Uncountable noun after the",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The context describes water below the soil, so use groundwater.",
+      "parentExplanation": "语境明确水位于土壤之下，因此填groundwater；不加复数。",
+      "translation": {
+        "stem": "废物可能向下穿过土壤，使地下水变脏。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "soil",
+          "meaning": "the earth in which plants grow"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T142",
+      "groupId": "T142",
+      "target": "chemical",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "chemicals"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Workers keep these cleaning c________ in a safe place.",
+      "answer": "chemicals",
+      "hint": "substances such as those used to clean things or make products",
+      "grammar": "Plural countable noun",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "These requires the plural noun chemicals.",
+      "parentExplanation": "these后使用复数chemicals；不要误用为形容词。",
+      "translation": {
+        "stem": "工人把这些清洁化学品放在安全的地方。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "substance",
+          "meaning": "a kind of material"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T140",
+      "groupId": "T140",
+      "target": "pollution",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "pollution"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Dirty waste in the river causes water p________.",
+      "answer": "pollution",
+      "hint": "harmful things that make water, air or land dirty or unsafe",
+      "grammar": "Uncountable noun after a modifier",
+      "initialLetter": "p",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Pollution is an uncountable noun describing this harmful condition.",
+      "parentExplanation": "pollution表示污染，为不可数名词。",
+      "translation": {
+        "stem": "河流中的脏废物造成水污染。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "waste",
+          "meaning": "unwanted material that people throw away"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T150",
+      "groupId": "T150",
+      "target": "however",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "However"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "It is cold outside. H________, the children still want to play in the park.",
+      "answer": "However",
+      "hint": "used to introduce a contrasting fact",
+      "grammar": "Sentence adverb showing contrast",
+      "initialLetter": "h",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "However introduces a contrast and is followed by a comma here.",
+      "parentExplanation": "However引出与前句形成转折的情况，句首大写，后接逗号。",
+      "translation": {
+        "stem": "外面很冷。然而，孩子们仍想在公园玩。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "contrasting",
+          "meaning": "showing a clear difference between two things"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T151",
+      "groupId": "T151",
+      "target": "emperor",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "emperor"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "In the story, the e________ rules a very large country.",
+      "answer": "emperor",
+      "hint": "a male ruler of an empire",
+      "grammar": "Singular countable noun",
+      "initialLetter": "e",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use the singular noun emperor after the.",
+      "parentExplanation": "此处指统治国家的人，填单数名词emperor。",
+      "translation": {
+        "stem": "在这个故事里，皇帝统治着一个很大的国家。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "empire",
+          "meaning": "a group of countries or lands ruled by one ruler"
+        },
+        {
+          "word": "palace",
+          "meaning": "a large home for a ruler"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T149",
+      "groupId": "T149",
+      "target": "own",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "own"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia does not share this room. It is her o________ room.",
+      "answer": "own",
+      "hint": "belonging to that person rather than someone else",
+      "grammar": "Possessive adjective + own + noun",
+      "initialLetter": "o",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Own follows her and describes the room as belonging to Mia.",
+      "parentExplanation": "her own room表示她自己的房间；此处只考形容词义。",
+      "translation": {
+        "stem": "米娅不与别人共用这个房间。这是她自己的房间。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T148",
+      "groupId": "T148",
+      "target": "website",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "websites"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "These two w________ have useful information about animals.",
+      "answer": "websites",
+      "hint": "places on the internet with connected information pages",
+      "grammar": "Plural countable noun",
+      "initialLetter": "w",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Two requires the plural form websites.",
+      "parentExplanation": "two后用复数websites，表示两个网站。",
+      "translation": {
+        "stem": "这两个网站上有关于动物的有用信息。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "internet",
+          "meaning": "the system that connects computers around the world"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T147",
+      "groupId": "T147",
+      "target": "harmful",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "harmful"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This smoke is h________ to our health. It can make us ill.",
+      "answer": "harmful",
+      "hint": "causing damage or illness",
+      "grammar": "Be harmful to",
+      "initialLetter": "h",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Harmful to describes something that can cause damage or illness.",
+      "parentExplanation": "harmful to表示对……有害；be后用形容词harmful。",
+      "translation": {
+        "stem": "这些烟对我们的健康有害。它会让我们生病。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "damage",
+          "meaning": "harm to something"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T129",
+      "groupId": "T129",
+      "target": "metre",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a unit of length equal to one hundred centimetres"
+        },
+        {
+          "label": "B",
+          "text": "a unit used to measure temperature"
+        },
+        {
+          "label": "C",
+          "text": "a unit used to measure an hour"
+        },
+        {
+          "label": "D",
+          "text": "a unit used to measure weight"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “metre” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "The ruler measures the route's length, so metre is a length unit.",
+      "parentExplanation": "第3句中，metre保留“米”义。尺子量的是路线长度，metre为米，不是重量、温度或时间单位。",
+      "translation": {
+        "stem": "短文中的“metre”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "metre"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T128",
+      "groupId": "T128",
+      "target": "desert",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a place filled with tall wet forest"
+        },
+        {
+          "label": "B",
+          "text": "a very dry area of land with little water"
+        },
+        {
+          "label": "C",
+          "text": "a deep area of water between islands"
+        },
+        {
+          "label": "D",
+          "text": "a field of crops beside a river"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “desert” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "The table represents dry land with very few plants and a small water place.",
+      "parentExplanation": "第1句中，desert保留“沙漠；荒漠”义。黄纸、少量植物和稀少水源表明模型代表沙漠，不是说桌子本身变成真实土地。",
+      "translation": {
+        "stem": "短文中的“desert”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "desert"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why does the class use the ruler?",
+      "explanation": "Sentence 6 explains that the ruler gives every team an equal-length route.",
+      "parentExplanation": "第3、6句说明测量让各队路线长度一致。",
+      "translation": {
+        "stem": "班级为什么使用尺子？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        3,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "To decide which pupil owns the tent."
+        },
+        {
+          "label": "B",
+          "text": "To make each team's route the same length."
+        },
+        {
+          "label": "C",
+          "text": "To measure the amount of food on each card."
+        },
+        {
+          "label": "D",
+          "text": "To choose the colour of the paper plants."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the passage mainly about?",
+      "explanation": "The pupils use a model, route and supply cards to practise journey planning.",
+      "parentExplanation": "全文介绍用模型路线和物资卡片练习规划旅程。",
+      "translation": {
+        "stem": "短文主要讲什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Pupils travel alone across a real desert."
+        },
+        {
+          "label": "B",
+          "text": "A team removes every water card from a school."
+        },
+        {
+          "label": "C",
+          "text": "Pupils build a model game to practise planning a journey."
+        },
+        {
+          "label": "D",
+          "text": "A class studies only the price of rulers."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T127",
+      "groupId": "T127",
+      "target": "pole",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a deep hole under the ground"
+        },
+        {
+          "label": "B",
+          "text": "a line showing the edge of a country"
+        },
+        {
+          "label": "C",
+          "text": "one of the two points at the ends of a planet's axis"
+        },
+        {
+          "label": "D",
+          "text": "a long stick used to hold a flag"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “pole” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "The pole is marked at an end of Earth's axis, so it is a geographical pole.",
+      "parentExplanation": "第2句中，pole保留“（行星的）极；地极”义。位置在地轴末端，pole指地极，不是旗杆等细长物体。",
+      "translation": {
+        "stem": "短文中的“pole”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "pole"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T126",
+      "groupId": "T126",
+      "target": "north",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the direction where the sun rises"
+        },
+        {
+          "label": "B",
+          "text": "the direction opposite south"
+        },
+        {
+          "label": "C",
+          "text": "the direction opposite west"
+        },
+        {
+          "label": "D",
+          "text": "the direction where the sun sets"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “north” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "N labels a direction on the model, and the paired card belongs at the other end.",
+      "parentExplanation": "第4句中，north保留“北；北方”义。N是方向标签，north保留北、北方的名词义。",
+      "translation": {
+        "stem": "短文中的“north”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "north"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What do the pupils correct on the model?",
+      "explanation": "The two cards were together, so they move one to the other end.",
+      "parentExplanation": "第5至6句说明两张方向卡起初在一起，后来一张移到另一端。",
+      "translation": {
+        "stem": "学生修正了模型上的什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "They put both direction cards back together."
+        },
+        {
+          "label": "B",
+          "text": "They remove all the land and sea drawings."
+        },
+        {
+          "label": "C",
+          "text": "They move one direction card to the other end."
+        },
+        {
+          "label": "D",
+          "text": "They turn the ball into a paper box."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title best fits the passage?",
+      "explanation": "The pupils build and check a model with axis, poles and direction labels.",
+      "parentExplanation": "全文围绕地球模型制作与方向标签核对。",
+      "translation": {
+        "stem": "哪个标题最适合短文？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A Ball with No Directions"
+        },
+        {
+          "label": "B",
+          "text": "Why Every Map Has One End"
+        },
+        {
+          "label": "C",
+          "text": "The Group That Refuses to Check Labels"
+        },
+        {
+          "label": "D",
+          "text": "Checking Our Earth Model"
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "For a geography game, we turn a long table into an imaginary desert. Yellow paper covers the dry-looking land, with a few model plants beside a small water place. A ruler shows that the route across the table is one metre long. We place cards for water, food and a tent along the route. Each team moves a paper traveller and explains which card to visit next. The game lets us practise journey planning, while the ruler keeps every team's route the same length.",
+      "parallelText": [
+        {
+          "en": "For a geography game, we turn a long table into an imaginary desert.",
+          "zh": "为了玩地理游戏，我们把长桌布置成虚构的沙漠。"
+        },
+        {
+          "en": "Yellow paper covers the dry-looking land, with a few model plants beside a small water place.",
+          "zh": "黄纸铺成看起来干旱的土地，几株模型植物立在小水源旁。"
+        },
+        {
+          "en": "A ruler shows that the route across the table is one metre long.",
+          "zh": "尺子显示，横穿桌面的路线长一米。"
+        },
+        {
+          "en": "We place cards for water, food and a tent along the route.",
+          "zh": "我们沿路放上表示水、食物和帐篷的卡片。"
+        },
+        {
+          "en": "Each team moves a paper traveller and explains which card to visit next.",
+          "zh": "每队移动纸旅行者，并解释下一站该去找哪张卡片。"
+        },
+        {
+          "en": "The game lets us practise journey planning, while the ruler keeps every team's route the same length.",
+          "zh": "游戏让我们练习规划旅程，尺子则确保每队路线一样长。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "route",
+          "meaning": "a way from one place to another"
+        },
+        {
+          "word": "tent",
+          "meaning": "a portable cloth shelter"
+        },
+        {
+          "word": "imaginary",
+          "meaning": "made up rather than real"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "We use a plain ball to make a model of Earth. The teacher draws Earth's axis through the ball and marks a pole at each end. We draw land and sea, then add two direction cards. N stands for north, so we place that card by the top end. I first put both cards together, but Ben checks the labels with me. We move one card to the other end and test the model with another group.",
+      "parallelText": [
+        {
+          "en": "We use a plain ball to make a model of Earth.",
+          "zh": "我们用一个没有图案的球制作地球模型。"
+        },
+        {
+          "en": "The teacher draws Earth's axis through the ball and marks a pole at each end.",
+          "zh": "老师画出穿过球体的地轴，并在两端各标出一个地极。"
+        },
+        {
+          "en": "We draw land and sea, then add two direction cards.",
+          "zh": "我们画上陆地和海洋，再加两张方向卡。"
+        },
+        {
+          "en": "N stands for north, so we place that card by the top end.",
+          "zh": "N代表北方，所以我们把那张卡放在模型上端旁。"
+        },
+        {
+          "en": "I first put both cards together, but Ben checks the labels with me.",
+          "zh": "我起初把两张卡放在一起，但本和我一起核对标签。"
+        },
+        {
+          "en": "We move one card to the other end and test the model with another group.",
+          "zh": "我们把其中一张移到另一端，再请另一组试着看模型。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "axis",
+          "meaning": "an imaginary line around which something turns"
+        },
+        {
+          "word": "plain",
+          "meaning": "without a pattern or decoration"
+        },
+        {
+          "word": "stands for",
+          "meaning": "represents or means"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S021-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 1,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T125",
+      "groupId": "T125",
+      "expression": "freezing",
+      "meaning": "极冷的",
+      "introducedAtStation": 10,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 13,
+      "intervalInStations": 8,
+      "referenceDueStation": 16,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 2,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T124",
+      "groupId": "T124",
+      "expression": "area",
+      "meaning": "地区；地域",
+      "introducedAtStation": 10,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 13,
+      "intervalInStations": 8,
+      "referenceDueStation": 16,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L1-R3",
+      "lap": 1,
+      "position": 3,
+      "questionNumber": 3,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T123",
+      "groupId": "T123",
+      "expression": "cover",
+      "meaning": "盖；覆盖",
+      "introducedAtStation": 10,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 13,
+      "intervalInStations": 8,
+      "referenceDueStation": 16,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L1-R4",
+      "lap": 1,
+      "position": 4,
+      "questionNumber": 4,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T122",
+      "groupId": "T122",
+      "expression": "billion",
+      "meaning": "十亿",
+      "introducedAtStation": 10,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 13,
+      "intervalInStations": 8,
+      "referenceDueStation": 16,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L1-R5",
+      "lap": 1,
+      "position": 5,
+      "questionNumber": 5,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T118",
+      "groupId": "T118",
+      "expression": "system",
+      "meaning": "系统",
+      "introducedAtStation": 9,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 13,
+      "intervalInStations": 8,
+      "referenceDueStation": 16,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L1-R6",
+      "lap": 1,
+      "position": 6,
+      "questionNumber": 6,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T141",
+      "groupId": "T141",
+      "expression": "protect",
+      "meaning": "保护",
+      "introducedAtStation": 15,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 16,
+      "intervalInStations": 5,
+      "referenceDueStation": 19,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L1-R7",
+      "lap": 1,
+      "position": 7,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T145",
+      "groupId": "T145",
+      "expression": "oil",
+      "meaning": "石油；原油",
+      "introducedAtStation": 15,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 16,
+      "intervalInStations": 5,
+      "referenceDueStation": 19,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L1-R8",
+      "lap": 1,
+      "position": 8,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T144",
+      "groupId": "T144",
+      "expression": "burn",
+      "meaning": "燃烧；烧",
+      "introducedAtStation": 15,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 16,
+      "intervalInStations": 5,
+      "referenceDueStation": 19,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 9,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T143",
+      "groupId": "T143",
+      "expression": "groundwater",
+      "meaning": "地下水",
+      "introducedAtStation": 15,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 16,
+      "intervalInStations": 5,
+      "referenceDueStation": 19,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 10,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T142",
+      "groupId": "T142",
+      "expression": "chemical",
+      "meaning": "化学制品；化学品",
+      "introducedAtStation": 15,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 16,
+      "intervalInStations": 5,
+      "referenceDueStation": 19,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L2-R3",
+      "lap": 2,
+      "position": 3,
+      "questionNumber": 11,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T140",
+      "groupId": "T140",
+      "expression": "pollution",
+      "meaning": "污染",
+      "introducedAtStation": 15,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 16,
+      "intervalInStations": 5,
+      "referenceDueStation": 19,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L2-R4",
+      "lap": 2,
+      "position": 4,
+      "questionNumber": 12,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T150",
+      "groupId": "T150",
+      "expression": "however",
+      "meaning": "然而；不过",
+      "introducedAtStation": 16,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 17,
+      "intervalInStations": 4,
+      "referenceDueStation": 20,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L2-R5",
+      "lap": 2,
+      "position": 5,
+      "questionNumber": 13,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T151",
+      "groupId": "T151",
+      "expression": "emperor",
+      "meaning": "皇帝",
+      "introducedAtStation": 16,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 17,
+      "intervalInStations": 4,
+      "referenceDueStation": 20,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L2-R6",
+      "lap": 2,
+      "position": 6,
+      "questionNumber": 14,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T149",
+      "groupId": "T149",
+      "expression": "own",
+      "meaning": "自己的；本人的",
+      "introducedAtStation": 16,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 17,
+      "intervalInStations": 4,
+      "referenceDueStation": 20,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L2-R7",
+      "lap": 2,
+      "position": 7,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T148",
+      "groupId": "T148",
+      "expression": "website",
+      "meaning": "网站",
+      "introducedAtStation": 16,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 17,
+      "intervalInStations": 4,
+      "referenceDueStation": 20,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L2-R8",
+      "lap": 2,
+      "position": 8,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T147",
+      "groupId": "T147",
+      "expression": "harmful",
+      "meaning": "有害的",
+      "introducedAtStation": 16,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 17,
+      "intervalInStations": 4,
+      "referenceDueStation": 20,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T129",
+      "groupId": "T129",
+      "expression": "metre",
+      "meaning": "米",
+      "introducedAtStation": 11,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 13,
+      "intervalInStations": 8,
+      "referenceDueStation": 16,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T128",
+      "groupId": "T128",
+      "expression": "desert",
+      "meaning": "沙漠；荒漠",
+      "introducedAtStation": 11,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 13,
+      "intervalInStations": 8,
+      "referenceDueStation": 16,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T127",
+      "groupId": "T127",
+      "expression": "pole",
+      "meaning": "（行星的）极；地极",
+      "introducedAtStation": 10,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 13,
+      "intervalInStations": 8,
+      "referenceDueStation": 16,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S021-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T126",
+      "groupId": "T126",
+      "expression": "north",
+      "meaning": "北；北方",
+      "introducedAtStation": 10,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 13,
+      "intervalInStations": 8,
+      "referenceDueStation": 16,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

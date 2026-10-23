@@ -1,0 +1,2568 @@
+{
+  "station": 2,
+  "type": "new_learning",
+  "phase": "textbook",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 2,
+  "newItems": [
+    {
+      "groupId": "T083",
+      "sourceId": "T083",
+      "sourceIds": [
+        "T083"
+      ],
+      "word": "sandy",
+      "meaning": "铺满沙子的；含沙的",
+      "sourceItems": [
+        {
+          "sourceId": "T083",
+          "sourceKind": "textbook",
+          "expression": "sandy",
+          "meaning": "铺满沙子的；含沙的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈsændi/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 36,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 88,
+          "originalFields": {
+            "序号": 83,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "sandy",
+            "音标（教材）": "/ˈsændi/",
+            "词性": "adj.",
+            "中文释义": "铺满沙子的；含沙的",
+            "教材课文页": 36,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T083",
+          "introducedAtStation": 2
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T083",
+        "word": "sandy",
+        "ipa": "/ˈsændi/",
+        "focus": "重音在/sæn/；/æ/口张开，/nd/后接轻读/i/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The children play on a sandy beach.",
+          "zh": "孩子们在铺满沙子的海滩上玩耍。",
+          "sourceIds": [
+            "T083"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈsændi/",
+      "pos": "adj.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T084",
+      "sourceId": "T084",
+      "sourceIds": [
+        "T084"
+      ],
+      "word": "kick",
+      "meaning": "踢；踹",
+      "sourceItems": [
+        {
+          "sourceId": "T084",
+          "sourceKind": "textbook",
+          "expression": "kick",
+          "meaning": "踢；踹",
+          "partOfSpeech": "v.",
+          "phonetic": "/kɪk/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 36,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 89,
+          "originalFields": {
+            "序号": 84,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "kick",
+            "音标（教材）": "/kɪk/",
+            "词性": "v.",
+            "中文释义": "踢；踹",
+            "教材课文页": 36,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T084",
+          "introducedAtStation": 2
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T084",
+        "word": "kick",
+        "ipa": "/kɪk/",
+        "focus": "中间/ɪ/短读；开头和结尾都是/k/，末尾不补元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Mia kicks the ball to her brother.",
+          "zh": "米娅把球踢给她的哥哥／弟弟。",
+          "sourceIds": [
+            "T084"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/kɪk/",
+      "pos": "v.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T085",
+      "sourceId": "T085",
+      "sourceIds": [
+        "T085"
+      ],
+      "word": "town",
+      "meaning": "镇；市镇",
+      "sourceItems": [
+        {
+          "sourceId": "T085",
+          "sourceKind": "textbook",
+          "expression": "town",
+          "meaning": "镇；市镇",
+          "partOfSpeech": "n.",
+          "phonetic": "/taʊn/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 36,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 90,
+          "originalFields": {
+            "序号": 85,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "town",
+            "音标（教材）": "/taʊn/",
+            "词性": "n.",
+            "中文释义": "镇；市镇",
+            "教材课文页": 36,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T085",
+          "introducedAtStation": 2
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T085",
+        "word": "town",
+        "ipa": "/taʊn/",
+        "focus": "/aʊ/从/a/滑向/ʊ/；最后/n/收尾。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "My grandparents live in a small town.",
+          "zh": "我的祖父母住在一个小镇。",
+          "sourceIds": [
+            "T085"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/taʊn/",
+      "pos": "n.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T086",
+      "sourceId": "T086",
+      "sourceIds": [
+        "T086"
+      ],
+      "word": "feature",
+      "meaning": "特色；特征",
+      "sourceItems": [
+        {
+          "sourceId": "T086",
+          "sourceKind": "textbook",
+          "expression": "feature",
+          "meaning": "特色；特征",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈfiːtʃə(r)/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 37,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 91,
+          "originalFields": {
+            "序号": 86,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "feature",
+            "音标（教材）": "/ˈfiːtʃə(r)/",
+            "词性": "n.",
+            "中文释义": "特色；特征",
+            "教材课文页": 37,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T086",
+          "introducedAtStation": 2
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T086",
+        "word": "feature",
+        "ipa": "/ˈfiːtʃə(r)/",
+        "focus": "重读/fiː/；后段/tʃ/是一个清辅音，不能读成/ʃ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The old bridge is a feature of our town.",
+          "zh": "这座老桥是我们镇的一个特色。",
+          "sourceIds": [
+            "T086"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈfiːtʃə(r)/",
+      "pos": "n.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T087",
+      "sourceId": "T087",
+      "sourceIds": [
+        "T087"
+      ],
+      "word": "south",
+      "meaning": "南；南方",
+      "sourceItems": [
+        {
+          "sourceId": "T087",
+          "sourceKind": "textbook",
+          "expression": "south",
+          "meaning": "南；南方",
+          "partOfSpeech": "n.",
+          "phonetic": "/saʊθ/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 37,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 92,
+          "originalFields": {
+            "序号": 87,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "south",
+            "音标（教材）": "/saʊθ/",
+            "词性": "n.",
+            "中文释义": "南；南方",
+            "教材课文页": 37,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T087",
+          "introducedAtStation": 2
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T087",
+        "word": "south",
+        "ipa": "/saʊθ/",
+        "focus": "/aʊ/有滑动；末尾字母组合th读清辅音/θ/，不是/s/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Our school is in the south of the town.",
+          "zh": "我们的学校在镇的南部。",
+          "sourceIds": [
+            "T087"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/saʊθ/",
+      "pos": "n.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T088",
+      "sourceId": "T088",
+      "sourceIds": [
+        "T088"
+      ],
+      "word": "clear",
+      "meaning": "晴朗的",
+      "sourceItems": [
+        {
+          "sourceId": "T088",
+          "sourceKind": "textbook",
+          "expression": "clear",
+          "meaning": "晴朗的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/klɪə(r)/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 37,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 93,
+          "originalFields": {
+            "序号": 88,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "clear",
+            "音标（教材）": "/klɪə(r)/",
+            "词性": "adj.",
+            "中文释义": "晴朗的",
+            "教材课文页": 37,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T088",
+          "introducedAtStation": 2
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T088",
+        "word": "clear",
+        "ipa": "/klɪə(r)/",
+        "focus": "/ɪə/由/ɪ/滑向/ə/；开头/kl/直接相连。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The sky is clear today.",
+          "zh": "今天天空晴朗。",
+          "sourceIds": [
+            "T088"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/klɪə(r)/",
+      "pos": "adj.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "T062",
+      "sourceId": "T062",
+      "sourceIds": [
+        "T062"
+      ],
+      "word": "mind",
+      "meaning": "介意",
+      "sourceItems": [
+        {
+          "sourceId": "T062",
+          "sourceKind": "textbook",
+          "expression": "mind",
+          "meaning": "介意",
+          "partOfSpeech": "v.",
+          "phonetic": "/maɪnd/",
+          "unit": "Unit 2",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 30,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 67,
+          "originalFields": {
+            "序号": 62,
+            "单元": "Unit 2",
+            "类型": "单词",
+            "单词／短语": "mind",
+            "音标（教材）": "/maɪnd/",
+            "词性": "v.",
+            "中文释义": "介意",
+            "教材课文页": 30,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T062",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T062",
+        "word": "mind",
+        "ipa": "/maɪnd/",
+        "focus": "/aɪ/有滑动；结尾/nd/连读，不把/d/后的元音读出来。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Do you mind if I sit here?",
+          "zh": "你介意我坐这里吗？",
+          "sourceIds": [
+            "T062"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "源为动词介意，不以头脑名词义替代。",
+      "ipa": "/maɪnd/",
+      "pos": "v.",
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T059",
+      "sourceId": "T059",
+      "sourceIds": [
+        "T059"
+      ],
+      "word": "just",
+      "meaning": "恰好",
+      "sourceItems": [
+        {
+          "sourceId": "T059",
+          "sourceKind": "textbook",
+          "expression": "just",
+          "meaning": "恰好",
+          "partOfSpeech": "adv.",
+          "phonetic": "/dʒʌst/",
+          "unit": "Unit 2",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 30,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 64,
+          "originalFields": {
+            "序号": 59,
+            "单元": "Unit 2",
+            "类型": "单词",
+            "单词／短语": "just",
+            "音标（教材）": "/dʒʌst/",
+            "词性": "adv.",
+            "中文释义": "恰好",
+            "教材课文页": 30,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T059",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T059",
+        "word": "just",
+        "ipa": "/dʒʌst/",
+        "focus": "开头字母j在本词读/dʒ/；/ʌ/短读，结尾/st/不补元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This box is just the right size for my books.",
+          "zh": "这个箱子的大小恰好适合放我的书。",
+          "sourceIds": [
+            "T059"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "锁定教材恰好义。",
+      "ipa": "/dʒʌst/",
+      "pos": "adv.",
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T044",
+      "sourceId": "T044",
+      "sourceIds": [
+        "T044"
+      ],
+      "word": "develop",
+      "meaning": "培养；发展",
+      "sourceItems": [
+        {
+          "sourceId": "T044",
+          "sourceKind": "textbook",
+          "expression": "develop",
+          "meaning": "培养；发展",
+          "partOfSpeech": "v.",
+          "phonetic": "/dɪˈveləp/",
+          "unit": "Unit 2",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 24,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 49,
+          "originalFields": {
+            "序号": 44,
+            "单元": "Unit 2",
+            "类型": "单词",
+            "单词／短语": "develop",
+            "音标（教材）": "/dɪˈveləp/",
+            "词性": "v.",
+            "中文释义": "培养；发展",
+            "教材课文页": 24,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T044",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T044",
+        "word": "develop",
+        "ipa": "/dɪˈveləp/",
+        "focus": "重音在/vel/；开头/dɪ/轻读，结尾/əp/中的/ə/不重读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Clubs help students develop new interests.",
+          "zh": "社团帮助学生培养新的兴趣。",
+          "sourceIds": [
+            "T044"
+          ]
+        },
+        {
+          "en": "My reading skills develop as I read more.",
+          "zh": "随着阅读量增加，我的阅读技能不断发展。",
+          "sourceIds": [
+            "T044"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/dɪˈveləp/",
+      "pos": "v.",
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T043",
+      "sourceId": "T043",
+      "sourceIds": [
+        "T043"
+      ],
+      "word": "solve",
+      "meaning": "解答",
+      "sourceItems": [
+        {
+          "sourceId": "T043",
+          "sourceKind": "textbook",
+          "expression": "solve",
+          "meaning": "解答",
+          "partOfSpeech": "v.",
+          "phonetic": "/sɒlv/",
+          "unit": "Unit 2",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 24,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 48,
+          "originalFields": {
+            "序号": 43,
+            "单元": "Unit 2",
+            "类型": "单词",
+            "单词／短语": "solve",
+            "音标（教材）": "/sɒlv/",
+            "词性": "v.",
+            "中文释义": "解答",
+            "教材课文页": 24,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T043",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T043",
+        "word": "solve",
+        "ipa": "/sɒlv/",
+        "focus": "元音/ɒ/短读；结尾/lv/相连，/v/声带振动。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Working together helps us solve the maths problem.",
+          "zh": "合作帮助我们解答数学题。",
+          "sourceIds": [
+            "T043"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/sɒlv/",
+      "pos": "v.",
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T070",
+      "sourceId": "T070",
+      "sourceIds": [
+        "T070"
+      ],
+      "word": "look forward to",
+      "meaning": "期待；盼望",
+      "sourceItems": [
+        {
+          "sourceId": "T070",
+          "sourceKind": "textbook",
+          "expression": "look forward to",
+          "meaning": "期待；盼望",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 2",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 21,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 75,
+          "originalFields": {
+            "序号": 70,
+            "单元": "Unit 2",
+            "类型": "短语",
+            "单词／短语": "look forward to",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "期待；盼望",
+            "教材课文页": 21,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T070",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T070",
+        "sourceIds": [
+          "T070"
+        ],
+        "expression": "look forward to",
+        "phonetic": "/lʊk ˈfɔːwəd tuː/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "We look forward to meeting the new class teacher.",
+          "zh": "我们期待见到新的班主任。",
+          "sourceIds": [
+            "T070"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T069",
+      "sourceId": "T069",
+      "sourceIds": [
+        "T069"
+      ],
+      "word": "take part in",
+      "meaning": "参与",
+      "sourceItems": [
+        {
+          "sourceId": "T069",
+          "sourceKind": "textbook",
+          "expression": "take part in",
+          "meaning": "参与",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 2",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 21,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 74,
+          "originalFields": {
+            "序号": 69,
+            "单元": "Unit 2",
+            "类型": "短语",
+            "单词／短语": "take part in",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "参与",
+            "教材课文页": 21,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T069",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T069",
+        "sourceIds": [
+          "T069"
+        ],
+        "expression": "take part in",
+        "phonetic": "/teɪk pɑːt ɪn/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Many students take part in the school sports day.",
+          "zh": "许多学生参加学校运动会。",
+          "sourceIds": [
+            "T069"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T065",
+      "sourceId": "T065",
+      "sourceIds": [
+        "T065"
+      ],
+      "word": "success",
+      "meaning": "成功",
+      "sourceItems": [
+        {
+          "sourceId": "T065",
+          "sourceKind": "textbook",
+          "expression": "success",
+          "meaning": "成功",
+          "partOfSpeech": "n.",
+          "phonetic": "/səkˈses/",
+          "unit": "Unit 2",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 30,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 70,
+          "originalFields": {
+            "序号": 65,
+            "单元": "Unit 2",
+            "类型": "单词",
+            "单词／短语": "success",
+            "音标（教材）": "/səkˈses/",
+            "词性": "n.",
+            "中文释义": "成功",
+            "教材课文页": 30,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T065",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T065",
+        "word": "success",
+        "ipa": "/səkˈses/",
+        "focus": "开头/sək/轻读；重音在/ses/，词尾保持清辅音/s/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Practice helps us achieve success.",
+          "zh": "练习帮助我们取得成功。",
+          "sourceIds": [
+            "T065"
+          ]
+        },
+        {
+          "en": "The class show is a great success.",
+          "zh": "班级演出非常成功。",
+          "sourceIds": [
+            "T065"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/səkˈses/",
+      "pos": "n.",
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T064",
+      "sourceId": "T064",
+      "sourceIds": [
+        "T064"
+      ],
+      "word": "celebrate",
+      "meaning": "庆祝；庆贺",
+      "sourceItems": [
+        {
+          "sourceId": "T064",
+          "sourceKind": "textbook",
+          "expression": "celebrate",
+          "meaning": "庆祝；庆贺",
+          "partOfSpeech": "v.",
+          "phonetic": "/ˈselɪbreɪt/",
+          "unit": "Unit 2",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 30,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 69,
+          "originalFields": {
+            "序号": 64,
+            "单元": "Unit 2",
+            "类型": "单词",
+            "单词／短语": "celebrate",
+            "音标（教材）": "/ˈselɪbreɪt/",
+            "词性": "v.",
+            "中文释义": "庆祝；庆贺",
+            "教材课文页": 30,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T064",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T064",
+        "word": "celebrate",
+        "ipa": "/ˈselɪbreɪt/",
+        "focus": "重音在/sel/；中间/ɪ/轻短，结尾/breɪt/中的/eɪ/有滑动。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We celebrate Grandma's birthday with a family dinner.",
+          "zh": "我们用家庭聚餐庆祝奶奶的生日。",
+          "sourceIds": [
+            "T064"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/ˈselɪbreɪt/",
+      "pos": "v.",
+      "unit": "Unit 2",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T083",
+      "groupId": "T083",
+      "direction": "zh_to_en",
+      "stem": "铺满沙子的；含沙的",
+      "options": [
+        {
+          "label": "A",
+          "text": "presentation"
+        },
+        {
+          "label": "B",
+          "text": "junior high school"
+        },
+        {
+          "label": "C",
+          "text": "sandy"
+        },
+        {
+          "label": "D",
+          "text": "quality"
+        }
+      ],
+      "answer": "C",
+      "word": "sandy",
+      "meaning": "铺满沙子的；含沙的"
+    },
+    {
+      "id": 2,
+      "sourceId": "T084",
+      "groupId": "T084",
+      "direction": "en_to_zh",
+      "stem": "kick",
+      "options": [
+        {
+          "label": "A",
+          "text": "个性的"
+        },
+        {
+          "label": "B",
+          "text": "特色；特征"
+        },
+        {
+          "label": "C",
+          "text": "描述；形容"
+        },
+        {
+          "label": "D",
+          "text": "踢；踹"
+        }
+      ],
+      "answer": "D",
+      "word": "kick",
+      "meaning": "踢；踹"
+    },
+    {
+      "id": 3,
+      "sourceId": "T085",
+      "groupId": "T085",
+      "direction": "zh_to_en",
+      "stem": "镇；市镇",
+      "options": [
+        {
+          "label": "A",
+          "text": "glad"
+        },
+        {
+          "label": "B",
+          "text": "deep"
+        },
+        {
+          "label": "C",
+          "text": "dark"
+        },
+        {
+          "label": "D",
+          "text": "town"
+        }
+      ],
+      "answer": "D",
+      "word": "town",
+      "meaning": "镇；市镇"
+    },
+    {
+      "id": 4,
+      "sourceId": "T086",
+      "groupId": "T086",
+      "direction": "en_to_zh",
+      "stem": "feature",
+      "options": [
+        {
+          "label": "A",
+          "text": "介意"
+        },
+        {
+          "label": "B",
+          "text": "打扫干净"
+        },
+        {
+          "label": "C",
+          "text": "擅长……"
+        },
+        {
+          "label": "D",
+          "text": "特色；特征"
+        }
+      ],
+      "answer": "D",
+      "word": "feature",
+      "meaning": "特色；特征"
+    },
+    {
+      "id": 5,
+      "sourceId": "T087",
+      "groupId": "T087",
+      "direction": "zh_to_en",
+      "stem": "南；南方",
+      "options": [
+        {
+          "label": "A",
+          "text": "wake up"
+        },
+        {
+          "label": "B",
+          "text": "get up"
+        },
+        {
+          "label": "C",
+          "text": "patient"
+        },
+        {
+          "label": "D",
+          "text": "south"
+        }
+      ],
+      "answer": "D",
+      "word": "south",
+      "meaning": "南；南方"
+    },
+    {
+      "id": 6,
+      "sourceId": "T088",
+      "groupId": "T088",
+      "direction": "en_to_zh",
+      "stem": "clear",
+      "options": [
+        {
+          "label": "A",
+          "text": "日常生活"
+        },
+        {
+          "label": "B",
+          "text": "充满活力"
+        },
+        {
+          "label": "C",
+          "text": "晴朗的"
+        },
+        {
+          "label": "D",
+          "text": "去睡觉"
+        }
+      ],
+      "answer": "C",
+      "word": "clear",
+      "meaning": "晴朗的"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T083",
+      "groupId": "T083",
+      "target": "sandy",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "full of books"
+        },
+        {
+          "label": "B",
+          "text": "covered with snow"
+        },
+        {
+          "label": "C",
+          "text": "full of people"
+        },
+        {
+          "label": "D",
+          "text": "covered with sand"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "D",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "sandy",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "sandy"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "铺满沙子的；含沙的",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “sandy” means “covered with sand”.",
+      "parentExplanation": "本题考查“sandy”在本句中的用法；正确英文解释为“covered with sand”。对应源表释义为“铺满沙子的；含沙的”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T084",
+      "groupId": "T084",
+      "target": "kick",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to hit something with your foot"
+        },
+        {
+          "label": "B",
+          "text": "to hold something in your hand"
+        },
+        {
+          "label": "C",
+          "text": "to look for something"
+        },
+        {
+          "label": "D",
+          "text": "to write about something"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "kick",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "kick"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "踢；踹",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “kick” means “to hit something with your foot”.",
+      "parentExplanation": "本题考查“kick”在本句中的用法；正确英文解释为“to hit something with your foot”。对应源表释义为“踢；踹”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T085",
+      "groupId": "T085",
+      "target": "town",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "corner"
+        },
+        {
+          "label": "B",
+          "text": "junior high school"
+        },
+        {
+          "label": "C",
+          "text": "geography"
+        },
+        {
+          "label": "D",
+          "text": "town"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "What kind of place does Grandma live in?",
+      "answer": "D",
+      "listenScript": "Grandma knows the little shops near her home. She walks along a few short streets to buy food, while the nearest city is an hour away.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Grandma knows the little shops near her home. She walks along a few short streets to buy food, while the nearest city is an hour away."
+        }
+      ],
+      "explanation": "A town is a place with homes and shops, usually smaller than a city.",
+      "parentExplanation": "住宅、商店以及小于城市的范围共同限定town。",
+      "translation": {
+        "stem": "奶奶住在什么样的地方？",
+        "listenScript": "奶奶熟悉家附近的小商店。她沿着几条短街走去买食物，而最近的城市距这里有一小时路程。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T085",
+        "T068",
+        "T039",
+        "T038"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T086",
+      "groupId": "T086",
+      "target": "feature",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "footprint"
+        },
+        {
+          "label": "B",
+          "text": "diary"
+        },
+        {
+          "label": "C",
+          "text": "feature"
+        },
+        {
+          "label": "D",
+          "text": "activity"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which word names the special part of the place?",
+      "answer": "C",
+      "listenScript": "People often mention the old red bridge when they describe this place. Visitors take photos of it because its shape is different from the bridges nearby.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "People often mention the old red bridge when they describe this place. Visitors take photos of it because its shape is different from the bridges nearby."
+        }
+      ],
+      "explanation": "A feature is a special part or quality of a place.",
+      "parentExplanation": "这里考查feature的特色、特征义项，不是脚印、日记或活动。",
+      "translation": {
+        "stem": "哪个词指这个地方的特色？",
+        "listenScript": "人们介绍这个地方时，经常提到古老的红桥。游客给它拍照，因为它的形状与附近的桥不同。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T086",
+        "T080",
+        "T054",
+        "T040"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T087",
+      "groupId": "T087",
+      "target": "south",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the direction where the sun rises"
+        },
+        {
+          "label": "B",
+          "text": "the direction opposite north"
+        },
+        {
+          "label": "C",
+          "text": "the direction opposite south"
+        },
+        {
+          "label": "D",
+          "text": "the direction where the sun sets"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "North is at the top of this map. The south is at the bottom.\nWhat does “south” mean here?",
+      "translation": {
+        "stem": "这张地图上方是北方。下方是南方。 这里“south”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “south” means “the direction opposite north”.",
+      "parentExplanation": "本题考查“south”在本句中的用法；正确英文解释为“the direction opposite north”。对应源表释义为“南；南方”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T088",
+      "groupId": "T088",
+      "target": "clear",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "having strong wind"
+        },
+        {
+          "label": "B",
+          "text": "having many clouds"
+        },
+        {
+          "label": "C",
+          "text": "having heavy rain"
+        },
+        {
+          "label": "D",
+          "text": "having no clouds"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "There are no clouds today. The sky is clear.\nWhat does “clear” mean here?",
+      "translation": {
+        "stem": "今天没有云。天空晴朗。 这里“clear”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “clear” means “having no clouds”.",
+      "parentExplanation": "本题考查“clear”在本句中的用法；正确英文解释为“having no clouds”。对应源表释义为“晴朗的”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T062",
+      "groupId": "T062",
+      "target": "mind",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to decide to lend something to a friend"
+        },
+        {
+          "label": "B",
+          "text": "to feel annoyed by something or object to it"
+        },
+        {
+          "label": "C",
+          "text": "to forget where something was placed"
+        },
+        {
+          "label": "D",
+          "text": "to enjoy something without any objection"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "Do you mind if I open the window, or would the cold air bother you?\nWhat does “mind” mean here?",
+      "translation": {
+        "stem": "你介意我打开窗户吗，还是说冷空气会让你不舒服？ 这里“mind”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “mind” means “to feel annoyed by something or object to it”.",
+      "parentExplanation": "本题考查“mind”在本句中的用法；正确英文解释为“to feel annoyed by something or object to it”。对应源表释义为“介意”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T059",
+      "groupId": "T059",
+      "target": "just",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "at some unknown future time"
+        },
+        {
+          "label": "B",
+          "text": "exactly"
+        },
+        {
+          "label": "C",
+          "text": "without any reason"
+        },
+        {
+          "label": "D",
+          "text": "very slowly and carefully"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "This coat is just the right size for me: neither too big nor too small.\nWhat does “just” mean here?",
+      "translation": {
+        "stem": "这件外套的尺码恰好适合我：既不太大也不太小。 这里“just”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “just” means “exactly”.",
+      "parentExplanation": "本题考查“just”在本句中的用法；正确英文解释为“exactly”。对应源表释义为“恰好”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T083",
+      "groupId": "T083",
+      "target": "sandy",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "sandy"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We walk along a s________ path with sand under our feet.",
+      "answer": "sandy",
+      "hint": "covered with sand",
+      "grammar": "Adjective before a noun",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Sandy is an adjective describing the path.",
+      "parentExplanation": "名词path前用形容词sandy，表示含沙或铺满沙子的。",
+      "translation": {
+        "stem": "我们沿着一条铺满沙子的小路走，脚下都是沙。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T084",
+      "groupId": "T084",
+      "target": "kick",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "kick"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Can you k________ the ball to me with your foot?",
+      "answer": "kick",
+      "hint": "hit something with your foot",
+      "grammar": "Can + base verb",
+      "initialLetter": "k",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use the base form kick after can.",
+      "parentExplanation": "情态动词can后用动词原形kick。",
+      "translation": {
+        "stem": "你能用脚把球踢给我吗？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T085",
+      "groupId": "T085",
+      "target": "town",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "towns"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "There are two small t________ near this city.",
+      "answer": "towns",
+      "hint": "places with streets, homes and shops",
+      "grammar": "Regular plural noun",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Two needs the plural noun towns.",
+      "parentExplanation": "two后必须用复数towns。",
+      "translation": {
+        "stem": "这座城市附近有两个小镇。（有街道、房屋和商店的地方）",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T086",
+      "groupId": "T086",
+      "target": "feature",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "feature"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The red bridge is an important f________ of this town.",
+      "answer": "feature",
+      "hint": "a special part or quality",
+      "grammar": "Singular countable noun",
+      "initialLetter": "f",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use a singular noun after “an important”: “feature”. The phrase “a special part” gives its meaning.",
+      "parentExplanation": "空格前有an important，应填单数可数名词feature；提示中的a special part说明此处考查“特色”义项。",
+      "translation": {
+        "stem": "红桥是这个镇的一个重要特色。（特别的部分）",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T087",
+      "groupId": "T087",
+      "target": "south",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "south"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We drive from the north of the country to the s________, the opposite end.",
+      "answer": "south",
+      "hint": "the direction or region opposite north",
+      "grammar": "the + direction noun",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "South names the direction or region opposite north; here it is a noun after the.",
+      "parentExplanation": "south指与北方相对的南方；the后用方位名词，保持源词性为名词。",
+      "translation": {
+        "stem": "我们从这个国家的北部开车去南部，也就是相对的一端。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T088",
+      "groupId": "T088",
+      "target": "clear",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "clear"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "There is not a cloud in the c________ sky.",
+      "answer": "clear",
+      "hint": "without clouds",
+      "grammar": "Adjective before a noun",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A clear sky has no clouds.",
+      "parentExplanation": "clear在此为形容词，表示晴朗的，与没有云相符。",
+      "translation": {
+        "stem": "晴朗的天空中没有一朵云。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T044",
+      "groupId": "T044",
+      "target": "develop",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "develop"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The art club helps me d________ my drawing skills through regular practice.",
+      "answer": "develop",
+      "hint": "Use a verb meaning make an ability grow and become better.",
+      "grammar": "develop + 技能名词",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Skills grow and improve when we develop them.",
+      "parentExplanation": "培养、发展技能用develop；help me后可接动词原形。",
+      "translation": {
+        "stem": "美术社团通过定期练习帮助我发展绘画技能。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T043",
+      "groupId": "T043",
+      "target": "solve",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "solve"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "I cannot s________ this maths problem yet, so I ask the teacher to explain it.",
+      "answer": "solve",
+      "hint": "Use a verb meaning find the answer to a problem.",
+      "grammar": "cannot + 动词原形",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Finding a problem's answer is solving it; after cannot use solve.",
+      "parentExplanation": "解答问题用solve，cannot后接动词原形。",
+      "translation": {
+        "stem": "我还解不出这道数学题，所以请老师讲解。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T070",
+      "groupId": "T070",
+      "target": "look forward to",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to feel angry about an event that is over"
+        },
+        {
+          "label": "B",
+          "text": "to decide an event must be cancelled"
+        },
+        {
+          "label": "C",
+          "text": "to feel happy about an event that will happen"
+        },
+        {
+          "label": "D",
+          "text": "to forget an event before it happens"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “look forward to” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 2, \"look forward to\" means \"to feel happy about an event that will happen\". The surrounding action supports this meaning.",
+      "parentExplanation": "第2句中“look forward to”在语境中表示“期待；盼望”；句子为“He tells his friend, “I look forward to running with our team.””。",
+      "translation": {
+        "stem": "短文中的“look forward to”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "look forward to"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T069",
+      "groupId": "T069",
+      "target": "take part in",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to stay outside an activity"
+        },
+        {
+          "label": "B",
+          "text": "to watch without joining an activity"
+        },
+        {
+          "label": "C",
+          "text": "to participate in an activity"
+        },
+        {
+          "label": "D",
+          "text": "to stop others joining an activity"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “take part in” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 3, \"take part in\" means \"to participate in an activity\". The surrounding action supports this meaning.",
+      "parentExplanation": "第3句中“take part in”在语境中表示“参与”；句子为“His friend Lily wants to take part in the race too, although she does not run very fast.”。",
+      "translation": {
+        "stem": "短文中的“take part in”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "take part in"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What does Kai do when Lily needs a rest?",
+      "explanation": "Sentence 4 says that Kai waits when Lily needs a rest.",
+      "parentExplanation": "第4句说明凯会等莉莉，体现对队友的帮助。",
+      "translation": {
+        "stem": "莉莉需要休息时，凯怎么做？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "He leaves her alone at school."
+        },
+        {
+          "label": "B",
+          "text": "He waits for her."
+        },
+        {
+          "label": "C",
+          "text": "He finishes the school race early."
+        },
+        {
+          "label": "D",
+          "text": "He asks her to stop racing forever."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea of the passage?",
+      "explanation": "The friends look forward to the race and practise together with care for each other.",
+      "parentExplanation": "全文围绕两位朋友期待比赛、共同练习和相互支持展开。",
+      "translation": {
+        "stem": "短文的主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A fast runner decides to compete without a team."
+        },
+        {
+          "label": "B",
+          "text": "Two friends prepare for a race and support each other."
+        },
+        {
+          "label": "C",
+          "text": "A teacher asks pupils never to rest during practice."
+        },
+        {
+          "label": "D",
+          "text": "Two friends try to avoid a school sports afternoon."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T065",
+      "groupId": "T065",
+      "target": "success",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "an event that never starts"
+        },
+        {
+          "label": "B",
+          "text": "an event that achieves its aim"
+        },
+        {
+          "label": "C",
+          "text": "an event that must be kept secret"
+        },
+        {
+          "label": "D",
+          "text": "an event that fails to achieve its aim"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “success” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 4, \"success\" means \"an event that achieves its aim\". The surrounding action supports this meaning.",
+      "parentExplanation": "第4句中“success”在语境中表示“成功”；句子为“The sale is a success because the club can buy the books it planned to buy.”。",
+      "translation": {
+        "stem": "短文中的“success”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "success"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T064",
+      "groupId": "T064",
+      "target": "celebrate",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to complain about a happy event"
+        },
+        {
+          "label": "B",
+          "text": "to cancel an event without telling anyone"
+        },
+        {
+          "label": "C",
+          "text": "to forget an important event"
+        },
+        {
+          "label": "D",
+          "text": "to mark a happy event with special activities"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “celebrate” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 5, \"celebrate\" means \"to mark a happy event with special activities\". The surrounding action supports this meaning.",
+      "parentExplanation": "第5句中“celebrate”在语境中表示“庆祝；庆贺”；句子为“The members celebrate by sharing fruit and thanking everyone who helped.”。",
+      "translation": {
+        "stem": "短文中的“celebrate”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "targetSpan": "celebrate"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why is the book sale a success?",
+      "explanation": "Sentence 4 explains that the club can buy the books it planned to buy.",
+      "parentExplanation": "第4句明确给出成功标准：可以买到原计划为孩子们购置的书。",
+      "translation": {
+        "stem": "为什么这次书籍义卖成功了？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        3,
+        4
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "It earns enough to buy the planned books."
+        },
+        {
+          "label": "B",
+          "text": "It ends before any family can visit."
+        },
+        {
+          "label": "C",
+          "text": "It keeps all the old books in one room."
+        },
+        {
+          "label": "D",
+          "text": "It brings only club members to the table."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea of the passage?",
+      "explanation": "The club holds a successful sale to help younger pupils get books.",
+      "parentExplanation": "全文讲俱乐部通过义卖帮助低年级学生获得书籍。",
+      "translation": {
+        "stem": "短文的主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Some families take the club fruit without helping."
+        },
+        {
+          "label": "B",
+          "text": "A club gives up because nobody wants its books."
+        },
+        {
+          "label": "C",
+          "text": "Some readers complain about the school library."
+        },
+        {
+          "label": "D",
+          "text": "A club works together to help other children read."
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Our school sports afternoon is next Wednesday, and Kai is excited about it. He tells his friend, “I look forward to running with our team.” His friend Lily wants to take part in the race too, although she does not run very fast. They meet after school to practise, and Kai waits when Lily needs a rest. Their teacher says that helping a teammate is as important as finishing the race. Now both friends feel ready to enjoy the afternoon together, whatever place they finish in.",
+      "parallelText": [
+        {
+          "en": "Our school sports afternoon is next Wednesday, and Kai is excited about it.",
+          "zh": "我们学校下周三举办体育活动下午场，凯对此很兴奋。"
+        },
+        {
+          "en": "He tells his friend, “I look forward to running with our team.”",
+          "zh": "他告诉朋友：“我期待和队伍一起跑步。”"
+        },
+        {
+          "en": "His friend Lily wants to take part in the race too, although she does not run very fast.",
+          "zh": "他的朋友莉莉也想参加比赛，虽然她跑得不很快。"
+        },
+        {
+          "en": "They meet after school to practise, and Kai waits when Lily needs a rest.",
+          "zh": "他们放学后见面练习，莉莉需要休息时，凯会等她。"
+        },
+        {
+          "en": "Their teacher says that helping a teammate is as important as finishing the race.",
+          "zh": "老师说，帮助队友和完成比赛一样重要。"
+        },
+        {
+          "en": "Now both friends feel ready to enjoy the afternoon together, whatever place they finish in.",
+          "zh": "现在两位朋友都准备好一起享受这个下午，无论最后取得什么名次。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "race",
+          "meaning": "a competition to see who is fastest"
+        },
+        {
+          "word": "teammate",
+          "meaning": "a person on the same team"
+        },
+        {
+          "word": "whatever",
+          "meaning": "no matter what"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "The reading club plans a book sale to help buy books for younger pupils. At first, only a few people stop at the table, so the club puts up a big sign. Soon more families come, and all the books find new readers by the afternoon. The sale is a success because the club can buy the books it planned to buy. The members celebrate by sharing fruit and thanking everyone who helped. They are pleased because their work helps other children enjoy reading.",
+      "parallelText": [
+        {
+          "en": "The reading club plans a book sale to help buy books for younger pupils.",
+          "zh": "阅读俱乐部计划义卖书籍，帮助为低年级学生买书。"
+        },
+        {
+          "en": "At first, only a few people stop at the table, so the club puts up a big sign.",
+          "zh": "起初，只有几个人停在桌边，于是俱乐部竖起了一块大标牌。"
+        },
+        {
+          "en": "Soon more families come, and all the books find new readers by the afternoon.",
+          "zh": "不久，更多家庭来了，到下午，所有的书都找到了新读者。"
+        },
+        {
+          "en": "The sale is a success because the club can buy the books it planned to buy.",
+          "zh": "义卖成功了，因为俱乐部可以买到原计划购买的书。"
+        },
+        {
+          "en": "The members celebrate by sharing fruit and thanking everyone who helped.",
+          "zh": "成员们一起吃水果，向所有帮忙的人致谢，以此庆祝。"
+        },
+        {
+          "en": "They are pleased because their work helps other children enjoy reading.",
+          "zh": "他们很高兴，因为自己的努力帮助其他孩子享受阅读。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "sale",
+          "meaning": "an event where things are sold"
+        },
+        {
+          "word": "sign",
+          "meaning": "a notice that gives information"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S002-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T062",
+      "groupId": "T062",
+      "expression": "mind",
+      "meaning": "介意",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 2,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S002-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T059",
+      "groupId": "T059",
+      "expression": "just",
+      "meaning": "恰好",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 2,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S002-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T044",
+      "groupId": "T044",
+      "expression": "develop",
+      "meaning": "培养；发展",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 2,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S002-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T043",
+      "groupId": "T043",
+      "expression": "solve",
+      "meaning": "解答",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 2,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S002-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T070",
+      "groupId": "T070",
+      "expression": "look forward to",
+      "meaning": "期待；盼望",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 2,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S002-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T069",
+      "groupId": "T069",
+      "expression": "take part in",
+      "meaning": "参与",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 2,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S002-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T065",
+      "groupId": "T065",
+      "expression": "success",
+      "meaning": "成功",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 2,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S002-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T064",
+      "groupId": "T064",
+      "expression": "celebrate",
+      "meaning": "庆祝；庆贺",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 2,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

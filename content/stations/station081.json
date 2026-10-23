@@ -1,0 +1,3214 @@
+{
+  "station": 81,
+  "type": "new_learning",
+  "phase": "phrase_supplement",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 81,
+  "newItems": [
+    {
+      "groupId": "E0210",
+      "sourceId": "E0210",
+      "sourceIds": [
+        "E0210"
+      ],
+      "word": "take off",
+      "meaning": "①脱下②起飞；脱掉（衣服）；（飞机）起飞；突然大受欢迎",
+      "sourceItems": [
+        {
+          "sourceId": "E0210",
+          "sourceKind": "phrase",
+          "expression": "take off",
+          "meaning": "①脱下②起飞；脱掉（衣服）；（飞机）起飞；突然大受欢迎",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "按衣物或飞机语境辨别脱下和起飞",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0210；P1170",
+          "sourceImages": "IMG_2700.heic；IMG_2721.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 105,
+          "originalFields": {
+            "编号": "E0210",
+            "英文表达": "take off",
+            "中文释义": "①脱下②起飞；脱掉（衣服）；（飞机）起飞；突然大受欢迎",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "按衣物或飞机语境辨别脱下和起飞",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“脱下”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0210；P1170",
+            "来源图片": "IMG_2700.heic；IMG_2721.heic",
+            "原文英文": "take off",
+            "原文释义": "①脱下②起飞；脱掉（衣服）；（飞机）起飞；突然大受欢迎",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0210",
+          "introducedAtStation": 81
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0210",
+        "sourceIds": [
+          "E0210"
+        ],
+        "expression": "take off",
+        "phonetic": "/teɪk ɒf/",
+        "readingForms": [
+          {
+            "expression": "take off",
+            "phonetic": "/teɪk ɒf/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0210",
+            "expression": "take off"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please take off your coat in this warm room.",
+          "zh": "房间里很暖和，请脱下外套。",
+          "sourceIds": [
+            "E0210"
+          ]
+        },
+        {
+          "en": "Please take your wet shoes off at the door.",
+          "zh": "请在门口脱下湿鞋。",
+          "sourceIds": [
+            "E0210"
+          ]
+        },
+        {
+          "en": "The plane takes off at nine.",
+          "zh": "飞机九点起飞。",
+          "sourceIds": [
+            "E0210"
+          ]
+        },
+        {
+          "en": "The new game takes off quickly and becomes very popular.",
+          "zh": "这个新游戏很快火起来，变得非常受欢迎。",
+          "sourceIds": [
+            "E0210"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "保留脱衣、起飞、突然大受欢迎三个原义；衣物宾语前置与夹置均有实例。",
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0585",
+      "sourceId": "E0585",
+      "sourceIds": [
+        "E0585"
+      ],
+      "word": "traffic jam",
+      "meaning": "交通堵塞",
+      "sourceItems": [
+        {
+          "sourceId": "E0585",
+          "sourceKind": "phrase",
+          "expression": "traffic jam",
+          "meaning": "交通堵塞",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "jam为可数名词，一次拥堵可用a traffic jam。",
+          "evidence": "8上U4参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0589",
+          "sourceImages": "IMG_2705.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 106,
+          "originalFields": {
+            "编号": "E0585",
+            "英文表达": "traffic jam",
+            "中文释义": "交通堵塞",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "jam为可数名词，一次拥堵可用a traffic jam。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "8上U4参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0589",
+            "来源图片": "IMG_2705.heic",
+            "原文英文": "traffic jam",
+            "原文释义": "交通堵塞",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/23287257"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0585",
+          "introducedAtStation": 81
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0585",
+        "sourceIds": [
+          "E0585"
+        ],
+        "expression": "traffic jam",
+        "phonetic": "/ˈtræfɪk dʒæm/",
+        "readingForms": [
+          {
+            "expression": "traffic jam",
+            "phonetic": "/ˈtræfɪk dʒæm/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0585",
+            "expression": "traffic jam"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The bus moves slowly because of a traffic jam.",
+          "zh": "由于交通堵塞，公共汽车行驶缓慢。",
+          "sourceIds": [
+            "E0585"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "源evidence为“8上U4参考教辅列出对应/同构搭配”；不得将其写成已核验七上教材原词。",
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0973",
+      "sourceId": "E0973",
+      "sourceIds": [
+        "E0742",
+        "E0973",
+        "E0743"
+      ],
+      "word": "turn left / turn left/right / turn right",
+      "meaning": "向左转；向左拐/向右拐；向右转",
+      "sourceItems": [
+        {
+          "sourceId": "E0742",
+          "sourceKind": "phrase",
+          "expression": "turn left",
+          "meaning": "向左转",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "left作方向副词，不加to；在某路口用at。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0813",
+          "sourceImages": "IMG_2717.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 107,
+          "originalFields": {
+            "编号": "E0742",
+            "英文表达": "turn left",
+            "中文释义": "向左转",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "left作方向副词，不加to；在某路口用at。",
+            "适用训练": "听说交际 / 完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0813",
+            "来源图片": "IMG_2717.heic",
+            "原文英文": "turn left",
+            "原文释义": "向左转",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0973",
+          "introducedAtStation": 81
+        },
+        {
+          "sourceId": "E0973",
+          "sourceKind": "phrase",
+          "expression": "turn left/right",
+          "meaning": "向左拐/向右拐",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "left/right作副词，不加to。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P1196",
+          "sourceImages": "IMG_2722.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 108,
+          "originalFields": {
+            "编号": "E0973",
+            "英文表达": "turn left/right",
+            "中文释义": "向左拐/向右拐",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "left/right作副词，不加to。",
+            "适用训练": "听说交际 / 完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P1196",
+            "来源图片": "IMG_2722.heic",
+            "原文英文": "turn left/right",
+            "原文释义": "向左拐/向右拐",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0973",
+          "introducedAtStation": 81
+        },
+        {
+          "sourceId": "E0743",
+          "sourceKind": "phrase",
+          "expression": "turn right",
+          "meaning": "向右转",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "right作方向副词；不要写turn to right。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0814",
+          "sourceImages": "IMG_2717.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 109,
+          "originalFields": {
+            "编号": "E0743",
+            "英文表达": "turn right",
+            "中文释义": "向右转",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "right作方向副词；不要写turn to right。",
+            "适用训练": "听说交际 / 完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0814",
+            "来源图片": "IMG_2717.heic",
+            "原文英文": "turn right",
+            "原文释义": "向右转",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0973",
+          "introducedAtStation": 81
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0973",
+        "sourceIds": [
+          "E0742",
+          "E0973",
+          "E0743"
+        ],
+        "expression": "turn left/right",
+        "phonetic": "/tɜːn left/ 或 /tɜːn raɪt/",
+        "readingForms": [
+          {
+            "expression": "turn left",
+            "phonetic": "/tɜːn left/"
+          },
+          {
+            "expression": "turn right",
+            "phonetic": "/tɜːn raɪt/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0742",
+            "expression": "turn left"
+          },
+          {
+            "sourceId": "E0973",
+            "expression": "turn left/right"
+          },
+          {
+            "sourceId": "E0743",
+            "expression": "turn right"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Turn left at the library to reach the park.",
+          "zh": "在图书馆处向左转可到公园。",
+          "sourceIds": [
+            "E0742"
+          ]
+        },
+        {
+          "en": "Turn left at this corner.",
+          "zh": "在这个拐角向左转。",
+          "sourceIds": [
+            "E0973"
+          ]
+        },
+        {
+          "en": "Turn right at the gate.",
+          "zh": "在大门处向右转。",
+          "sourceIds": [
+            "E0973"
+          ]
+        },
+        {
+          "en": "Turn right after the bridge to reach the school.",
+          "zh": "过桥后向右转可到学校。",
+          "sourceIds": [
+            "E0743"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "组ID为E0973；E0742左、E0743右各保留独立来源；E0973原条自身left/right双分支也分别有例句及两fill，不伪映主来源。",
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0540",
+      "sourceId": "E0540",
+      "sourceIds": [
+        "E0540"
+      ],
+      "word": "a bit of",
+      "meaning": "一点儿",
+      "sourceItems": [
+        {
+          "sourceId": "E0540",
+          "sourceKind": "phrase",
+          "expression": "a bit of",
+          "meaning": "一点儿",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "逻辑表达",
+          "usage": "a bit of 后接不可数名词。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0544",
+          "sourceImages": "IMG_2705.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 110,
+          "originalFields": {
+            "编号": "E0540",
+            "英文表达": "a bit of",
+            "中文释义": "一点儿",
+            "学习层级": "核心掌握",
+            "主题": "逻辑表达",
+            "用法与易错点": "a bit of 后接不可数名词。",
+            "适用训练": "语法填空；书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0544",
+            "来源图片": "IMG_2705.heic",
+            "原文英文": "a bit of",
+            "原文释义": "一点儿",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0540",
+          "introducedAtStation": 81
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0540",
+        "sourceIds": [
+          "E0540"
+        ],
+        "expression": "a bit of",
+        "phonetic": "/ə bɪt əv/",
+        "readingForms": [
+          {
+            "expression": "a bit of",
+            "phonetic": "/ə bɪt əv/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0540",
+            "expression": "a bit of"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please add a bit of milk to the tea.",
+          "zh": "请在茶里加一点牛奶。",
+          "sourceIds": [
+            "E0540"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "逻辑表达",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0541",
+      "sourceId": "E0541",
+      "sourceIds": [
+        "E0541"
+      ],
+      "word": "a bottle of...",
+      "meaning": "一瓶……",
+      "sourceItems": [
+        {
+          "sourceId": "E0541",
+          "sourceKind": "phrase",
+          "expression": "a bottle of...",
+          "meaning": "一瓶……",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "逻辑表达",
+          "usage": "数量超过一时bottle加s，of后内容物按其自身可数性处理。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0545",
+          "sourceImages": "IMG_2705.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 111,
+          "originalFields": {
+            "编号": "E0541",
+            "英文表达": "a bottle of...",
+            "中文释义": "一瓶……",
+            "学习层级": "核心掌握",
+            "主题": "逻辑表达",
+            "用法与易错点": "数量超过一时bottle加s，of后内容物按其自身可数性处理。",
+            "适用训练": "语法填空；书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0545",
+            "来源图片": "IMG_2705.heic",
+            "原文英文": "a bottle of...",
+            "原文释义": "一瓶……",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0541",
+          "introducedAtStation": 81
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0541",
+        "sourceIds": [
+          "E0541"
+        ],
+        "expression": "a bottle of...",
+        "phonetic": "/ə ˈbɒtəl əv …/",
+        "readingForms": [
+          {
+            "expression": "a bottle of …",
+            "phonetic": "/ə ˈbɒtəl əv …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0541",
+            "expression": "a bottle of..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I carry a bottle of water in my bag.",
+          "zh": "我包里装着一瓶水。",
+          "sourceIds": [
+            "E0541"
+          ]
+        },
+        {
+          "en": "Mia buys two bottles of milk.",
+          "zh": "米娅买了两瓶牛奶。",
+          "sourceIds": [
+            "E0541"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "逻辑表达",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0543",
+      "sourceId": "E0543",
+      "sourceIds": [
+        "E0543"
+      ],
+      "word": "a few",
+      "meaning": "有些，几个",
+      "sourceItems": [
+        {
+          "sourceId": "E0543",
+          "sourceKind": "phrase",
+          "expression": "a few",
+          "meaning": "有些，几个",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "逻辑表达",
+          "usage": "a few修饰可数名词复数；few含否定意义。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0547",
+          "sourceImages": "IMG_2705.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 112,
+          "originalFields": {
+            "编号": "E0543",
+            "英文表达": "a few",
+            "中文释义": "有些，几个",
+            "学习层级": "核心掌握",
+            "主题": "逻辑表达",
+            "用法与易错点": "a few修饰可数名词复数；few含否定意义。",
+            "适用训练": "语法填空；书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0547",
+            "来源图片": "IMG_2705.heic",
+            "原文英文": "a few",
+            "原文释义": "有些，几个",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0543",
+          "introducedAtStation": 81
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0543",
+        "sourceIds": [
+          "E0543"
+        ],
+        "expression": "a few",
+        "phonetic": "/ə fjuː/",
+        "readingForms": [
+          {
+            "expression": "a few",
+            "phonetic": "/ə fjuː/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0543",
+            "expression": "a few"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "A few students stay to help after class.",
+          "zh": "几个学生下课后留下来帮忙。",
+          "sourceIds": [
+            "E0543"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "逻辑表达",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "E0262",
+      "sourceId": "E0262",
+      "sourceIds": [
+        "E0262"
+      ],
+      "word": "plan to do sth.",
+      "meaning": "计划（或打算）做某事",
+      "sourceItems": [
+        {
+          "sourceId": "E0262",
+          "sourceKind": "phrase",
+          "expression": "plan to do sth.",
+          "meaning": "计划（或打算）做某事",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "plan后用to do，注意planned双写n",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0262",
+          "sourceImages": "IMG_2701.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 104,
+          "originalFields": {
+            "编号": "E0262",
+            "英文表达": "plan to do sth.",
+            "中文释义": "计划（或打算）做某事",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "plan后用to do，注意planned双写n",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“计划（或打算）做某事”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0262",
+            "来源图片": "IMG_2701.heic",
+            "原文英文": "plan to do sth.",
+            "原文释义": "计划（或打算）做某事",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0262",
+          "introducedAtStation": 80
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0262",
+        "sourceIds": [
+          "E0262"
+        ],
+        "expression": "plan to do sth.",
+        "phonetic": "/plæn tə duː ˈsʌmθɪŋ/",
+        "readingForms": [
+          {
+            "expression": "plan to do something",
+            "phonetic": "/plæn tə duː ˈsʌmθɪŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0262",
+            "expression": "plan to do sth."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We plan to visit the museum tomorrow.",
+          "zh": "我们计划明天参观博物馆。",
+          "sourceIds": [
+            "E0262"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0142",
+      "sourceId": "E0142",
+      "sourceIds": [
+        "E0142"
+      ],
+      "word": "look around",
+      "meaning": "①环顾四周 ②参观（某地）",
+      "sourceItems": [
+        {
+          "sourceId": "E0142",
+          "sourceKind": "phrase",
+          "expression": "look around",
+          "meaning": "①环顾四周 ②参观（某地）",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "around可作副词或接参观地点",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0142",
+          "sourceImages": "IMG_2700.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 98,
+          "originalFields": {
+            "编号": "E0142",
+            "英文表达": "look around",
+            "中文释义": "①环顾四周 ②参观（某地）",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "around可作副词或接参观地点",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“环顾四周 ”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0142",
+            "来源图片": "IMG_2700.heic",
+            "原文英文": "look around",
+            "原文释义": "①环顾四周 ②参观（某地）",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0142",
+          "introducedAtStation": 80
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0142",
+        "sourceIds": [
+          "E0142"
+        ],
+        "expression": "look around",
+        "phonetic": "/lʊk əˈraʊnd/",
+        "readingForms": [
+          {
+            "expression": "look around",
+            "phonetic": "/lʊk əˈraʊnd/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0142",
+            "expression": "look around"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I look around to find my friend in the crowd.",
+          "zh": "我环顾四周，在人群中寻找朋友。",
+          "sourceIds": [
+            "E0142"
+          ]
+        },
+        {
+          "en": "We look around the museum before lunch.",
+          "zh": "午饭前我们参观博物馆。",
+          "sourceIds": [
+            "E0142"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0704",
+      "sourceId": "E0704",
+      "sourceIds": [
+        "E0704"
+      ],
+      "word": "get in",
+      "meaning": "进入：到达；收割；进入，收割",
+      "sourceItems": [
+        {
+          "sourceId": "E0704",
+          "sourceKind": "phrase",
+          "expression": "get in",
+          "meaning": "进入：到达；收割；进入，收割",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "按人、交通工具或庄稼语境辨别进入、到达与收割。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0749；P0951",
+          "sourceImages": "IMG_2716.heic；IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 87,
+          "originalFields": {
+            "编号": "E0704",
+            "英文表达": "get in",
+            "中文释义": "进入：到达；收割；进入，收割",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "按人、交通工具或庄稼语境辨别进入、到达与收割。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0749；P0951",
+            "来源图片": "IMG_2716.heic；IMG_2719.heic",
+            "原文英文": "get in",
+            "原文释义": "进入：到达；收割；进入，收割",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0704",
+          "introducedAtStation": 78
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0704",
+        "sourceIds": [
+          "E0704"
+        ],
+        "expression": "get in",
+        "phonetic": "/ɡet ɪn/",
+        "readingForms": [
+          {
+            "expression": "get in",
+            "phonetic": "/ɡet ɪn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0704",
+            "expression": "get in"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The taxi door is open. Please get in.",
+          "zh": "出租车门开着。请进去。",
+          "sourceIds": [
+            "E0704"
+          ]
+        },
+        {
+          "en": "The train gets in at eight.",
+          "zh": "火车八点到达。",
+          "sourceIds": [
+            "E0704"
+          ]
+        },
+        {
+          "en": "The farmers get the rice in before the rain.",
+          "zh": "农民在下雨前把稻谷收进来。",
+          "sourceIds": [
+            "E0704"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "harvest",
+          "meaning": "gather crops when they are ready"
+        },
+        {
+          "word": "wheat",
+          "meaning": "a crop whose grain is used to make flour"
+        }
+      ],
+      "notes": "进入、到达、收割三个原义分别有例句与两fill。",
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0078",
+      "sourceId": "E0078",
+      "sourceIds": [
+        "E0078"
+      ],
+      "word": "get on",
+      "meaning": "①上车 ②相处 ③进展；上车；进展",
+      "sourceItems": [
+        {
+          "sourceId": "E0078",
+          "sourceKind": "phrase",
+          "expression": "get on",
+          "meaning": "①上车 ②相处 ③进展；上车；进展",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "先掌握上车义，再结合语境识别进展义",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0078；P0952",
+          "sourceImages": "IMG_2699.heic；IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 90,
+          "originalFields": {
+            "编号": "E0078",
+            "英文表达": "get on",
+            "中文释义": "①上车 ②相处 ③进展；上车；进展",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "先掌握上车义，再结合语境识别进展义",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“上车 ”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0078；P0952",
+            "来源图片": "IMG_2699.heic；IMG_2719.heic",
+            "原文英文": "get on",
+            "原文释义": "①上车 ②相处 ③进展；上车；进展",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0078",
+          "introducedAtStation": 78
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0078",
+        "sourceIds": [
+          "E0078"
+        ],
+        "expression": "get on",
+        "phonetic": "/ɡet ɒn/",
+        "readingForms": [
+          {
+            "expression": "get on",
+            "phonetic": "/ɡet ɒn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0078",
+            "expression": "get on"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We get on the bus at this stop.",
+          "zh": "我们在这一站上公共汽车。",
+          "sourceIds": [
+            "E0078"
+          ]
+        },
+        {
+          "en": "Mia and Lily get on well as neighbours.",
+          "zh": "米娅和莉莉作为邻居相处融洽。",
+          "sourceIds": [
+            "E0078"
+          ]
+        },
+        {
+          "en": "How do you get on with your schoolwork?",
+          "zh": "你的功课进展如何？",
+          "sourceIds": [
+            "E0078"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "上车、相处、进展三个原义分别覆盖；不将它们互相充作已掌握证据。",
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0792",
+      "sourceId": "E0792",
+      "sourceIds": [
+        "E0792"
+      ],
+      "word": "look left",
+      "meaning": "向左看",
+      "sourceItems": [
+        {
+          "sourceId": "E0792",
+          "sourceKind": "phrase",
+          "expression": "look left",
+          "meaning": "向左看",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "left作方向副词；道路观察可连用look left and right。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0908",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 99,
+          "originalFields": {
+            "编号": "E0792",
+            "英文表达": "look left",
+            "中文释义": "向左看",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "left作方向副词；道路观察可连用look left and right。",
+            "适用训练": "听说交际 / 完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0908",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "look left",
+            "原文释义": "向左看",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0792",
+          "introducedAtStation": 80
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0792",
+        "sourceIds": [
+          "E0792"
+        ],
+        "expression": "look left",
+        "phonetic": "/lʊk left/",
+        "readingForms": [
+          {
+            "expression": "look left",
+            "phonetic": "/lʊk left/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0792",
+            "expression": "look left"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Look left to see the clock beside the door.",
+          "zh": "向左看，看看门旁的钟。",
+          "sourceIds": [
+            "E0792"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0791",
+      "sourceId": "E0791",
+      "sourceIds": [
+        "E0791"
+      ],
+      "word": "look right",
+      "meaning": "向右看",
+      "sourceItems": [
+        {
+          "sourceId": "E0791",
+          "sourceKind": "phrase",
+          "expression": "look right",
+          "meaning": "向右看",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "right作方向副词，与look at sth结构区分。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0907",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 100,
+          "originalFields": {
+            "编号": "E0791",
+            "英文表达": "look right",
+            "中文释义": "向右看",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "right作方向副词，与look at sth结构区分。",
+            "适用训练": "听说交际 / 完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0907",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "look right",
+            "原文释义": "向右看",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0791",
+          "introducedAtStation": 80
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0791",
+        "sourceIds": [
+          "E0791"
+        ],
+        "expression": "look right",
+        "phonetic": "/lʊk raɪt/",
+        "readingForms": [
+          {
+            "expression": "look right",
+            "phonetic": "/lʊk raɪt/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0791",
+            "expression": "look right"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Look right to see the picture beside the window.",
+          "zh": "向右看，看看窗旁的画。",
+          "sourceIds": [
+            "E0791"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0564",
+      "sourceId": "E0564",
+      "sourceIds": [
+        "E0564"
+      ],
+      "word": "lose one's way",
+      "meaning": "迷路",
+      "sourceItems": [
+        {
+          "sourceId": "E0564",
+          "sourceKind": "phrase",
+          "expression": "lose one's way",
+          "meaning": "迷路",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "way前用对应物主代词，意思相当于get lost。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0568；P1056",
+          "sourceImages": "IMG_2705.heic；IMG_2720.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 101,
+          "originalFields": {
+            "编号": "E0564",
+            "英文表达": "lose one's way",
+            "中文释义": "迷路",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "way前用对应物主代词，意思相当于get lost。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0568；P1056",
+            "来源图片": "IMG_2705.heic；IMG_2720.heic",
+            "原文英文": "lose one's way",
+            "原文释义": "迷路",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0564",
+          "introducedAtStation": 80
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0564",
+        "sourceIds": [
+          "E0564"
+        ],
+        "expression": "lose one's way",
+        "phonetic": "/luːz wʌnz weɪ/",
+        "readingForms": [
+          {
+            "expression": "lose one's way",
+            "phonetic": "/luːz wʌnz weɪ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0564",
+            "expression": "lose one's way"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We lose our way when we walk without a map.",
+          "zh": "我们不带地图行走时会迷路。",
+          "sourceIds": [
+            "E0564"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0446",
+      "sourceId": "E0446",
+      "sourceIds": [
+        "E0446"
+      ],
+      "word": "on one's way to...",
+      "meaning": "在去……的路上",
+      "sourceItems": [
+        {
+          "sourceId": "E0446",
+          "sourceKind": "phrase",
+          "expression": "on one's way to...",
+          "meaning": "在去……的路上",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "旅行交通",
+          "usage": "one's随人称变化；接home、here、there时省略to。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0449",
+          "sourceImages": "IMG_2704.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 103,
+          "originalFields": {
+            "编号": "E0446",
+            "英文表达": "on one's way to...",
+            "中文释义": "在去……的路上",
+            "学习层级": "核心掌握",
+            "主题": "旅行交通",
+            "用法与易错点": "one's随人称变化；接home、here、there时省略to。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0449",
+            "来源图片": "IMG_2704.heic",
+            "原文英文": "on one's way to...",
+            "原文释义": "在去……的路上",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0446",
+          "introducedAtStation": 80
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0446",
+        "sourceIds": [
+          "E0446"
+        ],
+        "expression": "on one's way to...",
+        "phonetic": "/ɒn wʌnz weɪ tə …/",
+        "readingForms": [
+          {
+            "expression": "on one's way to …",
+            "phonetic": "/ɒn wʌnz weɪ tə …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0446",
+            "expression": "on one's way to..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I meet Ben on my way to school.",
+          "zh": "我在上学路上遇见本。",
+          "sourceIds": [
+            "E0446"
+          ]
+        },
+        {
+          "en": "Mia sees a rainbow on her way home.",
+          "zh": "米娅在回家路上看见彩虹。",
+          "sourceIds": [
+            "E0446"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "E0210",
+      "groupId": "E0210",
+      "direction": "zh_to_en",
+      "stem": "①脱下②起飞；脱掉（衣服）；（飞机）起飞；突然大受欢迎",
+      "options": [
+        {
+          "label": "A",
+          "text": "go back"
+        },
+        {
+          "label": "B",
+          "text": "take off"
+        },
+        {
+          "label": "C",
+          "text": "fall off"
+        },
+        {
+          "label": "D",
+          "text": "poem"
+        }
+      ],
+      "answer": "B",
+      "word": "take off",
+      "meaning": "①脱下②起飞；脱掉（衣服）；（飞机）起飞；突然大受欢迎"
+    },
+    {
+      "id": 2,
+      "sourceId": "E0585",
+      "groupId": "E0585",
+      "direction": "en_to_zh",
+      "stem": "traffic jam",
+      "options": [
+        {
+          "label": "A",
+          "text": "前往；出发去某地"
+        },
+        {
+          "label": "B",
+          "text": "影响；对……起作用"
+        },
+        {
+          "label": "C",
+          "text": "出售；销售"
+        },
+        {
+          "label": "D",
+          "text": "交通堵塞"
+        }
+      ],
+      "answer": "D",
+      "word": "traffic jam",
+      "meaning": "交通堵塞"
+    },
+    {
+      "id": 3,
+      "sourceId": "E0742",
+      "groupId": "E0973",
+      "direction": "zh_to_en",
+      "stem": "向左转",
+      "options": [
+        {
+          "label": "A",
+          "text": "harmful"
+        },
+        {
+          "label": "B",
+          "text": "turn left"
+        },
+        {
+          "label": "C",
+          "text": "plastic"
+        },
+        {
+          "label": "D",
+          "text": "general"
+        }
+      ],
+      "answer": "B",
+      "word": "turn left",
+      "meaning": "向左转"
+    },
+    {
+      "id": 4,
+      "sourceId": "E0540",
+      "groupId": "E0540",
+      "direction": "en_to_zh",
+      "stem": "a bit of",
+      "options": [
+        {
+          "label": "A",
+          "text": "一点儿"
+        },
+        {
+          "label": "B",
+          "text": "真的"
+        },
+        {
+          "label": "C",
+          "text": "被划分成……"
+        },
+        {
+          "label": "D",
+          "text": "角；墙角"
+        }
+      ],
+      "answer": "A",
+      "word": "a bit of",
+      "meaning": "一点儿"
+    },
+    {
+      "id": 5,
+      "sourceId": "E0541",
+      "groupId": "E0541",
+      "direction": "zh_to_en",
+      "stem": "一瓶……",
+      "options": [
+        {
+          "label": "A",
+          "text": "culture"
+        },
+        {
+          "label": "B",
+          "text": "whale"
+        },
+        {
+          "label": "C",
+          "text": "oil"
+        },
+        {
+          "label": "D",
+          "text": "a bottle of..."
+        }
+      ],
+      "answer": "D",
+      "word": "a bottle of...",
+      "meaning": "一瓶……"
+    },
+    {
+      "id": 6,
+      "sourceId": "E0543",
+      "groupId": "E0543",
+      "direction": "en_to_zh",
+      "stem": "a few",
+      "options": [
+        {
+          "label": "A",
+          "text": "实验；试验"
+        },
+        {
+          "label": "B",
+          "text": "年级"
+        },
+        {
+          "label": "C",
+          "text": "有些，几个"
+        },
+        {
+          "label": "D",
+          "text": "赶快，急忙"
+        }
+      ],
+      "answer": "C",
+      "word": "a few",
+      "meaning": "有些，几个"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0210",
+      "groupId": "E0210",
+      "target": "take off",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to put clothing on, land an aircraft, or lose popularity"
+        },
+        {
+          "label": "B",
+          "text": "remove an item of clothing"
+        },
+        {
+          "label": "C",
+          "text": "to buy clothing, board an aircraft, or write a new plan"
+        },
+        {
+          "label": "D",
+          "text": "to wash clothing, repair an aircraft, or close a shop"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "B",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "take off",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "take off"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "①脱下②起飞；脱掉（衣服）；（飞机）起飞；突然大受欢迎",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “take off” means “remove an item of clothing”.",
+      "parentExplanation": "本题考查“take off”在本句中的用法；正确英文解释为“remove an item of clothing”。对应源表释义为“①脱下②起飞；脱掉（衣服）；（飞机）起飞；突然大受欢迎”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0585",
+      "groupId": "E0585",
+      "target": "traffic jam",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a list of buses and their arrival times"
+        },
+        {
+          "label": "B",
+          "text": "a group of vehicles moving quickly on an empty road"
+        },
+        {
+          "label": "C",
+          "text": "a line of vehicles unable to move or moving very slowly"
+        },
+        {
+          "label": "D",
+          "text": "a line of people waiting to buy tickets"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "The cars hardly move. There is a traffic jam on the road.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The cars hardly move. There is a traffic jam on the road."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "车辆几乎不动。路上出现交通堵塞。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “traffic jam” means “a line of vehicles unable to move or moving very slowly”.",
+      "parentExplanation": "本题考查“traffic jam”在本句中的用法；正确英文解释为“a line of vehicles unable to move or moving very slowly”。对应源表释义为“交通堵塞”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0742",
+      "groupId": "E0973",
+      "target": "turn left",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "turn left"
+        },
+        {
+          "label": "B",
+          "text": "get up"
+        },
+        {
+          "label": "C",
+          "text": "take part in"
+        },
+        {
+          "label": "D",
+          "text": "clean up"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression best describes Ben changing direction towards his left?",
+      "answer": "A",
+      "listenScript": "Ben reaches the corner and chooses the street on his left. He changes direction into that street.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Ben reaches the corner and chooses the street on his left. He changes direction into that street."
+        }
+      ],
+      "explanation": "The situation describes Ben changing direction towards his left; the matching expression is turn left.",
+      "parentExplanation": "情境描述本向左改变方向，对应turn left（向左转）。",
+      "translation": {
+        "stem": "哪个表达最能描述本向左改变方向？",
+        "listenScript": "本到拐角后选择左边的街道，改变方向进入那条街。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0742",
+        "T069",
+        "T073",
+        "T078"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0540",
+      "groupId": "E0540",
+      "target": "a bit of",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "clean up"
+        },
+        {
+          "label": "B",
+          "text": "a bit of"
+        },
+        {
+          "label": "C",
+          "text": "take part in"
+        },
+        {
+          "label": "D",
+          "text": "get up"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression best describes Mia using a small quantity of water?",
+      "answer": "B",
+      "listenScript": "The paint in the pot is too thick. Mia adds just a small amount of water, not a full cup.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The paint in the pot is too thick. Mia adds just a small amount of water, not a full cup."
+        }
+      ],
+      "explanation": "The situation describes Mia using a small quantity of water; the matching expression is a bit of.",
+      "parentExplanation": "情境描述米娅使用少量水，对应a bit of（一点儿）。",
+      "translation": {
+        "stem": "哪个表达最能描述米娅使用少量水？",
+        "listenScript": "罐里的颜料太稠。米娅只加少量水，而不是满满一杯。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0540",
+        "T069",
+        "T073",
+        "T078"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0541",
+      "groupId": "E0541",
+      "target": "a bottle of...",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the amount held in one bottle"
+        },
+        {
+          "label": "B",
+          "text": "the amount held in one small spoon"
+        },
+        {
+          "label": "C",
+          "text": "the amount held in one large room"
+        },
+        {
+          "label": "D",
+          "text": "the amount held in one flat envelope"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "There is one bottle in my bag. I have a bottle of water for the trip.\nWhat does “a bottle of” mean here?",
+      "translation": {
+        "stem": "我包里有一个瓶子。我为旅行带了一瓶水。 这里“a bottle of”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “a bottle of...” means “the amount held in one bottle”.",
+      "parentExplanation": "本题考查“a bottle of...”在本句中的用法；正确英文解释为“the amount held in one bottle”。对应源表释义为“一瓶……”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0543",
+      "groupId": "E0543",
+      "target": "a few",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a small amount of an uncountable liquid"
+        },
+        {
+          "label": "B",
+          "text": "some, but not many, of a countable thing"
+        },
+        {
+          "label": "C",
+          "text": "a very large number of a countable thing"
+        },
+        {
+          "label": "D",
+          "text": "none of a countable thing"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "Only three students stay. There are just a few students in the room.\nWhat does “a few” mean here?",
+      "translation": {
+        "stem": "只有三个学生留下。房间里只有几个学生。 这里“a few”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “a few” means “some, but not many, of a countable thing”.",
+      "parentExplanation": "本题考查“a few”在本句中的用法；正确英文解释为“some, but not many, of a countable thing”。对应源表释义为“有些，几个”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0262",
+      "groupId": "E0262",
+      "target": "plan to do sth.",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to stop someone from doing something"
+        },
+        {
+          "label": "B",
+          "text": "to finish doing something already"
+        },
+        {
+          "label": "C",
+          "text": "to forget how to do something"
+        },
+        {
+          "label": "D",
+          "text": "to intend to do something"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "Mia has a book ready for this evening. She plans to read it after dinner.\nWhat does “plans to read” mean here?",
+      "translation": {
+        "stem": "米娅为今晚准备好了一本书。她计划晚饭后读。 这里“plans to read”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “plan to do sth.” means “to intend to do something”.",
+      "parentExplanation": "本题考查“plan to do sth.”在本句中的用法；正确英文解释为“to intend to do something”。对应源表释义为“计划（或打算）做某事”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0142",
+      "groupId": "E0142",
+      "target": "look around",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to keep looking only at one small object"
+        },
+        {
+          "label": "B",
+          "text": "to leave a place without seeing anything"
+        },
+        {
+          "label": "C",
+          "text": "to close your eyes and rest"
+        },
+        {
+          "label": "D",
+          "text": "look in different directions around a place"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "Ben looks around the room with his eyes to find an empty seat.\nWhat does “looks around” mean here?",
+      "translation": {
+        "stem": "本环视房间，寻找空座位。 这里“looks around”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “look around” means “look in different directions around a place”.",
+      "parentExplanation": "本题考查“look around”在本句中的用法；正确英文解释为“look in different directions around a place”。对应源表释义为“①环顾四周 ②参观（某地）”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0210",
+      "groupId": "E0210",
+      "target": "take off",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "take your shoes off",
+        "take off your shoes",
+        "take them off"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Your shoes are wet. Please t________ at the door.",
+      "answer": "take your shoes off",
+      "hint": "remove the shoes you are wearing",
+      "grammar": "Phrase in context",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A clothing object can go between take and off.",
+      "parentExplanation": "take sth off中宾语可置于take与off之间，此处为your shoes。",
+      "translation": {
+        "stem": "你的鞋湿了。请在门口把鞋脱下。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0585",
+      "groupId": "E0585",
+      "target": "traffic jam",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "traffic jams"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This busy road has two t________ during the day, and cars wait for a long time.",
+      "answer": "traffic jams",
+      "hint": "long lines of vehicles unable to move normally",
+      "grammar": "Phrase in context",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "After two, make jam plural: traffic jams.",
+      "parentExplanation": "two后将中心词jam变成jams，traffic保持不变。",
+      "translation": {
+        "stem": "这条繁忙道路白天出现两次交通堵塞，车辆等待很久。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0973",
+      "groupId": "E0973",
+      "target": "turn left/right",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "turn left"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The path to the garden is on our left. We t________ to follow it.",
+      "answer": "turn left",
+      "hint": "change direction towards the left side",
+      "grammar": "Phrase in context",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "We takes turn left in the simple present.",
+      "parentExplanation": "本题考同源turn left/right中的left分支，来源E0973。",
+      "translation": {
+        "stem": "去花园的小路在我们左侧。我们左转，沿着小路走。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 2,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0540",
+      "groupId": "E0540",
+      "target": "a bit of",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "a bit of"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The tea is too strong. Please add a________ milk, but not much.",
+      "answer": "a bit of",
+      "hint": "a small amount of an uncountable thing",
+      "grammar": "Phrase in context",
+      "initialLetter": "a",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A bit of is followed by the uncountable noun milk.",
+      "parentExplanation": "a bit of后接不可数名词milk，表示一点儿。",
+      "translation": {
+        "stem": "茶太浓了。请加一点牛奶，但不要太多。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0541",
+      "groupId": "E0541",
+      "target": "a bottle of...",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "two bottles of"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia buys t________ milk: one bottle for herself and one for Ben.",
+      "answer": "two bottles of",
+      "hint": "the amount held in two separate bottles",
+      "grammar": "Phrase in context",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Two changes bottle to bottles; of stays unchanged.",
+      "parentExplanation": "两瓶用two bottles of，bottle变复数，of保留。",
+      "translation": {
+        "stem": "米娅买了两瓶牛奶：一瓶给自己，一瓶给本。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0543",
+      "groupId": "E0543",
+      "target": "a few",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "a few"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia puts a________ coins in her pocket, only two or three.",
+      "answer": "a few",
+      "hint": "some, but not many, countable objects",
+      "grammar": "Phrase in context",
+      "initialLetter": "a",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Coins is plural, so use a few rather than a little.",
+      "parentExplanation": "coins可数复数用a few；a little用于不可数名词。",
+      "translation": {
+        "stem": "米娅往口袋放了几枚硬币，只有两三枚。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0704",
+      "groupId": "E0704",
+      "target": "get in",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "get in"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The taxi door is open. Please g________ and sit down.",
+      "answer": "get in",
+      "hint": "enter a vehicle or enclosed place",
+      "grammar": "Phrase in context",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Get in means enter the taxi here.",
+      "parentExplanation": "get in在此为进入车内；没有宾语时可直接使用。",
+      "translation": {
+        "stem": "出租车门开着。请进去坐下。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "harvest",
+          "meaning": "gather crops when they are ready"
+        },
+        {
+          "word": "wheat",
+          "meaning": "a crop whose grain is used to make flour"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0078",
+      "groupId": "E0078",
+      "target": "get on",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "get on"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The bus doors open. We g________ the bus and find our seats.",
+      "answer": "get on",
+      "hint": "board a bus, train or similar vehicle",
+      "grammar": "Phrase in context",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Get on means board a bus here.",
+      "parentExplanation": "get on在此表示上车；on后接the bus。",
+      "translation": {
+        "stem": "车门打开。我们上车并找到座位。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0792",
+      "groupId": "E0792",
+      "target": "look left",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "listen for a voice behind someone"
+        },
+        {
+          "label": "B",
+          "text": "close the eyes for a moment"
+        },
+        {
+          "label": "C",
+          "text": "move the whole body to a new town"
+        },
+        {
+          "label": "D",
+          "text": "direct the eyes towards the left side"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “look left” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, look left means direct the eyes towards the left side. Sentence 2 gives its use: The teacher asks each pupil to look left, then look right, and keep checking before crossing.",
+      "parentExplanation": "look left表示把视线转向左侧，不是身体左转。",
+      "translation": {
+        "stem": "短文中的“look left”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "look left"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0791",
+      "groupId": "E0791",
+      "target": "look right",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "walk backwards across a field"
+        },
+        {
+          "label": "B",
+          "text": "direct the eyes towards the right side"
+        },
+        {
+          "label": "C",
+          "text": "say that every answer is correct"
+        },
+        {
+          "label": "D",
+          "text": "put an object beside the right hand"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “look right” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, look right means direct the eyes towards the right side. Sentence 2 gives its use: The teacher asks each pupil to look left, then look right, and keep checking before crossing.",
+      "parentExplanation": "look right在并列道路观察语境指向右看，不是看起来正确。",
+      "translation": {
+        "stem": "短文中的“look right”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "look right"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why does Ben wait before crossing?",
+      "explanation": "Sentences 3 and 4 connect the blocked view with waiting.",
+      "parentExplanation": "第3、4句说明纸箱挡视线，因此等到看清。",
+      "translation": {
+        "stem": "本为何等候再过街？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        3,
+        4
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A box partly blocks his view of a bicycle and the route."
+        },
+        {
+          "label": "B",
+          "text": "He forgot the colour of his shoes."
+        },
+        {
+          "label": "C",
+          "text": "The teacher asks everyone to run around the field."
+        },
+        {
+          "label": "D",
+          "text": "He wants to copy the pupil ahead without looking."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main message?",
+      "explanation": "The exercise shows why pupils must continue checking actual conditions.",
+      "parentExplanation": "练习说明应持续观察实际路况。",
+      "translation": {
+        "stem": "主要意思是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Only the first pupil in a group needs a clear view."
+        },
+        {
+          "label": "B",
+          "text": "Every cardboard box should be used as a bicycle."
+        },
+        {
+          "label": "C",
+          "text": "A crossing routine means people never need to look."
+        },
+        {
+          "label": "D",
+          "text": "Road observation needs attention to the real situation."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0564",
+      "groupId": "E0564",
+      "target": "lose one's way",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "decide to end a conversation"
+        },
+        {
+          "label": "B",
+          "text": "forget to close a bag"
+        },
+        {
+          "label": "C",
+          "text": "become unable to find the correct route"
+        },
+        {
+          "label": "D",
+          "text": "drop books on the pavement"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “lose their way” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, lose their way means become unable to find the correct route. Sentence 3 gives its use: At a fork, they realise they could lose their way if they keep guessing.",
+      "parentExplanation": "lose their way指她们可能找不到正确路线，their对应两位行路者。",
+      "translation": {
+        "stem": "短文中的“lose their way”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "lose their way"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0446",
+      "groupId": "E0446",
+      "target": "on one's way to...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "hiding something behind a place"
+        },
+        {
+          "label": "B",
+          "text": "writing a story about a place"
+        },
+        {
+          "label": "C",
+          "text": "waiting for a place to close"
+        },
+        {
+          "label": "D",
+          "text": "travelling towards a place"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “on their way to” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, on their way to means travelling towards a place. Sentence 1 gives its use: Mia and her aunt are on their way to the library with a bag of donated books.",
+      "parentExplanation": "on their way to the library说明正在前往图书馆途中。",
+      "translation": {
+        "stem": "短文中的“on their way to”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "on their way to"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What do Mia and her aunt do instead of guessing?",
+      "explanation": "Sentences 4 and 5 describe comparing information and confirming the route.",
+      "parentExplanation": "第4、5句比较路牌地图，再得到工作人员确认。",
+      "translation": {
+        "stem": "她们怎样代替猜路？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4,
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "They leave the books in the road."
+        },
+        {
+          "label": "B",
+          "text": "They check a street sign against a map and ask for confirmation."
+        },
+        {
+          "label": "C",
+          "text": "They return every book to the shop window."
+        },
+        {
+          "label": "D",
+          "text": "They separate and walk in opposite directions."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title is best?",
+      "explanation": "The journey turns on recognising uncertainty and checking the route.",
+      "parentExplanation": "全文重点是陌生路线中及时停下核对。",
+      "translation": {
+        "stem": "哪个标题最好？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A Race to Repair Every Road"
+        },
+        {
+          "label": "B",
+          "text": "A Library That Sells Street Signs"
+        },
+        {
+          "label": "C",
+          "text": "The Disappearance of All the Donated Books"
+        },
+        {
+          "label": "D",
+          "text": "Checking a New Route before Getting Lost"
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Our class is practising road observation in a model street on the playground. The teacher asks each pupil to look left, then look right, and keep checking before crossing. Ben notices a bicycle hidden partly behind a tall cardboard box. He waits until he can see the whole route instead of copying the pupil ahead. Afterwards, our group moves the box and discusses how objects can block a clear view. The exercise reminds us that knowing a routine matters less if we stop watching the actual road.",
+      "parallelText": [
+        {
+          "en": "Our class is practising road observation in a model street on the playground.",
+          "zh": "我们班在操场的模拟街道上练习道路观察。"
+        },
+        {
+          "en": "The teacher asks each pupil to look left, then look right, and keep checking before crossing.",
+          "zh": "老师请每位同学先向左看，再向右看，过街前持续观察。"
+        },
+        {
+          "en": "Ben notices a bicycle hidden partly behind a tall cardboard box.",
+          "zh": "本发现一辆自行车被高纸箱遮住了一部分。"
+        },
+        {
+          "en": "He waits until he can see the whole route instead of copying the pupil ahead.",
+          "zh": "他等到能看清整条路线，而不是照搬前面同学的动作。"
+        },
+        {
+          "en": "Afterwards, our group moves the box and discusses how objects can block a clear view.",
+          "zh": "之后，我们小组移开箱子，讨论物体如何挡住视线。"
+        },
+        {
+          "en": "The exercise reminds us that knowing a routine matters less if we stop watching the actual road.",
+          "zh": "这次练习提醒我们：若不观察实际道路，只知道一套动作也不够。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "cardboard",
+          "meaning": "thick stiff paper used for boxes"
+        },
+        {
+          "word": "routine",
+          "meaning": "a usual sequence of actions"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Mia and her aunt are on their way to the library with a bag of donated books. They try a new lane because the usual street is closed for repairs. At a fork, they realise they could lose their way if they keep guessing. Instead, they stop by a shop and compare the street sign with the aunt's map. A worker confirms that the library is just beyond the next corner, beside the park. They arrive only a little late and explain the useful route check to the librarian.",
+      "parallelText": [
+        {
+          "en": "Mia and her aunt are on their way to the library with a bag of donated books.",
+          "zh": "米娅和姨妈带着一袋捐赠书，正去图书馆。"
+        },
+        {
+          "en": "They try a new lane because the usual street is closed for repairs.",
+          "zh": "常走的街道维修封闭，她们尝试一条新巷子。"
+        },
+        {
+          "en": "At a fork, they realise they could lose their way if they keep guessing.",
+          "zh": "走到岔路，她们意识到继续猜方向可能迷路。"
+        },
+        {
+          "en": "Instead, they stop by a shop and compare the street sign with the aunt's map.",
+          "zh": "于是她们在店旁停下，把路牌与姨妈的地图比较。"
+        },
+        {
+          "en": "A worker confirms that the library is just beyond the next corner, beside the park.",
+          "zh": "工作人员确认图书馆就在下一个转角后、公园旁。"
+        },
+        {
+          "en": "They arrive only a little late and explain the useful route check to the librarian.",
+          "zh": "她们只迟到了一会儿，并向图书管理员讲起这次有用的查路。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "fork",
+          "meaning": "a place where one path divides into two"
+        },
+        {
+          "word": "donated",
+          "meaning": "given to help someone without payment"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S081-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0262",
+      "groupId": "E0262",
+      "expression": "plan to do sth.",
+      "meaning": "计划（或打算）做某事",
+      "introducedAtStation": 80,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 81,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S081-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0142",
+      "groupId": "E0142",
+      "expression": "look around",
+      "meaning": "①环顾四周 ②参观（某地）",
+      "introducedAtStation": 80,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 81,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S081-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0704",
+      "groupId": "E0704",
+      "expression": "get in",
+      "meaning": "进入：到达；收割；进入，收割",
+      "introducedAtStation": 78,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 79,
+      "intervalInStations": 2,
+      "referenceDueStation": 82,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S081-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0078",
+      "groupId": "E0078",
+      "expression": "get on",
+      "meaning": "①上车 ②相处 ③进展；上车；进展",
+      "introducedAtStation": 78,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 79,
+      "intervalInStations": 2,
+      "referenceDueStation": 82,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S081-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0792",
+      "groupId": "E0792",
+      "expression": "look left",
+      "meaning": "向左看",
+      "introducedAtStation": 80,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 81,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S081-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0791",
+      "groupId": "E0791",
+      "expression": "look right",
+      "meaning": "向右看",
+      "introducedAtStation": 80,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 81,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S081-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0564",
+      "groupId": "E0564",
+      "expression": "lose one's way",
+      "meaning": "迷路",
+      "introducedAtStation": 80,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 81,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S081-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0446",
+      "groupId": "E0446",
+      "expression": "on one's way to...",
+      "meaning": "在去……的路上",
+      "introducedAtStation": 80,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 81,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

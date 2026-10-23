@@ -1,0 +1,3090 @@
+{
+  "station": 61,
+  "type": "new_learning",
+  "phase": "phrase_supplement",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 61,
+  "newItems": [
+    {
+      "groupId": "E0552",
+      "sourceId": "E0552",
+      "sourceIds": [
+        "E0552"
+      ],
+      "word": "each other",
+      "meaning": "互相，彼此",
+      "sourceItems": [
+        {
+          "sourceId": "E0552",
+          "sourceKind": "phrase",
+          "expression": "each other",
+          "meaning": "互相，彼此",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "表示相互，所有格用each other's，不写each others。",
+          "evidence": "7上U1参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0556",
+          "sourceImages": "IMG_2705.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 19,
+          "originalFields": {
+            "编号": "E0552",
+            "英文表达": "each other",
+            "中文释义": "互相，彼此",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "表示相互，所有格用each other's，不写each others。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "7上U1参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0556",
+            "来源图片": "IMG_2705.heic",
+            "原文英文": "each other",
+            "原文释义": "互相，彼此",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/20866078"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0552",
+          "introducedAtStation": 61
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0552",
+        "sourceIds": [
+          "E0552"
+        ],
+        "expression": "each other",
+        "phonetic": "/iːtʃ ˈʌðə/",
+        "readingForms": [
+          {
+            "expression": "each other",
+            "phonetic": "/iːtʃ ˈʌðə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0552",
+            "expression": "each other"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The two friends help each other with homework.",
+          "zh": "两个朋友在作业上互相帮助。",
+          "sourceIds": [
+            "E0552"
+          ],
+          "branch": "reciprocal"
+        },
+        {
+          "en": "We know each other's names.",
+          "zh": "我们知道彼此的名字。",
+          "sourceIds": [
+            "E0552"
+          ],
+          "branch": "possessive"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0485",
+      "sourceId": "E0485",
+      "sourceIds": [
+        "E0485"
+      ],
+      "word": "from...to...",
+      "meaning": "从……到……",
+      "sourceItems": [
+        {
+          "sourceId": "E0485",
+          "sourceKind": "phrase",
+          "expression": "from...to...",
+          "meaning": "从……到……",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "from后接起点，to后接终点，可表示时间或空间范围。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0489",
+          "sourceImages": "IMG_2704.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 20,
+          "originalFields": {
+            "编号": "E0485",
+            "英文表达": "from...to...",
+            "中文释义": "从……到……",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "from后接起点，to后接终点，可表示时间或空间范围。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0489",
+            "来源图片": "IMG_2704.heic",
+            "原文英文": "from...to...",
+            "原文释义": "从……到……",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0485",
+          "introducedAtStation": 61
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0485",
+        "sourceIds": [
+          "E0485"
+        ],
+        "expression": "from...to...",
+        "phonetic": "/frəm … tə …/",
+        "readingForms": [
+          {
+            "expression": "from … to …",
+            "phonetic": "/frəm … tə …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0485",
+            "expression": "from...to..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The club meets from four to five.",
+          "zh": "社团从四点活动到五点。",
+          "sourceIds": [
+            "E0485"
+          ],
+          "branch": "time"
+        },
+        {
+          "en": "The train travels from Beijing to Guangzhou.",
+          "zh": "火车从北京开往广州。",
+          "sourceIds": [
+            "E0485"
+          ],
+          "branch": "space"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0780",
+      "sourceId": "E0780",
+      "sourceIds": [
+        "E0780"
+      ],
+      "word": "go down",
+      "meaning": "下降",
+      "sourceItems": [
+        {
+          "sourceId": "E0780",
+          "sourceKind": "phrase",
+          "expression": "go down",
+          "meaning": "下降",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "可指价格下降，注意主语决定词义。",
+          "evidence": "8上U2参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0883",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 21,
+          "originalFields": {
+            "编号": "E0780",
+            "英文表达": "go down",
+            "中文释义": "下降",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "可指价格下降，注意主语决定词义。",
+            "适用训练": "完形阅读 / 语法填空",
+            "教材关联证据": "8上U2参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0883",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "go down",
+            "原文释义": "下降",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/23287257"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0780",
+          "introducedAtStation": 61
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0780",
+        "sourceIds": [
+          "E0780"
+        ],
+        "expression": "go down",
+        "phonetic": "/ɡəʊ daʊn/",
+        "readingForms": [
+          {
+            "expression": "go down",
+            "phonetic": "/ɡəʊ daʊn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0780",
+            "expression": "go down"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The price of the coat goes down in the sale.",
+          "zh": "这件外套的价格在促销时下降。",
+          "sourceIds": [
+            "E0780"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0724",
+      "sourceId": "E0724",
+      "sourceIds": [
+        "E0724"
+      ],
+      "word": "go out",
+      "meaning": "熄灭；外出",
+      "sourceItems": [
+        {
+          "sourceId": "E0724",
+          "sourceKind": "phrase",
+          "expression": "go out",
+          "meaning": "熄灭；外出",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "go out可表示外出或火/灯熄灭，按主语辨义。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0782；P0891",
+          "sourceImages": "IMG_2717.heic；IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 22,
+          "originalFields": {
+            "编号": "E0724",
+            "英文表达": "go out",
+            "中文释义": "熄灭；外出",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "go out可表示外出或火/灯熄灭，按主语辨义。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0782；P0891",
+            "来源图片": "IMG_2717.heic；IMG_2718.heic",
+            "原文英文": "go out",
+            "原文释义": "熄灭；外出",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0724",
+          "introducedAtStation": 61
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0724",
+        "sourceIds": [
+          "E0724"
+        ],
+        "expression": "go out",
+        "phonetic": "/ɡəʊ aʊt/",
+        "readingForms": [
+          {
+            "expression": "go out",
+            "phonetic": "/ɡəʊ aʊt/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0724",
+            "expression": "go out"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The candle goes out when the wind blows.",
+          "zh": "风一吹，蜡烛就熄灭了。",
+          "sourceIds": [
+            "E0724"
+          ],
+          "branch": "extinguish"
+        },
+        {
+          "en": "We go out for a walk after dinner.",
+          "zh": "我们晚饭后外出散步。",
+          "sourceIds": [
+            "E0724"
+          ],
+          "branch": "leave_home"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0781",
+      "sourceId": "E0781",
+      "sourceIds": [
+        "E0781"
+      ],
+      "word": "go up",
+      "meaning": "上涨",
+      "sourceItems": [
+        {
+          "sourceId": "E0781",
+          "sourceKind": "phrase",
+          "expression": "go up",
+          "meaning": "上涨",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "可指价格上涨，不用被动语态。",
+          "evidence": "8上U2参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0884",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 23,
+          "originalFields": {
+            "编号": "E0781",
+            "英文表达": "go up",
+            "中文释义": "上涨",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "可指价格上涨，不用被动语态。",
+            "适用训练": "完形阅读 / 语法填空",
+            "教材关联证据": "8上U2参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0884",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "go up",
+            "原文释义": "上涨",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/23287257"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0781",
+          "introducedAtStation": 61
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0781",
+        "sourceIds": [
+          "E0781"
+        ],
+        "expression": "go up",
+        "phonetic": "/ɡəʊ ʌp/",
+        "readingForms": [
+          {
+            "expression": "go up",
+            "phonetic": "/ɡəʊ ʌp/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0781",
+            "expression": "go up"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Food prices go up when supplies are low.",
+          "zh": "供应不足时，食品价格上涨。",
+          "sourceIds": [
+            "E0781"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0784",
+      "sourceId": "E0784",
+      "sourceIds": [
+        "E0784"
+      ],
+      "word": "go wrong",
+      "meaning": "出毛病",
+      "sourceItems": [
+        {
+          "sourceId": "E0784",
+          "sourceKind": "phrase",
+          "expression": "go wrong",
+          "meaning": "出毛病",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "wrong作表语形容词，不写wrongly。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0890",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 24,
+          "originalFields": {
+            "编号": "E0784",
+            "英文表达": "go wrong",
+            "中文释义": "出毛病",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "wrong作表语形容词，不写wrongly。",
+            "适用训练": "完形阅读 / 语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0890",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "go wrong",
+            "原文释义": "出毛病",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0784",
+          "introducedAtStation": 61
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0784",
+        "sourceIds": [
+          "E0784"
+        ],
+        "expression": "go wrong",
+        "phonetic": "/ɡəʊ rɒŋ/",
+        "readingForms": [
+          {
+            "expression": "go wrong",
+            "phonetic": "/ɡəʊ rɒŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0784",
+            "expression": "go wrong"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "If something goes wrong with the model, ask the teacher for help.",
+          "zh": "如果模型出了毛病，请老师帮忙。",
+          "sourceIds": [
+            "E0784"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "E0417",
+      "sourceId": "E0417",
+      "sourceIds": [
+        "E0417"
+      ],
+      "word": "dream of",
+      "meaning": "梦想",
+      "sourceItems": [
+        {
+          "sourceId": "E0417",
+          "sourceKind": "phrase",
+          "expression": "dream of",
+          "meaning": "梦想",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "of为介词，后接名词或doing表示梦想内容。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0419",
+          "sourceImages": "IMG_2703.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 17,
+          "originalFields": {
+            "编号": "E0417",
+            "英文表达": "dream of",
+            "中文释义": "梦想",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "of为介词，后接名词或doing表示梦想内容。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0419",
+            "来源图片": "IMG_2703.heic",
+            "原文英文": "dream of",
+            "原文释义": "梦想",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0417",
+          "introducedAtStation": 60
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0417",
+        "sourceIds": [
+          "E0417"
+        ],
+        "expression": "dream of",
+        "phonetic": "/driːm əv/",
+        "readingForms": [
+          {
+            "expression": "dream of",
+            "phonetic": "/driːm əv/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0417",
+            "expression": "dream of"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Mia dreams of a place in the school team.",
+          "zh": "米娅梦想在校队拥有一个位置。",
+          "sourceIds": [
+            "E0417"
+          ],
+          "branch": "noun"
+        },
+        {
+          "en": "Ben dreams of visiting space.",
+          "zh": "本梦想去太空。",
+          "sourceIds": [
+            "E0417"
+          ],
+          "branch": "gerund"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0377",
+      "sourceId": "E0377",
+      "sourceIds": [
+        "E0377"
+      ],
+      "word": "divide...into...",
+      "meaning": "把……分成……；把...分成",
+      "sourceItems": [
+        {
+          "sourceId": "E0377",
+          "sourceKind": "phrase",
+          "expression": "divide...into...",
+          "meaning": "把……分成……；把...分成",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "divide A into B；被动可用 be divided into。",
+          "evidence": "7上U3参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0377；P0686",
+          "sourceImages": "IMG_2703.heic；IMG_2716.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 16,
+          "originalFields": {
+            "编号": "E0377",
+            "英文表达": "divide...into...",
+            "中文释义": "把……分成……；把...分成",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "divide A into B；被动可用 be divided into。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "7上U3参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0377；P0686",
+            "来源图片": "IMG_2703.heic；IMG_2716.heic",
+            "原文英文": "divide...into...",
+            "原文释义": "把……分成……；把...分成",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/20866078"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0377",
+          "introducedAtStation": 60
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0377",
+        "sourceIds": [
+          "E0377"
+        ],
+        "expression": "divide...into...",
+        "phonetic": "/dɪˈvaɪd … ˈɪntuː …/",
+        "readingForms": [
+          {
+            "expression": "divide … into …",
+            "phonetic": "/dɪˈvaɪd … ˈɪntuː …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0377",
+            "expression": "divide...into..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The teacher divides the class into four groups.",
+          "zh": "老师把全班分成四组。",
+          "sourceIds": [
+            "E0377"
+          ],
+          "branch": null
+        },
+        {
+          "en": "Mia divides the cake into six equal pieces.",
+          "zh": "米娅把蛋糕分成六等份。",
+          "sourceIds": [
+            "E0377"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0689",
+      "sourceId": "E0689",
+      "sourceIds": [
+        "E0689"
+      ],
+      "word": "add up",
+      "meaning": "合计",
+      "sourceItems": [
+        {
+          "sourceId": "E0689",
+          "sourceKind": "phrase",
+          "expression": "add up",
+          "meaning": "合计",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "add up各项求和；add up to后接合计数。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0728",
+          "sourceImages": "IMG_2716.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 6,
+          "originalFields": {
+            "编号": "E0689",
+            "英文表达": "add up",
+            "中文释义": "合计",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "add up各项求和；add up to后接合计数。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0728",
+            "来源图片": "IMG_2716.heic",
+            "原文英文": "add up",
+            "原文释义": "合计",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0689",
+          "introducedAtStation": 59
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0689",
+        "sourceIds": [
+          "E0689"
+        ],
+        "expression": "add up",
+        "phonetic": "/æd ʌp/",
+        "readingForms": [
+          {
+            "expression": "add up",
+            "phonetic": "/æd ʌp/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0689",
+            "expression": "add up"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Add up the prices to find the total cost.",
+          "zh": "把各项价格加起来，算出总价。",
+          "sourceIds": [
+            "E0689"
+          ],
+          "branch": "calculate_total"
+        },
+        {
+          "en": "The two tickets add up to forty yuan.",
+          "zh": "两张票合计四十元。",
+          "sourceIds": [
+            "E0689"
+          ],
+          "branch": "amount_to"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "add up求和；add up to后接合计数。",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0530",
+      "sourceId": "E0530",
+      "sourceIds": [
+        "E0530"
+      ],
+      "word": "begin with...",
+      "meaning": "以……开始；以...开始",
+      "sourceItems": [
+        {
+          "sourceId": "E0530",
+          "sourceKind": "phrase",
+          "expression": "begin with...",
+          "meaning": "以……开始；以...开始",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "with后接开始的内容，begin过去式为began。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0534；P0603",
+          "sourceImages": "IMG_2705.heic；IMG_2715.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 11,
+          "originalFields": {
+            "编号": "E0530",
+            "英文表达": "begin with...",
+            "中文释义": "以……开始；以...开始",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "with后接开始的内容，begin过去式为began。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0534；P0603",
+            "来源图片": "IMG_2705.heic；IMG_2715.heic",
+            "原文英文": "begin with...",
+            "原文释义": "以……开始；以...开始",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0530",
+          "introducedAtStation": 59
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0530",
+        "sourceIds": [
+          "E0530"
+        ],
+        "expression": "begin with...",
+        "phonetic": "/bɪˈɡɪn wɪð …/",
+        "readingForms": [
+          {
+            "expression": "begin with …",
+            "phonetic": "/bɪˈɡɪn wɪð …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0530",
+            "expression": "begin with..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We begin with a short game before the lesson.",
+          "zh": "上课前，我们先从一个小游戏开始。",
+          "sourceIds": [
+            "E0530"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0829",
+      "sourceId": "E0829",
+      "sourceIds": [
+        "E0829"
+      ],
+      "word": "come out of",
+      "meaning": "从...出来",
+      "sourceItems": [
+        {
+          "sourceId": "E0829",
+          "sourceKind": "phrase",
+          "expression": "come out of",
+          "meaning": "从...出来",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "out of后接来源地点，不能只用out。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0964",
+          "sourceImages": "IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 13,
+          "originalFields": {
+            "编号": "E0829",
+            "英文表达": "come out of",
+            "中文释义": "从...出来",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "out of后接来源地点，不能只用out。",
+            "适用训练": "完形阅读 / 语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0964",
+            "来源图片": "IMG_2719.heic",
+            "原文英文": "come out of",
+            "原文释义": "从...出来",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0829",
+          "introducedAtStation": 60
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0829",
+        "sourceIds": [
+          "E0829"
+        ],
+        "expression": "come out of",
+        "phonetic": "/kʌm aʊt əv/",
+        "readingForms": [
+          {
+            "expression": "come out of",
+            "phonetic": "/kʌm aʊt əv/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0829",
+            "expression": "come out of"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The students come out of the classroom after the lesson.",
+          "zh": "下课后，学生们从教室里出来。",
+          "sourceIds": [
+            "E0829"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0714",
+      "sourceId": "E0714",
+      "sourceIds": [
+        "E0714"
+      ],
+      "word": "cross out",
+      "meaning": "划掉；删去",
+      "sourceItems": [
+        {
+          "sourceId": "E0714",
+          "sourceKind": "phrase",
+          "expression": "cross out",
+          "meaning": "划掉；删去",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "代词宾语放中间，如cross it out，表示划掉文字。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0765",
+          "sourceImages": "IMG_2717.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 14,
+          "originalFields": {
+            "编号": "E0714",
+            "英文表达": "cross out",
+            "中文释义": "划掉；删去",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "代词宾语放中间，如cross it out，表示划掉文字。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0765",
+            "来源图片": "IMG_2717.heic",
+            "原文英文": "cross out",
+            "原文释义": "划掉；删去",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0714",
+          "introducedAtStation": 60
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0714",
+        "sourceIds": [
+          "E0714"
+        ],
+        "expression": "cross out",
+        "phonetic": "/krɒs aʊt/",
+        "readingForms": [
+          {
+            "expression": "cross out",
+            "phonetic": "/krɒs aʊt/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0714",
+            "expression": "cross out"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Cross out the wrong word with one line.",
+          "zh": "把错词用一条线划掉。",
+          "sourceIds": [
+            "E0714"
+          ],
+          "branch": null
+        },
+        {
+          "en": "This word is wrong; cross it out.",
+          "zh": "这个词错了，把它划掉。",
+          "sourceIds": [
+            "E0714"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0511",
+      "sourceId": "E0511",
+      "sourceIds": [
+        "E0511"
+      ],
+      "word": "dress up",
+      "meaning": "①装扮 ②穿得正式；装扮；打扮",
+      "sourceItems": [
+        {
+          "sourceId": "E0511",
+          "sourceKind": "phrase",
+          "expression": "dress up",
+          "meaning": "①装扮 ②穿得正式；装扮；打扮",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "dress up as后接扮演角色；dress up也可单独表示盛装打扮。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0515；P0742",
+          "sourceImages": "IMG_2704.heic；IMG_2716.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 18,
+          "originalFields": {
+            "编号": "E0511",
+            "英文表达": "dress up",
+            "中文释义": "①装扮 ②穿得正式；装扮；打扮",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "dress up as后接扮演角色；dress up也可单独表示盛装打扮。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0515；P0742",
+            "来源图片": "IMG_2704.heic；IMG_2716.heic",
+            "原文英文": "dress up",
+            "原文释义": "①装扮 ②穿得正式；装扮；打扮",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0511",
+          "introducedAtStation": 60
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0511",
+        "sourceIds": [
+          "E0511"
+        ],
+        "expression": "dress up",
+        "phonetic": "/dres ʌp/",
+        "readingForms": [
+          {
+            "expression": "dress up",
+            "phonetic": "/dres ʌp/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0511",
+            "expression": "dress up"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The children dress up as animals for the play.",
+          "zh": "孩子们为戏剧演出装扮成动物。",
+          "sourceIds": [
+            "E0511"
+          ],
+          "branch": "costume"
+        },
+        {
+          "en": "We dress up for the formal school dinner.",
+          "zh": "我们穿上正式服装参加学校的正式晚宴。",
+          "sourceIds": [
+            "E0511"
+          ],
+          "branch": "formal_clothes"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0510",
+      "sourceId": "E0510",
+      "sourceIds": [
+        "E0510"
+      ],
+      "word": "cut up",
+      "meaning": "把……切成小块；切碎",
+      "sourceItems": [
+        {
+          "sourceId": "E0510",
+          "sourceKind": "phrase",
+          "expression": "cut up",
+          "meaning": "把……切成小块；切碎",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "cut it up；cut 的过去式仍为 cut。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0514；P0995",
+          "sourceImages": "IMG_2704.heic；IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 15,
+          "originalFields": {
+            "编号": "E0510",
+            "英文表达": "cut up",
+            "中文释义": "把……切成小块；切碎",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "cut it up；cut 的过去式仍为 cut。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0514；P0995",
+            "来源图片": "IMG_2704.heic；IMG_2719.heic",
+            "原文英文": "cut up",
+            "原文释义": "把……切成小块；切碎",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0510",
+          "introducedAtStation": 60
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0510",
+        "sourceIds": [
+          "E0510"
+        ],
+        "expression": "cut up",
+        "phonetic": "/kʌt ʌp/",
+        "readingForms": [
+          {
+            "expression": "cut up",
+            "phonetic": "/kʌt ʌp/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0510",
+            "expression": "cut up"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Cut up the apple before adding it to the bowl.",
+          "zh": "把苹果切成小块，再放进碗里。",
+          "sourceIds": [
+            "E0510"
+          ],
+          "branch": null
+        },
+        {
+          "en": "Take this carrot and cut it up.",
+          "zh": "拿这根胡萝卜，把它切碎。",
+          "sourceIds": [
+            "E0510"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "E0552",
+      "groupId": "E0552",
+      "direction": "zh_to_en",
+      "stem": "互相，彼此",
+      "options": [
+        {
+          "label": "A",
+          "text": "south"
+        },
+        {
+          "label": "B",
+          "text": "insect"
+        },
+        {
+          "label": "C",
+          "text": "each other"
+        },
+        {
+          "label": "D",
+          "text": "be based on"
+        }
+      ],
+      "answer": "C",
+      "word": "each other",
+      "meaning": "互相，彼此"
+    },
+    {
+      "id": 2,
+      "sourceId": "E0485",
+      "groupId": "E0485",
+      "direction": "en_to_zh",
+      "stem": "from...to...",
+      "options": [
+        {
+          "label": "A",
+          "text": "从……到……"
+        },
+        {
+          "label": "B",
+          "text": "醒；醒来"
+        },
+        {
+          "label": "C",
+          "text": "一件商品（或物品）"
+        },
+        {
+          "label": "D",
+          "text": "岛"
+        }
+      ],
+      "answer": "A",
+      "word": "from...to...",
+      "meaning": "从……到……"
+    },
+    {
+      "id": 3,
+      "sourceId": "E0780",
+      "groupId": "E0780",
+      "direction": "zh_to_en",
+      "stem": "下降",
+      "options": [
+        {
+          "label": "A",
+          "text": "solar system"
+        },
+        {
+          "label": "B",
+          "text": "harmful"
+        },
+        {
+          "label": "C",
+          "text": "go down"
+        },
+        {
+          "label": "D",
+          "text": "influence"
+        }
+      ],
+      "answer": "C",
+      "word": "go down",
+      "meaning": "下降"
+    },
+    {
+      "id": 4,
+      "sourceId": "E0724",
+      "groupId": "E0724",
+      "direction": "en_to_zh",
+      "stem": "go out",
+      "options": [
+        {
+          "label": "A",
+          "text": "航天服；宇航服"
+        },
+        {
+          "label": "B",
+          "text": "熄灭；外出"
+        },
+        {
+          "label": "C",
+          "text": "拍照"
+        },
+        {
+          "label": "D",
+          "text": "中等身高"
+        }
+      ],
+      "answer": "B",
+      "word": "go out",
+      "meaning": "熄灭；外出"
+    },
+    {
+      "id": 5,
+      "sourceId": "E0781",
+      "groupId": "E0781",
+      "direction": "zh_to_en",
+      "stem": "上涨",
+      "options": [
+        {
+          "label": "A",
+          "text": "neighbour"
+        },
+        {
+          "label": "B",
+          "text": "fair"
+        },
+        {
+          "label": "C",
+          "text": "rocket"
+        },
+        {
+          "label": "D",
+          "text": "go up"
+        }
+      ],
+      "answer": "D",
+      "word": "go up",
+      "meaning": "上涨"
+    },
+    {
+      "id": 6,
+      "sourceId": "E0784",
+      "groupId": "E0784",
+      "direction": "en_to_zh",
+      "stem": "go wrong",
+      "options": [
+        {
+          "label": "A",
+          "text": "出毛病"
+        },
+        {
+          "label": "B",
+          "text": "低于通常（或平均）数量（或水平、价值）的"
+        },
+        {
+          "label": "C",
+          "text": "来去"
+        },
+        {
+          "label": "D",
+          "text": "最后，终于"
+        }
+      ],
+      "answer": "A",
+      "word": "go wrong",
+      "meaning": "出毛病"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0552",
+      "groupId": "E0552",
+      "target": "each other",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "one person acting completely alone"
+        },
+        {
+          "label": "B",
+          "text": "all people acting against one outsider"
+        },
+        {
+          "label": "C",
+          "text": "one person to the other in both directions"
+        },
+        {
+          "label": "D",
+          "text": "one person doing everything for everyone else"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "C",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "each other",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "each other"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "互相，彼此",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “each other” means “one person to the other in both directions”.",
+      "parentExplanation": "本题考查“each other”在本句中的用法；正确英文解释为“one person to the other in both directions”。对应源表释义为“互相，彼此”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0485",
+      "groupId": "E0485",
+      "target": "from...to...",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "in a direction with no starting point"
+        },
+        {
+          "label": "B",
+          "text": "at one point without any change"
+        },
+        {
+          "label": "C",
+          "text": "between a starting time and a finishing time"
+        },
+        {
+          "label": "D",
+          "text": "outside both the starting and ending points"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "The course starts on Monday and ends on Friday. It runs from Monday to Friday.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The course starts on Monday and ends on Friday. It runs from Monday to Friday."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "课程周一开始、周五结束，从周一持续到周五。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “from...to...” means “between a starting time and a finishing time”.",
+      "parentExplanation": "本题考查“from...to...”在本句中的用法；正确英文解释为“between a starting time and a finishing time”。对应源表释义为“从……到……”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0780",
+      "groupId": "E0780",
+      "target": "go down",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "describe"
+        },
+        {
+          "label": "B",
+          "text": "rise"
+        },
+        {
+          "label": "C",
+          "text": "go down"
+        },
+        {
+          "label": "D",
+          "text": "watch over"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression describes the change in water level?",
+      "answer": "C",
+      "listenScript": "At noon, the water level is near the top mark on the tank. An hour later, it is below the middle mark.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "At noon, the water level is near the top mark on the tank. An hour later, it is below the middle mark."
+        }
+      ],
+      "explanation": "The situation supports “go down”: At noon, the water level is near the top mark on the tank. An hour later, it is below the middle mark.",
+      "parentExplanation": "情境证据：中午，水箱里的水位接近顶部刻度。一小时后，水位降到了中间刻度以下。；对应本题“下降”这一用法。",
+      "translation": {
+        "stem": "哪个表达描述水位的变化？",
+        "listenScript": "中午，水箱里的水位接近顶部刻度。一小时后，水位降到了中间刻度以下。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0780",
+        "T021",
+        "T013",
+        "T030"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0724",
+      "groupId": "E0724",
+      "target": "go out",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "describe"
+        },
+        {
+          "label": "B",
+          "text": "watch over"
+        },
+        {
+          "label": "C",
+          "text": "improve"
+        },
+        {
+          "label": "D",
+          "text": "go out"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression describes what happens to the candle flame?",
+      "answer": "D",
+      "listenScript": "The candle burns beside the window. A strong wind blows, and then there is no flame or light from it.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The candle burns beside the window. A strong wind blows, and then there is no flame or light from it."
+        }
+      ],
+      "explanation": "The situation supports “go out”: The candle burns beside the window. A strong wind blows, and then there is no flame or light from it.",
+      "parentExplanation": "情境证据：蜡烛在窗旁燃烧。一阵强风吹来，之后它不再有火焰，也不再发光。；对应本题“熄灭；外出”这一用法。",
+      "translation": {
+        "stem": "哪个表达描述蜡烛火焰发生的变化？",
+        "listenScript": "蜡烛在窗旁燃烧。一阵强风吹来，之后它不再有火焰，也不再发光。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0724",
+        "T004",
+        "T013",
+        "T030"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0781",
+      "groupId": "E0781",
+      "target": "go up",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to stay exactly the same"
+        },
+        {
+          "label": "B",
+          "text": "to become lower in amount or price"
+        },
+        {
+          "label": "C",
+          "text": "to disappear completely"
+        },
+        {
+          "label": "D",
+          "text": "to become higher in amount or price"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "Ticket prices go up from ten yuan to fifteen yuan, so we now pay more.\nWhat does “go up” mean here?",
+      "translation": {
+        "stem": "票价从十元涨到十五元，所以我们现在付得更多。 这里“go up”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “go up” means “to become higher in amount or price”.",
+      "parentExplanation": "本题考查“go up”在本句中的用法；正确英文解释为“to become higher in amount or price”。对应源表释义为“上涨”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0784",
+      "groupId": "E0784",
+      "target": "go wrong",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to finish earlier than anyone expected"
+        },
+        {
+          "label": "B",
+          "text": "to become completely free of problems"
+        },
+        {
+          "label": "C",
+          "text": "to develop a fault"
+        },
+        {
+          "label": "D",
+          "text": "to work exactly as intended"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Something may go wrong with the machine, so keep the repair number nearby.\nWhat does “go wrong” mean here?",
+      "translation": {
+        "stem": "机器可能出毛病，所以把维修电话留在附近。 这里“go wrong”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “go wrong” means “to develop a fault”.",
+      "parentExplanation": "本题考查“go wrong”在本句中的用法；正确英文解释为“to develop a fault”。对应源表释义为“出毛病”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0417",
+      "groupId": "E0417",
+      "target": "dream of",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to feel afraid of an event in the past"
+        },
+        {
+          "label": "B",
+          "text": "to forget a plan as soon as it is made"
+        },
+        {
+          "label": "C",
+          "text": "to wish strongly for something you would like in the future"
+        },
+        {
+          "label": "D",
+          "text": "to refuse something that is offered"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Mia dreams of becoming a doctor so that she can help sick children.\nWhat does “dreams of” mean here?",
+      "translation": {
+        "stem": "米娅梦想成为医生，以帮助生病的孩子。 这里“dreams of”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “dream of” means “to wish strongly for something you would like in the future”.",
+      "parentExplanation": "本题考查“dream of”在本句中的用法；正确英文解释为“to wish strongly for something you would like in the future”。对应源表释义为“梦想”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0377",
+      "groupId": "E0377",
+      "target": "divide...into...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to compare two things without separating either"
+        },
+        {
+          "label": "B",
+          "text": "to join several parts into one whole"
+        },
+        {
+          "label": "C",
+          "text": "to remove a group without changing the rest"
+        },
+        {
+          "label": "D",
+          "text": "to separate something into parts or groups"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "For the team game, we divide the class into four groups of six students.\nWhat does “divide the class into” mean here?",
+      "translation": {
+        "stem": "为参加团队游戏，我们把全班分成四组，每组六人。 这里“divide the class into”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “divide...into...” means “to separate something into parts or groups”.",
+      "parentExplanation": "本题考查“divide...into...”在本句中的用法；正确英文解释为“to separate something into parts or groups”。对应源表释义为“把……分成……；把...分成”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0552",
+      "groupId": "E0552",
+      "target": "each other",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "each other's"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia knows Ben's name, and Ben knows Mia's name. They know e________ names.",
+      "answer": "each other's",
+      "hint": "Use the possessive form of the two-word mutual expression beginning with e.",
+      "grammar": "each other's + 名词",
+      "initialLetter": "e",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The names belong to each of the two people, so use each other's.",
+      "parentExplanation": "names前用所有格each other's；不写each others。",
+      "translation": {
+        "stem": "米娅知道本的名字，本也知道米娅的名字。他们知道彼此的名字。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0485",
+      "groupId": "E0485",
+      "target": "from...to...",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "from Beijing to"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The train starts in Beijing and ends in Guangzhou. It travels f________ Guangzhou.",
+      "answer": "from Beijing to",
+      "hint": "Use the start-to-destination phrase, with Beijing as the starting city.",
+      "grammar": "from + 起点 + to + 终点",
+      "initialLetter": "f",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "From marks Beijing as the start; to marks Guangzhou as the destination.",
+      "parentExplanation": "空间起点用from Beijing，目的地用to Guangzhou。",
+      "translation": {
+        "stem": "火车从北京始发，到广州终到。它从北京开往广州。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0780",
+      "groupId": "E0780",
+      "target": "go down",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "go down"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "After the discount, prices g________ and the same items cost less.",
+      "answer": "go down",
+      "hint": "Use a two-word phrase meaning become lower in amount.",
+      "grammar": "go down；价格下降",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Lower prices mean that prices go down.",
+      "parentExplanation": "价格变低用go down；prices复数，动词用原形。",
+      "translation": {
+        "stem": "打折后，价格下降，相同商品花费更少。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0724",
+      "groupId": "E0724",
+      "target": "go out",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "goes out"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The candle g________ when a strong wind blows through the window.",
+      "answer": "goes out",
+      "hint": "Use the two-word phrase meaning stops burning; the subject is one candle.",
+      "grammar": "goes out；熄灭义",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The flame stops burning, so the candle goes out.",
+      "parentExplanation": "蜡烛停止燃烧，用go out；单数candle配goes。",
+      "translation": {
+        "stem": "强风吹进窗户时，蜡烛熄灭了。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0781",
+      "groupId": "E0781",
+      "target": "go up",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "goes up"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The cost of the trip g________ when we add an extra night in a hotel.",
+      "answer": "goes up",
+      "hint": "Use the phrase meaning increases; agree with the singular cost.",
+      "grammar": "第三人称单数goes up",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Adding a hotel night makes the cost higher; the cost goes up.",
+      "parentExplanation": "费用上升，填goes up；cost作单数主语。",
+      "translation": {
+        "stem": "额外增加一晚酒店住宿后，旅行费用上涨。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0784",
+      "groupId": "E0784",
+      "target": "go wrong",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "goes wrong"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The plan g________ when the bus breaks down and we cannot reach the museum.",
+      "answer": "goes wrong",
+      "hint": "Use the phrase meaning develops a problem or fails to work as planned; agree with the plan.",
+      "grammar": "第三人称单数；wrong不是wrongly",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The breakdown prevents the plan from working, so the plan goes wrong.",
+      "parentExplanation": "计划无法正常进行，用goes wrong；单数plan配goes。",
+      "translation": {
+        "stem": "公交车故障，我们无法到达博物馆，计划出了问题。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0689",
+      "groupId": "E0689",
+      "target": "add up",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "add up"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Please a________ these three prices and tell me the total.",
+      "answer": "add up",
+      "hint": "Use the two-word phrase meaning calculate the sum of several numbers.",
+      "grammar": "add up + 数字或价格",
+      "initialLetter": "a",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Finding the total by combining the prices is adding them up.",
+      "parentExplanation": "合计各项用add up，空后已给被合计的价格。",
+      "translation": {
+        "stem": "请把这三个价格加起来，告诉我总数。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0530",
+      "groupId": "E0530",
+      "target": "begin with...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "begin with"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Let's b________ a song, then move on to the story.",
+      "answer": "begin with",
+      "hint": "Use a two-word phrase meaning start by using something.",
+      "grammar": "begin with + 开始内容",
+      "initialLetter": "b",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The song is the first part, so we begin with it.",
+      "parentExplanation": "以某内容开始用begin with；Let's后接原形。",
+      "translation": {
+        "stem": "我们先唱首歌，再进入故事吧。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0829",
+      "groupId": "E0829",
+      "target": "come out of",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "walk around the outside of a place"
+        },
+        {
+          "label": "B",
+          "text": "stay hidden inside a place"
+        },
+        {
+          "label": "C",
+          "text": "move from inside a place to outside it"
+        },
+        {
+          "label": "D",
+          "text": "move into a place from outside"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “come out of” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “come out of” means “move from inside a place to outside it”. The sentence says: In the first scene, three actors come out of a little wooden house.",
+      "parentExplanation": "“come out of”在此处对应“从...出来”中的本句义项；句意为：第一幕里，三个演员从一间小木屋出来。",
+      "translation": {
+        "stem": "短文中的“come out of”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "come out of"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0714",
+      "groupId": "E0714",
+      "target": "cross out",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "read writing aloud without changing it"
+        },
+        {
+          "label": "B",
+          "text": "draw a picture beside the writing"
+        },
+        {
+          "label": "C",
+          "text": "copy writing neatly onto a new page"
+        },
+        {
+          "label": "D",
+          "text": "draw a line through writing to show it is removed"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “cross out” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “cross out” means “draw a line through writing to show it is removed”. The sentence says: He asks the teacher, then uses a pencil to cross out the mistake.",
+      "parentExplanation": "“cross out”在此处对应“划掉；删去”中的本句义项；句意为：他问过老师后，用铅笔把错误划掉。",
+      "translation": {
+        "stem": "短文中的“cross out”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "targetSpan": "cross out"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why does Ben write a new word above the old one?",
+      "explanation": "The answer is “The original line names the wrong flower.”. Evidence: Ben notices that one line in his script names the wrong flower. He asks the teacher, then uses a pencil to cross out the mistake. He writes the correct word above it so he can read it clearly.",
+      "parentExplanation": "正确项为“The original line names the wrong flower.”。原文依据：本发现剧本里有一行写错了花的名字。他问过老师后，用铅笔把错误划掉。他在上面写下正确的词，好看得清楚。",
+      "translation": {
+        "stem": "本为什么在原来的词上面写新词？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "He wants to change every actor."
+        },
+        {
+          "label": "B",
+          "text": "The wooden house is too small."
+        },
+        {
+          "label": "C",
+          "text": "The original line names the wrong flower."
+        },
+        {
+          "label": "D",
+          "text": "He cannot find his pencil."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the passage mainly about?",
+      "explanation": "The answer is “Actors practise a garden story after correcting a script mistake.”. Evidence: The school play is about a child who finds a secret garden. In the first scene, three actors come out of a little wooden house. Ben notices that one line in his script names the wrong flower. He asks the teacher, then uses a pencil to cross out the mistake. He writes the correct word above it so he can read it clearly. During practice, the actors follow the corrected script and the story makes sense.",
+      "parentExplanation": "正确项为“Actors practise a garden story after correcting a script mistake.”。原文依据：学校戏剧讲一个孩子发现秘密花园的故事。第一幕里，三个演员从一间小木屋出来。本发现剧本里有一行写错了花的名字。他问过老师后，用铅笔把错误划掉。他在上面写下正确的词，好看得清楚。练习时，演员们按照修改后的剧本表演，故事就讲通了。",
+      "translation": {
+        "stem": "短文主要讲什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Actors practise a garden story after correcting a script mistake."
+        },
+        {
+          "label": "B",
+          "text": "An actor loses a paper bird."
+        },
+        {
+          "label": "C",
+          "text": "A teacher buys flowers for a garden."
+        },
+        {
+          "label": "D",
+          "text": "Children build a wooden house outdoors."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0511",
+      "groupId": "E0511",
+      "target": "dress up",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "wear special clothes to look like a character"
+        },
+        {
+          "label": "B",
+          "text": "wear the same school uniform as usual"
+        },
+        {
+          "label": "C",
+          "text": "put everyday clothes away in a box"
+        },
+        {
+          "label": "D",
+          "text": "wash clothes after a party"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “dress up” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “dress up” means “wear special clothes to look like a character”. The sentence says: We dress up as people and animals from our favourite books.",
+      "parentExplanation": "“dress up”在此处对应“①装扮 ②穿得正式；装扮；打扮”中的本句义项；句意为：我们装扮成最喜欢的书里的人物和动物。",
+      "translation": {
+        "stem": "短文中的“dress up”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "dress up"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0510",
+      "groupId": "E0510",
+      "target": "cut up",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "wash something without changing its size"
+        },
+        {
+          "label": "B",
+          "text": "hide something inside a bowl"
+        },
+        {
+          "label": "C",
+          "text": "cut something into small pieces"
+        },
+        {
+          "label": "D",
+          "text": "join small pieces into one large object"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “cut up” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “cut up” means “cut something into small pieces”. The sentence says: Before the party, the teacher helps us cut up fruit for everyone.",
+      "parentExplanation": "“cut up”在此处对应“把……切成小块；切碎”中的本句义项；句意为：聚会前，老师帮助我们把水果切成小块分给大家。",
+      "translation": {
+        "stem": "短文中的“cut up”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "cut up"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What do the students do while the teacher uses the knife?",
+      "explanation": "The answer is “They put the fruit pieces into bowls.”. Evidence: She uses the knife while we place the small pieces in bowls.",
+      "parentExplanation": "正确项为“They put the fruit pieces into bowls.”。原文依据：她使用刀，我们把小块水果放进碗里。",
+      "translation": {
+        "stem": "老师使用刀时，学生们做什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "They leave the party early."
+        },
+        {
+          "label": "B",
+          "text": "They run across the hall."
+        },
+        {
+          "label": "C",
+          "text": "They cut paper hats with the knife."
+        },
+        {
+          "label": "D",
+          "text": "They put the fruit pieces into bowls."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title is best?",
+      "explanation": "The answer is “Books Come Alive at a Story Party”. Evidence: Our class holds a story party in the hall on Friday. We dress up as people and animals from our favourite books. Before the party, the teacher helps us cut up fruit for everyone. Each group then tells a short story before sharing the food. The costumes and snacks make our reading celebration feel like a friendly adventure.",
+      "parentExplanation": "正确项为“Books Come Alive at a Story Party”。原文依据：周五，我们班在大厅举办故事聚会。我们装扮成最喜欢的书里的人物和动物。聚会前，老师帮助我们把水果切成小块分给大家。然后，各组先讲一个短故事，再分享食物。装扮和点心让我们的阅读庆祝活动像一场友好的冒险。",
+      "translation": {
+        "stem": "哪个标题最好？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        4,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A Lesson About School Uniforms"
+        },
+        {
+          "label": "B",
+          "text": "Books Come Alive at a Story Party"
+        },
+        {
+          "label": "C",
+          "text": "The Missing Fruit Knife"
+        },
+        {
+          "label": "D",
+          "text": "A Race Between Two Animals"
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "The school play is about a child who finds a secret garden. In the first scene, three actors come out of a little wooden house. They follow a paper bird across the stage to an old gate. Ben notices that one line in his script names the wrong flower. He asks the teacher, then uses a pencil to cross out the mistake. He writes the correct word above it so he can read it clearly. During practice, the actors follow the corrected script and the story makes sense.",
+      "parallelText": [
+        {
+          "en": "The school play is about a child who finds a secret garden.",
+          "zh": "学校戏剧讲一个孩子发现秘密花园的故事。"
+        },
+        {
+          "en": "In the first scene, three actors come out of a little wooden house.",
+          "zh": "第一幕里，三个演员从一间小木屋出来。"
+        },
+        {
+          "en": "They follow a paper bird across the stage to an old gate.",
+          "zh": "他们跟着一只纸鸟走过舞台，来到一扇旧门前。"
+        },
+        {
+          "en": "Ben notices that one line in his script names the wrong flower.",
+          "zh": "本发现剧本里有一行写错了花的名字。"
+        },
+        {
+          "en": "He asks the teacher, then uses a pencil to cross out the mistake.",
+          "zh": "他问过老师后，用铅笔把错误划掉。"
+        },
+        {
+          "en": "He writes the correct word above it so he can read it clearly.",
+          "zh": "他在上面写下正确的词，好看得清楚。"
+        },
+        {
+          "en": "During practice, the actors follow the corrected script and the story makes sense.",
+          "zh": "练习时，演员们按照修改后的剧本表演，故事就讲通了。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "scene",
+          "meaning": "one part of a play"
+        },
+        {
+          "word": "script",
+          "meaning": "the written words of a play"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Our class holds a story party in the hall on Friday. We dress up as people and animals from our favourite books. Lily wears paper ears, and I carry a bright red hat. Before the party, the teacher helps us cut up fruit for everyone. She uses the knife while we place the small pieces in bowls. Each group then tells a short story before sharing the food. The costumes and snacks make our reading celebration feel like a friendly adventure.",
+      "parallelText": [
+        {
+          "en": "Our class holds a story party in the hall on Friday.",
+          "zh": "周五，我们班在大厅举办故事聚会。"
+        },
+        {
+          "en": "We dress up as people and animals from our favourite books.",
+          "zh": "我们装扮成最喜欢的书里的人物和动物。"
+        },
+        {
+          "en": "Lily wears paper ears, and I carry a bright red hat.",
+          "zh": "莉莉戴着纸耳朵，我拿着一顶鲜红的帽子。"
+        },
+        {
+          "en": "Before the party, the teacher helps us cut up fruit for everyone.",
+          "zh": "聚会前，老师帮助我们把水果切成小块分给大家。"
+        },
+        {
+          "en": "She uses the knife while we place the small pieces in bowls.",
+          "zh": "她使用刀，我们把小块水果放进碗里。"
+        },
+        {
+          "en": "Each group then tells a short story before sharing the food.",
+          "zh": "然后，各组先讲一个短故事，再分享食物。"
+        },
+        {
+          "en": "The costumes and snacks make our reading celebration feel like a friendly adventure.",
+          "zh": "装扮和点心让我们的阅读庆祝活动像一场友好的冒险。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "snack",
+          "meaning": "a small amount of food eaten between meals"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S061-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0417",
+      "groupId": "E0417",
+      "expression": "dream of",
+      "meaning": "梦想",
+      "introducedAtStation": 60,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 61,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S061-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0377",
+      "groupId": "E0377",
+      "expression": "divide...into...",
+      "meaning": "把……分成……；把...分成",
+      "introducedAtStation": 60,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 61,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S061-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0689",
+      "groupId": "E0689",
+      "expression": "add up",
+      "meaning": "合计",
+      "introducedAtStation": 59,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 60,
+      "intervalInStations": 1,
+      "referenceDueStation": 63,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S061-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0530",
+      "groupId": "E0530",
+      "expression": "begin with...",
+      "meaning": "以……开始；以...开始",
+      "introducedAtStation": 59,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 60,
+      "intervalInStations": 1,
+      "referenceDueStation": 63,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S061-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0829",
+      "groupId": "E0829",
+      "expression": "come out of",
+      "meaning": "从...出来",
+      "introducedAtStation": 60,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 61,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S061-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0714",
+      "groupId": "E0714",
+      "expression": "cross out",
+      "meaning": "划掉；删去",
+      "introducedAtStation": 60,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 61,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S061-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0511",
+      "groupId": "E0511",
+      "expression": "dress up",
+      "meaning": "①装扮 ②穿得正式；装扮；打扮",
+      "introducedAtStation": 60,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 61,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S061-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0510",
+      "groupId": "E0510",
+      "expression": "cut up",
+      "meaning": "把……切成小块；切碎",
+      "introducedAtStation": 60,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 61,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

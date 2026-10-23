@@ -1,0 +1,2593 @@
+{
+  "station": 1,
+  "type": "new_learning",
+  "phase": "textbook",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 1,
+  "newItems": [
+    {
+      "groupId": "T080",
+      "sourceId": "T080",
+      "sourceIds": [
+        "T080"
+      ],
+      "word": "footprint",
+      "meaning": "脚印；足迹",
+      "sourceItems": [
+        {
+          "sourceId": "T080",
+          "sourceKind": "textbook",
+          "expression": "footprint",
+          "meaning": "脚印；足迹",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈfʊtprɪnt/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 36,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 85,
+          "originalFields": {
+            "序号": 80,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "footprint",
+            "音标（教材）": "/ˈfʊtprɪnt/",
+            "词性": "n.",
+            "中文释义": "脚印；足迹",
+            "教材课文页": 36,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T080",
+          "introducedAtStation": 1
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T080",
+        "word": "footprint",
+        "ipa": "/ˈfʊtprɪnt/",
+        "focus": "重音在/fʊt/；/ʊ/短读，后面的/prɪnt/保留/pr/与/nt/连缀。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "I can see a footprint.",
+          "zh": "我能看见一个脚印。",
+          "sourceIds": [
+            "T080"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈfʊtprɪnt/",
+      "pos": "n.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T081",
+      "sourceId": "T081",
+      "sourceIds": [
+        "T081"
+      ],
+      "word": "wet",
+      "meaning": "潮湿的",
+      "sourceItems": [
+        {
+          "sourceId": "T081",
+          "sourceKind": "textbook",
+          "expression": "wet",
+          "meaning": "潮湿的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/wet/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 36,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 86,
+          "originalFields": {
+            "序号": 81,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "wet",
+            "音标（教材）": "/wet/",
+            "词性": "adj.",
+            "中文释义": "潮湿的",
+            "教材课文页": 36,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T081",
+          "introducedAtStation": 1
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T081",
+        "word": "wet",
+        "ipa": "/wet/",
+        "focus": "/e/短读，不能拉成/iː/；末尾/t/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "My shoes are wet.",
+          "zh": "我的鞋子是湿的。",
+          "sourceIds": [
+            "T081"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/wet/",
+      "pos": "adj.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T082",
+      "sourceId": "T082",
+      "sourceIds": [
+        "T082"
+      ],
+      "word": "deep",
+      "meaning": "深的",
+      "sourceItems": [
+        {
+          "sourceId": "T082",
+          "sourceKind": "textbook",
+          "expression": "deep",
+          "meaning": "深的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/diːp/",
+          "unit": "Unit 3",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 36,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 87,
+          "originalFields": {
+            "序号": 82,
+            "单元": "Unit 3",
+            "类型": "单词",
+            "单词／短语": "deep",
+            "音标（教材）": "/diːp/",
+            "词性": "adj.",
+            "中文释义": "深的",
+            "教材课文页": 36,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T082",
+          "introducedAtStation": 1
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T082",
+        "word": "deep",
+        "ipa": "/diːp/",
+        "focus": "/iː/拉长；末尾/p/双唇闭合收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The water is deep.",
+          "zh": "水很深。",
+          "sourceIds": [
+            "T082"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "well",
+          "meaning": "a hole in the ground used to get water"
+        }
+      ],
+      "notes": null,
+      "ipa": "/diːp/",
+      "pos": "adj.",
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T110",
+      "sourceId": "T110",
+      "sourceIds": [
+        "T110"
+      ],
+      "word": "have picnics",
+      "meaning": "野餐",
+      "sourceItems": [
+        {
+          "sourceId": "T110",
+          "sourceKind": "textbook",
+          "expression": "have picnics",
+          "meaning": "野餐",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 3",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 36,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 115,
+          "originalFields": {
+            "序号": 110,
+            "单元": "Unit 3",
+            "类型": "短语",
+            "单词／短语": "have picnics",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "野餐",
+            "教材课文页": 36,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T110",
+          "introducedAtStation": 1
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T110",
+        "sourceIds": [
+          "T110"
+        ],
+        "expression": "have picnics",
+        "phonetic": "/hæv ˈpɪknɪks/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "We have picnics in the park.",
+          "zh": "我们在公园野餐。",
+          "sourceIds": [
+            "T110"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T112",
+      "sourceId": "T112",
+      "sourceIds": [
+        "T112"
+      ],
+      "word": "take a trip",
+      "meaning": "去旅行",
+      "sourceItems": [
+        {
+          "sourceId": "T112",
+          "sourceKind": "textbook",
+          "expression": "take a trip",
+          "meaning": "去旅行",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 3",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 37,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 117,
+          "originalFields": {
+            "序号": 112,
+            "单元": "Unit 3",
+            "类型": "短语",
+            "单词／短语": "take a trip",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "去旅行",
+            "教材课文页": 37,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T112",
+          "introducedAtStation": 1
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T112",
+        "sourceIds": [
+          "T112"
+        ],
+        "expression": "take a trip",
+        "phonetic": "/teɪk ə trɪp/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "We take a trip to a small town in spring.",
+          "zh": "我们春天去一个小镇旅行。",
+          "sourceIds": [
+            "T112"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T114",
+      "sourceId": "T114",
+      "sourceIds": [
+        "T114"
+      ],
+      "word": "in fact",
+      "meaning": "事实上",
+      "sourceItems": [
+        {
+          "sourceId": "T114",
+          "sourceKind": "textbook",
+          "expression": "in fact",
+          "meaning": "事实上",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 3",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 119,
+          "originalFields": {
+            "序号": 114,
+            "单元": "Unit 3",
+            "类型": "短语",
+            "单词／短语": "in fact",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "事实上",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T114",
+          "introducedAtStation": 1
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T114",
+        "sourceIds": [
+          "T114"
+        ],
+        "expression": "in fact",
+        "phonetic": "/ɪn fækt/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "The bag looks heavy. In fact, it is very light.",
+          "zh": "这个包看起来很重。事实上，它很轻。",
+          "sourceIds": [
+            "T114"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 3",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "T074",
+      "sourceId": "T074",
+      "sourceIds": [
+        "T074"
+      ],
+      "word": "on foot",
+      "meaning": "步行",
+      "sourceItems": [
+        {
+          "sourceId": "T074",
+          "sourceKind": "textbook",
+          "expression": "on foot",
+          "meaning": "步行",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 2",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 27,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 79,
+          "originalFields": {
+            "序号": 74,
+            "单元": "Unit 2",
+            "类型": "短语",
+            "单词／短语": "on foot",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "步行",
+            "教材课文页": 27,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T074",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T074",
+        "sourceIds": [
+          "T074"
+        ],
+        "expression": "on foot",
+        "phonetic": "/ɒn fʊt/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "The library is near our home, so we go there on foot.",
+          "zh": "图书馆离家很近，所以我们步行去。",
+          "sourceIds": [
+            "T074"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T073",
+      "sourceId": "T073",
+      "sourceIds": [
+        "T073"
+      ],
+      "word": "get up",
+      "meaning": "起床",
+      "sourceItems": [
+        {
+          "sourceId": "T073",
+          "sourceKind": "textbook",
+          "expression": "get up",
+          "meaning": "起床",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 2",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 27,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 78,
+          "originalFields": {
+            "序号": 73,
+            "单元": "Unit 2",
+            "类型": "短语",
+            "单词／短语": "get up",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "起床",
+            "教材课文页": 27,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T073",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T073",
+        "sourceIds": [
+          "T073"
+        ],
+        "expression": "get up",
+        "phonetic": "/ɡet ʌp/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "I get up ten minutes after I wake up.",
+          "zh": "我醒来十分钟后起床。",
+          "sourceIds": [
+            "T073"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T072",
+      "sourceId": "T072",
+      "sourceIds": [
+        "T072"
+      ],
+      "word": "go to bed",
+      "meaning": "去睡觉",
+      "sourceItems": [
+        {
+          "sourceId": "T072",
+          "sourceKind": "textbook",
+          "expression": "go to bed",
+          "meaning": "去睡觉",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 2",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 27,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 77,
+          "originalFields": {
+            "序号": 72,
+            "单元": "Unit 2",
+            "类型": "短语",
+            "单词／短语": "go to bed",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "去睡觉",
+            "教材课文页": 27,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T072",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T072",
+        "sourceIds": [
+          "T072"
+        ],
+        "expression": "go to bed",
+        "phonetic": "/ɡəʊ tə bed/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "I go to bed at ten, but I sometimes read before falling asleep.",
+          "zh": "我十点上床睡觉，但有时会先读会儿书再入睡。",
+          "sourceIds": [
+            "T072"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T071",
+      "sourceId": "T071",
+      "sourceIds": [
+        "T071"
+      ],
+      "word": "daily life",
+      "meaning": "日常生活",
+      "sourceItems": [
+        {
+          "sourceId": "T071",
+          "sourceKind": "textbook",
+          "expression": "daily life",
+          "meaning": "日常生活",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 2",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 24,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 76,
+          "originalFields": {
+            "序号": 71,
+            "单元": "Unit 2",
+            "类型": "短语",
+            "单词／短语": "daily life",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "日常生活",
+            "教材课文页": 24,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T071",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T071",
+        "sourceIds": [
+          "T071"
+        ],
+        "expression": "daily life",
+        "phonetic": "/ˈdeɪli laɪf/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Cooking and cleaning are part of our daily life.",
+          "zh": "做饭和清洁是我们日常生活的一部分。",
+          "sourceIds": [
+            "T071"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T079",
+      "sourceId": "T079",
+      "sourceIds": [
+        "T079"
+      ],
+      "word": "pick up",
+      "meaning": "取（某物）",
+      "sourceItems": [
+        {
+          "sourceId": "T079",
+          "sourceKind": "textbook",
+          "expression": "pick up",
+          "meaning": "取（某物）",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 2",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 30,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 84,
+          "originalFields": {
+            "序号": 79,
+            "单元": "Unit 2",
+            "类型": "短语",
+            "单词／短语": "pick up",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "取（某物）",
+            "教材课文页": 30,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T079",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T079",
+        "sourceIds": [
+          "T079"
+        ],
+        "expression": "pick up",
+        "phonetic": "/pɪk ʌp/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "I go to the office to pick up a letter waiting for me.",
+          "zh": "我去办公室取一封等我领取的信。",
+          "sourceIds": [
+            "T079"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "教材指定取某物义；不以捡起、接人、学会等其他义替代。",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T078",
+      "sourceId": "T078",
+      "sourceIds": [
+        "T078"
+      ],
+      "word": "clean up",
+      "meaning": "打扫干净",
+      "sourceItems": [
+        {
+          "sourceId": "T078",
+          "sourceKind": "textbook",
+          "expression": "clean up",
+          "meaning": "打扫干净",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 2",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 28,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 83,
+          "originalFields": {
+            "序号": 78,
+            "单元": "Unit 2",
+            "类型": "短语",
+            "单词／短语": "clean up",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "打扫干净",
+            "教材课文页": 28,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T078",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T078",
+        "sourceIds": [
+          "T078"
+        ],
+        "expression": "clean up",
+        "phonetic": "/kliːn ʌp/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "We clean up the playground after the sports day.",
+          "zh": "运动会后，我们把操场打扫干净。",
+          "sourceIds": [
+            "T078"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "代词宾语需放中间，如clean it up；此处使用名词宾语。",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T077",
+      "sourceId": "T077",
+      "sourceIds": [
+        "T077"
+      ],
+      "word": "put on",
+      "meaning": "举办；上演",
+      "sourceItems": [
+        {
+          "sourceId": "T077",
+          "sourceKind": "textbook",
+          "expression": "put on",
+          "meaning": "举办；上演",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 2",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 28,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 82,
+          "originalFields": {
+            "序号": 77,
+            "单元": "Unit 2",
+            "类型": "短语",
+            "单词／短语": "put on",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "举办；上演",
+            "教材课文页": 28,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T077",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T077",
+        "sourceIds": [
+          "T077"
+        ],
+        "expression": "put on",
+        "phonetic": "/pʊt ɒn/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Our drama club puts on a play each term.",
+          "zh": "我们的戏剧社团每学期上演一出戏。",
+          "sourceIds": [
+            "T077"
+          ]
+        },
+        {
+          "en": "The school puts on a concert for families.",
+          "zh": "学校为家长们举办音乐会。",
+          "sourceIds": [
+            "T077"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "教材词义为举办、上演，本组不以穿衣、增加体重等义替代。",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T076",
+      "sourceId": "T076",
+      "sourceIds": [
+        "T076"
+      ],
+      "word": "get ... ready for",
+      "meaning": "准备好……",
+      "sourceItems": [
+        {
+          "sourceId": "T076",
+          "sourceKind": "textbook",
+          "expression": "get ... ready for",
+          "meaning": "准备好……",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 2",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 28,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 81,
+          "originalFields": {
+            "序号": 76,
+            "单元": "Unit 2",
+            "类型": "短语",
+            "单词／短语": "get ... ready for",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "准备好……",
+            "教材课文页": 28,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T076",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T076",
+        "sourceIds": [
+          "T076"
+        ],
+        "expression": "get ... ready for",
+        "phonetic": "/ɡet … ˈredi fɔː/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "We get the room ready for the class party.",
+          "zh": "我们把房间准备好，用来举办班级聚会。",
+          "sourceIds": [
+            "T076"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 2",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T080",
+      "groupId": "T080",
+      "direction": "zh_to_en",
+      "stem": "脚印；足迹",
+      "options": [
+        {
+          "label": "A",
+          "text": "realize"
+        },
+        {
+          "label": "B",
+          "text": "footprint"
+        },
+        {
+          "label": "C",
+          "text": "teenager"
+        },
+        {
+          "label": "D",
+          "text": "come along"
+        }
+      ],
+      "answer": "B",
+      "word": "footprint",
+      "meaning": "脚印；足迹"
+    },
+    {
+      "id": 2,
+      "sourceId": "T081",
+      "groupId": "T081",
+      "direction": "en_to_zh",
+      "stem": "wet",
+      "options": [
+        {
+          "label": "A",
+          "text": "幸运地；幸好"
+        },
+        {
+          "label": "B",
+          "text": "照管；监督"
+        },
+        {
+          "label": "C",
+          "text": "课题"
+        },
+        {
+          "label": "D",
+          "text": "潮湿的"
+        }
+      ],
+      "answer": "D",
+      "word": "wet",
+      "meaning": "潮湿的"
+    },
+    {
+      "id": 3,
+      "sourceId": "T082",
+      "groupId": "T082",
+      "direction": "zh_to_en",
+      "stem": "深的",
+      "options": [
+        {
+          "label": "A",
+          "text": "pick up"
+        },
+        {
+          "label": "B",
+          "text": "survey"
+        },
+        {
+          "label": "C",
+          "text": "deep"
+        },
+        {
+          "label": "D",
+          "text": "have picnics"
+        }
+      ],
+      "answer": "C",
+      "word": "deep",
+      "meaning": "深的"
+    },
+    {
+      "id": 4,
+      "sourceId": "T110",
+      "groupId": "T110",
+      "direction": "en_to_zh",
+      "stem": "have picnics",
+      "options": [
+        {
+          "label": "A",
+          "text": "野餐"
+        },
+        {
+          "label": "B",
+          "text": "心"
+        },
+        {
+          "label": "C",
+          "text": "想法"
+        },
+        {
+          "label": "D",
+          "text": "直的"
+        }
+      ],
+      "answer": "A",
+      "word": "have picnics",
+      "meaning": "野餐"
+    },
+    {
+      "id": 5,
+      "sourceId": "T112",
+      "groupId": "T112",
+      "direction": "zh_to_en",
+      "stem": "去旅行",
+      "options": [
+        {
+          "label": "A",
+          "text": "rise"
+        },
+        {
+          "label": "B",
+          "text": "be good at"
+        },
+        {
+          "label": "C",
+          "text": "take a trip"
+        },
+        {
+          "label": "D",
+          "text": "courage"
+        }
+      ],
+      "answer": "C",
+      "word": "take a trip",
+      "meaning": "去旅行"
+    },
+    {
+      "id": 6,
+      "sourceId": "T114",
+      "groupId": "T114",
+      "direction": "en_to_zh",
+      "stem": "in fact",
+      "options": [
+        {
+          "label": "A",
+          "text": "事实上"
+        },
+        {
+          "label": "B",
+          "text": "调查"
+        },
+        {
+          "label": "C",
+          "text": "初级中学"
+        },
+        {
+          "label": "D",
+          "text": "庆祝；庆贺"
+        }
+      ],
+      "answer": "A",
+      "word": "in fact",
+      "meaning": "事实上"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T080",
+      "groupId": "T080",
+      "target": "footprint",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a mark made by a foot"
+        },
+        {
+          "label": "B",
+          "text": "a way for cars to travel"
+        },
+        {
+          "label": "C",
+          "text": "something you wear on your foot"
+        },
+        {
+          "label": "D",
+          "text": "a part of the body used to hold things"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "A",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "footprint",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "footprint"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "脚印；足迹",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “footprint” means “a mark made by a foot”.",
+      "parentExplanation": "本题考查“footprint”在本句中的用法；正确英文解释为“a mark made by a foot”。对应源表释义为“脚印；足迹”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T081",
+      "groupId": "T081",
+      "target": "wet",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "covered with water"
+        },
+        {
+          "label": "B",
+          "text": "not big"
+        },
+        {
+          "label": "C",
+          "text": "not dirty"
+        },
+        {
+          "label": "D",
+          "text": "not old"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "wet",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "wet"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "潮湿的",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “wet” means “covered with water”.",
+      "parentExplanation": "本题考查“wet”在本句中的用法；正确英文解释为“covered with water”。对应源表释义为“潮湿的”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T082",
+      "groupId": "T082",
+      "target": "deep",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "wet"
+        },
+        {
+          "label": "B",
+          "text": "deep"
+        },
+        {
+          "label": "C",
+          "text": "straight"
+        },
+        {
+          "label": "D",
+          "text": "basic"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which word best describes the well?",
+      "answer": "B",
+      "listenScript": "Ben drops a stone into a well. The stone falls a long way before it reaches the water.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Ben drops a stone into a well. The stone falls a long way before it reaches the water."
+        }
+      ],
+      "explanation": "The stone falls a long distance, so the well is deep.",
+      "parentExplanation": "石头下落距离很大，说明井很深，选deep。",
+      "translation": {
+        "stem": "哪个词最能描述这口井？",
+        "listenScript": "本把一块石头丢进井里，石头下落了很远才碰到水。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T082",
+        "T081",
+        "T015",
+        "T018"
+      ],
+      "wordHelp": [
+        {
+          "word": "well",
+          "meaning": "a hole in the ground used to get water"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T110",
+      "groupId": "T110",
+      "target": "have picnics",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "do the dishes"
+        },
+        {
+          "label": "B",
+          "text": "clean up"
+        },
+        {
+          "label": "C",
+          "text": "get up"
+        },
+        {
+          "label": "D",
+          "text": "have picnics"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which phrase describes what the family does?",
+      "answer": "D",
+      "listenScript": "A family takes food to the park. They sit under a tree and eat their meal outside.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "A family takes food to the park. They sit under a tree and eat their meal outside."
+        }
+      ],
+      "explanation": "They eat a meal outside, so they have picnics.",
+      "parentExplanation": "一家人在户外用餐，对应have picnics。",
+      "translation": {
+        "stem": "哪个短语描述这家人的活动？",
+        "listenScript": "一家人带着食物去公园，坐在树下，在户外吃饭。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T110",
+        "T067",
+        "T078",
+        "T073"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T112",
+      "groupId": "T112",
+      "target": "take a trip",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to wash the plates after a meal"
+        },
+        {
+          "label": "B",
+          "text": "to travel to another place for a visit or holiday"
+        },
+        {
+          "label": "C",
+          "text": "to do exercises in a notebook"
+        },
+        {
+          "label": "D",
+          "text": "to stay at home all day"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "We do not stay at home during the holiday. We take a trip to the seaside.\nWhat does “take a trip” mean here?",
+      "translation": {
+        "stem": "假期里我们不待在家，而是去海边旅行。 这里“take a trip”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “take a trip” means “to travel to another place for a visit or holiday”.",
+      "parentExplanation": "本题考查“take a trip”在本句中的用法；正确英文解释为“to travel to another place for a visit or holiday”。对应源表释义为“去旅行”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T114",
+      "groupId": "T114",
+      "target": "in fact",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "used to say something may happen later"
+        },
+        {
+          "label": "B",
+          "text": "used to ask where a place is"
+        },
+        {
+          "label": "C",
+          "text": "used to introduce what is really true"
+        },
+        {
+          "label": "D",
+          "text": "used to say that two things are different in size"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "People think this animal is a fish. In fact, it is a whale.\nWhat does “In fact” mean here?",
+      "translation": {
+        "stem": "人们以为这种动物是鱼。事实上，它是一头鲸。 这里“In fact”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “in fact” means “used to introduce what is really true”.",
+      "parentExplanation": "本题考查“in fact”在本句中的用法；正确英文解释为“used to introduce what is really true”。对应源表释义为“事实上”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T074",
+      "groupId": "T074",
+      "target": "on foot",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "by walking"
+        },
+        {
+          "label": "B",
+          "text": "by taking a train"
+        },
+        {
+          "label": "C",
+          "text": "by travelling in a car"
+        },
+        {
+          "label": "D",
+          "text": "by riding a bicycle"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "We walk to school every morning; we go there on foot.\nWhat does “on foot” mean here?",
+      "translation": {
+        "stem": "我们每天早晨走路上学；我们步行去那里。 这里“on foot”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “on foot” means “by walking”.",
+      "parentExplanation": "本题考查“on foot”在本句中的用法；正确英文解释为“by walking”。对应源表释义为“步行”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T073",
+      "groupId": "T073",
+      "target": "get up",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to arrange pillows and sheets neatly"
+        },
+        {
+          "label": "B",
+          "text": "to leave your bed after waking"
+        },
+        {
+          "label": "C",
+          "text": "to remain in bed while awake"
+        },
+        {
+          "label": "D",
+          "text": "to begin sleeping at night"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "I wake up at seven but get up at ten past seven, when I finally leave the bed.\nWhat does “get up” mean here?",
+      "translation": {
+        "stem": "我七点醒来，但七点十分才起床，终于离开床。 这里“get up”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “get up” means “to leave your bed after waking”.",
+      "parentExplanation": "本题考查“get up”在本句中的用法；正确英文解释为“to leave your bed after waking”。对应源表释义为“起床”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T080",
+      "groupId": "T080",
+      "target": "footprint",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "footprint"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "There is one f________ beside the door. It is a mark made by a foot.",
+      "answer": "footprint",
+      "hint": "a mark made by a foot",
+      "grammar": "One + singular countable noun",
+      "initialLetter": "f",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "One takes the singular noun footprint.",
+      "parentExplanation": "one后用单数可数名词footprint。",
+      "translation": {
+        "stem": "门旁有一个脚印，是脚留下的印迹。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T081",
+      "groupId": "T081",
+      "target": "wet",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "wet"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "My hands are w________ after I wash the cups.",
+      "answer": "wet",
+      "hint": "covered with water",
+      "grammar": "Be + adjective",
+      "initialLetter": "w",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Wet describes hands with water on them.",
+      "parentExplanation": "are后填形容词wet，描述手上沾水。",
+      "translation": {
+        "stem": "洗完杯子后，我的双手湿了。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T082",
+      "groupId": "T082",
+      "target": "deep",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "deep"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The water is d________.",
+      "answer": "deep",
+      "hint": "a long way from top to bottom",
+      "grammar": "形容词作表语",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "\"Deep\" describes the water. Remember the two letters e in \"deep\".",
+      "parentExplanation": "deep 作表语说明水的深度；注意双写字母 e，填 deep。",
+      "translation": {
+        "stem": "水很深。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "well",
+          "meaning": "a hole in the ground used to get water"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T110",
+      "groupId": "T110",
+      "target": "have picnics",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "has picnics",
+        "has a picnic"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Lily often h________ in the park with her parents on Sundays.",
+      "answer": "has picnics",
+      "hint": "eat meals outdoors for pleasure, often taking the food with you",
+      "grammar": "一般现在时 第三人称单数 have变has",
+      "initialLetter": "h",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "\"Often\" and \"on Sundays\" show a habit. With \"Lily\", use \"has\", not \"have\". Both \"has picnics\" and \"has a picnic\" are natural here.",
+      "parentExplanation": "often 与 on Sundays 表示习惯。主语 Lily 是第三人称单数，have 改为 has。填 has picnics；has a picnic 也自然、正确。",
+      "translation": {
+        "stem": "莉莉星期日经常和父母在公园野餐。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T112",
+      "groupId": "T112",
+      "target": "take a trip",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "takes a trip"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Every summer, Maya t________ with her parents to a new city.",
+      "answer": "takes a trip",
+      "hint": "travels somewhere for a visit or holiday",
+      "grammar": "Simple present: third-person singular",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Maya is one person, so take becomes takes.",
+      "parentExplanation": "Maya为第三人称单数，take变为takes。",
+      "translation": {
+        "stem": "每年夏天，玛雅和父母去一个新城市旅行。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T114",
+      "groupId": "T114",
+      "target": "in fact",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "In fact"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia thinks Tom is at school. I________, he is at home.",
+      "answer": "In fact",
+      "hint": "used to tell the truth about a situation",
+      "grammar": "Sentence adverbial phrase",
+      "initialLetter": "i",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "In fact introduces the real situation: Tom is at home.",
+      "parentExplanation": "in fact引出真实情况，即汤姆在家。",
+      "translation": {
+        "stem": "米娅以为汤姆在学校。事实上，他在家。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T072",
+      "groupId": "T072",
+      "target": "go to bed",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "go to bed"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "I g________ at ten, but I sometimes read in bed before I fall asleep.",
+      "answer": "go to bed",
+      "hint": "Use the three-word phrase for getting into bed to sleep, even if sleep comes later.",
+      "grammar": "go to bed；bed前无冠词",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Getting into bed to sleep is going to bed, not necessarily falling asleep immediately.",
+      "parentExplanation": "先上床、之后才睡着，考go to bed，不是立刻睡着。",
+      "translation": {
+        "stem": "我十点上床，但有时会在床上读书，之后才睡着。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T071",
+      "groupId": "T071",
+      "target": "daily life",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "daily life",
+        "daily lives"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Getting dressed, eating breakfast and going to school are parts of our d________.",
+      "answer": "daily life",
+      "hint": "Use the two-word phrase for ordinary activities in everyday living.",
+      "grammar": "our daily life",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "These are ordinary things we do every day, forming daily life.",
+      "parentExplanation": "每天常做的事情属于daily life。our daily lives强调各人的日常生活，同样自然。",
+      "translation": {
+        "stem": "穿衣、吃早饭和上学是我们日常生活的一部分。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T079",
+      "groupId": "T079",
+      "target": "pick up",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to hide something from its owner"
+        },
+        {
+          "label": "B",
+          "text": "to break something into pieces"
+        },
+        {
+          "label": "C",
+          "text": "to collect something that is waiting for you"
+        },
+        {
+          "label": "D",
+          "text": "to drop something on the ground"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “pick up” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 2, \"pick up\" means \"to collect something that is waiting for you\". The surrounding action supports this meaning.",
+      "parentExplanation": "第2句中“pick up”在语境中表示“取（某物）”；句子为“Before we go outside, Mia goes to the office to pick up the key that our teacher left there.”。",
+      "translation": {
+        "stem": "短文中的“pick up”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "pick up"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T078",
+      "groupId": "T078",
+      "target": "clean up",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to close a place for repairs"
+        },
+        {
+          "label": "B",
+          "text": "to make a place clean"
+        },
+        {
+          "label": "C",
+          "text": "to fill a place with visitors"
+        },
+        {
+          "label": "D",
+          "text": "to make a place dirty"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “clean up” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 4, \"clean up\" means \"to make a place clean\". The surrounding action supports this meaning.",
+      "parentExplanation": "第4句中“clean up”在语境中表示“打扫干净”；句子为“Everyone helps to clean up the garden before the younger children arrive.”。",
+      "translation": {
+        "stem": "短文中的“clean up”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "clean up"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why do the pupils put the cups and paper away?",
+      "explanation": "They clean the garden before the younger children arrive.",
+      "parentExplanation": "第4至6句表明，他们要在低年级孩子到来前把花园整理干净。",
+      "translation": {
+        "stem": "学生们为什么收好杯子和纸？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "To give the paper to their reading teacher."
+        },
+        {
+          "label": "B",
+          "text": "To keep the garden closed for the whole day."
+        },
+        {
+          "label": "C",
+          "text": "To make the garden clean before the children arrive."
+        },
+        {
+          "label": "D",
+          "text": "To take the cups back to the school office."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea of the passage?",
+      "explanation": "The class collects the key and tidies the garden so that everyone can read there.",
+      "parentExplanation": "全文围绕领取钥匙、清理花园，为共同阅读做好准备展开。",
+      "translation": {
+        "stem": "短文的主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A teacher closes the garden to all the pupils."
+        },
+        {
+          "label": "B",
+          "text": "Some pupils plan to build a new school office."
+        },
+        {
+          "label": "C",
+          "text": "A class gets a garden ready for shared reading."
+        },
+        {
+          "label": "D",
+          "text": "A class searches for a key that nobody can find."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T077",
+      "groupId": "T077",
+      "target": "put on",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to cancel a performance"
+        },
+        {
+          "label": "B",
+          "text": "to wear a piece of clothing"
+        },
+        {
+          "label": "C",
+          "text": "to watch a play as a visitor"
+        },
+        {
+          "label": "D",
+          "text": "to stage or perform a play"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “put on” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 1, \"put on\" means \"to stage or perform a play\". The surrounding action supports this meaning.",
+      "parentExplanation": "第1句中“put on”在语境中表示“举办；上演”；句子为“Our class wants to put on a short play for the other pupils.”。",
+      "translation": {
+        "stem": "短文中的“put on”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "put on"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T076",
+      "groupId": "T076",
+      "target": "get ... ready for",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to prepare the hall for the show"
+        },
+        {
+          "label": "B",
+          "text": "to lock the hall after the show"
+        },
+        {
+          "label": "C",
+          "text": "to remove the hall from the plan"
+        },
+        {
+          "label": "D",
+          "text": "to leave the hall unprepared"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “get the hall ready for” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 3, \"get the hall ready for\" means \"to prepare the hall for the show\". The surrounding action supports this meaning.",
+      "parentExplanation": "第3句中“get the hall ready for”在语境中表示“准备好……”；句子为“On Thursday, we get the hall ready for the show by moving the chairs into rows.”。",
+      "translation": {
+        "stem": "短文中的“get the hall ready for”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "get the hall ready for"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "How does the writer help before the show?",
+      "explanation": "The writer stands by the door and shows the pupils their seats.",
+      "parentExplanation": "第5句直接说明，作者在门边引导学生入座。",
+      "translation": {
+        "stem": "作者在演出前如何帮忙？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "By checking every piece of music."
+        },
+        {
+          "label": "B",
+          "text": "By moving all the pictures outside."
+        },
+        {
+          "label": "C",
+          "text": "By writing a new story for the play."
+        },
+        {
+          "label": "D",
+          "text": "By showing pupils where to sit."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the passage mainly about?",
+      "explanation": "Different pupils share the preparations for a class play.",
+      "parentExplanation": "全文介绍班级演出的共同准备过程，而不是单个孩子独自完成。",
+      "translation": {
+        "stem": "这篇短文主要讲什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A class decides to stop its school play."
+        },
+        {
+          "label": "B",
+          "text": "A class prepares a play by sharing the jobs."
+        },
+        {
+          "label": "C",
+          "text": "Some friends choose a new school hall."
+        },
+        {
+          "label": "D",
+          "text": "One pupil prepares the whole show alone."
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Our class uses the school garden on Friday afternoon. Before we go outside, Mia goes to the office to pick up the key that our teacher left there. We open the garden gate and see cups and paper on the ground. Everyone helps to clean up the garden before the younger children arrive. Ben puts the cups in a box, and I put the paper in a bin. Soon the garden is clean again, and we can all enjoy reading outside together.",
+      "parallelText": [
+        {
+          "en": "Our class uses the school garden on Friday afternoon.",
+          "zh": "周五下午我们班使用学校花园。"
+        },
+        {
+          "en": "Before we go outside, Mia goes to the office to pick up the key that our teacher left there.",
+          "zh": "出去前，米娅去办公室领取老师留在那里的钥匙。"
+        },
+        {
+          "en": "We open the garden gate and see cups and paper on the ground.",
+          "zh": "我们打开花园的门，看见地上有杯子和纸。"
+        },
+        {
+          "en": "Everyone helps to clean up the garden before the younger children arrive.",
+          "zh": "在低年级孩子到来前，大家帮忙把花园打扫干净。"
+        },
+        {
+          "en": "Ben puts the cups in a box, and I put the paper in a bin.",
+          "zh": "本把杯子放进盒子，我把纸放进垃圾桶。"
+        },
+        {
+          "en": "Soon the garden is clean again, and we can all enjoy reading outside together.",
+          "zh": "不久，花园又干净了，大家可以一起享受户外阅读。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "gate",
+          "meaning": "a door in a wall or fence"
+        },
+        {
+          "word": "bin",
+          "meaning": "a container for rubbish"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Our class wants to put on a short play for the other pupils. We choose a story about two friends who help each other. On Thursday, we get the hall ready for the show by moving the chairs into rows. Mia checks the pictures, while Ben makes sure that everyone can hear the music. I stand by the door and show the younger pupils where to sit. Everyone helps with a job, so we feel happy when the show begins.",
+      "parallelText": [
+        {
+          "en": "Our class wants to put on a short play for the other pupils.",
+          "zh": "我们班想为其他学生上演一部短剧。"
+        },
+        {
+          "en": "We choose a story about two friends who help each other.",
+          "zh": "我们选了一个讲述两位朋友相互帮助的故事。"
+        },
+        {
+          "en": "On Thursday, we get the hall ready for the show by moving the chairs into rows.",
+          "zh": "周四，我们把椅子排成行，为演出准备好大厅。"
+        },
+        {
+          "en": "Mia checks the pictures, while Ben makes sure that everyone can hear the music.",
+          "zh": "米娅检查图片，本则确保大家能听见音乐。"
+        },
+        {
+          "en": "I stand by the door and show the younger pupils where to sit.",
+          "zh": "我站在门边，告诉低年级学生坐在哪里。"
+        },
+        {
+          "en": "Everyone helps with a job, so we feel happy when the show begins.",
+          "zh": "每个人都承担了一项工作，所以演出开始时，我们很高兴。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "hall",
+          "meaning": "a large room for meetings or shows"
+        },
+        {
+          "word": "rows",
+          "meaning": "straight lines of people or things"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S001-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T074",
+      "groupId": "T074",
+      "expression": "on foot",
+      "meaning": "步行",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S001-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T073",
+      "groupId": "T073",
+      "expression": "get up",
+      "meaning": "起床",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S001-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T072",
+      "groupId": "T072",
+      "expression": "go to bed",
+      "meaning": "去睡觉",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S001-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T071",
+      "groupId": "T071",
+      "expression": "daily life",
+      "meaning": "日常生活",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S001-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T079",
+      "groupId": "T079",
+      "expression": "pick up",
+      "meaning": "取（某物）",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S001-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T078",
+      "groupId": "T078",
+      "expression": "clean up",
+      "meaning": "打扫干净",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S001-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T077",
+      "groupId": "T077",
+      "expression": "put on",
+      "meaning": "举办；上演",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S001-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T076",
+      "groupId": "T076",
+      "expression": "get ... ready for",
+      "meaning": "准备好……",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

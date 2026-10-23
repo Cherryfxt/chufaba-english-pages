@@ -1,0 +1,2970 @@
+{
+  "station": 121,
+  "type": "new_learning",
+  "phase": "phrase_supplement",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 121,
+  "newItems": [
+    {
+      "groupId": "E0325",
+      "sourceId": "E0325",
+      "sourceIds": [
+        "E0325"
+      ],
+      "word": "at the same time",
+      "meaning": "同时",
+      "sourceItems": [
+        {
+          "sourceId": "E0325",
+          "sourceKind": "phrase",
+          "expression": "at the same time",
+          "meaning": "同时",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "巩固运用",
+          "topic": "逻辑表达",
+          "usage": "表示同时发生或补充另一面",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0325",
+          "sourceImages": "IMG_2702.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 296,
+          "originalFields": {
+            "编号": "E0325",
+            "英文表达": "at the same time",
+            "中文释义": "同时",
+            "学习层级": "巩固运用",
+            "主题": "逻辑表达",
+            "用法与易错点": "表示同时发生或补充另一面",
+            "适用训练": "读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于观点组织与逻辑关系中的“同时”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0325",
+            "来源图片": "IMG_2702.heic",
+            "原文英文": "at the same time",
+            "原文释义": "同时",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0325",
+          "introducedAtStation": 121
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0325",
+        "sourceIds": [
+          "E0325"
+        ],
+        "expression": "at the same time",
+        "phonetic": "/ət ðə seɪm taɪm/",
+        "readingForms": [
+          {
+            "expression": "at the same time",
+            "phonetic": "/ət ðə seɪm taɪm/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0325",
+            "expression": "at the same time"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The two buses arrive at the same time.",
+          "zh": "两辆公交车同时到达。",
+          "sourceIds": [
+            "E0325"
+          ]
+        },
+        {
+          "en": "The job is difficult. At the same time, it is interesting.",
+          "zh": "这份工作很难，同时也很有趣。",
+          "sourceIds": [
+            "E0325"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "逻辑表达",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0027",
+      "sourceId": "E0027",
+      "sourceIds": [
+        "E0027"
+      ],
+      "word": "be honest with sb.",
+      "meaning": "对某人诚实的，对某人坦诚的",
+      "sourceItems": [
+        {
+          "sourceId": "E0027",
+          "sourceKind": "phrase",
+          "expression": "be honest with sb.",
+          "meaning": "对某人诚实的，对某人坦诚的",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "巩固运用",
+          "topic": "人际情感",
+          "usage": "with后接坦诚相待的对象",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0027",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 297,
+          "originalFields": {
+            "编号": "E0027",
+            "英文表达": "be honest with sb.",
+            "中文释义": "对某人诚实的，对某人坦诚的",
+            "学习层级": "巩固运用",
+            "主题": "人际情感",
+            "用法与易错点": "with后接坦诚相待的对象",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“对某人诚实的，对某人坦诚的”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0027",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "be honest with sb.",
+            "原文释义": "对某人诚实的，对某人坦诚的",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0027",
+          "introducedAtStation": 121
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0027",
+        "sourceIds": [
+          "E0027"
+        ],
+        "expression": "be honest with sb.",
+        "phonetic": "/biː ˈɒnɪst wɪð ˈsʌmbədi/",
+        "readingForms": [
+          {
+            "expression": "be honest with somebody",
+            "phonetic": "/biː ˈɒnɪst wɪð ˈsʌmbədi/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0027",
+            "expression": "be honest with sb."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please be honest with me about the mistake.",
+          "zh": "请向我坦诚说出这个错误。",
+          "sourceIds": [
+            "E0027"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0047",
+      "sourceId": "E0047",
+      "sourceIds": [
+        "E0047"
+      ],
+      "word": "be yourself",
+      "meaning": "行为自然，不做作",
+      "sourceItems": [
+        {
+          "sourceId": "E0047",
+          "sourceKind": "phrase",
+          "expression": "be yourself",
+          "meaning": "行为自然，不做作",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "巩固运用",
+          "topic": "人际情感",
+          "usage": "反身代词随主语人称变化",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0047",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 298,
+          "originalFields": {
+            "编号": "E0047",
+            "英文表达": "be yourself",
+            "中文释义": "行为自然，不做作",
+            "学习层级": "巩固运用",
+            "主题": "人际情感",
+            "用法与易错点": "反身代词随主语人称变化",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“行为自然，不做作”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0047",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "be yourself",
+            "原文释义": "行为自然，不做作",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0047",
+          "introducedAtStation": 121
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0047",
+        "sourceIds": [
+          "E0047"
+        ],
+        "expression": "be yourself",
+        "phonetic": "/biː jɔːˈself/",
+        "readingForms": [
+          {
+            "expression": "be yourself",
+            "phonetic": "/biː jɔːˈself/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0047",
+            "expression": "be yourself"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "You do not need to pretend. Just be yourself.",
+          "zh": "你不必装出别的样子，做自然的自己就好。",
+          "sourceIds": [
+            "E0047"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0048",
+      "sourceId": "E0048",
+      "sourceIds": [
+        "E0048"
+      ],
+      "word": "be/feel sorry for...",
+      "meaning": "对……感到遗憾",
+      "sourceItems": [
+        {
+          "sourceId": "E0048",
+          "sourceKind": "phrase",
+          "expression": "be/feel sorry for...",
+          "meaning": "对……感到遗憾",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "巩固运用",
+          "topic": "人际情感",
+          "usage": "for后接同情或遗憾的对象",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0048",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 299,
+          "originalFields": {
+            "编号": "E0048",
+            "英文表达": "be/feel sorry for...",
+            "中文释义": "对……感到遗憾",
+            "学习层级": "巩固运用",
+            "主题": "人际情感",
+            "用法与易错点": "for后接同情或遗憾的对象",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“对……感到遗憾”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0048",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "be/feel sorry for...",
+            "原文释义": "对……感到遗憾",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0048",
+          "introducedAtStation": 121
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0048",
+        "sourceIds": [
+          "E0048"
+        ],
+        "expression": "be/feel sorry for...",
+        "phonetic": "/biː ˈsɒri fə …/ 或 /fiːl ˈsɒri fə …/",
+        "readingForms": [
+          {
+            "expression": "be sorry for …",
+            "phonetic": "/biː ˈsɒri fə …/"
+          },
+          {
+            "expression": "feel sorry for …",
+            "phonetic": "/fiːl ˈsɒri fə …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0048",
+            "expression": "be/feel sorry for..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。",
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I feel sorry for Ben because he cannot join the trip.",
+          "zh": "本不能参加旅行，我为他感到遗憾。",
+          "sourceIds": [
+            "E0048"
+          ]
+        },
+        {
+          "en": "Mia is sorry for her friend, who is ill.",
+          "zh": "米娅的朋友生病了，她很同情朋友。",
+          "sourceIds": [
+            "E0048"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "首字母题的accepted只保留与本题标准答案首字母相符的表达；另一合法并列结构仍保留在同组其他例句与fill主答案中，不删除原源结构。",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0084",
+      "sourceId": "E0084",
+      "sourceIds": [
+        "E0084"
+      ],
+      "word": "give a helping hand",
+      "meaning": "帮助，伸出援助之手",
+      "sourceItems": [
+        {
+          "sourceId": "E0084",
+          "sourceKind": "phrase",
+          "expression": "give a helping hand",
+          "meaning": "帮助，伸出援助之手",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "巩固运用",
+          "topic": "人际情感",
+          "usage": "hand前保留a，表示帮助而非身体动作",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0084",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 300,
+          "originalFields": {
+            "编号": "E0084",
+            "英文表达": "give a helping hand",
+            "中文释义": "帮助，伸出援助之手",
+            "学习层级": "巩固运用",
+            "主题": "人际情感",
+            "用法与易错点": "hand前保留a，表示帮助而非身体动作",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“帮助，伸出援助之手”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0084",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "give a helping hand",
+            "原文释义": "帮助，伸出援助之手",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0084",
+          "introducedAtStation": 121
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0084",
+        "sourceIds": [
+          "E0084"
+        ],
+        "expression": "give a helping hand",
+        "phonetic": "/ɡɪv ə ˈhelpɪŋ hænd/",
+        "readingForms": [
+          {
+            "expression": "give a helping hand",
+            "phonetic": "/ɡɪv ə ˈhelpɪŋ hænd/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0084",
+            "expression": "give a helping hand"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Mia gives a helping hand when we carry the boxes.",
+          "zh": "我们搬箱子时，米娅伸出援助之手。",
+          "sourceIds": [
+            "E0084"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0121",
+      "sourceId": "E0121",
+      "sourceIds": [
+        "E0121"
+      ],
+      "word": "keep a secret",
+      "meaning": "保守秘密",
+      "sourceItems": [
+        {
+          "sourceId": "E0121",
+          "sourceKind": "phrase",
+          "expression": "keep a secret",
+          "meaning": "保守秘密",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "巩固运用",
+          "topic": "人际情感",
+          "usage": "secret为可数名词，保留a",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0121",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 301,
+          "originalFields": {
+            "编号": "E0121",
+            "英文表达": "keep a secret",
+            "中文释义": "保守秘密",
+            "学习层级": "巩固运用",
+            "主题": "人际情感",
+            "用法与易错点": "secret为可数名词，保留a",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“保守秘密”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0121",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "keep a secret",
+            "原文释义": "保守秘密",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0121",
+          "introducedAtStation": 121
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0121",
+        "sourceIds": [
+          "E0121"
+        ],
+        "expression": "keep a secret",
+        "phonetic": "/kiːp ə ˈsiːkrət/",
+        "readingForms": [
+          {
+            "expression": "keep a secret",
+            "phonetic": "/kiːp ə ˈsiːkrət/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0121",
+            "expression": "keep a secret"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Can you keep a secret? We are planning a surprise party.",
+          "zh": "你能保守秘密吗？我们正在策划惊喜聚会。",
+          "sourceIds": [
+            "E0121"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "E0243",
+      "sourceId": "E0243",
+      "sourceIds": [
+        "E0243"
+      ],
+      "word": "and so on",
+      "meaning": "等等",
+      "sourceItems": [
+        {
+          "sourceId": "E0243",
+          "sourceKind": "phrase",
+          "expression": "and so on",
+          "meaning": "等等",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "巩固运用",
+          "topic": "逻辑表达",
+          "usage": "用于列举末尾，前面项目保持平行",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0243；P0434",
+          "sourceImages": "IMG_2701.heic；IMG_2703.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 295,
+          "originalFields": {
+            "编号": "E0243",
+            "英文表达": "and so on",
+            "中文释义": "等等",
+            "学习层级": "巩固运用",
+            "主题": "逻辑表达",
+            "用法与易错点": "用于列举末尾，前面项目保持平行",
+            "适用训练": "读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于观点组织与逻辑关系中的“等等”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0243；P0434",
+            "来源图片": "IMG_2701.heic；IMG_2703.heic",
+            "原文英文": "and so on",
+            "原文释义": "等等",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0243",
+          "introducedAtStation": 120
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0243",
+        "sourceIds": [
+          "E0243"
+        ],
+        "expression": "and so on",
+        "phonetic": "/ənd səʊ ɒn/",
+        "readingForms": [
+          {
+            "expression": "and so on",
+            "phonetic": "/ənd səʊ ɒn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0243",
+            "expression": "and so on"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The shop sells apples, pears, oranges and so on.",
+          "zh": "这家商店出售苹果、梨、橙子等等。",
+          "sourceIds": [
+            "E0243"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "逻辑表达",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0222",
+      "sourceId": "E0222",
+      "sourceIds": [
+        "E0222"
+      ],
+      "word": "turn back",
+      "meaning": "（使）原路返回，往回走；往回走；阻挡，挡住",
+      "sourceItems": [
+        {
+          "sourceId": "E0222",
+          "sourceKind": "phrase",
+          "expression": "turn back",
+          "meaning": "（使）原路返回，往回走；往回走；阻挡，挡住",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "巩固运用",
+          "topic": "旅行交通",
+          "usage": "back表示沿原路返回",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0222；P0816；P1192",
+          "sourceImages": "IMG_2701.heic；IMG_2717.heic；IMG_2722.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 294,
+          "originalFields": {
+            "编号": "E0222",
+            "英文表达": "turn back",
+            "中文释义": "（使）原路返回，往回走；往回走；阻挡，挡住",
+            "学习层级": "巩固运用",
+            "主题": "旅行交通",
+            "用法与易错点": "back表示沿原路返回",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于出行与地点描述中的“（使）原路返回，往回走”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 3,
+            "原始条目编号": "P0222；P0816；P1192",
+            "来源图片": "IMG_2701.heic；IMG_2717.heic；IMG_2722.heic",
+            "原文英文": "turn back",
+            "原文释义": "（使）原路返回，往回走；往回走；往回走；阻挡，挡住",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0222",
+          "introducedAtStation": 120
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0222",
+        "sourceIds": [
+          "E0222"
+        ],
+        "expression": "turn back",
+        "phonetic": "/tɜːn bæk/",
+        "readingForms": [
+          {
+            "expression": "turn back",
+            "phonetic": "/tɜːn bæk/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0222",
+            "expression": "turn back"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The walkers turn back when the path is closed.",
+          "zh": "步行者看到小路封闭就原路返回。",
+          "sourceIds": [
+            "E0222"
+          ]
+        },
+        {
+          "en": "The guard turns back visitors without tickets.",
+          "zh": "警卫挡住没有票的游客，让他们返回。",
+          "sourceIds": [
+            "E0222"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T234",
+      "sourceId": "T234",
+      "sourceIds": [
+        "T234"
+      ],
+      "word": "almost",
+      "meaning": "几乎；差不多",
+      "sourceItems": [
+        {
+          "sourceId": "T234",
+          "sourceKind": "textbook",
+          "expression": "almost",
+          "meaning": "几乎；差不多",
+          "partOfSpeech": "adv.",
+          "phonetic": "/ˈɔːlməʊst/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 94,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 239,
+          "originalFields": {
+            "序号": 234,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "almost",
+            "音标（教材）": "/ˈɔːlməʊst/",
+            "词性": "adv.",
+            "中文释义": "几乎；差不多",
+            "教材课文页": 94,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T234",
+          "introducedAtStation": 36
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T234",
+        "word": "almost",
+        "ipa": "/ˈɔːlməʊst/",
+        "focus": "重音在/ɔːl/；后段/məʊst/的/əʊ/有滑动，末尾/st/紧接。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The puzzle is almost complete.",
+          "zh": "拼图差不多完成了。",
+          "sourceIds": [
+            "T234"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "drop",
+          "meaning": "a very small amount of liquid"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈɔːlməʊst/",
+      "pos": "adv.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T013",
+      "sourceId": "T013",
+      "sourceIds": [
+        "T013"
+      ],
+      "word": "describe",
+      "meaning": "描述；形容",
+      "sourceItems": [
+        {
+          "sourceId": "T013",
+          "sourceKind": "textbook",
+          "expression": "describe",
+          "meaning": "描述；形容",
+          "partOfSpeech": "v.",
+          "phonetic": "/dɪˈskraɪb/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 11,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 18,
+          "originalFields": {
+            "序号": 13,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "describe",
+            "音标（教材）": "/dɪˈskraɪb/",
+            "词性": "v.",
+            "中文释义": "描述；形容",
+            "教材课文页": 11,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T013",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T013",
+        "word": "describe",
+        "ipa": "/dɪˈskraɪb/",
+        "focus": "重音在/skraɪb/；/skr/三个辅音紧接，/aɪ/滑动后以/b/收尾。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Can you describe your new classroom to me?",
+          "zh": "你能向我描述你的新教室吗？",
+          "sourceIds": [
+            "T013"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/dɪˈskraɪb/",
+      "pos": "v.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0946",
+      "sourceId": "E0946",
+      "sourceIds": [
+        "E0946"
+      ],
+      "word": "take a train trip",
+      "meaning": "坐火车旅行",
+      "sourceItems": [
+        {
+          "sourceId": "E0946",
+          "sourceKind": "phrase",
+          "expression": "take a train trip",
+          "meaning": "坐火车旅行",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "巩固运用",
+          "topic": "旅行交通",
+          "usage": "trip可数，a train trip指一次火车旅行。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P1150",
+          "sourceImages": "IMG_2721.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 293,
+          "originalFields": {
+            "编号": "E0946",
+            "英文表达": "take a train trip",
+            "中文释义": "坐火车旅行",
+            "学习层级": "巩固运用",
+            "主题": "旅行交通",
+            "用法与易错点": "trip可数，a train trip指一次火车旅行。",
+            "适用训练": "听说交际 / 完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；需结合具体语境巩固词义及结构。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P1150",
+            "来源图片": "IMG_2721.heic",
+            "原文英文": "take a train trip",
+            "原文释义": "坐火车旅行",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0946",
+          "introducedAtStation": 120
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0946",
+        "sourceIds": [
+          "E0946"
+        ],
+        "expression": "take a train trip",
+        "phonetic": "/teɪk ə treɪn trɪp/",
+        "readingForms": [
+          {
+            "expression": "take a train trip",
+            "phonetic": "/teɪk ə treɪn trɪp/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0946",
+            "expression": "take a train trip"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We take a train trip to the coast in summer.",
+          "zh": "夏天我们坐火车去海边旅行。",
+          "sourceIds": [
+            "E0946"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0802",
+      "sourceId": "E0802",
+      "sourceIds": [
+        "E0802"
+      ],
+      "word": "pass by",
+      "meaning": "经过；路过",
+      "sourceItems": [
+        {
+          "sourceId": "E0802",
+          "sourceKind": "phrase",
+          "expression": "pass by",
+          "meaning": "经过；路过",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "巩固运用",
+          "topic": "旅行交通",
+          "usage": "经过某地可接地点，by不能换成to。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0919",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 292,
+          "originalFields": {
+            "编号": "E0802",
+            "英文表达": "pass by",
+            "中文释义": "经过；路过",
+            "学习层级": "巩固运用",
+            "主题": "旅行交通",
+            "用法与易错点": "经过某地可接地点，by不能换成to。",
+            "适用训练": "听说交际 / 完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；需结合具体语境巩固词义及结构。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0919",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "pass by",
+            "原文释义": "经过；路过",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0802",
+          "introducedAtStation": 120
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0802",
+        "sourceIds": [
+          "E0802"
+        ],
+        "expression": "pass by",
+        "phonetic": "/pɑːs baɪ/",
+        "readingForms": [
+          {
+            "expression": "pass by",
+            "phonetic": "/pɑːs baɪ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0802",
+            "expression": "pass by"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We pass by the old bridge on the way to school.",
+          "zh": "我们上学路上经过那座老桥。",
+          "sourceIds": [
+            "E0802"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0785",
+      "sourceId": "E0785",
+      "sourceIds": [
+        "E0785"
+      ],
+      "word": "go around",
+      "meaning": "到处去",
+      "sourceItems": [
+        {
+          "sourceId": "E0785",
+          "sourceKind": "phrase",
+          "expression": "go around",
+          "meaning": "到处去",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "巩固运用",
+          "topic": "旅行交通",
+          "usage": "四处走动；go around the city中around可作介词。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0892",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 290,
+          "originalFields": {
+            "编号": "E0785",
+            "英文表达": "go around",
+            "中文释义": "到处去",
+            "学习层级": "巩固运用",
+            "主题": "旅行交通",
+            "用法与易错点": "四处走动；go around the city中around可作介词。",
+            "适用训练": "听说交际 / 完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；需结合具体语境巩固词义及结构。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0892",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "go around",
+            "原文释义": "到处去",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0785",
+          "introducedAtStation": 120
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0785",
+        "sourceIds": [
+          "E0785"
+        ],
+        "expression": "go around",
+        "phonetic": "/ɡəʊ əˈraʊnd/",
+        "readingForms": [
+          {
+            "expression": "go around",
+            "phonetic": "/ɡəʊ əˈraʊnd/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0785",
+            "expression": "go around"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We go around the city by bus to see different places.",
+          "zh": "我们坐公交车在城里到处走走，看不同的地方。",
+          "sourceIds": [
+            "E0785"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0516",
+      "sourceId": "E0516",
+      "sourceIds": [
+        "E0516"
+      ],
+      "word": "pack up",
+      "meaning": "打包；收拾行李",
+      "sourceItems": [
+        {
+          "sourceId": "E0516",
+          "sourceKind": "phrase",
+          "expression": "pack up",
+          "meaning": "打包；收拾行李",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "巩固运用",
+          "topic": "旅行交通",
+          "usage": "pack up表示收拾行李，代词宾语置中间，如pack it up。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0520；P0739",
+          "sourceImages": "IMG_2705.heic；IMG_2716.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 291,
+          "originalFields": {
+            "编号": "E0516",
+            "英文表达": "pack up",
+            "中文释义": "打包；收拾行李",
+            "学习层级": "巩固运用",
+            "主题": "旅行交通",
+            "用法与易错点": "pack up表示收拾行李，代词宾语置中间，如pack it up。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0520；P0739",
+            "来源图片": "IMG_2705.heic；IMG_2716.heic",
+            "原文英文": "pack up",
+            "原文释义": "打包；打包；收拾行李",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0516",
+          "introducedAtStation": 120
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0516",
+        "sourceIds": [
+          "E0516"
+        ],
+        "expression": "pack up",
+        "phonetic": "/pæk ʌp/",
+        "readingForms": [
+          {
+            "expression": "pack up",
+            "phonetic": "/pæk ʌp/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0516",
+            "expression": "pack up"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We pack up before leaving the hotel.",
+          "zh": "我们离开旅馆前收拾行李。",
+          "sourceIds": [
+            "E0516"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "旅行交通",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "E0325",
+      "groupId": "E0325",
+      "direction": "zh_to_en",
+      "stem": "同时",
+      "options": [
+        {
+          "label": "A",
+          "text": "pick up"
+        },
+        {
+          "label": "B",
+          "text": "a kind of"
+        },
+        {
+          "label": "C",
+          "text": "at the same time"
+        },
+        {
+          "label": "D",
+          "text": "write down"
+        }
+      ],
+      "answer": "C",
+      "word": "at the same time",
+      "meaning": "同时"
+    },
+    {
+      "id": 2,
+      "sourceId": "E0027",
+      "groupId": "E0027",
+      "direction": "en_to_zh",
+      "stem": "be honest with sb.",
+      "options": [
+        {
+          "label": "A",
+          "text": "吉他"
+        },
+        {
+          "label": "B",
+          "text": "听说"
+        },
+        {
+          "label": "C",
+          "text": "对某人诚实的，对某人坦诚的"
+        },
+        {
+          "label": "D",
+          "text": "放学后"
+        }
+      ],
+      "answer": "C",
+      "word": "be honest with sb.",
+      "meaning": "对某人诚实的，对某人坦诚的"
+    },
+    {
+      "id": 3,
+      "sourceId": "E0047",
+      "groupId": "E0047",
+      "direction": "zh_to_en",
+      "stem": "行为自然，不做作",
+      "options": [
+        {
+          "label": "A",
+          "text": "would like to do sth."
+        },
+        {
+          "label": "B",
+          "text": "come true"
+        },
+        {
+          "label": "C",
+          "text": "be yourself"
+        },
+        {
+          "label": "D",
+          "text": "memory"
+        }
+      ],
+      "answer": "C",
+      "word": "be yourself",
+      "meaning": "行为自然，不做作"
+    },
+    {
+      "id": 4,
+      "sourceId": "E0048",
+      "groupId": "E0048",
+      "direction": "en_to_zh",
+      "stem": "be/feel sorry for...",
+      "options": [
+        {
+          "label": "A",
+          "text": "对……感到遗憾"
+        },
+        {
+          "label": "B",
+          "text": "说谎"
+        },
+        {
+          "label": "C",
+          "text": "消失；不见"
+        },
+        {
+          "label": "D",
+          "text": "后果；结果"
+        }
+      ],
+      "answer": "A",
+      "word": "be/feel sorry for...",
+      "meaning": "对……感到遗憾"
+    },
+    {
+      "id": 5,
+      "sourceId": "E0084",
+      "groupId": "E0084",
+      "direction": "zh_to_en",
+      "stem": "帮助，伸出援助之手",
+      "options": [
+        {
+          "label": "A",
+          "text": "give a helping hand"
+        },
+        {
+          "label": "B",
+          "text": "in the end"
+        },
+        {
+          "label": "C",
+          "text": "generation"
+        },
+        {
+          "label": "D",
+          "text": "whale"
+        }
+      ],
+      "answer": "A",
+      "word": "give a helping hand",
+      "meaning": "帮助，伸出援助之手"
+    },
+    {
+      "id": 6,
+      "sourceId": "E0121",
+      "groupId": "E0121",
+      "direction": "en_to_zh",
+      "stem": "keep a secret",
+      "options": [
+        {
+          "label": "A",
+          "text": "保守秘密"
+        },
+        {
+          "label": "B",
+          "text": "遵守诺言"
+        },
+        {
+          "label": "C",
+          "text": "①装扮 ②穿得正式；装扮；打扮"
+        },
+        {
+          "label": "D",
+          "text": "档案"
+        }
+      ],
+      "answer": "A",
+      "word": "keep a secret",
+      "meaning": "保守秘密"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0325",
+      "groupId": "E0325",
+      "target": "at the same time",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "simultaneously"
+        },
+        {
+          "label": "B",
+          "text": "at an unknown time in the past"
+        },
+        {
+          "label": "C",
+          "text": "only after everything ends"
+        },
+        {
+          "label": "D",
+          "text": "at completely different times"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "A",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "at the same time",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "at the same time"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "同时",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “at the same time” means “simultaneously”.",
+      "parentExplanation": "本题考查“at the same time”在本句中的用法；正确英文解释为“simultaneously”。对应源表释义为“同时”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0027",
+      "groupId": "E0027",
+      "target": "be honest with sb.",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to avoid speaking to anyone"
+        },
+        {
+          "label": "B",
+          "text": "to hide the truth from someone"
+        },
+        {
+          "label": "C",
+          "text": "to tell someone the truth without hiding facts"
+        },
+        {
+          "label": "D",
+          "text": "to agree with everything someone says"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "Please be honest with me about the mistake. I need to know the truth.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Please be honest with me about the mistake. I need to know the truth."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "请向我坦诚说出这个错误，我需要知道真相。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “be honest with sb.” means “to tell someone the truth without hiding facts”.",
+      "parentExplanation": "本题考查“be honest with sb.”在本句中的用法；正确英文解释为“to tell someone the truth without hiding facts”。对应源表释义为“对某人诚实的，对某人坦诚的”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0047",
+      "groupId": "E0047",
+      "target": "be yourself",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "clean up"
+        },
+        {
+          "label": "B",
+          "text": "be yourself"
+        },
+        {
+          "label": "C",
+          "text": "take part in"
+        },
+        {
+          "label": "D",
+          "text": "get up"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression best describes the teacher asking Ben to act naturally?",
+      "answer": "B",
+      "listenScript": "Ben worries that he must speak exactly like the older pupils at the club. The teacher tells him to act naturally and use his own voice.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Ben worries that he must speak exactly like the older pupils at the club. The teacher tells him to act naturally and use his own voice."
+        }
+      ],
+      "explanation": "The situation describes the teacher asking Ben to act naturally; the matching expression is be yourself.",
+      "parentExplanation": "情境描述老师请本自然表现，对应be yourself（行为自然，不做作）。",
+      "translation": {
+        "stem": "哪个表达最能描述老师请本自然表现？",
+        "listenScript": "本担心自己必须说得跟社团的大同学一模一样。老师请他自然表现，用自己的方式说。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0047",
+        "T069",
+        "T073",
+        "T078"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0048",
+      "groupId": "E0048",
+      "target": "be/feel sorry for...",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "be/feel sorry for..."
+        },
+        {
+          "label": "B",
+          "text": "get up"
+        },
+        {
+          "label": "C",
+          "text": "take part in"
+        },
+        {
+          "label": "D",
+          "text": "clean up"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which expression best describes Mia feeling sympathy for her friend?",
+      "answer": "A",
+      "listenScript": "Mia's friend cannot join the show because she is ill. Mia is sad about her friend's situation and sends a kind note.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Mia's friend cannot join the show because she is ill. Mia is sad about her friend's situation and sends a kind note."
+        }
+      ],
+      "explanation": "The situation describes Mia feeling sympathy for her friend; the matching expression is be/feel sorry for....",
+      "parentExplanation": "情境描述米娅对朋友表示同情和遗憾，对应be/feel sorry for...（对……感到遗憾）。",
+      "translation": {
+        "stem": "哪个表达最能描述米娅对朋友表示同情和遗憾？",
+        "listenScript": "米娅的朋友生病不能参加演出。米娅为朋友的处境难过，并送去关怀纸条。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0048",
+        "T069",
+        "T073",
+        "T078"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0084",
+      "groupId": "E0084",
+      "target": "give a helping hand",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to ask someone to carry you"
+        },
+        {
+          "label": "B",
+          "text": "to help someone who needs support"
+        },
+        {
+          "label": "C",
+          "text": "to stop someone from doing a task"
+        },
+        {
+          "label": "D",
+          "text": "to put a hand inside a bag"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "We can give a helping hand when our neighbours need help.\nWhat does “give a helping hand” mean here?",
+      "translation": {
+        "stem": "邻居需要帮助时，我们可以伸出援助之手。 这里“give a helping hand”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “give a helping hand” means “to help someone who needs support”.",
+      "parentExplanation": "本题考查“give a helping hand”在本句中的用法；正确英文解释为“to help someone who needs support”。对应源表释义为“帮助，伸出援助之手”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0121",
+      "groupId": "E0121",
+      "target": "keep a secret",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to ask a person a question in public"
+        },
+        {
+          "label": "B",
+          "text": "to forget a name immediately"
+        },
+        {
+          "label": "C",
+          "text": "to not tell others information that should remain private"
+        },
+        {
+          "label": "D",
+          "text": "to tell everyone the same information"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Can you keep a secret? We are planning a surprise party for Mum.\nWhat does “keep a secret” mean here?",
+      "translation": {
+        "stem": "你能保守秘密吗？我们正在为妈妈策划惊喜聚会。 这里“keep a secret”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “keep a secret” means “to not tell others information that should remain private”.",
+      "parentExplanation": "本题考查“keep a secret”在本句中的用法；正确英文解释为“to not tell others information that should remain private”。对应源表释义为“保守秘密”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0243",
+      "groupId": "E0243",
+      "target": "and so on",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "and other similar things"
+        },
+        {
+          "label": "B",
+          "text": "before all of the other things"
+        },
+        {
+          "label": "C",
+          "text": "instead of the things already listed"
+        },
+        {
+          "label": "D",
+          "text": "but nothing else of any kind"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "Bring pencils, rulers, erasers and so on for the art lesson.\nWhat does “and so on” mean here?",
+      "translation": {
+        "stem": "美术课请带铅笔、尺子、橡皮等等。 这里“and so on”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “and so on” means “and other similar things”.",
+      "parentExplanation": "本题考查“and so on”在本句中的用法；正确英文解释为“and other similar things”。对应源表释义为“等等”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0222",
+      "groupId": "E0222",
+      "target": "turn back",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to stop someone going further and make them return"
+        },
+        {
+          "label": "B",
+          "text": "to move something into a larger room"
+        },
+        {
+          "label": "C",
+          "text": "to travel farther along the same road"
+        },
+        {
+          "label": "D",
+          "text": "to open a gate for everyone"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "The guard turns back visitors who do not have tickets.\nWhat does “turns back” mean here?",
+      "translation": {
+        "stem": "警卫挡住没有票的游客，让他们返回。 这里“turns back”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “turn back” means “to stop someone going further and make them return”.",
+      "parentExplanation": "本题考查“turn back”在本句中的用法；正确英文解释为“to stop someone going further and make them return”。对应源表释义为“（使）原路返回，往回走；往回走；阻挡，挡住”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0325",
+      "groupId": "E0325",
+      "target": "at the same time",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "At the same time",
+        "at the same time"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The job is difficult. A________, I enjoy learning new things every day.",
+      "answer": "At the same time",
+      "hint": "used to add another side of a situation",
+      "grammar": "Linking phrase",
+      "initialLetter": "a",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "At the same time can introduce another aspect of the same situation.",
+      "parentExplanation": "此处补充同一情况的另一面，保留源用法中的补充功能。",
+      "translation": {
+        "stem": "这份工作很难。同时，我也享受每天学到新东西。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0027",
+      "groupId": "E0027",
+      "target": "be honest with sb.",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "is honest with"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia i________ her parents and tells them what really happened.",
+      "answer": "is honest with",
+      "hint": "tells someone the truth",
+      "grammar": "Singular be honest with",
+      "initialLetter": "i",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Mia is singular, so use is honest with.",
+      "parentExplanation": "Mia为单数，be用is，honest为形容词。",
+      "translation": {
+        "stem": "米娅对父母很诚实，告诉他们真正发生的事。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0047",
+      "groupId": "E0047",
+      "target": "be yourself",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "be yourself"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "You do not need to copy anyone. Just b________.",
+      "answer": "be yourself",
+      "hint": "behave naturally without pretending",
+      "grammar": "Be + reflexive pronoun",
+      "initialLetter": "b",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use yourself when speaking directly to one person.",
+      "parentExplanation": "对一人说用be yourself，表示自然、不做作。",
+      "translation": {
+        "stem": "你不必模仿别人，做自然的自己就好。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0048",
+      "groupId": "E0048",
+      "target": "be/feel sorry for...",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "feel sorry for"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "I f________ Ben because he cannot join the trip.",
+      "answer": "feel sorry for",
+      "hint": "feel sadness or sympathy for someone",
+      "grammar": "Feel sorry for + person",
+      "initialLetter": "f",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Feel sorry for and be sorry for can express sympathy.",
+      "parentExplanation": "feel sorry for和be sorry for均可表示为某人感到遗憾、同情。",
+      "translation": {
+        "stem": "本不能参加旅行，我为他感到遗憾。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0084",
+      "groupId": "E0084",
+      "target": "give a helping hand",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "gives a helping hand"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia always g________ when we carry the heavy boxes.",
+      "answer": "gives a helping hand",
+      "hint": "helps someone who needs support",
+      "grammar": "Simple present: gives a helping hand",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Mia is singular, so give becomes gives.",
+      "parentExplanation": "Mia为第三人称单数，用gives a helping hand，表示帮助，不是身体手部动作。",
+      "translation": {
+        "stem": "我们搬重箱子时，米娅总会帮忙。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0121",
+      "groupId": "E0121",
+      "target": "keep a secret",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "keeps a secret"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Ben k________ about the surprise party and does not tell Mum.",
+      "answer": "keeps a secret",
+      "hint": "does not tell others private information",
+      "grammar": "Simple present: keeps a secret",
+      "initialLetter": "k",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Ben takes keeps; the phrase remains keeps a secret.",
+      "parentExplanation": "Ben为第三人称单数，用keeps a secret。",
+      "translation": {
+        "stem": "本对惊喜聚会保守秘密，没有告诉妈妈。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T234",
+      "groupId": "T234",
+      "target": "almost",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "almost"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The basket is a________ full; there is room for only one more apple.",
+      "answer": "almost",
+      "hint": "nearly, but not completely",
+      "grammar": "Adverb before adjective",
+      "initialLetter": "a",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Almost modifies full and shows that a little space remains.",
+      "parentExplanation": "almost修饰full，表示接近满但还未完全满。",
+      "translation": {
+        "stem": "篮子差不多满了，只能再放一个苹果。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 2,
+      "wordHelp": [
+        {
+          "word": "drop",
+          "meaning": "a very small amount of liquid"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T013",
+      "groupId": "T013",
+      "target": "describe",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "describe"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "In your letter, you can d________ your best friend and tell us what she is like.",
+      "answer": "describe",
+      "hint": "The verb means give details about a person in words.",
+      "grammar": "can + 动词原形",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The task is to give details about a friend, so describe is needed.",
+      "parentExplanation": "用语言说明朋友的特点，填写describe；can后用原形。",
+      "translation": {
+        "stem": "你可以在信中描述你最好的朋友，告诉我们她是什么样的人。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0946",
+      "groupId": "E0946",
+      "target": "take a train trip",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "travel only by walking"
+        },
+        {
+          "label": "B",
+          "text": "wait without leaving the house"
+        },
+        {
+          "label": "C",
+          "text": "repair a train at a station"
+        },
+        {
+          "label": "D",
+          "text": "travel somewhere by train for a visit"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “take a train trip” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, take a train trip means travel somewhere by train for a visit. Sentence 1 gives its use: Our family decides to take a train trip to a small town where my aunt lives.",
+      "parentExplanation": "take a train trip指全家乘火车出行，保留a。",
+      "translation": {
+        "stem": "短文中的“take a train trip”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "take a train trip"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0802",
+      "groupId": "E0802",
+      "target": "pass by",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "go past a place or object"
+        },
+        {
+          "label": "B",
+          "text": "remain in one place all day"
+        },
+        {
+          "label": "C",
+          "text": "travel backwards to a starting point"
+        },
+        {
+          "label": "D",
+          "text": "move an object into a cupboard"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “pass by” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, pass by means go past a place or object. Sentence 3 gives its use: Mia counts bridges, while I sketch buildings as we pass by them.",
+      "parentExplanation": "pass by them是列车行进中经过建筑，them为经过对象。",
+      "translation": {
+        "stem": "短文中的“pass by”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "pass by"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why does the narrator leave a space in the drawing?",
+      "explanation": "Sentence 4 explains the brief view and refusal to invent details.",
+      "parentExplanation": "第4句说明没看清便不编造。",
+      "translation": {
+        "stem": "叙述者为什么在画上留白？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The train has no windows along the route."
+        },
+        {
+          "label": "B",
+          "text": "The aunt refuses to look at any drawings."
+        },
+        {
+          "label": "C",
+          "text": "The roof was visible too briefly to see all its details."
+        },
+        {
+          "label": "D",
+          "text": "Mia needs all the space to count seats."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea?",
+      "explanation": "The trip focuses on noticing, recording and explaining uncertainty accurately.",
+      "parentExplanation": "旅行中观察记录，并诚实说明不确定处。",
+      "translation": {
+        "stem": "主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Two children stop sharing any notes with adults."
+        },
+        {
+          "label": "B",
+          "text": "A train journey becomes a game of careful and honest observation."
+        },
+        {
+          "label": "C",
+          "text": "An aunt designs a new railway bridge."
+        },
+        {
+          "label": "D",
+          "text": "A family competes to use the most screens."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0785",
+      "groupId": "E0785",
+      "target": "go around",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "stay at one bench without moving"
+        },
+        {
+          "label": "B",
+          "text": "turn one bowl upside down"
+        },
+        {
+          "label": "C",
+          "text": "visit different places within an area"
+        },
+        {
+          "label": "D",
+          "text": "return an item to its owner"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “go around” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, go around means visit different places within an area. Sentence 1 gives its use: During a weekend visit, our class can go around the craft village in small groups.",
+      "parentExplanation": "go around the craft village指在村中各处走访。",
+      "translation": {
+        "stem": "短文中的“go around”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "go around"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0516",
+      "groupId": "E0516",
+      "target": "pack up",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "leave possessions spread across a bench"
+        },
+        {
+          "label": "B",
+          "text": "throw useful belongings into a bin"
+        },
+        {
+          "label": "C",
+          "text": "gather and put belongings away for leaving"
+        },
+        {
+          "label": "D",
+          "text": "open every notebook to a blank page"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “pack up” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here, pack up means gather and put belongings away for leaving. Sentence 4 gives its use: Before leaving each place, we pack up our notebooks and check that no pencils remain on the benches.",
+      "parentExplanation": "pack up our notebooks为离开前收拾好物品。",
+      "translation": {
+        "stem": "短文中的“pack up”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "pack up"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What do pupils check before leaving a workshop?",
+      "explanation": "Sentence 4 states the belongings check.",
+      "parentExplanation": "第4句明确检查长椅上无遗落铅笔。",
+      "translation": {
+        "stem": "离开作坊前检查什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "That no pencils remain on the benches."
+        },
+        {
+          "label": "B",
+          "text": "That every worker left the village."
+        },
+        {
+          "label": "C",
+          "text": "That nobody asked any questions."
+        },
+        {
+          "label": "D",
+          "text": "That all bowls have the same label."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title fits best?",
+      "explanation": "The class explores several crafts while managing belongings between stops.",
+      "parentExplanation": "参观各类手工，并在转场时收好物品。",
+      "translation": {
+        "stem": "哪个标题最合适？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Leaving Notebooks behind at Every Stop"
+        },
+        {
+          "label": "B",
+          "text": "How to Make Every Wooden Bowl Identical"
+        },
+        {
+          "label": "C",
+          "text": "A Village That Refuses All Visitors"
+        },
+        {
+          "label": "D",
+          "text": "Exploring Workshops and Keeping Track of Belongings"
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Our family decides to take a train trip to a small town where my aunt lives. Instead of spending the whole journey on screens, we each choose something to notice through the window. Mia counts bridges, while I sketch buildings as we pass by them. One unusual roof appears for only a moment, so I leave a space rather than invent its missing details. At our aunt's house, we show the notebook and explain which parts we saw clearly and which remain uncertain. The journey becomes a shared observation game, with careful notes that we can honestly explain.",
+      "parallelText": [
+        {
+          "en": "Our family decides to take a train trip to a small town where my aunt lives.",
+          "zh": "我们一家决定坐火车旅行，去姨妈住的小镇。"
+        },
+        {
+          "en": "Instead of spending the whole journey on screens, we each choose something to notice through the window.",
+          "zh": "我们没有全程看屏幕，而是各选一种窗外观察对象。"
+        },
+        {
+          "en": "Mia counts bridges, while I sketch buildings as we pass by them.",
+          "zh": "米娅数桥，我在经过建筑时把它们画下来。"
+        },
+        {
+          "en": "One unusual roof appears for only a moment, so I leave a space rather than invent its missing details.",
+          "zh": "一个特殊屋顶只出现片刻，我留白，没有编造没看清的细节。"
+        },
+        {
+          "en": "At our aunt's house, we show the notebook and explain which parts we saw clearly and which remain uncertain.",
+          "zh": "到姨妈家后，我们展示笔记本，说明哪些看清、哪些还不确定。"
+        },
+        {
+          "en": "The journey becomes a shared observation game, with careful notes that we can honestly explain.",
+          "zh": "旅程变成共同观察游戏，留下能如实说明的细致记录。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "uncertain",
+          "meaning": "not known or decided clearly"
+        },
+        {
+          "word": "narrator",
+          "meaning": "the person telling a story"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "During a weekend visit, our class can go around the craft village in small groups. Each group chooses one workshop where it can ask questions without interrupting the workers. Mia wants to watch weaving, while Ben is interested in how wooden bowls are shaped. Before leaving each place, we pack up our notebooks and check that no pencils remain on the benches. At the meeting point, we compare what different workers showed us and add labels to our sketches. Careful movement between workshops gives us varied ideas without leaving our belongings in someone else's workspace.",
+      "parallelText": [
+        {
+          "en": "During a weekend visit, our class can go around the craft village in small groups.",
+          "zh": "周末参观时，我们班可以分小组在手工村四处走走。"
+        },
+        {
+          "en": "Each group chooses one workshop where it can ask questions without interrupting the workers.",
+          "zh": "每组选一间作坊，在不打扰工人的情况下提问。"
+        },
+        {
+          "en": "Mia wants to watch weaving, while Ben is interested in how wooden bowls are shaped.",
+          "zh": "米娅想看编织，本对木碗怎样成形感兴趣。"
+        },
+        {
+          "en": "Before leaving each place, we pack up our notebooks and check that no pencils remain on the benches.",
+          "zh": "离开每处前，我们收好笔记本，检查长椅上没有遗漏铅笔。"
+        },
+        {
+          "en": "At the meeting point, we compare what different workers showed us and add labels to our sketches.",
+          "zh": "到集合点，我们比较各位工人展示的内容，给速写加标签。"
+        },
+        {
+          "en": "Careful movement between workshops gives us varied ideas without leaving our belongings in someone else's workspace.",
+          "zh": "在作坊间仔细转移，让我们获得多样想法，也不把物品留在别人的工作区。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "weaving",
+          "meaning": "making cloth by crossing threads"
+        },
+        {
+          "word": "workspace",
+          "meaning": "a place where someone does a job"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S121-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0243",
+      "groupId": "E0243",
+      "expression": "and so on",
+      "meaning": "等等",
+      "introducedAtStation": 120,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 121,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "源短语表：巩固运用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S121-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0222",
+      "groupId": "E0222",
+      "expression": "turn back",
+      "meaning": "（使）原路返回，往回走；往回走；阻挡，挡住",
+      "introducedAtStation": 120,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 121,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "源短语表：巩固运用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S121-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T234",
+      "groupId": "T234",
+      "expression": "almost",
+      "meaning": "几乎；差不多",
+      "introducedAtStation": 36,
+      "reviewOrdinal": 4,
+      "previousReviewStation": 63,
+      "intervalInStations": 58,
+      "referenceDueStation": 77,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S121-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T013",
+      "groupId": "T013",
+      "expression": "describe",
+      "meaning": "描述；形容",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 4,
+      "previousReviewStation": 63,
+      "intervalInStations": 58,
+      "referenceDueStation": 77,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S121-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0946",
+      "groupId": "E0946",
+      "expression": "take a train trip",
+      "meaning": "坐火车旅行",
+      "introducedAtStation": 120,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 121,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "源短语表：巩固运用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S121-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0802",
+      "groupId": "E0802",
+      "expression": "pass by",
+      "meaning": "经过；路过",
+      "introducedAtStation": 120,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 121,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "源短语表：巩固运用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S121-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0785",
+      "groupId": "E0785",
+      "expression": "go around",
+      "meaning": "到处去",
+      "introducedAtStation": 120,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 121,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "源短语表：巩固运用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S121-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0516",
+      "groupId": "E0516",
+      "expression": "pack up",
+      "meaning": "打包；收拾行李",
+      "introducedAtStation": 120,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 121,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "源短语表：巩固运用",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

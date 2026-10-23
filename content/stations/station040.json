@@ -1,0 +1,2734 @@
+{
+  "station": 40,
+  "type": "new_learning",
+  "phase": "textbook",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 40,
+  "newItems": [
+    {
+      "groupId": "T254",
+      "sourceId": "T254",
+      "sourceIds": [
+        "T254"
+      ],
+      "word": "definitely",
+      "meaning": "肯定；没问题；当然；确实",
+      "sourceItems": [
+        {
+          "sourceId": "T254",
+          "sourceKind": "textbook",
+          "expression": "definitely",
+          "meaning": "肯定；没问题；当然；确实",
+          "partOfSpeech": "adv.",
+          "phonetic": "/ˈdefɪnətli/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 100,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 259,
+          "originalFields": {
+            "序号": 254,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "definitely",
+            "音标（教材）": "/ˈdefɪnətli/",
+            "词性": "adv.",
+            "中文释义": "肯定；没问题；当然；确实",
+            "教材课文页": 100,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T254",
+          "introducedAtStation": 40
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T254",
+        "word": "definitely",
+        "ipa": "/ˈdefɪnətli/",
+        "focus": "重音在/def/；中间/ə/弱读，结尾/tli/中的/tl/紧接。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "I will definitely come to your birthday party.",
+          "zh": "我肯定会来参加你的生日聚会。",
+          "sourceIds": [
+            "T254"
+          ]
+        },
+        {
+          "en": "“Can you help us?” “Definitely!”",
+          "zh": "“你能帮我们吗？”“当然可以！”",
+          "sourceIds": [
+            "T254"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈdefɪnətli/",
+      "pos": "adv.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T255",
+      "sourceId": "T255",
+      "sourceIds": [
+        "T255"
+      ],
+      "word": "fair",
+      "meaning": "集市",
+      "sourceItems": [
+        {
+          "sourceId": "T255",
+          "sourceKind": "textbook",
+          "expression": "fair",
+          "meaning": "集市",
+          "partOfSpeech": "n.",
+          "phonetic": "/feə(r)/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 260,
+          "originalFields": {
+            "序号": 255,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "fair",
+            "音标（教材）": "/feə(r)/",
+            "词性": "n.",
+            "中文释义": "集市",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T255",
+          "introducedAtStation": 40
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T255",
+        "word": "fair",
+        "ipa": "/feə(r)/",
+        "focus": "/eə/从/e/滑向/ə/；/f/是清辅音，上齿轻触下唇。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We buy handmade toys at the village fair.",
+          "zh": "我们在乡村集市买手工玩具。",
+          "sourceIds": [
+            "T255"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "handmade",
+          "meaning": "made by hand rather than a machine"
+        },
+        {
+          "word": "stall",
+          "meaning": "a small open place for selling things"
+        }
+      ],
+      "notes": null,
+      "ipa": "/feə(r)/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T256",
+      "sourceId": "T256",
+      "sourceIds": [
+        "T256"
+      ],
+      "word": "rocket",
+      "meaning": "火箭",
+      "sourceItems": [
+        {
+          "sourceId": "T256",
+          "sourceKind": "textbook",
+          "expression": "rocket",
+          "meaning": "火箭",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈrɒkɪt/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 261,
+          "originalFields": {
+            "序号": 256,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "rocket",
+            "音标（教材）": "/ˈrɒkɪt/",
+            "词性": "n.",
+            "中文释义": "火箭",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T256",
+          "introducedAtStation": 40
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T256",
+        "word": "rocket",
+        "ipa": "/ˈrɒkɪt/",
+        "focus": "重音在/rɒ/；后段/kɪt/中的/ɪ/短读，最后/t/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The rocket rises into the sky.",
+          "zh": "火箭升向天空。",
+          "sourceIds": [
+            "T256"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "engine",
+          "meaning": "a machine that provides power to move a vehicle"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈrɒkɪt/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T257",
+      "sourceId": "T257",
+      "sourceIds": [
+        "T257"
+      ],
+      "word": "launch",
+      "meaning": "发射",
+      "sourceItems": [
+        {
+          "sourceId": "T257",
+          "sourceKind": "textbook",
+          "expression": "launch",
+          "meaning": "发射",
+          "partOfSpeech": "v.",
+          "phonetic": "/lɔːntʃ/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 262,
+          "originalFields": {
+            "序号": 257,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "launch",
+            "音标（教材）": "/lɔːntʃ/",
+            "词性": "v.",
+            "中文释义": "发射",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T257",
+          "introducedAtStation": 40
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T257",
+        "word": "launch",
+        "ipa": "/lɔːntʃ/",
+        "focus": "/ɔː/拉长；最后/n/后接/tʃ/，不能把/tʃ/读成/ʃ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The team launches a small rocket into the sky.",
+          "zh": "团队把一枚小火箭发射升空。",
+          "sourceIds": [
+            "T257"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/lɔːntʃ/",
+      "pos": "v.",
+      "unit": "Unit 7",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T258",
+      "sourceId": "T258",
+      "sourceIds": [
+        "T258"
+      ],
+      "word": "shout",
+      "meaning": "大声说；叫",
+      "sourceItems": [
+        {
+          "sourceId": "T258",
+          "sourceKind": "textbook",
+          "expression": "shout",
+          "meaning": "大声说；叫",
+          "partOfSpeech": "v.",
+          "phonetic": "/ʃaʊt/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 263,
+          "originalFields": {
+            "序号": 258,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "shout",
+            "音标（教材）": "/ʃaʊt/",
+            "词性": "v.",
+            "中文释义": "大声说；叫",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T258",
+          "introducedAtStation": 40
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T258",
+        "word": "shout",
+        "ipa": "/ʃaʊt/",
+        "focus": "开头字母组合sh读/ʃ/；/aʊ/有滑动，最后/t/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The children shout with excitement when their team scores.",
+          "zh": "队伍得分时，孩子们兴奋地大叫。",
+          "sourceIds": [
+            "T258"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ʃaʊt/",
+      "pos": "v.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T259",
+      "sourceId": "T259",
+      "sourceIds": [
+        "T259"
+      ],
+      "word": "power",
+      "meaning": "力量；能量",
+      "sourceItems": [
+        {
+          "sourceId": "T259",
+          "sourceKind": "textbook",
+          "expression": "power",
+          "meaning": "力量；能量",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈpaʊə(r)/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 264,
+          "originalFields": {
+            "序号": 259,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "power",
+            "音标（教材）": "/ˈpaʊə(r)/",
+            "词性": "n.",
+            "中文释义": "力量；能量",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T259",
+          "introducedAtStation": 40
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T259",
+        "word": "power",
+        "ipa": "/ˈpaʊə(r)/",
+        "focus": "重音在/paʊ/；/aʊ/之后还有/ə/，不要把末尾元音漏掉。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The wind gives the small boat power to move.",
+          "zh": "风为这条小船提供前进的动力。",
+          "sourceIds": [
+            "T259"
+          ]
+        },
+        {
+          "en": "The toy car gets power from a battery.",
+          "zh": "玩具车从电池中获取能量。",
+          "sourceIds": [
+            "T259"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "battery",
+          "meaning": "a small device that stores energy for a machine"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈpaʊə(r)/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "T249",
+      "sourceId": "T249",
+      "sourceIds": [
+        "T249"
+      ],
+      "word": "in memory of",
+      "meaning": "作为对……的纪念",
+      "sourceItems": [
+        {
+          "sourceId": "T249",
+          "sourceKind": "textbook",
+          "expression": "in memory of",
+          "meaning": "作为对……的纪念",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 6",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 92,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 254,
+          "originalFields": {
+            "序号": 249,
+            "单元": "Unit 6",
+            "类型": "短语",
+            "单词／短语": "in memory of",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "作为对……的纪念",
+            "教材课文页": 92,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T249",
+          "introducedAtStation": 39
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T249",
+        "sourceIds": [
+          "T249"
+        ],
+        "expression": "in memory of",
+        "phonetic": "/ɪn ˈmeməri əv/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "The town builds a small garden in memory of a brave doctor.",
+          "zh": "镇上修建了一个小花园，以纪念一位勇敢的医生。",
+          "sourceIds": [
+            "T249"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "honour",
+          "meaning": "show great respect for someone"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T248",
+      "sourceId": "T248",
+      "sourceIds": [
+        "T248"
+      ],
+      "word": "historic site",
+      "meaning": "古迹；历史遗迹",
+      "sourceItems": [
+        {
+          "sourceId": "T248",
+          "sourceKind": "textbook",
+          "expression": "historic site",
+          "meaning": "古迹；历史遗迹",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 6",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 92,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 253,
+          "originalFields": {
+            "序号": 248,
+            "单元": "Unit 6",
+            "类型": "短语",
+            "单词／短语": "historic site",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "古迹；历史遗迹",
+            "教材课文页": 92,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T248",
+          "introducedAtStation": 39
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T248",
+        "sourceIds": [
+          "T248"
+        ],
+        "expression": "historic site",
+        "phonetic": "/hɪˈstɒrɪk saɪt/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "The old city wall is a historic site.",
+          "zh": "这段古城墙是一处历史遗迹。",
+          "sourceIds": [
+            "T248"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "castle",
+          "meaning": "a large strong building from the past"
+        },
+        {
+          "word": "temple",
+          "meaning": "a building used for worship"
+        },
+        {
+          "word": "ancient",
+          "meaning": "very old"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T231",
+      "sourceId": "T231",
+      "sourceIds": [
+        "T231"
+      ],
+      "word": "general",
+      "meaning": "将军",
+      "sourceItems": [
+        {
+          "sourceId": "T231",
+          "sourceKind": "textbook",
+          "expression": "general",
+          "meaning": "将军",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈdʒenrəl/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 92,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 236,
+          "originalFields": {
+            "序号": 231,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "general",
+            "音标（教材）": "/ˈdʒenrəl/",
+            "词性": "n.",
+            "中文释义": "将军",
+            "教材课文页": 92,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T231",
+          "introducedAtStation": 36
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T231",
+        "word": "general",
+        "ipa": "/ˈdʒenrəl/",
+        "focus": "重音在/dʒen/；开头g读/dʒ/，末段/rəl/中的/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "In the film, the general leads the army across the river.",
+          "zh": "电影中，将军率领军队过河。",
+          "sourceIds": [
+            "T231"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "army",
+          "meaning": "a large group of soldiers"
+        },
+        {
+          "word": "rank",
+          "meaning": "an official position in an organization"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈdʒenrəl/",
+      "pos": "n.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T230",
+      "sourceId": "T230",
+      "sourceIds": [
+        "T230"
+      ],
+      "word": "memory",
+      "meaning": "回忆；记忆",
+      "sourceItems": [
+        {
+          "sourceId": "T230",
+          "sourceKind": "textbook",
+          "expression": "memory",
+          "meaning": "回忆；记忆",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈmeməri/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 92,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 235,
+          "originalFields": {
+            "序号": 230,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "memory",
+            "音标（教材）": "/ˈmeməri/",
+            "词性": "n.",
+            "中文释义": "回忆；记忆",
+            "教材课文页": 92,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T230",
+          "introducedAtStation": 36
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T230",
+        "word": "memory",
+        "ipa": "/ˈmeməri/",
+        "focus": "重音在/mem/；后段/əri/中的/ə/轻读，不把末段也读重。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "I have a happy memory of our family picnic.",
+          "zh": "我对那次家庭野餐有一段愉快的回忆。",
+          "sourceIds": [
+            "T230"
+          ]
+        },
+        {
+          "en": "My brother has a good memory for names.",
+          "zh": "我的哥哥／弟弟很善于记住名字。",
+          "sourceIds": [
+            "T230"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "childhood",
+          "meaning": "the time in life when someone is a child"
+        }
+      ],
+      "notes": "分别保留回忆和记忆两个原义；例句及两fill分别承接。",
+      "ipa": "/ˈmeməri/",
+      "pos": "n.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T253",
+      "sourceId": "T253",
+      "sourceIds": [
+        "T253"
+      ],
+      "word": "join",
+      "meaning": "成为……的一员；参加",
+      "sourceItems": [
+        {
+          "sourceId": "T253",
+          "sourceKind": "textbook",
+          "expression": "join",
+          "meaning": "成为……的一员；参加",
+          "partOfSpeech": "v.",
+          "phonetic": "/dʒɔɪn/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 100,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 258,
+          "originalFields": {
+            "序号": 253,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "join",
+            "音标（教材）": "/dʒɔɪn/",
+            "词性": "v.",
+            "中文释义": "成为……的一员；参加",
+            "教材课文页": 100,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T253",
+          "introducedAtStation": 39
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T253",
+        "word": "join",
+        "ipa": "/dʒɔɪn/",
+        "focus": "开头字母j读/dʒ/；/ɔɪ/有滑动，最后/n/收尾。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "I want to join the school art club.",
+          "zh": "我想加入学校美术社团。",
+          "sourceIds": [
+            "T253"
+          ]
+        },
+        {
+          "en": "Ben joins our game after lunch.",
+          "zh": "本午饭后加入我们的游戏。",
+          "sourceIds": [
+            "T253"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/dʒɔɪn/",
+      "pos": "v.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T252",
+      "sourceId": "T252",
+      "sourceIds": [
+        "T252"
+      ],
+      "word": "appreciate",
+      "meaning": "欣赏；赏识",
+      "sourceItems": [
+        {
+          "sourceId": "T252",
+          "sourceKind": "textbook",
+          "expression": "appreciate",
+          "meaning": "欣赏；赏识",
+          "partOfSpeech": "v.",
+          "phonetic": "/əˈpriːʃieɪt/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 100,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 257,
+          "originalFields": {
+            "序号": 252,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "appreciate",
+            "音标（教材）": "/əˈpriːʃieɪt/",
+            "词性": "v.",
+            "中文释义": "欣赏；赏识",
+            "教材课文页": 100,
+            "词表PDF页": 5,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T252",
+          "introducedAtStation": 39
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T252",
+        "word": "appreciate",
+        "ipa": "/əˈpriːʃieɪt/",
+        "focus": "开头/ə/轻读；重音在/priː/，后面的/ʃi/接/eɪt/，不能漏掉/ʃ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We take time to appreciate the beauty of the garden.",
+          "zh": "我们花时间欣赏花园的美。",
+          "sourceIds": [
+            "T252"
+          ]
+        },
+        {
+          "en": "The teacher appreciates Mia's careful work.",
+          "zh": "老师赏识米娅认真的工作。",
+          "sourceIds": [
+            "T252"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/əˈpriːʃieɪt/",
+      "pos": "v.",
+      "unit": "Unit 7",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T251",
+      "sourceId": "T251",
+      "sourceIds": [
+        "T251"
+      ],
+      "word": "act",
+      "meaning": "扮演（戏剧、电影中的角色）",
+      "sourceItems": [
+        {
+          "sourceId": "T251",
+          "sourceKind": "textbook",
+          "expression": "act",
+          "meaning": "扮演（戏剧、电影中的角色）",
+          "partOfSpeech": "v.",
+          "phonetic": "/ækt/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 100,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 256,
+          "originalFields": {
+            "序号": 251,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "act",
+            "音标（教材）": "/ækt/",
+            "词性": "v.",
+            "中文释义": "扮演（戏剧、电影中的角色）",
+            "教材课文页": 100,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T251",
+          "introducedAtStation": 39
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T251",
+        "word": "act",
+        "ipa": "/ækt/",
+        "focus": "/æ/口张开、短读；结尾/kt/直接相连，不添元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Ben acts as a king in the school play.",
+          "zh": "本在学校戏剧中扮演国王。",
+          "sourceIds": [
+            "T251"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "character",
+          "meaning": "a person in a story, play or film"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ækt/",
+      "pos": "v.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T250",
+      "sourceId": "T250",
+      "sourceIds": [
+        "T250"
+      ],
+      "word": "literature",
+      "meaning": "文学；文学作品",
+      "sourceItems": [
+        {
+          "sourceId": "T250",
+          "sourceKind": "textbook",
+          "expression": "literature",
+          "meaning": "文学；文学作品",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈlɪtrətʃə(r)/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 100,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 255,
+          "originalFields": {
+            "序号": 250,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "literature",
+            "音标（教材）": "/ˈlɪtrətʃə(r)/",
+            "词性": "n.",
+            "中文释义": "文学；文学作品",
+            "教材课文页": 100,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T250",
+          "introducedAtStation": 39
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T250",
+        "word": "literature",
+        "ipa": "/ˈlɪtrətʃə(r)/",
+        "focus": "重音在/lɪ/；中间/tr/连缀，后段/tʃ/是一个清辅音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Stories and poems are forms of literature.",
+          "zh": "故事和诗歌是文学的不同形式。",
+          "sourceIds": [
+            "T250"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "novel",
+          "meaning": "a long written story"
+        },
+        {
+          "word": "poem",
+          "meaning": "a piece of writing arranged in lines, often with rhythm"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈlɪtrətʃə(r)/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T254",
+      "groupId": "T254",
+      "direction": "zh_to_en",
+      "stem": "肯定；没问题；当然；确实",
+      "options": [
+        {
+          "label": "A",
+          "text": "go to bed"
+        },
+        {
+          "label": "B",
+          "text": "definitely"
+        },
+        {
+          "label": "C",
+          "text": "ancient"
+        },
+        {
+          "label": "D",
+          "text": "divide"
+        }
+      ],
+      "answer": "B",
+      "word": "definitely",
+      "meaning": "肯定；没问题；当然；确实"
+    },
+    {
+      "id": 2,
+      "sourceId": "T255",
+      "groupId": "T255",
+      "direction": "en_to_zh",
+      "stem": "fair",
+      "options": [
+        {
+          "label": "A",
+          "text": "场面；情景"
+        },
+        {
+          "label": "B",
+          "text": "庄稼；作物"
+        },
+        {
+          "label": "C",
+          "text": "集市"
+        },
+        {
+          "label": "D",
+          "text": "空间站"
+        }
+      ],
+      "answer": "C",
+      "word": "fair",
+      "meaning": "集市"
+    },
+    {
+      "id": 3,
+      "sourceId": "T256",
+      "groupId": "T256",
+      "direction": "zh_to_en",
+      "stem": "火箭",
+      "options": [
+        {
+          "label": "A",
+          "text": "rocket"
+        },
+        {
+          "label": "B",
+          "text": "reason"
+        },
+        {
+          "label": "C",
+          "text": "magazine"
+        },
+        {
+          "label": "D",
+          "text": "senior"
+        }
+      ],
+      "answer": "A",
+      "word": "rocket",
+      "meaning": "火箭"
+    },
+    {
+      "id": 4,
+      "sourceId": "T257",
+      "groupId": "T257",
+      "direction": "en_to_zh",
+      "stem": "launch",
+      "options": [
+        {
+          "label": "A",
+          "text": "发射"
+        },
+        {
+          "label": "B",
+          "text": "庆祝；庆贺"
+        },
+        {
+          "label": "C",
+          "text": "被划分成……"
+        },
+        {
+          "label": "D",
+          "text": "起床"
+        }
+      ],
+      "answer": "A",
+      "word": "launch",
+      "meaning": "发射"
+    },
+    {
+      "id": 5,
+      "sourceId": "T258",
+      "groupId": "T258",
+      "direction": "zh_to_en",
+      "stem": "大声说；叫",
+      "options": [
+        {
+          "label": "A",
+          "text": "universe"
+        },
+        {
+          "label": "B",
+          "text": "take a trip"
+        },
+        {
+          "label": "C",
+          "text": "shout"
+        },
+        {
+          "label": "D",
+          "text": "develop"
+        }
+      ],
+      "answer": "C",
+      "word": "shout",
+      "meaning": "大声说；叫"
+    },
+    {
+      "id": 6,
+      "sourceId": "T259",
+      "groupId": "T259",
+      "direction": "en_to_zh",
+      "stem": "power",
+      "options": [
+        {
+          "label": "A",
+          "text": "成功"
+        },
+        {
+          "label": "B",
+          "text": "力量；能量"
+        },
+        {
+          "label": "C",
+          "text": "描述；形容"
+        },
+        {
+          "label": "D",
+          "text": "（建筑物、城镇等的）地点"
+        }
+      ],
+      "answer": "B",
+      "word": "power",
+      "meaning": "力量；能量"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T254",
+      "groupId": "T254",
+      "target": "definitely",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "perhaps, but not certainly"
+        },
+        {
+          "label": "B",
+          "text": "certainly, without doubt"
+        },
+        {
+          "label": "C",
+          "text": "silently, without making any sound"
+        },
+        {
+          "label": "D",
+          "text": "slowly, without moving quickly"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "B",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "definitely",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "definitely"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "肯定；没问题；当然；确实",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “definitely” means “certainly, without doubt”.",
+      "parentExplanation": "本题考查“definitely”在本句中的用法；正确英文解释为“certainly, without doubt”。对应源表释义为“肯定；没问题；当然；确实”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T255",
+      "groupId": "T255",
+      "target": "fair",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a quiet place for borrowing books"
+        },
+        {
+          "label": "B",
+          "text": "an event where people gather to buy and sell things"
+        },
+        {
+          "label": "C",
+          "text": "a lesson about writing letters"
+        },
+        {
+          "label": "D",
+          "text": "a journey between two large cities"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "We buy fruit and handmade toys at the village fair.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "We buy fruit and handmade toys at the village fair."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "我们在乡村集市买水果和手工玩具。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “fair” means “an event where people gather to buy and sell things”.",
+      "parentExplanation": "本题考查“fair”在本句中的用法；正确英文解释为“an event where people gather to buy and sell things”。对应源表释义为“集市”。",
+      "wordHelp": [
+        {
+          "word": "handmade",
+          "meaning": "made by hand rather than a machine"
+        },
+        {
+          "word": "stall",
+          "meaning": "a small open place for selling things"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T256",
+      "groupId": "T256",
+      "target": "rocket",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "planet"
+        },
+        {
+          "label": "B",
+          "text": "space station"
+        },
+        {
+          "label": "C",
+          "text": "rocket"
+        },
+        {
+          "label": "D",
+          "text": "lander"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which vehicle is described?",
+      "answer": "C",
+      "listenScript": "The tall vehicle has a pointed top and powerful engines. It carries a satellite up from the ground and into space.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The tall vehicle has a pointed top and powerful engines. It carries a satellite up from the ground and into space."
+        }
+      ],
+      "explanation": "A rocket uses its engines to carry things up into space.",
+      "parentExplanation": "用发动机把卫星送上太空的飞行器是rocket，而不是着陆器、空间站或行星。",
+      "translation": {
+        "stem": "描述的是哪种飞行器？",
+        "listenScript": "这辆高大的飞行器顶端尖，有强劲发动机。它把卫星从地面送上太空。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T256",
+        "T191",
+        "T206",
+        "T121"
+      ],
+      "wordHelp": [
+        {
+          "word": "engine",
+          "meaning": "a machine that provides power to move a vehicle"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T257",
+      "groupId": "T257",
+      "target": "launch",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "launch"
+        },
+        {
+          "label": "B",
+          "text": "express"
+        },
+        {
+          "label": "C",
+          "text": "cover"
+        },
+        {
+          "label": "D",
+          "text": "disappear"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which verb describes sending the spacecraft up?",
+      "answer": "A",
+      "listenScript": "A team counts down as a spacecraft waits on the ground. At zero, they send it upwards to begin its journey into space.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "A team counts down as a spacecraft waits on the ground. At zero, they send it upwards to begin its journey into space."
+        }
+      ],
+      "explanation": "Sending a spacecraft up from the ground is to launch it.",
+      "parentExplanation": "把航天器送离地面升空是launch发射。",
+      "translation": {
+        "stem": "哪个动词表示把航天器送出升空？",
+        "listenScript": "航天器在地面等待，团队开始倒计时。数到零时，他们把它向上送出，开始太空之旅。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T257",
+        "T195",
+        "T123",
+        "T138"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T258",
+      "groupId": "T258",
+      "target": "shout",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to show a picture without speaking"
+        },
+        {
+          "label": "B",
+          "text": "to speak or call out very loudly"
+        },
+        {
+          "label": "C",
+          "text": "to write a message on paper"
+        },
+        {
+          "label": "D",
+          "text": "to speak in a very quiet voice"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "Please do not shout in the library; people are reading.\nWhat does “shout” mean here?",
+      "translation": {
+        "stem": "请不要在图书馆里大喊，人们正在阅读。 这里“shout”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “shout” means “to speak or call out very loudly”.",
+      "parentExplanation": "本题考查“shout”在本句中的用法；正确英文解释为“to speak or call out very loudly”。对应源表释义为“大声说；叫”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T259",
+      "groupId": "T259",
+      "target": "power",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "energy that makes something work"
+        },
+        {
+          "label": "B",
+          "text": "the time when a shop closes"
+        },
+        {
+          "label": "C",
+          "text": "the price written on a small label"
+        },
+        {
+          "label": "D",
+          "text": "the shape of something seen from above"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "The toy car needs power from a battery to move.\nWhat does “power” mean here?",
+      "translation": {
+        "stem": "这辆玩具车需要电池提供能量才能行驶。 这里“power”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “power” means “energy that makes something work”.",
+      "parentExplanation": "本题考查“power”在本句中的用法；正确英文解释为“energy that makes something work”。对应源表释义为“力量；能量”。",
+      "wordHelp": [
+        {
+          "word": "battery",
+          "meaning": "a small device that stores energy for a machine"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T249",
+      "groupId": "T249",
+      "target": "in memory of",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to make a choice between two things"
+        },
+        {
+          "label": "B",
+          "text": "to remember and honour someone or something from the past"
+        },
+        {
+          "label": "C",
+          "text": "to show the price of an item"
+        },
+        {
+          "label": "D",
+          "text": "to ask a person to leave a room"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "The family keeps a photo album in memory of their grandfather.\nWhat does “in memory of” mean here?",
+      "translation": {
+        "stem": "这个家庭保存了一本相册，以纪念他们的祖父。 这里“in memory of”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “in memory of” means “to remember and honour someone or something from the past”.",
+      "parentExplanation": "本题考查“in memory of”在本句中的用法；正确英文解释为“to remember and honour someone or something from the past”。对应源表释义为“作为对……的纪念”。",
+      "wordHelp": [
+        {
+          "word": "honour",
+          "meaning": "show great respect for someone"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T248",
+      "groupId": "T248",
+      "target": "historic site",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a newly built road"
+        },
+        {
+          "label": "B",
+          "text": "a place where people wash cars"
+        },
+        {
+          "label": "C",
+          "text": "a room where children have lunch"
+        },
+        {
+          "label": "D",
+          "text": "a place that is important because of its history"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "We visit two historic sites on the trip: an old temple and an ancient bridge.\nWhat does “historic sites” mean here?",
+      "translation": {
+        "stem": "旅行中我们参观两处古迹：一座古庙和一座古桥。 这里“historic sites”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “historic site” means “a place that is important because of its history”.",
+      "parentExplanation": "本题考查“historic site”在本句中的用法；正确英文解释为“a place that is important because of its history”。对应源表释义为“古迹；历史遗迹”。",
+      "wordHelp": [
+        {
+          "word": "castle",
+          "meaning": "a large strong building from the past"
+        },
+        {
+          "word": "temple",
+          "meaning": "a building used for worship"
+        },
+        {
+          "word": "ancient",
+          "meaning": "very old"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T254",
+      "groupId": "T254",
+      "target": "definitely",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "Definitely",
+        "definitely"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "“Can you help us carry the books?” “D________! I am happy to help.”",
+      "answer": "Definitely",
+      "hint": "certainly; of course",
+      "grammar": "Affirmative adverb as a reply",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Definitely can stand alone as a very clear yes.",
+      "parentExplanation": "Definitely可单独作肯定答语，表示没问题、当然可以。",
+      "translation": {
+        "stem": "“你能帮我们搬书吗？”“当然可以！我很愿意帮忙。”",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T255",
+      "groupId": "T255",
+      "target": "fair",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "fairs"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "There are two outdoor f________ in our town every month, with stalls selling food and clothes.",
+      "answer": "fairs",
+      "hint": "events where people buy and sell things",
+      "grammar": "Two + plural noun",
+      "initialLetter": "f",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Two requires the plural noun fairs.",
+      "parentExplanation": "two后用复数fairs，stalls selling food and clothes限定集市语境。",
+      "translation": {
+        "stem": "我们镇每个月有两次户外集市，摊位上出售食物和衣服。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "handmade",
+          "meaning": "made by hand rather than a machine"
+        },
+        {
+          "word": "stall",
+          "meaning": "a small open place for selling things"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T256",
+      "groupId": "T256",
+      "target": "rocket",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "rocket"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The r________ carries the spacecraft high into the sky.",
+      "answer": "rocket",
+      "hint": "a vehicle with powerful engines for travel into space",
+      "grammar": "Singular noun",
+      "initialLetter": "r",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Rocket names the vehicle that carries the spacecraft.",
+      "parentExplanation": "rocket为名词火箭，结合送航天器上天的语境判断。",
+      "translation": {
+        "stem": "火箭把航天器送上高空。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "engine",
+          "meaning": "a machine that provides power to move a vehicle"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T257",
+      "groupId": "T257",
+      "target": "launch",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "launch"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The science club will l________ a model rocket from the field.",
+      "answer": "launch",
+      "hint": "send a rocket into the air",
+      "grammar": "Will + base verb",
+      "initialLetter": "l",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Use the base verb launch after will.",
+      "parentExplanation": "will后用原形launch，表示发射火箭模型。",
+      "translation": {
+        "stem": "科学社团将在操场发射一枚火箭模型。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T258",
+      "groupId": "T258",
+      "target": "shout",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "shouts"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Ben s________ “Well done!” when his friend wins the race.",
+      "answer": "shouts",
+      "hint": "calls out loudly",
+      "grammar": "Simple present: third-person singular",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Ben is singular, so use shouts.",
+      "parentExplanation": "Ben为第三人称单数，一般现在时用shouts。",
+      "translation": {
+        "stem": "朋友赢得比赛时，本大喊“好样的！”。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T259",
+      "groupId": "T259",
+      "target": "power",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "power"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The strong wind has enough p________ to move the heavy branches.",
+      "answer": "power",
+      "hint": "strength that can move something",
+      "grammar": "Uncountable noun: strength",
+      "initialLetter": "p",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Power means strength in this sentence.",
+      "parentExplanation": "power在此表示力量；enough后不加复数词尾。",
+      "translation": {
+        "stem": "强风有足够的力量使粗重的树枝移动。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "battery",
+          "meaning": "a small device that stores energy for a machine"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T231",
+      "groupId": "T231",
+      "target": "general",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "general"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "In this story, the g________ leads the army into the town.",
+      "answer": "general",
+      "hint": "a high-ranking army officer",
+      "grammar": "Noun: an army officer",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "General is a countable noun naming a high-ranking army officer.",
+      "parentExplanation": "general在此为名词将军，不能按形容词一般的来解释。",
+      "translation": {
+        "stem": "在这个故事中，将军率领军队进入城镇。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "army",
+          "meaning": "a large group of soldiers"
+        },
+        {
+          "word": "rank",
+          "meaning": "an official position in an organization"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T230",
+      "groupId": "T230",
+      "target": "memory",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "memory"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The picnic is a happy m________ from my childhood. I remember it clearly.",
+      "answer": "memory",
+      "hint": "something from the past that you remember",
+      "grammar": "Countable noun: a remembered event",
+      "initialLetter": "m",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A memory can mean something remembered from the past.",
+      "parentExplanation": "memory此处作可数名词，指一段回忆，前有a。",
+      "translation": {
+        "stem": "那次野餐是我童年一段快乐的回忆。我清楚地记得它。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "childhood",
+          "meaning": "the time in life when someone is a child"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T253",
+      "groupId": "T253",
+      "target": "join",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "become a member of a group"
+        },
+        {
+          "label": "B",
+          "text": "divide a group into smaller parts"
+        },
+        {
+          "label": "C",
+          "text": "leave a group permanently"
+        },
+        {
+          "label": "D",
+          "text": "watch without becoming involved"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “join” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Join means become a member of the music club.",
+      "parentExplanation": "join在此为成为音乐社团的一员。",
+      "translation": {
+        "stem": "短文中的“join”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "join"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T252",
+      "groupId": "T252",
+      "target": "appreciate",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "ignore every small detail"
+        },
+        {
+          "label": "B",
+          "text": "dislike something without listening"
+        },
+        {
+          "label": "C",
+          "text": "recognise and value the good qualities of something"
+        },
+        {
+          "label": "D",
+          "text": "measure only how heavy something is"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “appreciate” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Appreciate means notice and value the quieter players' careful work.",
+      "parentExplanation": "appreciate为欣赏、赏识细致的演奏，不是只听见声音。",
+      "translation": {
+        "stem": "短文中的“appreciate”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "appreciate"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "How does listening first help Ella?",
+      "explanation": "She notices the quieter part and chooses to practise it after understanding the group.",
+      "parentExplanation": "第3至7句说明她从只留意鼓声到理解轻柔声部并选择练习。",
+      "translation": {
+        "stem": "先聆听怎样帮助埃拉？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "It helps her understand different roles before choosing what to practise."
+        },
+        {
+          "label": "B",
+          "text": "It lets her finish every instrument lesson alone."
+        },
+        {
+          "label": "C",
+          "text": "It lets her avoid every other member of the club."
+        },
+        {
+          "label": "D",
+          "text": "It proves that only the loudest drum is important."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea of the passage?",
+      "explanation": "Ella learns to value different contributions and finds a way to take part.",
+      "parentExplanation": "全文讲埃拉通过聆听理解不同贡献，找到参与方式。",
+      "translation": {
+        "stem": "短文的主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Some members sell their instruments to leave a club."
+        },
+        {
+          "label": "B",
+          "text": "Listening helps a new member understand and contribute to a music group."
+        },
+        {
+          "label": "C",
+          "text": "A pupil learns that music is best played completely alone."
+        },
+        {
+          "label": "D",
+          "text": "A club decides to replace all quiet instruments with drums."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T251",
+      "groupId": "T251",
+      "target": "act",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "write the names on a list"
+        },
+        {
+          "label": "B",
+          "text": "move in a circular path"
+        },
+        {
+          "label": "C",
+          "text": "give a talk about the weather"
+        },
+        {
+          "label": "D",
+          "text": "perform the role of a character"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “act” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Act here means perform the gardener's role in a play.",
+      "parentExplanation": "act在此按教材义为扮演戏中的园丁角色。",
+      "translation": {
+        "stem": "短文中的“act”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "act"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T250",
+      "groupId": "T250",
+      "target": "literature",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the amount of energy in a battery"
+        },
+        {
+          "label": "B",
+          "text": "a set of tools for an activity"
+        },
+        {
+          "label": "C",
+          "text": "written works such as stories, poems and plays"
+        },
+        {
+          "label": "D",
+          "text": "a map showing streets and rivers"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “literature” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Literature names the creative written works in the book.",
+      "parentExplanation": "literature为文学、文学作品，语境是故事集。",
+      "translation": {
+        "stem": "短文中的“literature”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "literature"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What do the pupils discuss before performing?",
+      "explanation": "Sentence 5 says they discuss the characters' reasons and choices.",
+      "parentExplanation": "第5句明确讨论角色为何作出不同选择。",
+      "translation": {
+        "stem": "学生表演前讨论什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "How to remove every book from the library."
+        },
+        {
+          "label": "B",
+          "text": "Why the characters make different choices."
+        },
+        {
+          "label": "C",
+          "text": "Which shop has the lowest ticket prices."
+        },
+        {
+          "label": "D",
+          "text": "Why the audience should stay outside all day."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title best fits the passage?",
+      "explanation": "Turning part of a story into a play deepens the group's understanding.",
+      "parentExplanation": "全文讲通过表演深化对故事和人物的理解。",
+      "translation": {
+        "stem": "哪个标题最合适？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A Competition to Read Without Asking Questions"
+        },
+        {
+          "label": "B",
+          "text": "Understanding a Story by Performing It"
+        },
+        {
+          "label": "C",
+          "text": "A Club Stops Reading Every Kind of Book"
+        },
+        {
+          "label": "D",
+          "text": "A Gardener Buys a New Theatre"
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Ella wants to join the music club, but she knows little about playing with a group. The members invite her to listen before choosing an instrument. At first, she notices only the loud drum at the front. Then she learns to appreciate the careful work of the quieter players too. A soft tune from the back helps connect the different parts of the song. Ella asks to practise that part, and another member sits beside her to help. Listening first gives her a better understanding of how the whole group works.",
+      "parallelText": [
+        {
+          "en": "Ella wants to join the music club, but she knows little about playing with a group.",
+          "zh": "埃拉想加入音乐社团，但她对团队演奏了解不多。"
+        },
+        {
+          "en": "The members invite her to listen before choosing an instrument.",
+          "zh": "成员邀请她先聆听，再选择乐器。"
+        },
+        {
+          "en": "At first, she notices only the loud drum at the front.",
+          "zh": "起初，她只注意到前面响亮的鼓。"
+        },
+        {
+          "en": "Then she learns to appreciate the careful work of the quieter players too.",
+          "zh": "接着，她也学会欣赏声音较轻的演奏者的细致努力。"
+        },
+        {
+          "en": "A soft tune from the back helps connect the different parts of the song.",
+          "zh": "后方传来的轻柔曲调帮助连接乐曲的不同部分。"
+        },
+        {
+          "en": "Ella asks to practise that part, and another member sits beside her to help.",
+          "zh": "埃拉请求练习那一部分，另一位成员坐在旁边帮助她。"
+        },
+        {
+          "en": "Listening first gives her a better understanding of how the whole group works.",
+          "zh": "先聆听让她更理解整个团队怎样运作。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "instrument",
+          "meaning": "a tool used to make music"
+        },
+        {
+          "word": "tune",
+          "meaning": "a series of musical notes forming a melody"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Our reading group chooses a short story from a book of literature. It tells of a young gardener who asks an older neighbour for help. We decide to show one part of the story as a short play. I act the part of the gardener, while Mia plays the neighbour. Before speaking our lines, we discuss why each character makes a different choice. The performance helps us notice ideas that we miss when we read quickly. Afterwards, everyone returns to the book with new questions about the characters.",
+      "parallelText": [
+        {
+          "en": "Our reading group chooses a short story from a book of literature.",
+          "zh": "我们的阅读小组选了一本文学作品集里的短篇故事。"
+        },
+        {
+          "en": "It tells of a young gardener who asks an older neighbour for help.",
+          "zh": "故事讲一位年轻园丁向年长邻居求助。"
+        },
+        {
+          "en": "We decide to show one part of the story as a short play.",
+          "zh": "我们决定把故事的一部分演成短剧。"
+        },
+        {
+          "en": "I act the part of the gardener, while Mia plays the neighbour.",
+          "zh": "我扮演园丁，米娅扮演邻居。"
+        },
+        {
+          "en": "Before speaking our lines, we discuss why each character makes a different choice.",
+          "zh": "说台词前，我们讨论每个角色为何做出不同选择。"
+        },
+        {
+          "en": "The performance helps us notice ideas that we miss when we read quickly.",
+          "zh": "表演帮助我们注意到快速阅读时忽略的想法。"
+        },
+        {
+          "en": "Afterwards, everyone returns to the book with new questions about the characters.",
+          "zh": "之后，每个人都带着关于角色的新问题回到书中。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "character",
+          "meaning": "a person in a story or play"
+        },
+        {
+          "word": "performance",
+          "meaning": "acting, music or another activity shown to an audience"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S040-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T249",
+      "groupId": "T249",
+      "expression": "in memory of",
+      "meaning": "作为对……的纪念",
+      "introducedAtStation": 39,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 40,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S040-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T248",
+      "groupId": "T248",
+      "expression": "historic site",
+      "meaning": "古迹；历史遗迹",
+      "introducedAtStation": 39,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 40,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S040-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T231",
+      "groupId": "T231",
+      "expression": "general",
+      "meaning": "将军",
+      "introducedAtStation": 36,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 37,
+      "intervalInStations": 3,
+      "referenceDueStation": 40,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S040-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T230",
+      "groupId": "T230",
+      "expression": "memory",
+      "meaning": "回忆；记忆",
+      "introducedAtStation": 36,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 37,
+      "intervalInStations": 3,
+      "referenceDueStation": 40,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S040-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T253",
+      "groupId": "T253",
+      "expression": "join",
+      "meaning": "成为……的一员；参加",
+      "introducedAtStation": 39,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 40,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S040-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T252",
+      "groupId": "T252",
+      "expression": "appreciate",
+      "meaning": "欣赏；赏识",
+      "introducedAtStation": 39,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 40,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S040-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T251",
+      "groupId": "T251",
+      "expression": "act",
+      "meaning": "扮演（戏剧、电影中的角色）",
+      "introducedAtStation": 39,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 40,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S040-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T250",
+      "groupId": "T250",
+      "expression": "literature",
+      "meaning": "文学；文学作品",
+      "introducedAtStation": 39,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 40,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

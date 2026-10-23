@@ -1,0 +1,2669 @@
+{
+  "station": 46,
+  "type": "new_learning",
+  "phase": "textbook",
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 46,
+  "newItems": [
+    {
+      "groupId": "T278",
+      "sourceId": "T278",
+      "sourceIds": [
+        "T278"
+      ],
+      "word": "equipment",
+      "meaning": "设备；器材",
+      "sourceItems": [
+        {
+          "sourceId": "T278",
+          "sourceKind": "textbook",
+          "expression": "equipment",
+          "meaning": "设备；器材",
+          "partOfSpeech": "n.",
+          "phonetic": "/ɪˈkwɪpmənt/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 110,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 283,
+          "originalFields": {
+            "序号": 278,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "equipment",
+            "音标（教材）": "/ɪˈkwɪpmənt/",
+            "词性": "n.",
+            "中文释义": "设备；器材",
+            "教材课文页": 110,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T278",
+          "introducedAtStation": 46
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T278",
+        "word": "equipment",
+        "ipa": "/ɪˈkwɪpmənt/",
+        "focus": "开头/ɪ/轻短；重音在/kwɪp/，/kw/相连，末段/mənt/弱读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The club keeps its sports equipment in this room.",
+          "zh": "社团把体育器材存放在这个房间。",
+          "sourceIds": [
+            "T278"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "net",
+          "meaning": "a material made from strings with spaces between them"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ɪˈkwɪpmənt/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T279",
+      "sourceId": "T279",
+      "sourceIds": [
+        "T279"
+      ],
+      "word": "clubs fair",
+      "meaning": "社团招募展",
+      "sourceItems": [
+        {
+          "sourceId": "T279",
+          "sourceKind": "textbook",
+          "expression": "clubs fair",
+          "meaning": "社团招募展",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 7",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 284,
+          "originalFields": {
+            "序号": 279,
+            "单元": "Unit 7",
+            "类型": "短语",
+            "单词／短语": "clubs fair",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "社团招募展",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T279",
+          "introducedAtStation": 46
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T279",
+        "sourceIds": [
+          "T279"
+        ],
+        "expression": "clubs fair",
+        "phonetic": "/klʌbz feə/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "We meet the science club at the clubs fair.",
+          "zh": "我们在社团招募展上了解科学社团。",
+          "sourceIds": [
+            "T279"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "member",
+          "meaning": "a person who belongs to a group"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T280",
+      "sourceId": "T280",
+      "sourceIds": [
+        "T280"
+      ],
+      "word": "solar power",
+      "meaning": "太阳能",
+      "sourceItems": [
+        {
+          "sourceId": "T280",
+          "sourceKind": "textbook",
+          "expression": "solar power",
+          "meaning": "太阳能",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 7",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 285,
+          "originalFields": {
+            "序号": 280,
+            "单元": "Unit 7",
+            "类型": "短语",
+            "单词／短语": "solar power",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "太阳能",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T280",
+          "introducedAtStation": 46
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T280",
+        "sourceIds": [
+          "T280"
+        ],
+        "expression": "solar power",
+        "phonetic": "/ˈsəʊlə ˈpaʊə/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "These lights use solar power from the Sun.",
+          "zh": "这些灯使用来自太阳的太阳能。",
+          "sourceIds": [
+            "T280"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "panel",
+          "meaning": "a flat piece of equipment; here it collects energy from sunlight"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T281",
+      "sourceId": "T281",
+      "sourceIds": [
+        "T281"
+      ],
+      "word": "of course",
+      "meaning": "当然",
+      "sourceItems": [
+        {
+          "sourceId": "T281",
+          "sourceKind": "textbook",
+          "expression": "of course",
+          "meaning": "当然",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 7",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 286,
+          "originalFields": {
+            "序号": 281,
+            "单元": "Unit 7",
+            "类型": "短语",
+            "单词／短语": "of course",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "当然",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T281",
+          "introducedAtStation": 46
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T281",
+        "sourceIds": [
+          "T281"
+        ],
+        "expression": "of course",
+        "phonetic": "/əv kɔːs/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Of course you can join us. There is room for one more.",
+          "zh": "你当然可以加入我们。还有一个位置。",
+          "sourceIds": [
+            "T281"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T282",
+      "sourceId": "T282",
+      "sourceIds": [
+        "T282"
+      ],
+      "word": "remote control",
+      "meaning": "遥控器",
+      "sourceItems": [
+        {
+          "sourceId": "T282",
+          "sourceKind": "textbook",
+          "expression": "remote control",
+          "meaning": "遥控器",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 7",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 287,
+          "originalFields": {
+            "序号": 282,
+            "单元": "Unit 7",
+            "类型": "短语",
+            "单词／短语": "remote control",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "遥控器",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T282",
+          "introducedAtStation": 46
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T282",
+        "sourceIds": [
+          "T282"
+        ],
+        "expression": "remote control",
+        "phonetic": "/rɪˈməʊt kənˈtrəʊl/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Use the remote control to turn on the television.",
+          "zh": "用遥控器打开电视机。",
+          "sourceIds": [
+            "T282"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "operate",
+          "meaning": "make a machine work"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T283",
+      "sourceId": "T283",
+      "sourceIds": [
+        "T283"
+      ],
+      "word": "turn around",
+      "meaning": "转身",
+      "sourceItems": [
+        {
+          "sourceId": "T283",
+          "sourceKind": "textbook",
+          "expression": "turn around",
+          "meaning": "转身",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 7",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 288,
+          "originalFields": {
+            "序号": 283,
+            "单元": "Unit 7",
+            "类型": "短语",
+            "单词／短语": "turn around",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "转身",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T283",
+          "introducedAtStation": 46
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T283",
+        "sourceIds": [
+          "T283"
+        ],
+        "expression": "turn around",
+        "phonetic": "/tɜːn əˈraʊnd/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Please turn around and look at the board behind you.",
+          "zh": "请转身，看看你身后的黑板。",
+          "sourceIds": [
+            "T283"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 7",
+      "textbookMarker": null
+    }
+  ],
+  "reviewItems": [
+    {
+      "groupId": "T273",
+      "sourceId": "T273",
+      "sourceIds": [
+        "T273"
+      ],
+      "word": "spoon",
+      "meaning": "勺；匙",
+      "sourceItems": [
+        {
+          "sourceId": "T273",
+          "sourceKind": "textbook",
+          "expression": "spoon",
+          "meaning": "勺；匙",
+          "partOfSpeech": "n.",
+          "phonetic": "/spuːn/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 110,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 278,
+          "originalFields": {
+            "序号": 273,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "spoon",
+            "音标（教材）": "/spuːn/",
+            "词性": "n.",
+            "中文释义": "勺；匙",
+            "教材课文页": 110,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T273",
+          "introducedAtStation": 45
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T273",
+        "word": "spoon",
+        "ipa": "/spuːn/",
+        "focus": "开头/sp/直接连读；/uː/拉长，最后/n/收尾。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "I eat the soup with a spoon.",
+          "zh": "我用勺子喝汤。",
+          "sourceIds": [
+            "T273"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "bowl",
+          "meaning": "a deep round dish for food or liquid"
+        }
+      ],
+      "notes": null,
+      "ipa": "/spuːn/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T272",
+      "sourceId": "T272",
+      "sourceIds": [
+        "T272"
+      ],
+      "word": "event",
+      "meaning": "公开活动；社交场合",
+      "sourceItems": [
+        {
+          "sourceId": "T272",
+          "sourceKind": "textbook",
+          "expression": "event",
+          "meaning": "公开活动；社交场合",
+          "partOfSpeech": "n.",
+          "phonetic": "/ɪˈvent/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 110,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 277,
+          "originalFields": {
+            "序号": 272,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "event",
+            "音标（教材）": "/ɪˈvent/",
+            "词性": "n.",
+            "中文释义": "公开活动；社交场合",
+            "教材课文页": 110,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T272",
+          "introducedAtStation": 45
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T272",
+        "word": "event",
+        "ipa": "/ɪˈvent/",
+        "focus": "开头/ɪ/轻短；重音在/vent/，词尾/nt/紧接。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The school concert is a popular event for families.",
+          "zh": "学校音乐会是深受家庭欢迎的一项活动。",
+          "sourceIds": [
+            "T272"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ɪˈvent/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T263",
+      "sourceId": "T263",
+      "sourceIds": [
+        "T263"
+      ],
+      "word": "hike",
+      "meaning": "去……远足；做徒步旅行",
+      "sourceItems": [
+        {
+          "sourceId": "T263",
+          "sourceKind": "textbook",
+          "expression": "hike",
+          "meaning": "去……远足；做徒步旅行",
+          "partOfSpeech": "v.",
+          "phonetic": "/haɪk/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 104,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 268,
+          "originalFields": {
+            "序号": 263,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "hike",
+            "音标（教材）": "/haɪk/",
+            "词性": "v.",
+            "中文释义": "去……远足；做徒步旅行",
+            "教材课文页": 104,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T263",
+          "introducedAtStation": 43
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T263",
+        "word": "hike",
+        "ipa": "/haɪk/",
+        "focus": "/aɪ/有滑动；最后/k/收住，词尾e不另发音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We hike through the hills on Sunday.",
+          "zh": "星期日我们在山间徒步旅行。",
+          "sourceIds": [
+            "T263"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/haɪk/",
+      "pos": "v.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T262",
+      "sourceId": "T262",
+      "sourceIds": [
+        "T262"
+      ],
+      "word": "shape",
+      "meaning": "形状；外形",
+      "sourceItems": [
+        {
+          "sourceId": "T262",
+          "sourceKind": "textbook",
+          "expression": "shape",
+          "meaning": "形状；外形",
+          "partOfSpeech": "n.",
+          "phonetic": "/ʃeɪp/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 101,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 267,
+          "originalFields": {
+            "序号": 262,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "shape",
+            "音标（教材）": "/ʃeɪp/",
+            "词性": "n.",
+            "中文释义": "形状；外形",
+            "教材课文页": 101,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T262",
+          "introducedAtStation": 43
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T262",
+        "word": "shape",
+        "ipa": "/ʃeɪp/",
+        "focus": "开头字母组合sh读/ʃ/；/eɪ/有滑动，最后/p/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This box has the shape of a star.",
+          "zh": "这个盒子的形状像星星。",
+          "sourceIds": [
+            "T262"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "block",
+          "meaning": "a solid piece used for building or playing"
+        },
+        {
+          "word": "triangle",
+          "meaning": "a flat figure with three straight sides"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ʃeɪp/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T277",
+      "sourceId": "T277",
+      "sourceIds": [
+        "T277"
+      ],
+      "word": "pie",
+      "meaning": "果馅饼；果馅派",
+      "sourceItems": [
+        {
+          "sourceId": "T277",
+          "sourceKind": "textbook",
+          "expression": "pie",
+          "meaning": "果馅饼；果馅派",
+          "partOfSpeech": "n.",
+          "phonetic": "/paɪ/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 110,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 282,
+          "originalFields": {
+            "序号": 277,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "pie",
+            "音标（教材）": "/paɪ/",
+            "词性": "n.",
+            "中文释义": "果馅饼；果馅派",
+            "教材课文页": 110,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T277",
+          "introducedAtStation": 45
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T277",
+        "word": "pie",
+        "ipa": "/paɪ/",
+        "focus": "/aɪ/从/a/滑向/ɪ/；ie不拆成两个音节。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Dad makes an apple pie for dessert.",
+          "zh": "爸爸做了一个苹果派作为甜点。",
+          "sourceIds": [
+            "T277"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "pastry",
+          "meaning": "a mixture of flour and fat used in some baked foods"
+        }
+      ],
+      "notes": null,
+      "ipa": "/paɪ/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T276",
+      "sourceId": "T276",
+      "sourceIds": [
+        "T276"
+      ],
+      "word": "dollar",
+      "meaning": "元（美国、加拿大、澳大利亚等国的货币单位）",
+      "sourceItems": [
+        {
+          "sourceId": "T276",
+          "sourceKind": "textbook",
+          "expression": "dollar",
+          "meaning": "元（美国、加拿大、澳大利亚等国的货币单位）",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈdɒlə(r)/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 110,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 281,
+          "originalFields": {
+            "序号": 276,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "dollar",
+            "音标（教材）": "/ˈdɒlə(r)/",
+            "词性": "n.",
+            "中文释义": "元（美国、加拿大、澳大利亚等国的货币单位）",
+            "教材课文页": 110,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T276",
+          "introducedAtStation": 45
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T276",
+        "word": "dollar",
+        "ipa": "/ˈdɒlə(r)/",
+        "focus": "重音在/dɒ/；双写ll不读两次，最后/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This notebook costs one dollar.",
+          "zh": "这个笔记本的价格是一元。",
+          "sourceIds": [
+            "T276"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "cent",
+          "meaning": "a small unit of money"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈdɒlə(r)/",
+      "pos": "n.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T275",
+      "sourceId": "T275",
+      "sourceIds": [
+        "T275"
+      ],
+      "word": "fantastic",
+      "meaning": "极好的；了不起的",
+      "sourceItems": [
+        {
+          "sourceId": "T275",
+          "sourceKind": "textbook",
+          "expression": "fantastic",
+          "meaning": "极好的；了不起的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/fænˈtæstɪk/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 110,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 280,
+          "originalFields": {
+            "序号": 275,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "fantastic",
+            "音标（教材）": "/fænˈtæstɪk/",
+            "词性": "adj.",
+            "中文释义": "极好的；了不起的",
+            "教材课文页": 110,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T275",
+          "introducedAtStation": 45
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T275",
+        "word": "fantastic",
+        "ipa": "/fænˈtæstɪk/",
+        "focus": "主重音在/tæs/；开头/fæn/不抢重音，结尾/tɪk/中的/ɪ/短读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The class gives a fantastic performance.",
+          "zh": "全班带来了一场极好的表演。",
+          "sourceIds": [
+            "T275"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/fænˈtæstɪk/",
+      "pos": "adj.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T274",
+      "sourceId": "T274",
+      "sourceIds": [
+        "T274"
+      ],
+      "word": "annual",
+      "meaning": "每年的；一年一次的",
+      "sourceItems": [
+        {
+          "sourceId": "T274",
+          "sourceKind": "textbook",
+          "expression": "annual",
+          "meaning": "每年的；一年一次的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈænjuəl/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 110,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 279,
+          "originalFields": {
+            "序号": 274,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "annual",
+            "音标（教材）": "/ˈænjuəl/",
+            "词性": "adj.",
+            "中文释义": "每年的；一年一次的",
+            "教材课文页": 110,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T274",
+          "introducedAtStation": 45
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T274",
+        "word": "annual",
+        "ipa": "/ˈænjuəl/",
+        "focus": "首音节/æn/重读；后面的/juəl/轻读，保留/j/及相邻元音的变化，不重复/n/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The annual school fair takes place every October.",
+          "zh": "学校一年一度的展会在每年十月举行。",
+          "sourceIds": [
+            "T274"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈænjuəl/",
+      "pos": "adj.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T278",
+      "groupId": "T278",
+      "direction": "zh_to_en",
+      "stem": "设备；器材",
+      "options": [
+        {
+          "label": "A",
+          "text": "equipment"
+        },
+        {
+          "label": "B",
+          "text": "file"
+        },
+        {
+          "label": "C",
+          "text": "cut down"
+        },
+        {
+          "label": "D",
+          "text": "decide"
+        }
+      ],
+      "answer": "A",
+      "word": "equipment",
+      "meaning": "设备；器材"
+    },
+    {
+      "id": 2,
+      "sourceId": "T279",
+      "groupId": "T279",
+      "direction": "en_to_zh",
+      "stem": "clubs fair",
+      "options": [
+        {
+          "label": "A",
+          "text": "按……方式发展"
+        },
+        {
+          "label": "B",
+          "text": "环行"
+        },
+        {
+          "label": "C",
+          "text": "来去"
+        },
+        {
+          "label": "D",
+          "text": "社团招募展"
+        }
+      ],
+      "answer": "D",
+      "word": "clubs fair",
+      "meaning": "社团招募展"
+    },
+    {
+      "id": 3,
+      "sourceId": "T280",
+      "groupId": "T280",
+      "direction": "zh_to_en",
+      "stem": "太阳能",
+      "options": [
+        {
+          "label": "A",
+          "text": "get up"
+        },
+        {
+          "label": "B",
+          "text": "solar power"
+        },
+        {
+          "label": "C",
+          "text": "blow away"
+        },
+        {
+          "label": "D",
+          "text": "collect"
+        }
+      ],
+      "answer": "B",
+      "word": "solar power",
+      "meaning": "太阳能"
+    },
+    {
+      "id": 4,
+      "sourceId": "T281",
+      "groupId": "T281",
+      "direction": "en_to_zh",
+      "stem": "of course",
+      "options": [
+        {
+          "label": "A",
+          "text": "初级中学"
+        },
+        {
+          "label": "B",
+          "text": "去旅行"
+        },
+        {
+          "label": "C",
+          "text": "替代某人"
+        },
+        {
+          "label": "D",
+          "text": "当然"
+        }
+      ],
+      "answer": "D",
+      "word": "of course",
+      "meaning": "当然"
+    },
+    {
+      "id": 5,
+      "sourceId": "T282",
+      "groupId": "T282",
+      "direction": "zh_to_en",
+      "stem": "遥控器",
+      "options": [
+        {
+          "label": "A",
+          "text": "own"
+        },
+        {
+          "label": "B",
+          "text": "appreciate"
+        },
+        {
+          "label": "C",
+          "text": "remote control"
+        },
+        {
+          "label": "D",
+          "text": "lightning"
+        }
+      ],
+      "answer": "C",
+      "word": "remote control",
+      "meaning": "遥控器"
+    },
+    {
+      "id": 6,
+      "sourceId": "T283",
+      "groupId": "T283",
+      "direction": "en_to_zh",
+      "stem": "turn around",
+      "options": [
+        {
+          "label": "A",
+          "text": "自始至终；从头到尾"
+        },
+        {
+          "label": "B",
+          "text": "在……对面；在……对过"
+        },
+        {
+          "label": "C",
+          "text": "风景；景色"
+        },
+        {
+          "label": "D",
+          "text": "转身"
+        }
+      ],
+      "answer": "D",
+      "word": "turn around",
+      "meaning": "转身"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T278",
+      "groupId": "T278",
+      "target": "equipment",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the time when a school activity starts"
+        },
+        {
+          "label": "B",
+          "text": "the rules written for a school activity"
+        },
+        {
+          "label": "C",
+          "text": "tools and things needed for an activity"
+        },
+        {
+          "label": "D",
+          "text": "the people watching a school activity"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "C",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "equipment",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "equipment"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "设备；器材",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “equipment” means “tools and things needed for an activity”.",
+      "parentExplanation": "本题考查“equipment”在本句中的用法；正确英文解释为“tools and things needed for an activity”。对应源表释义为“设备；器材”。",
+      "wordHelp": [
+        {
+          "word": "net",
+          "meaning": "a material made from strings with spaces between them"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T279",
+      "groupId": "T279",
+      "target": "clubs fair",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "an event where athletes compete in a race"
+        },
+        {
+          "label": "B",
+          "text": "a room where students borrow books"
+        },
+        {
+          "label": "C",
+          "text": "a list showing the lessons for each day"
+        },
+        {
+          "label": "D",
+          "text": "an event where school clubs invite new members"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "School clubs introduce themselves and invite new members at the clubs fair.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "School clubs introduce themselves and invite new members at the clubs fair."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "学校社团在社团招募展上介绍自己，邀请新成员。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “clubs fair” means “an event where school clubs invite new members”.",
+      "parentExplanation": "本题考查“clubs fair”在本句中的用法；正确英文解释为“an event where school clubs invite new members”。对应源表释义为“社团招募展”。",
+      "wordHelp": [
+        {
+          "word": "member",
+          "meaning": "a person who belongs to a group"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T280",
+      "groupId": "T280",
+      "target": "solar power",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "groundwater"
+        },
+        {
+          "label": "B",
+          "text": "oil"
+        },
+        {
+          "label": "C",
+          "text": "gas"
+        },
+        {
+          "label": "D",
+          "text": "solar power"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which phrase names the energy source being used?",
+      "answer": "D",
+      "listenScript": "Sunlight falls on panels on a roof. The panels use that sunlight to produce electricity for the building.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Sunlight falls on panels on a roof. The panels use that sunlight to produce electricity for the building."
+        }
+      ],
+      "explanation": "The energy comes from the Sun, so it is solar power.",
+      "parentExplanation": "能源来自太阳，是solar power，不是天然气、石油或地下水。",
+      "translation": {
+        "stem": "哪个短语指正在使用的能源？",
+        "listenScript": "阳光照在屋顶板上。板利用阳光为楼房发电。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T280",
+        "T146",
+        "T145",
+        "T143"
+      ],
+      "wordHelp": [
+        {
+          "word": "panel",
+          "meaning": "a flat piece of equipment; here it collects energy from sunlight"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T281",
+      "groupId": "T281",
+      "target": "of course",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "through"
+        },
+        {
+          "label": "B",
+          "text": "however"
+        },
+        {
+          "label": "C",
+          "text": "in fact"
+        },
+        {
+          "label": "D",
+          "text": "of course"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which phrase could give the same confident yes as Lily's reply?",
+      "answer": "D",
+      "listenScript": "Mia asks, “May I join your game?” Lily smiles and says, “Yes, you are very welcome. There is room for you.”",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Mia asks, “May I join your game?” Lily smiles and says, “Yes, you are very welcome. There is room for you.”"
+        }
+      ],
+      "explanation": "Of course gives a confident yes to a request.",
+      "parentExplanation": "of course可表示当然，明确肯定请求。",
+      "translation": {
+        "stem": "哪个短语能表达莉莉答复中同样明确的肯定？",
+        "listenScript": "米娅问：“我能参加游戏吗？”莉莉微笑着说：“可以，非常欢迎。还有你的位置。”",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T281",
+        "T114",
+        "T150",
+        "T096"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T282",
+      "groupId": "T282",
+      "target": "remote control",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a device used to count people in a room"
+        },
+        {
+          "label": "B",
+          "text": "a device used to draw a circle on paper"
+        },
+        {
+          "label": "C",
+          "text": "a device for operating a machine from a distance"
+        },
+        {
+          "label": "D",
+          "text": "a device used to weigh a bag of rice"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "I can turn on the television from this chair with the remote control.\nWhat does “remote control” mean here?",
+      "translation": {
+        "stem": "我坐在这把椅子上就能用遥控器打开电视。 这里“remote control”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “remote control” means “a device for operating a machine from a distance”.",
+      "parentExplanation": "本题考查“remote control”在本句中的用法；正确英文解释为“a device for operating a machine from a distance”。对应源表释义为“遥控器”。",
+      "wordHelp": [
+        {
+          "word": "operate",
+          "meaning": "make a machine work"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T283",
+      "groupId": "T283",
+      "target": "turn around",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to stay still and keep facing the same way"
+        },
+        {
+          "label": "B",
+          "text": "to move away from someone without looking back"
+        },
+        {
+          "label": "C",
+          "text": "move your body to face the opposite direction"
+        },
+        {
+          "label": "D",
+          "text": "to move your body straight up into the air"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Please turn around and face the door behind you.\nWhat does “turn around” mean here?",
+      "translation": {
+        "stem": "请转身，面向你身后的门。 这里“turn around”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “turn around” means “move your body to face the opposite direction”.",
+      "parentExplanation": "本题考查“turn around”在本句中的用法；正确英文解释为“move your body to face the opposite direction”。对应源表释义为“转身”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T273",
+      "groupId": "T273",
+      "target": "spoon",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a flat dish used to hold a meal"
+        },
+        {
+          "label": "B",
+          "text": "a tool with sharp points used to hold food"
+        },
+        {
+          "label": "C",
+          "text": "an eating tool with a small bowl and handle"
+        },
+        {
+          "label": "D",
+          "text": "a tool with a sharp edge used to cut food"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Put the two spoons beside the soup bowls.\nWhat does “spoons” mean here?",
+      "translation": {
+        "stem": "把这两把勺子放在汤碗旁。 这里“spoons”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “spoon” means “an eating tool with a small bowl and handle”.",
+      "parentExplanation": "本题考查“spoon”在本句中的用法；正确英文解释为“an eating tool with a small bowl and handle”。对应源表释义为“勺；匙”。",
+      "wordHelp": [
+        {
+          "word": "bowl",
+          "meaning": "a deep round dish for food or liquid"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T272",
+      "groupId": "T272",
+      "target": "event",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a planned public or social occasion"
+        },
+        {
+          "label": "B",
+          "text": "a tool used to draw a circle"
+        },
+        {
+          "label": "C",
+          "text": "a small piece of food"
+        },
+        {
+          "label": "D",
+          "text": "a place below the ground"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "Our town holds three public events in the park each summer.\nWhat does “events” mean here?",
+      "translation": {
+        "stem": "我们镇每年夏天在公园举办三项公开活动。 这里“events”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “event” means “a planned public or social occasion”.",
+      "parentExplanation": "本题考查“event”在本句中的用法；正确英文解释为“a planned public or social occasion”。对应源表释义为“公开活动；社交场合”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T278",
+      "groupId": "T278",
+      "target": "equipment",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "equipment"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Please check the camera e________ before you take photos.",
+      "answer": "equipment",
+      "hint": "the tools and other things needed for a particular activity",
+      "grammar": "Uncountable noun after a modifier",
+      "initialLetter": "e",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Equipment names the tools needed for taking photographs.",
+      "parentExplanation": "equipment表示设备、器材；不加复数s。",
+      "translation": {
+        "stem": "拍照前请检查摄影设备。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "net",
+          "meaning": "a material made from strings with spaces between them"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T279",
+      "groupId": "T279",
+      "target": "clubs fair",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "clubs fair"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Our school holds a c________ so students can find a club to join.",
+      "answer": "clubs fair",
+      "hint": "an event where students can learn about clubs and become members",
+      "grammar": "Singular noun phrase",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A clubs fair helps students learn about different clubs.",
+      "parentExplanation": "clubs fair为教材整体短语，前有a时fair为单数。",
+      "translation": {
+        "stem": "我们学校举办社团招募展，让学生找到想加入的社团。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "member",
+          "meaning": "a person who belongs to a group"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T280",
+      "groupId": "T280",
+      "target": "solar power",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "solar power"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "These lights use s________ from the Sun instead of electricity from fuel.",
+      "answer": "solar power",
+      "hint": "energy from the Sun used to make heat or electricity",
+      "grammar": "Uncountable noun phrase",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Solar power means energy from the Sun.",
+      "parentExplanation": "solar power表示太阳能，为不可数名词短语。",
+      "translation": {
+        "stem": "这些灯使用来自太阳的太阳能，而不是由燃料提供的电能。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "panel",
+          "meaning": "a flat piece of equipment; here it collects energy from sunlight"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T281",
+      "groupId": "T281",
+      "target": "of course",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "Of course"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "“Can I join the club?” “O________! New members are welcome.”",
+      "answer": "Of course",
+      "hint": "used to say yes in a confident and friendly way",
+      "grammar": "Fixed response phrase",
+      "initialLetter": "o",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Of course gives a confident yes to the request.",
+      "parentExplanation": "of course表示当然；句首Of可大写。",
+      "translation": {
+        "stem": "“我可以加入社团吗？”“当然！欢迎新成员。”",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T282",
+      "groupId": "T282",
+      "target": "remote control",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "remote controls"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "These two r________ operate different toy cars from a distance.",
+      "answer": "remote controls",
+      "hint": "devices for operating machines from a distance",
+      "grammar": "Plural noun phrase",
+      "initialLetter": "r",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "After two, control becomes plural: remote controls.",
+      "parentExplanation": "two后将中心词control变成controls。",
+      "translation": {
+        "stem": "这两个遥控器在远处操纵不同的玩具车。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "operate",
+          "meaning": "make a machine work"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T283",
+      "groupId": "T283",
+      "target": "turn around",
+      "status": "new",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "turns around"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia t________ when someone calls her from behind.",
+      "answer": "turns around",
+      "hint": "moves her body to face the opposite way",
+      "grammar": "Simple present: third-person singular",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Mia is singular, so turn becomes turns.",
+      "parentExplanation": "Mia为第三人称单数，turn变turns；around不变。",
+      "translation": {
+        "stem": "有人从背后叫米娅时，她会转身。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T263",
+      "groupId": "T263",
+      "target": "hike",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "hikes"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "My aunt h________ in the mountains every spring.",
+      "answer": "hikes",
+      "hint": "takes a long walk in the countryside",
+      "grammar": "Simple present: third-person singular",
+      "initialLetter": "h",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "My aunt is singular, so use hikes.",
+      "parentExplanation": "My aunt为第三人称单数，一般现在时用hikes。",
+      "translation": {
+        "stem": "我阿姨每年春天都会去山中远足。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T262",
+      "groupId": "T262",
+      "target": "shape",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "shapes"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "These blocks come in different s________, including circles and triangles.",
+      "answer": "shapes",
+      "hint": "outer forms of things",
+      "grammar": "Different + plural noun",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Different and the list of forms require plural shapes.",
+      "parentExplanation": "different后结合多种形状，用复数shapes。",
+      "translation": {
+        "stem": "这些积木有不同的形状，包括圆形和三角形。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "block",
+          "meaning": "a solid piece used for building or playing"
+        },
+        {
+          "word": "triangle",
+          "meaning": "a flat figure with three straight sides"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T277",
+      "groupId": "T277",
+      "target": "pie",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a baked food with a pastry case and a fruit filling"
+        },
+        {
+          "label": "B",
+          "text": "a plain slice of bread without a filling"
+        },
+        {
+          "label": "C",
+          "text": "a bowl of vegetable soup"
+        },
+        {
+          "label": "D",
+          "text": "a glass of cold drinking water"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “pie” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Pie is the baked fruit-filled food sold at the stall.",
+      "parentExplanation": "pie在此为苹果果馅派，不扩成肉派。",
+      "translation": {
+        "stem": "短文中的“pie”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "pie"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T276",
+      "groupId": "T276",
+      "target": "dollar",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a unit for measuring a bag's mass"
+        },
+        {
+          "label": "B",
+          "text": "a unit for counting one hundred years"
+        },
+        {
+          "label": "C",
+          "text": "a unit for measuring the width of a road"
+        },
+        {
+          "label": "D",
+          "text": "a unit of Canadian money"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “dollar” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Dollar names the Canadian money unit in this Canadian setting.",
+      "parentExplanation": "dollar在加拿大场景中为加元，保留原表多国货币单位义。",
+      "translation": {
+        "stem": "短文中的“dollar”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "dollar"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "How do the pupils make it possible to check the money later?",
+      "explanation": "Sentence 5 states that a pupil records every sale.",
+      "parentExplanation": "第5句直接说明记录每笔销售。",
+      "translation": {
+        "stem": "学生怎样保证之后能核对钱？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "One pupil records each sale."
+        },
+        {
+          "label": "B",
+          "text": "They keep the price secret from visitors."
+        },
+        {
+          "label": "C",
+          "text": "They put every slice in a different classroom."
+        },
+        {
+          "label": "D",
+          "text": "They close the stall before selling anything."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea of the passage?",
+      "explanation": "Serving, collecting payments, recording and taking turns make the stall work.",
+      "parentExplanation": "全文讲分工供应、收款、记账和轮班，让摊位顺利运作。",
+      "translation": {
+        "stem": "短文的主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A class hides all its money from the teacher."
+        },
+        {
+          "label": "B",
+          "text": "Clear shared jobs help a class run and record a fair stall."
+        },
+        {
+          "label": "C",
+          "text": "A visitor learns to build a school in the playground."
+        },
+        {
+          "label": "D",
+          "text": "A family moves to Canada only to buy new trays."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T275",
+      "groupId": "T275",
+      "target": "fantastic",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "old enough to be remembered in history"
+        },
+        {
+          "label": "B",
+          "text": "extremely good or impressive"
+        },
+        {
+          "label": "C",
+          "text": "harmful to people"
+        },
+        {
+          "label": "D",
+          "text": "very cold and icy"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “fantastic” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Fantastic expresses the younger pupil's very positive opinion of the show.",
+      "parentExplanation": "fantastic表达小同学认为展览极好、了不起。",
+      "translation": {
+        "stem": "短文中的“fantastic”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "targetSpan": "fantastic"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T274",
+      "groupId": "T274",
+      "target": "annual",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "happening only one time ever"
+        },
+        {
+          "label": "B",
+          "text": "happening once every week"
+        },
+        {
+          "label": "C",
+          "text": "happening once every day"
+        },
+        {
+          "label": "D",
+          "text": "happening once every year"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “annual” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Annual means once a year, as the first sentence states.",
+      "parentExplanation": "annual为每年的、一年一次的，首句有明示。",
+      "translation": {
+        "stem": "短文中的“annual”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "annual"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What do the visitors contribute to the group's work?",
+      "explanation": "Sentences 4 to 6 show visitors sharing observations and asking questions that inspire an idea.",
+      "parentExplanation": "第4至6句说明观察反馈与提问带来新想法。",
+      "translation": {
+        "stem": "访客为小组的研究带来什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A new date for every lesson in the school."
+        },
+        {
+          "label": "B",
+          "text": "A demand to remove all paper from the hall."
+        },
+        {
+          "label": "C",
+          "text": "Observations and questions that lead to another idea."
+        },
+        {
+          "label": "D",
+          "text": "A rule that no one may test the models."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title best fits the passage?",
+      "explanation": "The yearly exhibition lets pupils and visitors test ideas and find further questions.",
+      "parentExplanation": "全文讲年度展览中的测试、反馈和后续新问题。",
+      "translation": {
+        "stem": "哪个标题最合适？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A School Replaces Every Lesson with a Show"
+        },
+        {
+          "label": "B",
+          "text": "A Race to Make the Biggest Hall"
+        },
+        {
+          "label": "C",
+          "text": "A Science Show That Starts New Questions"
+        },
+        {
+          "label": "D",
+          "text": "The Last Chance to Ask About Paper"
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "My cousin in Canada helps her class run a stall at the school fair. They sell slices of apple pie, with sweet fruit inside a baked pastry case. Each slice costs one dollar, and the price is written clearly beside the tray. Mia serves the slices while Ben puts each payment into a box. Another pupil records every sale so they can check the money afterwards. They work in short turns so everyone has time to see the other stalls. Sharing clear jobs helps the children serve visitors and keep track of their class project.",
+      "parallelText": [
+        {
+          "en": "My cousin in Canada helps her class run a stall at the school fair.",
+          "zh": "我在加拿大的表亲帮助班级在校园展会上摆摊。"
+        },
+        {
+          "en": "They sell slices of apple pie, with sweet fruit inside a baked pastry case.",
+          "zh": "他们卖苹果派片，烤面皮里包着甜水果。"
+        },
+        {
+          "en": "Each slice costs one dollar, and the price is written clearly beside the tray.",
+          "zh": "每片价格为一加元，价签清楚写在托盘旁。"
+        },
+        {
+          "en": "Mia serves the slices while Ben puts each payment into a box.",
+          "zh": "米娅给顾客分发派片，本把每笔付款放进盒子。"
+        },
+        {
+          "en": "Another pupil records every sale so they can check the money afterwards.",
+          "zh": "另一名学生记录每笔销售，便于之后核对钱。"
+        },
+        {
+          "en": "They work in short turns so everyone has time to see the other stalls.",
+          "zh": "他们分短时轮班，让每个人有时间看看其他摊位。"
+        },
+        {
+          "en": "Sharing clear jobs helps the children serve visitors and keep track of their class project.",
+          "zh": "清晰分工让孩子们既能接待访客，又能记录好班级项目。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "stall",
+          "meaning": "a small selling place at a market or fair"
+        },
+        {
+          "word": "pastry",
+          "meaning": "dough baked to form a pie's outside"
+        },
+        {
+          "word": "tray",
+          "meaning": "a flat object used to carry food"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Our annual science show takes place once every year in the school hall. Each group prepares a model and explains one question it wants to investigate. This year, our group shows how different paper wings change a model plane's flight. Visitors try two versions and tell us what they notice. One younger pupil calls the show fantastic because she can ask questions and test ideas herself. Her questions give us a new idea to try after the show. The display for this year ends, but we still have more ideas to explore.",
+      "parallelText": [
+        {
+          "en": "Our annual science show takes place once every year in the school hall.",
+          "zh": "我们一年一度的科学展每年在学校大厅举办一次。"
+        },
+        {
+          "en": "Each group prepares a model and explains one question it wants to investigate.",
+          "zh": "每组准备一个模型，说明想探究的一个问题。"
+        },
+        {
+          "en": "This year, our group shows how different paper wings change a model plane's flight.",
+          "zh": "今年，我们组展示不同纸机翼怎样改变模型飞机的飞行。"
+        },
+        {
+          "en": "Visitors try two versions and tell us what they notice.",
+          "zh": "访客试两种版本，告诉我们观察结果。"
+        },
+        {
+          "en": "One younger pupil calls the show fantastic because she can ask questions and test ideas herself.",
+          "zh": "一位小同学说展览太棒了，因为她能自己提问、检验想法。"
+        },
+        {
+          "en": "Her questions give us a new idea to try after the show.",
+          "zh": "她的问题给了我们展后想尝试的新点子。"
+        },
+        {
+          "en": "The display for this year ends, but we still have more ideas to explore.",
+          "zh": "今年的展示结束了，但我们仍有更多想法要探索。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "investigate",
+          "meaning": "study something carefully to learn about it"
+        },
+        {
+          "word": "version",
+          "meaning": "one form of something that has several forms"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S046-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T273",
+      "groupId": "T273",
+      "expression": "spoon",
+      "meaning": "勺；匙",
+      "introducedAtStation": 45,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 46,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S046-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T272",
+      "groupId": "T272",
+      "expression": "event",
+      "meaning": "公开活动；社交场合",
+      "introducedAtStation": 45,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 46,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S046-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T263",
+      "groupId": "T263",
+      "expression": "hike",
+      "meaning": "去……远足；做徒步旅行",
+      "introducedAtStation": 43,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 44,
+      "intervalInStations": 2,
+      "referenceDueStation": 47,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S046-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T262",
+      "groupId": "T262",
+      "expression": "shape",
+      "meaning": "形状；外形",
+      "introducedAtStation": 43,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 44,
+      "intervalInStations": 2,
+      "referenceDueStation": 47,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S046-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T277",
+      "groupId": "T277",
+      "expression": "pie",
+      "meaning": "果馅饼；果馅派",
+      "introducedAtStation": 45,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 46,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S046-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T276",
+      "groupId": "T276",
+      "expression": "dollar",
+      "meaning": "元（美国、加拿大、澳大利亚等国的货币单位）",
+      "introducedAtStation": 45,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 46,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S046-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T275",
+      "groupId": "T275",
+      "expression": "fantastic",
+      "meaning": "极好的；了不起的",
+      "introducedAtStation": 45,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 46,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S046-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T274",
+      "groupId": "T274",
+      "expression": "annual",
+      "meaning": "每年的；一年一次的",
+      "introducedAtStation": 45,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 46,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

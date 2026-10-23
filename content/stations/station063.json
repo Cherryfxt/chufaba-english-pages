@@ -1,0 +1,3915 @@
+{
+  "station": 63,
+  "type": "formal_review",
+  "phase": null,
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 63,
+  "newItems": [],
+  "reviewItems": [
+    {
+      "groupId": "E0552",
+      "sourceId": "E0552",
+      "sourceIds": [
+        "E0552"
+      ],
+      "word": "each other",
+      "meaning": "互相，彼此",
+      "sourceItems": [
+        {
+          "sourceId": "E0552",
+          "sourceKind": "phrase",
+          "expression": "each other",
+          "meaning": "互相，彼此",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "表示相互，所有格用each other's，不写each others。",
+          "evidence": "7上U1参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0556",
+          "sourceImages": "IMG_2705.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 19,
+          "originalFields": {
+            "编号": "E0552",
+            "英文表达": "each other",
+            "中文释义": "互相，彼此",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "表示相互，所有格用each other's，不写each others。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "7上U1参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0556",
+            "来源图片": "IMG_2705.heic",
+            "原文英文": "each other",
+            "原文释义": "互相，彼此",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/20866078"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0552",
+          "introducedAtStation": 61
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0552",
+        "sourceIds": [
+          "E0552"
+        ],
+        "expression": "each other",
+        "phonetic": "/iːtʃ ˈʌðə/",
+        "readingForms": [
+          {
+            "expression": "each other",
+            "phonetic": "/iːtʃ ˈʌðə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0552",
+            "expression": "each other"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The two friends help each other with homework.",
+          "zh": "两个朋友在作业上互相帮助。",
+          "sourceIds": [
+            "E0552"
+          ],
+          "branch": "reciprocal"
+        },
+        {
+          "en": "We know each other's names.",
+          "zh": "我们知道彼此的名字。",
+          "sourceIds": [
+            "E0552"
+          ],
+          "branch": "possessive"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0485",
+      "sourceId": "E0485",
+      "sourceIds": [
+        "E0485"
+      ],
+      "word": "from...to...",
+      "meaning": "从……到……",
+      "sourceItems": [
+        {
+          "sourceId": "E0485",
+          "sourceKind": "phrase",
+          "expression": "from...to...",
+          "meaning": "从……到……",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "from后接起点，to后接终点，可表示时间或空间范围。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0489",
+          "sourceImages": "IMG_2704.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 20,
+          "originalFields": {
+            "编号": "E0485",
+            "英文表达": "from...to...",
+            "中文释义": "从……到……",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "from后接起点，to后接终点，可表示时间或空间范围。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0489",
+            "来源图片": "IMG_2704.heic",
+            "原文英文": "from...to...",
+            "原文释义": "从……到……",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0485",
+          "introducedAtStation": 61
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0485",
+        "sourceIds": [
+          "E0485"
+        ],
+        "expression": "from...to...",
+        "phonetic": "/frəm … tə …/",
+        "readingForms": [
+          {
+            "expression": "from … to …",
+            "phonetic": "/frəm … tə …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0485",
+            "expression": "from...to..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The club meets from four to five.",
+          "zh": "社团从四点活动到五点。",
+          "sourceIds": [
+            "E0485"
+          ],
+          "branch": "time"
+        },
+        {
+          "en": "The train travels from Beijing to Guangzhou.",
+          "zh": "火车从北京开往广州。",
+          "sourceIds": [
+            "E0485"
+          ],
+          "branch": "space"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T013",
+      "sourceId": "T013",
+      "sourceIds": [
+        "T013"
+      ],
+      "word": "describe",
+      "meaning": "描述；形容",
+      "sourceItems": [
+        {
+          "sourceId": "T013",
+          "sourceKind": "textbook",
+          "expression": "describe",
+          "meaning": "描述；形容",
+          "partOfSpeech": "v.",
+          "phonetic": "/dɪˈskraɪb/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 11,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 18,
+          "originalFields": {
+            "序号": 13,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "describe",
+            "音标（教材）": "/dɪˈskraɪb/",
+            "词性": "v.",
+            "中文释义": "描述；形容",
+            "教材课文页": 11,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T013",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T013",
+        "word": "describe",
+        "ipa": "/dɪˈskraɪb/",
+        "focus": "重音在/skraɪb/；/skr/三个辅音紧接，/aɪ/滑动后以/b/收尾。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Can you describe your new classroom to me?",
+          "zh": "你能向我描述你的新教室吗？",
+          "sourceIds": [
+            "T013"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/dɪˈskraɪb/",
+      "pos": "v.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T004",
+      "sourceId": "T004",
+      "sourceIds": [
+        "T004"
+      ],
+      "word": "improve",
+      "meaning": "改进；改善",
+      "sourceItems": [
+        {
+          "sourceId": "T004",
+          "sourceKind": "textbook",
+          "expression": "improve",
+          "meaning": "改进；改善",
+          "partOfSpeech": "v.",
+          "phonetic": "/ɪmˈpruːv/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 5,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 9,
+          "originalFields": {
+            "序号": 4,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "improve",
+            "音标（教材）": "/ɪmˈpruːv/",
+            "词性": "v.",
+            "中文释义": "改进；改善",
+            "教材课文页": 5,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T004",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T004",
+        "word": "improve",
+        "ipa": "/ɪmˈpruːv/",
+        "focus": "重音在/pruːv/；/uː/拉长，末尾/v/声带振动。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Reading every day can improve your English.",
+          "zh": "每天阅读能改善你的英语水平。",
+          "sourceIds": [
+            "T004"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/ɪmˈpruːv/",
+      "pos": "v.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T235",
+      "sourceId": "T235",
+      "sourceIds": [
+        "T235"
+      ],
+      "word": "become",
+      "meaning": "开始变得；变成",
+      "sourceItems": [
+        {
+          "sourceId": "T235",
+          "sourceKind": "textbook",
+          "expression": "become",
+          "meaning": "开始变得；变成",
+          "partOfSpeech": "v.",
+          "phonetic": "/bɪˈkʌm/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 94,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 240,
+          "originalFields": {
+            "序号": 235,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "become",
+            "音标（教材）": "/bɪˈkʌm/",
+            "词性": "v.",
+            "中文释义": "开始变得；变成",
+            "教材课文页": 94,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T235",
+          "introducedAtStation": 36
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T235",
+        "word": "become",
+        "ipa": "/bɪˈkʌm/",
+        "focus": "开头/bɪ/轻读；重音在/kʌm/，/ʌ/短读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The sky becomes dark in the evening.",
+          "zh": "傍晚时天空变暗。",
+          "sourceIds": [
+            "T235"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/bɪˈkʌm/",
+      "pos": "v.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T234",
+      "sourceId": "T234",
+      "sourceIds": [
+        "T234"
+      ],
+      "word": "almost",
+      "meaning": "几乎；差不多",
+      "sourceItems": [
+        {
+          "sourceId": "T234",
+          "sourceKind": "textbook",
+          "expression": "almost",
+          "meaning": "几乎；差不多",
+          "partOfSpeech": "adv.",
+          "phonetic": "/ˈɔːlməʊst/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 94,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 239,
+          "originalFields": {
+            "序号": 234,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "almost",
+            "音标（教材）": "/ˈɔːlməʊst/",
+            "词性": "adv.",
+            "中文释义": "几乎；差不多",
+            "教材课文页": 94,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T234",
+          "introducedAtStation": 36
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T234",
+        "word": "almost",
+        "ipa": "/ˈɔːlməʊst/",
+        "focus": "重音在/ɔːl/；后段/məʊst/的/əʊ/有滑动，末尾/st/紧接。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The puzzle is almost complete.",
+          "zh": "拼图差不多完成了。",
+          "sourceIds": [
+            "T234"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "drop",
+          "meaning": "a very small amount of liquid"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈɔːlməʊst/",
+      "pos": "adv.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T253",
+      "sourceId": "T253",
+      "sourceIds": [
+        "T253"
+      ],
+      "word": "join",
+      "meaning": "成为……的一员；参加",
+      "sourceItems": [
+        {
+          "sourceId": "T253",
+          "sourceKind": "textbook",
+          "expression": "join",
+          "meaning": "成为……的一员；参加",
+          "partOfSpeech": "v.",
+          "phonetic": "/dʒɔɪn/",
+          "unit": "Unit 7",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 100,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 258,
+          "originalFields": {
+            "序号": 253,
+            "单元": "Unit 7",
+            "类型": "单词",
+            "单词／短语": "join",
+            "音标（教材）": "/dʒɔɪn/",
+            "词性": "v.",
+            "中文释义": "成为……的一员；参加",
+            "教材课文页": 100,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T253",
+          "introducedAtStation": 39
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T253",
+        "word": "join",
+        "ipa": "/dʒɔɪn/",
+        "focus": "开头字母j读/dʒ/；/ɔɪ/有滑动，最后/n/收尾。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "I want to join the school art club.",
+          "zh": "我想加入学校美术社团。",
+          "sourceIds": [
+            "T253"
+          ]
+        },
+        {
+          "en": "Ben joins our game after lunch.",
+          "zh": "本午饭后加入我们的游戏。",
+          "sourceIds": [
+            "T253"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/dʒɔɪn/",
+      "pos": "v.",
+      "unit": "Unit 7",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T249",
+      "sourceId": "T249",
+      "sourceIds": [
+        "T249"
+      ],
+      "word": "in memory of",
+      "meaning": "作为对……的纪念",
+      "sourceItems": [
+        {
+          "sourceId": "T249",
+          "sourceKind": "textbook",
+          "expression": "in memory of",
+          "meaning": "作为对……的纪念",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 6",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 92,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 254,
+          "originalFields": {
+            "序号": 249,
+            "单元": "Unit 6",
+            "类型": "短语",
+            "单词／短语": "in memory of",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "作为对……的纪念",
+            "教材课文页": 92,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T249",
+          "introducedAtStation": 39
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T249",
+        "sourceIds": [
+          "T249"
+        ],
+        "expression": "in memory of",
+        "phonetic": "/ɪn ˈmeməri əv/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "The town builds a small garden in memory of a brave doctor.",
+          "zh": "镇上修建了一个小花园，以纪念一位勇敢的医生。",
+          "sourceIds": [
+            "T249"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "honour",
+          "meaning": "show great respect for someone"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T247",
+      "sourceId": "T247",
+      "sourceIds": [
+        "T247"
+      ],
+      "word": "be interested in",
+      "meaning": "对……有兴趣",
+      "sourceItems": [
+        {
+          "sourceId": "T247",
+          "sourceKind": "textbook",
+          "expression": "be interested in",
+          "meaning": "对……有兴趣",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 6",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 88,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 252,
+          "originalFields": {
+            "序号": 247,
+            "单元": "Unit 6",
+            "类型": "短语",
+            "单词／短语": "be interested in",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "对……有兴趣",
+            "教材课文页": 88,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T247",
+          "introducedAtStation": 38
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T247",
+        "sourceIds": [
+          "T247"
+        ],
+        "expression": "be interested in",
+        "phonetic": "/bi ˈɪntrəstɪd ɪn/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Mia is interested in space and reads books about the moon.",
+          "zh": "米娅对太空有兴趣，会阅读有关月球的书。",
+          "sourceIds": [
+            "T247"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T246",
+      "sourceId": "T246",
+      "sourceIds": [
+        "T246"
+      ],
+      "word": "in the centre of",
+      "meaning": "在……的中心",
+      "sourceItems": [
+        {
+          "sourceId": "T246",
+          "sourceKind": "textbook",
+          "expression": "in the centre of",
+          "meaning": "在……的中心",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 6",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 85,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 251,
+          "originalFields": {
+            "序号": 246,
+            "单元": "Unit 6",
+            "类型": "短语",
+            "单词／短语": "in the centre of",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "在……的中心",
+            "教材课文页": 85,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T246",
+          "introducedAtStation": 38
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T246",
+        "sourceIds": [
+          "T246"
+        ],
+        "expression": "in the centre of",
+        "phonetic": "/ɪn ðə ˈsentər əv/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "A small garden is in the centre of the square.",
+          "zh": "一个小花园位于广场中央。",
+          "sourceIds": [
+            "T246"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "fountain",
+          "meaning": "a structure that sends water into the air"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T245",
+      "sourceId": "T245",
+      "sourceIds": [
+        "T245"
+      ],
+      "word": "light up",
+      "meaning": "点亮；照亮",
+      "sourceItems": [
+        {
+          "sourceId": "T245",
+          "sourceKind": "textbook",
+          "expression": "light up",
+          "meaning": "点亮；照亮",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 6",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 85,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 250,
+          "originalFields": {
+            "序号": 245,
+            "单元": "Unit 6",
+            "类型": "短语",
+            "单词／短语": "light up",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "点亮；照亮",
+            "教材课文页": 85,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T245",
+          "introducedAtStation": 38
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T245",
+        "sourceIds": [
+          "T245"
+        ],
+        "expression": "light up",
+        "phonetic": "/laɪt ʌp/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Small lamps light up the garden at night.",
+          "zh": "小灯在夜间照亮花园。",
+          "sourceIds": [
+            "T245"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T244",
+      "sourceId": "T244",
+      "sourceIds": [
+        "T244"
+      ],
+      "word": "tourist spot",
+      "meaning": "旅游景点",
+      "sourceItems": [
+        {
+          "sourceId": "T244",
+          "sourceKind": "textbook",
+          "expression": "tourist spot",
+          "meaning": "旅游景点",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 6",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 85,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 249,
+          "originalFields": {
+            "序号": 244,
+            "单元": "Unit 6",
+            "类型": "短语",
+            "单词／短语": "tourist spot",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "旅游景点",
+            "教材课文页": 85,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T244",
+          "introducedAtStation": 38
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T244",
+        "sourceIds": [
+          "T244"
+        ],
+        "expression": "tourist spot",
+        "phonetic": "/ˈtʊərɪst spɒt/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "The old bridge is a popular tourist spot.",
+          "zh": "这座老桥是一个受欢迎的旅游景点。",
+          "sourceIds": [
+            "T244"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "waterfall",
+          "meaning": "water falling over a high edge"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T248",
+      "sourceId": "T248",
+      "sourceIds": [
+        "T248"
+      ],
+      "word": "historic site",
+      "meaning": "古迹；历史遗迹",
+      "sourceItems": [
+        {
+          "sourceId": "T248",
+          "sourceKind": "textbook",
+          "expression": "historic site",
+          "meaning": "古迹；历史遗迹",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 6",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 92,
+          "wordListPdfPage": 5,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 253,
+          "originalFields": {
+            "序号": 248,
+            "单元": "Unit 6",
+            "类型": "短语",
+            "单词／短语": "historic site",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "古迹；历史遗迹",
+            "教材课文页": 92,
+            "词表PDF页": 5,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T248",
+          "introducedAtStation": 39
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T248",
+        "sourceIds": [
+          "T248"
+        ],
+        "expression": "historic site",
+        "phonetic": "/hɪˈstɒrɪk saɪt/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "The old city wall is a historic site.",
+          "zh": "这段古城墙是一处历史遗迹。",
+          "sourceIds": [
+            "T248"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "castle",
+          "meaning": "a large strong building from the past"
+        },
+        {
+          "word": "temple",
+          "meaning": "a building used for worship"
+        },
+        {
+          "word": "ancient",
+          "meaning": "very old"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T037",
+      "sourceId": "T037",
+      "sourceIds": [
+        "T037"
+      ],
+      "word": "come along",
+      "meaning": "出现",
+      "sourceItems": [
+        {
+          "sourceId": "T037",
+          "sourceKind": "textbook",
+          "expression": "come along",
+          "meaning": "出现",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 1",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 15,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 42,
+          "originalFields": {
+            "序号": 37,
+            "单元": "Unit 1",
+            "类型": "短语",
+            "单词／短语": "come along",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "出现",
+            "教材课文页": 15,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T037",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T037",
+        "sourceIds": [
+          "T037"
+        ],
+        "expression": "come along",
+        "phonetic": "/kʌm əˈlɒŋ/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "We wait until a bus comes along.",
+          "zh": "我们等到一辆公共汽车出现。",
+          "sourceIds": [
+            "T037"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "只考源“出现”义，不用跟着一起来替代。",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T036",
+      "sourceId": "T036",
+      "sourceIds": [
+        "T036"
+      ],
+      "word": "take somebody's place",
+      "meaning": "替代某人",
+      "sourceItems": [
+        {
+          "sourceId": "T036",
+          "sourceKind": "textbook",
+          "expression": "take somebody's place",
+          "meaning": "替代某人",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 1",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 15,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 41,
+          "originalFields": {
+            "序号": 36,
+            "单元": "Unit 1",
+            "类型": "短语",
+            "单词／短语": "take somebody's place",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "替代某人",
+            "教材课文页": 15,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T036",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T036",
+        "sourceIds": [
+          "T036"
+        ],
+        "expression": "take somebody's place",
+        "phonetic": "/teɪk ˈsʌmbədiz pleɪs/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "When I am absent, Mia takes my place in the school team.",
+          "zh": "我缺席时，米娅替代我参加校队。",
+          "sourceIds": [
+            "T036"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T035",
+      "sourceId": "T035",
+      "sourceIds": [
+        "T035"
+      ],
+      "word": "come and go",
+      "meaning": "来去",
+      "sourceItems": [
+        {
+          "sourceId": "T035",
+          "sourceKind": "textbook",
+          "expression": "come and go",
+          "meaning": "来去",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 1",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 15,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 40,
+          "originalFields": {
+            "序号": 35,
+            "单元": "Unit 1",
+            "类型": "短语",
+            "单词／短语": "come and go",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "来去",
+            "教材课文页": 15,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T035",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T035",
+        "sourceIds": [
+          "T035"
+        ],
+        "expression": "come and go",
+        "phonetic": "/kʌm ən ɡəʊ/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "People come and go at the busy station.",
+          "zh": "繁忙的车站里，人们来来去去。",
+          "sourceIds": [
+            "T035"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0784",
+      "sourceId": "E0784",
+      "sourceIds": [
+        "E0784"
+      ],
+      "word": "go wrong",
+      "meaning": "出毛病",
+      "sourceItems": [
+        {
+          "sourceId": "E0784",
+          "sourceKind": "phrase",
+          "expression": "go wrong",
+          "meaning": "出毛病",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "wrong作表语形容词，不写wrongly。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0890",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 24,
+          "originalFields": {
+            "编号": "E0784",
+            "英文表达": "go wrong",
+            "中文释义": "出毛病",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "wrong作表语形容词，不写wrongly。",
+            "适用训练": "完形阅读 / 语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0890",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "go wrong",
+            "原文释义": "出毛病",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0784",
+          "introducedAtStation": 61
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0784",
+        "sourceIds": [
+          "E0784"
+        ],
+        "expression": "go wrong",
+        "phonetic": "/ɡəʊ rɒŋ/",
+        "readingForms": [
+          {
+            "expression": "go wrong",
+            "phonetic": "/ɡəʊ rɒŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0784",
+            "expression": "go wrong"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "If something goes wrong with the model, ask the teacher for help.",
+          "zh": "如果模型出了毛病，请老师帮忙。",
+          "sourceIds": [
+            "E0784"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0781",
+      "sourceId": "E0781",
+      "sourceIds": [
+        "E0781"
+      ],
+      "word": "go up",
+      "meaning": "上涨",
+      "sourceItems": [
+        {
+          "sourceId": "E0781",
+          "sourceKind": "phrase",
+          "expression": "go up",
+          "meaning": "上涨",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "可指价格上涨，不用被动语态。",
+          "evidence": "8上U2参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0884",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 23,
+          "originalFields": {
+            "编号": "E0781",
+            "英文表达": "go up",
+            "中文释义": "上涨",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "可指价格上涨，不用被动语态。",
+            "适用训练": "完形阅读 / 语法填空",
+            "教材关联证据": "8上U2参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0884",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "go up",
+            "原文释义": "上涨",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/23287257"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0781",
+          "introducedAtStation": 61
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0781",
+        "sourceIds": [
+          "E0781"
+        ],
+        "expression": "go up",
+        "phonetic": "/ɡəʊ ʌp/",
+        "readingForms": [
+          {
+            "expression": "go up",
+            "phonetic": "/ɡəʊ ʌp/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0781",
+            "expression": "go up"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Food prices go up when supplies are low.",
+          "zh": "供应不足时，食品价格上涨。",
+          "sourceIds": [
+            "E0781"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0780",
+      "sourceId": "E0780",
+      "sourceIds": [
+        "E0780"
+      ],
+      "word": "go down",
+      "meaning": "下降",
+      "sourceItems": [
+        {
+          "sourceId": "E0780",
+          "sourceKind": "phrase",
+          "expression": "go down",
+          "meaning": "下降",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "可指价格下降，注意主语决定词义。",
+          "evidence": "8上U2参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0883",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 21,
+          "originalFields": {
+            "编号": "E0780",
+            "英文表达": "go down",
+            "中文释义": "下降",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "可指价格下降，注意主语决定词义。",
+            "适用训练": "完形阅读 / 语法填空",
+            "教材关联证据": "8上U2参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0883",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "go down",
+            "原文释义": "下降",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/23287257"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0780",
+          "introducedAtStation": 61
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0780",
+        "sourceIds": [
+          "E0780"
+        ],
+        "expression": "go down",
+        "phonetic": "/ɡəʊ daʊn/",
+        "readingForms": [
+          {
+            "expression": "go down",
+            "phonetic": "/ɡəʊ daʊn/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0780",
+            "expression": "go down"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The price of the coat goes down in the sale.",
+          "zh": "这件外套的价格在促销时下降。",
+          "sourceIds": [
+            "E0780"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0724",
+      "sourceId": "E0724",
+      "sourceIds": [
+        "E0724"
+      ],
+      "word": "go out",
+      "meaning": "熄灭；外出",
+      "sourceItems": [
+        {
+          "sourceId": "E0724",
+          "sourceKind": "phrase",
+          "expression": "go out",
+          "meaning": "熄灭；外出",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "动作变化",
+          "usage": "go out可表示外出或火/灯熄灭，按主语辨义。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0782；P0891",
+          "sourceImages": "IMG_2717.heic；IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 22,
+          "originalFields": {
+            "编号": "E0724",
+            "英文表达": "go out",
+            "中文释义": "熄灭；外出",
+            "学习层级": "核心掌握",
+            "主题": "动作变化",
+            "用法与易错点": "go out可表示外出或火/灯熄灭，按主语辨义。",
+            "适用训练": "语法填空；完形阅读",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0782；P0891",
+            "来源图片": "IMG_2717.heic；IMG_2718.heic",
+            "原文英文": "go out",
+            "原文释义": "熄灭；外出",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0724",
+          "introducedAtStation": 61
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0724",
+        "sourceIds": [
+          "E0724"
+        ],
+        "expression": "go out",
+        "phonetic": "/ɡəʊ aʊt/",
+        "readingForms": [
+          {
+            "expression": "go out",
+            "phonetic": "/ɡəʊ aʊt/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0724",
+            "expression": "go out"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "The candle goes out when the wind blows.",
+          "zh": "风一吹，蜡烛就熄灭了。",
+          "sourceIds": [
+            "E0724"
+          ],
+          "branch": "extinguish"
+        },
+        {
+          "en": "We go out for a walk after dinner.",
+          "zh": "我们晚饭后外出散步。",
+          "sourceIds": [
+            "E0724"
+          ],
+          "branch": "leave_home"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "动作变化",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "E0552",
+      "groupId": "E0552",
+      "direction": "zh_to_en",
+      "stem": "互相，彼此",
+      "options": [
+        {
+          "label": "A",
+          "text": "watch over"
+        },
+        {
+          "label": "B",
+          "text": "each other"
+        },
+        {
+          "label": "C",
+          "text": "be good at"
+        },
+        {
+          "label": "D",
+          "text": "neighbour"
+        }
+      ],
+      "answer": "B",
+      "word": "each other",
+      "meaning": "互相，彼此"
+    },
+    {
+      "id": 2,
+      "sourceId": "E0485",
+      "groupId": "E0485",
+      "direction": "en_to_zh",
+      "stem": "from...to...",
+      "options": [
+        {
+          "label": "A",
+          "text": "从……到……"
+        },
+        {
+          "label": "B",
+          "text": "①装扮 ②穿得正式；装扮；打扮"
+        },
+        {
+          "label": "C",
+          "text": "看见"
+        },
+        {
+          "label": "D",
+          "text": "将军"
+        }
+      ],
+      "answer": "A",
+      "word": "from...to...",
+      "meaning": "从……到……"
+    },
+    {
+      "id": 3,
+      "sourceId": "T013",
+      "groupId": "T013",
+      "direction": "zh_to_en",
+      "stem": "描述；形容",
+      "options": [
+        {
+          "label": "A",
+          "text": "clubs fair"
+        },
+        {
+          "label": "B",
+          "text": "lightning"
+        },
+        {
+          "label": "C",
+          "text": "sticker"
+        },
+        {
+          "label": "D",
+          "text": "describe"
+        }
+      ],
+      "answer": "D",
+      "word": "describe",
+      "meaning": "描述；形容"
+    },
+    {
+      "id": 4,
+      "sourceId": "T004",
+      "groupId": "T004",
+      "direction": "en_to_zh",
+      "stem": "improve",
+      "options": [
+        {
+          "label": "A",
+          "text": "改进；改善"
+        },
+        {
+          "label": "B",
+          "text": "蝴蝶"
+        },
+        {
+          "label": "C",
+          "text": "在……上发挥重要作用"
+        },
+        {
+          "label": "D",
+          "text": "映像；映照出的影像"
+        }
+      ],
+      "answer": "A",
+      "word": "improve",
+      "meaning": "改进；改善"
+    },
+    {
+      "id": 5,
+      "sourceId": "T235",
+      "groupId": "T235",
+      "direction": "zh_to_en",
+      "stem": "开始变得；变成",
+      "options": [
+        {
+          "label": "A",
+          "text": "member"
+        },
+        {
+          "label": "B",
+          "text": "bar"
+        },
+        {
+          "label": "C",
+          "text": "become"
+        },
+        {
+          "label": "D",
+          "text": "kick"
+        }
+      ],
+      "answer": "C",
+      "word": "become",
+      "meaning": "开始变得；变成"
+    },
+    {
+      "id": 6,
+      "sourceId": "T234",
+      "groupId": "T234",
+      "direction": "en_to_zh",
+      "stem": "almost",
+      "options": [
+        {
+          "label": "A",
+          "text": "低于通常（或平均）数量（或水平、价值）的"
+        },
+        {
+          "label": "B",
+          "text": "名单；目录"
+        },
+        {
+          "label": "C",
+          "text": "几乎；差不多"
+        },
+        {
+          "label": "D",
+          "text": "（分手指的）手套"
+        }
+      ],
+      "answer": "C",
+      "word": "almost",
+      "meaning": "几乎；差不多"
+    },
+    {
+      "id": 7,
+      "sourceId": "T253",
+      "groupId": "T253",
+      "direction": "zh_to_en",
+      "stem": "成为……的一员；参加",
+      "options": [
+        {
+          "label": "A",
+          "text": "join"
+        },
+        {
+          "label": "B",
+          "text": "amazing"
+        },
+        {
+          "label": "C",
+          "text": "full of energy"
+        },
+        {
+          "label": "D",
+          "text": "blow away"
+        }
+      ],
+      "answer": "A",
+      "word": "join",
+      "meaning": "成为……的一员；参加"
+    },
+    {
+      "id": 8,
+      "sourceId": "T249",
+      "groupId": "T249",
+      "direction": "en_to_zh",
+      "stem": "in memory of",
+      "options": [
+        {
+          "label": "A",
+          "text": "取（某物）"
+        },
+        {
+          "label": "B",
+          "text": "作为对……的纪念"
+        },
+        {
+          "label": "C",
+          "text": "足够达到"
+        },
+        {
+          "label": "D",
+          "text": "哭着入睡"
+        }
+      ],
+      "answer": "B",
+      "word": "in memory of",
+      "meaning": "作为对……的纪念"
+    },
+    {
+      "id": 9,
+      "sourceId": "T247",
+      "groupId": "T247",
+      "direction": "zh_to_en",
+      "stem": "对……有兴趣",
+      "options": [
+        {
+          "label": "A",
+          "text": "rocket"
+        },
+        {
+          "label": "B",
+          "text": "be interested in"
+        },
+        {
+          "label": "C",
+          "text": "have picnics"
+        },
+        {
+          "label": "D",
+          "text": "someday"
+        }
+      ],
+      "answer": "B",
+      "word": "be interested in",
+      "meaning": "对……有兴趣"
+    },
+    {
+      "id": 10,
+      "sourceId": "T246",
+      "groupId": "T246",
+      "direction": "en_to_zh",
+      "stem": "in the centre of",
+      "options": [
+        {
+          "label": "A",
+          "text": "白费；糟蹋"
+        },
+        {
+          "label": "B",
+          "text": "把……加到……上；增添"
+        },
+        {
+          "label": "C",
+          "text": "在……对面；在……对过"
+        },
+        {
+          "label": "D",
+          "text": "在……的中心"
+        }
+      ],
+      "answer": "D",
+      "word": "in the centre of",
+      "meaning": "在……的中心"
+    },
+    {
+      "id": 11,
+      "sourceId": "T245",
+      "groupId": "T245",
+      "direction": "zh_to_en",
+      "stem": "点亮；照亮",
+      "options": [
+        {
+          "label": "A",
+          "text": "pick up"
+        },
+        {
+          "label": "B",
+          "text": "light up"
+        },
+        {
+          "label": "C",
+          "text": "energy"
+        },
+        {
+          "label": "D",
+          "text": "take part in"
+        }
+      ],
+      "answer": "B",
+      "word": "light up",
+      "meaning": "点亮；照亮"
+    },
+    {
+      "id": 12,
+      "sourceId": "T244",
+      "groupId": "T244",
+      "direction": "en_to_zh",
+      "stem": "tourist spot",
+      "options": [
+        {
+          "label": "A",
+          "text": "新鲜的"
+        },
+        {
+          "label": "B",
+          "text": "旅游景点"
+        },
+        {
+          "label": "C",
+          "text": "塑料"
+        },
+        {
+          "label": "D",
+          "text": "把……分成……；把...分成"
+        }
+      ],
+      "answer": "B",
+      "word": "tourist spot",
+      "meaning": "旅游景点"
+    },
+    {
+      "id": 13,
+      "sourceId": "T248",
+      "groupId": "T248",
+      "direction": "zh_to_en",
+      "stem": "古迹；历史遗迹",
+      "options": [
+        {
+          "label": "A",
+          "text": "solar term"
+        },
+        {
+          "label": "B",
+          "text": "neighbour"
+        },
+        {
+          "label": "C",
+          "text": "on foot"
+        },
+        {
+          "label": "D",
+          "text": "historic site"
+        }
+      ],
+      "answer": "D",
+      "word": "historic site",
+      "meaning": "古迹；历史遗迹"
+    },
+    {
+      "id": 14,
+      "sourceId": "T037",
+      "groupId": "T037",
+      "direction": "en_to_zh",
+      "stem": "come along",
+      "options": [
+        {
+          "label": "A",
+          "text": "化学制品；化学品"
+        },
+        {
+          "label": "B",
+          "text": "出现"
+        },
+        {
+          "label": "C",
+          "text": "果馅饼；果馅派"
+        },
+        {
+          "label": "D",
+          "text": "燃烧；烧"
+        }
+      ],
+      "answer": "B",
+      "word": "come along",
+      "meaning": "出现"
+    },
+    {
+      "id": 15,
+      "sourceId": "T036",
+      "groupId": "T036",
+      "direction": "zh_to_en",
+      "stem": "替代某人",
+      "options": [
+        {
+          "label": "A",
+          "text": "take somebody's place"
+        },
+        {
+          "label": "B",
+          "text": "gateway"
+        },
+        {
+          "label": "C",
+          "text": "difference"
+        },
+        {
+          "label": "D",
+          "text": "freezing"
+        }
+      ],
+      "answer": "A",
+      "word": "take somebody's place",
+      "meaning": "替代某人"
+    },
+    {
+      "id": 16,
+      "sourceId": "T035",
+      "groupId": "T035",
+      "direction": "en_to_zh",
+      "stem": "come and go",
+      "options": [
+        {
+          "label": "A",
+          "text": "片刻；瞬间"
+        },
+        {
+          "label": "B",
+          "text": "来去"
+        },
+        {
+          "label": "C",
+          "text": "拥有；有"
+        },
+        {
+          "label": "D",
+          "text": "贵重的"
+        }
+      ],
+      "answer": "B",
+      "word": "come and go",
+      "meaning": "来去"
+    },
+    {
+      "id": 17,
+      "sourceId": "E0784",
+      "groupId": "E0784",
+      "direction": "zh_to_en",
+      "stem": "出毛病",
+      "options": [
+        {
+          "label": "A",
+          "text": "rocket"
+        },
+        {
+          "label": "B",
+          "text": "go wrong"
+        },
+        {
+          "label": "C",
+          "text": "influence"
+        },
+        {
+          "label": "D",
+          "text": "desert"
+        }
+      ],
+      "answer": "B",
+      "word": "go wrong",
+      "meaning": "出毛病"
+    },
+    {
+      "id": 18,
+      "sourceId": "E0781",
+      "groupId": "E0781",
+      "direction": "en_to_zh",
+      "stem": "go up",
+      "options": [
+        {
+          "label": "A",
+          "text": "外貌"
+        },
+        {
+          "label": "B",
+          "text": "上涨"
+        },
+        {
+          "label": "C",
+          "text": "雷"
+        },
+        {
+          "label": "D",
+          "text": "石头；石料"
+        }
+      ],
+      "answer": "B",
+      "word": "go up",
+      "meaning": "上涨"
+    },
+    {
+      "id": 19,
+      "sourceId": "E0780",
+      "groupId": "E0780",
+      "direction": "zh_to_en",
+      "stem": "下降",
+      "options": [
+        {
+          "label": "A",
+          "text": "valuable"
+        },
+        {
+          "label": "B",
+          "text": "pack"
+        },
+        {
+          "label": "C",
+          "text": "go down"
+        },
+        {
+          "label": "D",
+          "text": "member"
+        }
+      ],
+      "answer": "C",
+      "word": "go down",
+      "meaning": "下降"
+    },
+    {
+      "id": 20,
+      "sourceId": "E0724",
+      "groupId": "E0724",
+      "direction": "en_to_zh",
+      "stem": "go out",
+      "options": [
+        {
+          "label": "A",
+          "text": "熄灭；外出"
+        },
+        {
+          "label": "B",
+          "text": "结局"
+        },
+        {
+          "label": "C",
+          "text": "雷"
+        },
+        {
+          "label": "D",
+          "text": "消失；不见"
+        }
+      ],
+      "answer": "A",
+      "word": "go out",
+      "meaning": "熄灭；外出"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0552",
+      "groupId": "E0552",
+      "target": "each other",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "both groups acting on something outside the pair"
+        },
+        {
+          "label": "B",
+          "text": "each group directing an action towards the other"
+        },
+        {
+          "label": "C",
+          "text": "only one group acting while the other does nothing"
+        },
+        {
+          "label": "D",
+          "text": "each group acting only for itself"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 2,
+      "answer": "B",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "each other",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "each other"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "互相，彼此",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “each other” means “each group directing an action towards the other”.",
+      "parentExplanation": "本题考查“each other”在本句中的用法；正确英文解释为“each group directing an action towards the other”。对应源表释义为“互相，彼此”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0485",
+      "groupId": "E0485",
+      "target": "from...to...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "in a direction with no starting point"
+        },
+        {
+          "label": "B",
+          "text": "between a starting place and a destination"
+        },
+        {
+          "label": "C",
+          "text": "outside both the starting and ending points"
+        },
+        {
+          "label": "D",
+          "text": "at one point without any change"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "We carry the painting from the hall to the art room, starting inside the hall.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "We carry the painting from the hall to the art room, starting inside the hall."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "我们从大厅里出发，把画从大厅搬到美术教室。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “from...to...” means “between a starting place and a destination”.",
+      "parentExplanation": "本题考查“from...to...”在本句中的用法；正确英文解释为“between a starting place and a destination”。对应源表释义为“从……到……”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T013",
+      "groupId": "T013",
+      "target": "describe",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "watch over"
+        },
+        {
+          "label": "B",
+          "text": "describe"
+        },
+        {
+          "label": "C",
+          "text": "improve"
+        },
+        {
+          "label": "D",
+          "text": "be good at"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which verb describes what Lily does when she gives these details?",
+      "answer": "B",
+      "listenScript": "Ben cannot see the lost dog from here. Lily tells him about its small size, brown ears and long white tail.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Ben cannot see the lost dog from here. Lily tells him about its small size, brown ears and long white tail."
+        }
+      ],
+      "explanation": "The situation supports “describe”: Ben cannot see the lost dog from here. Lily tells him about its small size, brown ears and long white tail.",
+      "parentExplanation": "情境证据：本在这里看不到走失的小狗。莉莉告诉他，小狗个头小、耳朵棕色、尾巴又长又白。；对应本题“描述；形容”这一用法。",
+      "translation": {
+        "stem": "莉莉讲出这些细节时，哪个动词能描述她的行为？",
+        "listenScript": "本在这里看不到走失的小狗。莉莉告诉他，小狗个头小、耳朵棕色、尾巴又长又白。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T013",
+        "T004",
+        "T030",
+        "T024"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T004",
+      "groupId": "T004",
+      "target": "improve",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "watch over"
+        },
+        {
+          "label": "B",
+          "text": "be good at"
+        },
+        {
+          "label": "C",
+          "text": "describe"
+        },
+        {
+          "label": "D",
+          "text": "improve"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which verb describes making her handwriting better?",
+      "answer": "D",
+      "listenScript": "At first, Mia makes many mistakes in her handwriting. She practises carefully each day, and after a month her writing is much clearer.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "At first, Mia makes many mistakes in her handwriting. She practises carefully each day, and after a month her writing is much clearer."
+        }
+      ],
+      "explanation": "The situation supports “improve”: At first, Mia makes many mistakes in her handwriting. She practises carefully each day, and after a month her writing is much clearer.",
+      "parentExplanation": "情境证据：起初，米娅写字时有许多错误。她每天认真练习，一个月后字写得清楚多了。；对应本题“改进；改善”这一用法。",
+      "translation": {
+        "stem": "哪个动词表示让她的书写变得更好？",
+        "listenScript": "起初，米娅写字时有许多错误。她每天认真练习，一个月后字写得清楚多了。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T004",
+        "T013",
+        "T030",
+        "T024"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T235",
+      "groupId": "T235",
+      "target": "become",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to move away from a place"
+        },
+        {
+          "label": "B",
+          "text": "to start to be"
+        },
+        {
+          "label": "C",
+          "text": "to put something inside a box"
+        },
+        {
+          "label": "D",
+          "text": "to stay exactly the same"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "My cousin hopes to become a doctor in the future.\nWhat does “become” mean here?",
+      "translation": {
+        "stem": "我表亲希望将来成为一名医生。 这里“become”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “become” means “to start to be”.",
+      "parentExplanation": "本题考查“become”在本句中的用法；正确英文解释为“to start to be”。对应源表释义为“开始变得；变成”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T234",
+      "groupId": "T234",
+      "target": "almost",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "very far away in distance"
+        },
+        {
+          "label": "B",
+          "text": "fully, with nothing left"
+        },
+        {
+          "label": "C",
+          "text": "only once in a lifetime"
+        },
+        {
+          "label": "D",
+          "text": "nearly, but not completely"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "There is almost no milk left in the bottle, just a few drops.\nWhat does “almost” mean here?",
+      "translation": {
+        "stem": "瓶子里几乎没有牛奶了，只剩几滴。 这里“almost”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “almost” means “nearly, but not completely”.",
+      "parentExplanation": "本题考查“almost”在本句中的用法；正确英文解释为“nearly, but not completely”。对应源表释义为“几乎；差不多”。",
+      "wordHelp": [
+        {
+          "word": "drop",
+          "meaning": "a very small amount of liquid"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T253",
+      "groupId": "T253",
+      "target": "join",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to leave a group and never return"
+        },
+        {
+          "label": "B",
+          "text": "to miss a lesson by staying at home"
+        },
+        {
+          "label": "C",
+          "text": "to watch a game without taking part"
+        },
+        {
+          "label": "D",
+          "text": "to take part in an activity with others"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "Can I join your game? I would like to play with you.\nWhat does “join” mean here?",
+      "translation": {
+        "stem": "我可以参加你们的游戏吗？我想和你们一起玩。 这里“join”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “join” means “to take part in an activity with others”.",
+      "parentExplanation": "本题考查“join”在本句中的用法；正确英文解释为“to take part in an activity with others”。对应源表释义为“成为……的一员；参加”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T249",
+      "groupId": "T249",
+      "target": "in memory of",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to ask a person to leave a room"
+        },
+        {
+          "label": "B",
+          "text": "to show the price of an item"
+        },
+        {
+          "label": "C",
+          "text": "to make a choice between two things"
+        },
+        {
+          "label": "D",
+          "text": "to honour the memory of a person who died"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "The museum opens a reading room in memory of a writer who once taught in the village.\nWhat does “in memory of” mean here?",
+      "translation": {
+        "stem": "博物馆设立了一间阅览室，以纪念曾在村里教书的一位已故作家。 这里“in memory of”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “in memory of” means “to honour the memory of a person who died”.",
+      "parentExplanation": "本题考查“in memory of”在本句中的用法；正确英文解释为“to honour the memory of a person who died”。对应源表释义为“作为对……的纪念”。",
+      "wordHelp": [
+        {
+          "word": "honour",
+          "meaning": "show great respect for someone"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T247",
+      "groupId": "T247",
+      "target": "be interested in",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "are interested in"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "After the weather demonstration, the pupils a________ learning more about storms.",
+      "answer": "are interested in",
+      "hint": "want to learn more about",
+      "grammar": "Plural be interested in + doing",
+      "initialLetter": "a",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Pupils takes are; in is followed by the -ing form learning.",
+      "parentExplanation": "pupils为复数，用are interested in；in后接learning。",
+      "translation": {
+        "stem": "天气演示后，学生们对进一步了解暴风雨很感兴趣。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 2,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T246",
+      "groupId": "T246",
+      "target": "in the centre of",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "in the centre of",
+        "in the center of"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "To start the board game, put one counter i________ the board, equally far from its opposite edges.",
+      "answer": "in the centre of",
+      "hint": "in the middle part of",
+      "grammar": "Fixed prepositional phrase",
+      "initialLetter": "i",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The phrase places the counter in the middle of the board.",
+      "parentExplanation": "in the centre of后接the board；相对边距离相等表明位于中央。",
+      "translation": {
+        "stem": "开始桌游时，把一个棋子放在棋盘中央，离相对两边的距离相同。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 2,
+      "wordHelp": [
+        {
+          "word": "fountain",
+          "meaning": "a structure that sends water into the air"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T245",
+      "groupId": "T245",
+      "target": "light up",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "light up"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "At every performance, two torches l________ the dark stage at the actor's signal.",
+      "answer": "light up",
+      "hint": "make a place bright",
+      "grammar": "Simple present: plural subject",
+      "initialLetter": "l",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The plural subject “two torches” takes the base form “light up” in the simple present.",
+      "parentExplanation": "two torches为复数，填light up，表示用光照亮舞台。",
+      "translation": {
+        "stem": "每次演出时，两支手电筒都在演员发出信号时照亮黑暗的舞台。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 2,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T244",
+      "groupId": "T244",
+      "target": "tourist spot",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "tourist spot"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The guidebook lists the old tower as a t________ and explains how to visit it.",
+      "answer": "tourist spot",
+      "hint": "a place people visit for interest or enjoyment",
+      "grammar": "A + singular noun phrase",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A tourist spot is a place visitors come to see.",
+      "parentExplanation": "a后填单数tourist spot；指南列出可供参观的地点。",
+      "translation": {
+        "stem": "旅行指南把这座老塔列为旅游景点，并说明参观方法。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 2,
+      "wordHelp": [
+        {
+          "word": "waterfall",
+          "meaning": "water falling over a high edge"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T248",
+      "groupId": "T248",
+      "target": "historic site",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "historic site"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The old castle is a h________, so visitors learn about its past.",
+      "answer": "historic site",
+      "hint": "a place important because of its history",
+      "grammar": "A + singular noun phrase",
+      "initialLetter": "h",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Historic site names a place with historical importance.",
+      "parentExplanation": "historic site表示古迹、历史遗迹；a后用单数。",
+      "translation": {
+        "stem": "这座古堡是一处古迹，因此游客会了解它的历史。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "castle",
+          "meaning": "a large strong building from the past"
+        },
+        {
+          "word": "temple",
+          "meaning": "a building used for worship"
+        },
+        {
+          "word": "ancient",
+          "meaning": "very old"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T037",
+      "groupId": "T037",
+      "target": "come along",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "comes along"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "I keep practising, so I will be ready when the right chance c________.",
+      "answer": "comes along",
+      "hint": "Use the two-word phrase ending in along, meaning appear or arrive; choose the verb form for this sentence.",
+      "grammar": "第三人称单数；机会出现",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A chance can come along; a singular chance takes comes.",
+      "parentExplanation": "机会出现用come along；chance单数，谓语为comes along。",
+      "translation": {
+        "stem": "我继续练习，这样合适的机会出现时，我就准备好了。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T036",
+      "groupId": "T036",
+      "target": "take somebody's place",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "take my place"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "I cannot play today. Can you t________ in the team instead of me?",
+      "answer": "take my place",
+      "hint": "Use the phrase meaning replace me in my role; choose the possessive word for me.",
+      "grammar": "take + 物主代词 + place",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Replacing the speaker means taking my place; after can use take.",
+      "parentExplanation": "代替说话者用take my place；can后用take原形。",
+      "translation": {
+        "stem": "我今天不能上场。你能在队里替代我吗？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T035",
+      "groupId": "T035",
+      "target": "come and go",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "come and go"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We sit near the station entrance and watch buses c________ all morning.",
+      "answer": "come and go",
+      "hint": "Use a three-word phrase for repeatedly arriving and leaving.",
+      "grammar": "watch + 宾语 + 并列动词原形",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The buses repeatedly arrive at and leave the station.",
+      "parentExplanation": "公共汽车反复进站离站，用come and go；watch宾语后用原形。",
+      "translation": {
+        "stem": "我们坐在车站入口附近，看着公共汽车整个上午来来往往。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0784",
+      "groupId": "E0784",
+      "target": "go wrong",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "be sold at a lower price"
+        },
+        {
+          "label": "B",
+          "text": "move quickly around a corner"
+        },
+        {
+          "label": "C",
+          "text": "be painted in a new colour"
+        },
+        {
+          "label": "D",
+          "text": "develop a fault or problem"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “go wrong” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “go wrong” means “develop a fault or problem”. The sentence says: Before anyone rides, the teacher checks what might go wrong with each bike.",
+      "parentExplanation": "“go wrong”在此处对应“出毛病”中的本句义项；句意为：任何人骑车前，老师先检查每辆车可能出什么毛病。",
+      "translation": {
+        "stem": "短文中的“go wrong”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "go wrong"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0781",
+      "groupId": "E0781",
+      "target": "go up",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "stay unchanged in price"
+        },
+        {
+          "label": "B",
+          "text": "be moved to a top shelf"
+        },
+        {
+          "label": "C",
+          "text": "become lower in price"
+        },
+        {
+          "label": "D",
+          "text": "become higher in price"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “go up” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “go up” means “become higher in price”. The sentence says: The price of new parts will go up at the local shop next week.",
+      "parentExplanation": "“go up”在此处对应“上涨”中的本句义项；句意为：本地商店的新零件价格下周会上涨。",
+      "translation": {
+        "stem": "短文中的“go up”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "go up"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why does one bike stay in the shed?",
+      "explanation": "The answer is “Its loose brake needs attention.”. Evidence: One loose brake needs attention, so that bike stays in the shed.",
+      "parentExplanation": "正确项为“Its loose brake needs attention.”。原文依据：一处松动的刹车需要处理，所以那辆车留在棚里。",
+      "translation": {
+        "stem": "为什么有一辆车留在棚里？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "It belongs to a visitor."
+        },
+        {
+          "label": "B",
+          "text": "Its loose brake needs attention."
+        },
+        {
+          "label": "C",
+          "text": "It has too many colourful flags."
+        },
+        {
+          "label": "D",
+          "text": "The shop is closed on Sunday."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea?",
+      "explanation": "The answer is “A club puts safe bike repairs before decorations.”. Evidence: The bicycle club plans to lend bikes to visitors on Sunday. Before anyone rides, the teacher checks what might go wrong with each bike. One loose brake needs attention, so that bike stays in the shed. The club reads the price notice and decides which repairs are necessary now. They spend their small budget on safe brakes before buying colourful flags. On Sunday, visitors receive checked bikes and clear instructions for a safe ride.",
+      "parentExplanation": "正确项为“A club puts safe bike repairs before decorations.”。原文依据：自行车社计划周日把自行车借给访客。任何人骑车前，老师先检查每辆车可能出什么毛病。一处松动的刹车需要处理，所以那辆车留在棚里。社团读了价格通知，决定现在哪些修理是必要的。他们先把有限的预算用于安全的刹车，再考虑买彩旗。周日，访客领到经过检查的自行车和清楚的安全骑行说明。",
+      "translation": {
+        "stem": "这篇短文的主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Visitors learn to build a bike shop."
+        },
+        {
+          "label": "B",
+          "text": "A teacher buys flags for every house."
+        },
+        {
+          "label": "C",
+          "text": "A club stops all Sunday activities."
+        },
+        {
+          "label": "D",
+          "text": "A club puts safe bike repairs before decorations."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0780",
+      "groupId": "E0780",
+      "target": "go down",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "remain at exactly the same level"
+        },
+        {
+          "label": "B",
+          "text": "become higher in level"
+        },
+        {
+          "label": "C",
+          "text": "turn into drinking water"
+        },
+        {
+          "label": "D",
+          "text": "become lower in level"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “go down” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “go down” means “become lower in level”. The sentence says: The water level can go down when Grandma uses some to water her pots.",
+      "parentExplanation": "“go down”在此处对应“下降”中的本句义项；句意为：奶奶用一些池水浇盆栽时，水位会下降。",
+      "translation": {
+        "stem": "短文中的“go down”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "go down"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0724",
+      "groupId": "E0724",
+      "target": "go out",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "stop giving light"
+        },
+        {
+          "label": "B",
+          "text": "travel outdoors as people"
+        },
+        {
+          "label": "C",
+          "text": "start giving a brighter light"
+        },
+        {
+          "label": "D",
+          "text": "move to a different garden"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “go out” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Here “go out” means “stop giving light”. The sentence says: Later, the garden lamps go out because their timer reaches its set time.",
+      "parentExplanation": "“go out”在此处对应“熄灭；外出”中的本句义项；句意为：后来，花园灯的定时器到了设定时间，灯就熄灭了。",
+      "translation": {
+        "stem": "短文中的“go out”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "targetSpan": "go out"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why do the garden lamps stop shining?",
+      "explanation": "The answer is “Their timer reaches its set time.”. Evidence: Later, the garden lamps go out because their timer reaches its set time.",
+      "parentExplanation": "正确项为“Their timer reaches its set time.”。原文依据：后来，花园灯的定时器到了设定时间，灯就熄灭了。",
+      "translation": {
+        "stem": "花园灯为什么不再发光？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The pond becomes still."
+        },
+        {
+          "label": "B",
+          "text": "The children move the stone path."
+        },
+        {
+          "label": "C",
+          "text": "Their timer reaches its set time."
+        },
+        {
+          "label": "D",
+          "text": "Grandma puts milk in the lamps."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title best fits?",
+      "explanation": "The answer is “A Quiet Evening in Grandma's Garden”. Evidence: Grandma invites us to spend the evening in her garden. We sit beside the pond and watch the water become still. The water level can go down when Grandma uses some to water her pots. Tonight she only needs a small can, so she takes very little. Later, the garden lamps go out because their timer reaches its set time. We use a torch to follow Grandma back along the stone path. Inside, she gives us warm milk and asks what we enjoyed about the evening.",
+      "parentExplanation": "正确项为“A Quiet Evening in Grandma's Garden”。原文依据：奶奶邀请我们在她的花园里度过傍晚。我们坐在池塘旁，看水面渐渐平静。奶奶用一些池水浇盆栽时，水位会下降。今晚她只需要一小壶，所以取的水很少。后来，花园灯的定时器到了设定时间，灯就熄灭了。我们用手电筒照着石板路，跟奶奶走回去。进屋后，她给我们热牛奶，问我们这晚最喜欢什么。",
+      "translation": {
+        "stem": "哪个标题最合适？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A Race Across a Pond"
+        },
+        {
+          "label": "B",
+          "text": "A School Trip to a Milk Factory"
+        },
+        {
+          "label": "C",
+          "text": "A Quiet Evening in Grandma's Garden"
+        },
+        {
+          "label": "D",
+          "text": "How to Sell Garden Lamps"
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "The bicycle club plans to lend bikes to visitors on Sunday. Before anyone rides, the teacher checks what might go wrong with each bike. One loose brake needs attention, so that bike stays in the shed. The price of new parts will go up at the local shop next week. The club reads the price notice and decides which repairs are necessary now. They spend their small budget on safe brakes before buying colourful flags. On Sunday, visitors receive checked bikes and clear instructions for a safe ride.",
+      "parallelText": [
+        {
+          "en": "The bicycle club plans to lend bikes to visitors on Sunday.",
+          "zh": "自行车社计划周日把自行车借给访客。"
+        },
+        {
+          "en": "Before anyone rides, the teacher checks what might go wrong with each bike.",
+          "zh": "任何人骑车前，老师先检查每辆车可能出什么毛病。"
+        },
+        {
+          "en": "One loose brake needs attention, so that bike stays in the shed.",
+          "zh": "一处松动的刹车需要处理，所以那辆车留在棚里。"
+        },
+        {
+          "en": "The price of new parts will go up at the local shop next week.",
+          "zh": "本地商店的新零件价格下周会上涨。"
+        },
+        {
+          "en": "The club reads the price notice and decides which repairs are necessary now.",
+          "zh": "社团读了价格通知，决定现在哪些修理是必要的。"
+        },
+        {
+          "en": "They spend their small budget on safe brakes before buying colourful flags.",
+          "zh": "他们先把有限的预算用于安全的刹车，再考虑买彩旗。"
+        },
+        {
+          "en": "On Sunday, visitors receive checked bikes and clear instructions for a safe ride.",
+          "zh": "周日，访客领到经过检查的自行车和清楚的安全骑行说明。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "brake",
+          "meaning": "a part used to slow or stop a bicycle or vehicle"
+        },
+        {
+          "word": "budget",
+          "meaning": "the amount of money available to spend"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Grandma invites us to spend the evening in her garden. We sit beside the pond and watch the water become still. The water level can go down when Grandma uses some to water her pots. Tonight she only needs a small can, so she takes very little. Later, the garden lamps go out because their timer reaches its set time. We use a torch to follow Grandma back along the stone path. Inside, she gives us warm milk and asks what we enjoyed about the evening.",
+      "parallelText": [
+        {
+          "en": "Grandma invites us to spend the evening in her garden.",
+          "zh": "奶奶邀请我们在她的花园里度过傍晚。"
+        },
+        {
+          "en": "We sit beside the pond and watch the water become still.",
+          "zh": "我们坐在池塘旁，看水面渐渐平静。"
+        },
+        {
+          "en": "The water level can go down when Grandma uses some to water her pots.",
+          "zh": "奶奶用一些池水浇盆栽时，水位会下降。"
+        },
+        {
+          "en": "Tonight she only needs a small can, so she takes very little.",
+          "zh": "今晚她只需要一小壶，所以取的水很少。"
+        },
+        {
+          "en": "Later, the garden lamps go out because their timer reaches its set time.",
+          "zh": "后来，花园灯的定时器到了设定时间，灯就熄灭了。"
+        },
+        {
+          "en": "We use a torch to follow Grandma back along the stone path.",
+          "zh": "我们用手电筒照着石板路，跟奶奶走回去。"
+        },
+        {
+          "en": "Inside, she gives us warm milk and asks what we enjoyed about the evening.",
+          "zh": "进屋后，她给我们热牛奶，问我们这晚最喜欢什么。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "timer",
+          "meaning": "a device that makes something start or stop at a set time"
+        },
+        {
+          "word": "torch",
+          "meaning": "a small electric light carried in the hand"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S063-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 1,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0552",
+      "groupId": "E0552",
+      "expression": "each other",
+      "meaning": "互相，彼此",
+      "introducedAtStation": 61,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 62,
+      "intervalInStations": 1,
+      "referenceDueStation": 65,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 2,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0485",
+      "groupId": "E0485",
+      "expression": "from...to...",
+      "meaning": "从……到……",
+      "introducedAtStation": 61,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 62,
+      "intervalInStations": 1,
+      "referenceDueStation": 65,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L1-R3",
+      "lap": 1,
+      "position": 3,
+      "questionNumber": 3,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T013",
+      "groupId": "T013",
+      "expression": "describe",
+      "meaning": "描述；形容",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 37,
+      "intervalInStations": 26,
+      "referenceDueStation": 44,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L1-R4",
+      "lap": 1,
+      "position": 4,
+      "questionNumber": 4,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T004",
+      "groupId": "T004",
+      "expression": "improve",
+      "meaning": "改进；改善",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 37,
+      "intervalInStations": 26,
+      "referenceDueStation": 44,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L1-R5",
+      "lap": 1,
+      "position": 5,
+      "questionNumber": 5,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T235",
+      "groupId": "T235",
+      "expression": "become",
+      "meaning": "开始变得；变成",
+      "introducedAtStation": 36,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 38,
+      "intervalInStations": 25,
+      "referenceDueStation": 45,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L1-R6",
+      "lap": 1,
+      "position": 6,
+      "questionNumber": 6,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T234",
+      "groupId": "T234",
+      "expression": "almost",
+      "meaning": "几乎；差不多",
+      "introducedAtStation": 36,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 38,
+      "intervalInStations": 25,
+      "referenceDueStation": 45,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L1-R7",
+      "lap": 1,
+      "position": 7,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T253",
+      "groupId": "T253",
+      "expression": "join",
+      "meaning": "成为……的一员；参加",
+      "introducedAtStation": 39,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 41,
+      "intervalInStations": 22,
+      "referenceDueStation": 48,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L1-R8",
+      "lap": 1,
+      "position": 8,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T249",
+      "groupId": "T249",
+      "expression": "in memory of",
+      "meaning": "作为对……的纪念",
+      "introducedAtStation": 39,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 41,
+      "intervalInStations": 22,
+      "referenceDueStation": 48,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 9,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T247",
+      "groupId": "T247",
+      "expression": "be interested in",
+      "meaning": "对……有兴趣",
+      "introducedAtStation": 38,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 41,
+      "intervalInStations": 22,
+      "referenceDueStation": 48,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 10,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T246",
+      "groupId": "T246",
+      "expression": "in the centre of",
+      "meaning": "在……的中心",
+      "introducedAtStation": 38,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 41,
+      "intervalInStations": 22,
+      "referenceDueStation": 48,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L2-R3",
+      "lap": 2,
+      "position": 3,
+      "questionNumber": 11,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T245",
+      "groupId": "T245",
+      "expression": "light up",
+      "meaning": "点亮；照亮",
+      "introducedAtStation": 38,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 41,
+      "intervalInStations": 22,
+      "referenceDueStation": 48,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L2-R4",
+      "lap": 2,
+      "position": 4,
+      "questionNumber": 12,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T244",
+      "groupId": "T244",
+      "expression": "tourist spot",
+      "meaning": "旅游景点",
+      "introducedAtStation": 38,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 41,
+      "intervalInStations": 22,
+      "referenceDueStation": 48,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L2-R5",
+      "lap": 2,
+      "position": 5,
+      "questionNumber": 13,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T248",
+      "groupId": "T248",
+      "expression": "historic site",
+      "meaning": "古迹；历史遗迹",
+      "introducedAtStation": 39,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 42,
+      "intervalInStations": 21,
+      "referenceDueStation": 49,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L2-R6",
+      "lap": 2,
+      "position": 6,
+      "questionNumber": 14,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T037",
+      "groupId": "T037",
+      "expression": "come along",
+      "meaning": "出现",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 42,
+      "intervalInStations": 21,
+      "referenceDueStation": 49,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L2-R7",
+      "lap": 2,
+      "position": 7,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T036",
+      "groupId": "T036",
+      "expression": "take somebody's place",
+      "meaning": "替代某人",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 42,
+      "intervalInStations": 21,
+      "referenceDueStation": 49,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L2-R8",
+      "lap": 2,
+      "position": 8,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T035",
+      "groupId": "T035",
+      "expression": "come and go",
+      "meaning": "来去",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 3,
+      "previousReviewStation": 42,
+      "intervalInStations": 21,
+      "referenceDueStation": 49,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0784",
+      "groupId": "E0784",
+      "expression": "go wrong",
+      "meaning": "出毛病",
+      "introducedAtStation": 61,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 62,
+      "intervalInStations": 1,
+      "referenceDueStation": 65,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0781",
+      "groupId": "E0781",
+      "expression": "go up",
+      "meaning": "上涨",
+      "introducedAtStation": 61,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 62,
+      "intervalInStations": 1,
+      "referenceDueStation": 65,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0780",
+      "groupId": "E0780",
+      "expression": "go down",
+      "meaning": "下降",
+      "introducedAtStation": 61,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 62,
+      "intervalInStations": 1,
+      "referenceDueStation": 65,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S063-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0724",
+      "groupId": "E0724",
+      "expression": "go out",
+      "meaning": "熄灭；外出",
+      "introducedAtStation": 61,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 62,
+      "intervalInStations": 1,
+      "referenceDueStation": 65,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

@@ -1,0 +1,4426 @@
+{
+  "station": 90,
+  "type": "formal_review",
+  "phase": null,
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 90,
+  "newItems": [],
+  "reviewItems": [
+    {
+      "groupId": "E0118",
+      "sourceId": "E0118",
+      "sourceIds": [
+        "E0118"
+      ],
+      "word": "help sb. (to) do sth.",
+      "meaning": "帮助某人做某事",
+      "sourceItems": [
+        {
+          "sourceId": "E0118",
+          "sourceKind": "phrase",
+          "expression": "help sb. (to) do sth.",
+          "meaning": "帮助某人做某事",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "help后to可省略，sb.用宾格",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0118",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 150,
+          "originalFields": {
+            "编号": "E0118",
+            "英文表达": "help sb. (to) do sth.",
+            "中文释义": "帮助某人做某事",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "help后to可省略，sb.用宾格",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“帮助某人做某事”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0118",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "help sb. (to) do sth.",
+            "原文释义": "帮助某人做某事",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0118",
+          "introducedAtStation": 89
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0118",
+        "sourceIds": [
+          "E0118"
+        ],
+        "expression": "help sb. (to) do sth.",
+        "phonetic": "/help ˈsʌmbədi duː ˈsʌmθɪŋ/ 或 /help ˈsʌmbədi tə duː ˈsʌmθɪŋ/",
+        "readingForms": [
+          {
+            "expression": "help somebody do something",
+            "phonetic": "/help ˈsʌmbədi duː ˈsʌmθɪŋ/"
+          },
+          {
+            "expression": "help somebody to do something",
+            "phonetic": "/help ˈsʌmbədi tə duː ˈsʌmθɪŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0118",
+            "expression": "help sb. (to) do sth."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。",
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Mia helps me to read the map.",
+          "zh": "米娅帮助我看地图。",
+          "sourceIds": [
+            "E0118"
+          ],
+          "branch": "with_to"
+        },
+        {
+          "en": "Mia helps me read the map.",
+          "zh": "米娅帮助我看地图。",
+          "sourceIds": [
+            "E0118"
+          ],
+          "branch": "without_to"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0115",
+      "sourceId": "E0115",
+      "sourceIds": [
+        "E0115"
+      ],
+      "word": "hear from...",
+      "meaning": "收到……的来信；收到...的来信",
+      "sourceItems": [
+        {
+          "sourceId": "E0115",
+          "sourceKind": "phrase",
+          "expression": "hear from...",
+          "meaning": "收到……的来信；收到...的来信",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "from后接写信的人，不是信件",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0115；P0608",
+          "sourceImages": "IMG_2699.heic；IMG_2715.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 149,
+          "originalFields": {
+            "编号": "E0115",
+            "英文表达": "hear from...",
+            "中文释义": "收到……的来信；收到...的来信",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "from后接写信的人，不是信件",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“收到……的来信”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0115；P0608",
+            "来源图片": "IMG_2699.heic；IMG_2715.heic",
+            "原文英文": "hear from...",
+            "原文释义": "收到……的来信；收到...的来信",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0115",
+          "introducedAtStation": 89
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0115",
+        "sourceIds": [
+          "E0115"
+        ],
+        "expression": "hear from...",
+        "phonetic": "/hɪə frəm …/",
+        "readingForms": [
+          {
+            "expression": "hear from …",
+            "phonetic": "/hɪə frəm …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0115",
+            "expression": "hear from..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I hear from my cousin in a letter every month.",
+          "zh": "我每月都会收到表亲的来信。",
+          "sourceIds": [
+            "E0115"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0089",
+      "sourceId": "E0089",
+      "sourceIds": [
+        "E0089"
+      ],
+      "word": "give sb. sth. (=give sth. to sb.)",
+      "meaning": "给某人某物",
+      "sourceItems": [
+        {
+          "sourceId": "E0089",
+          "sourceKind": "phrase",
+          "expression": "give sb. sth. (=give sth. to sb.)",
+          "meaning": "给某人某物",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "双宾语换序后用to，不用for",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0089",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 148,
+          "originalFields": {
+            "编号": "E0089",
+            "英文表达": "give sb. sth. (=give sth. to sb.)",
+            "中文释义": "给某人某物",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "双宾语换序后用to，不用for",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“给某人某物”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0089",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "give sb. sth. (=give sth. to sb.)",
+            "原文释义": "给某人某物",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0089",
+          "introducedAtStation": 89
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0089",
+        "sourceIds": [
+          "E0089"
+        ],
+        "expression": "give sb. sth. (=give sth. to sb.)",
+        "phonetic": "/ɡɪv ˈsʌmbədi ˈsʌmθɪŋ/ 或 /ɡɪv ˈsʌmθɪŋ tə ˈsʌmbədi/",
+        "readingForms": [
+          {
+            "expression": "give somebody something",
+            "phonetic": "/ɡɪv ˈsʌmbədi ˈsʌmθɪŋ/"
+          },
+          {
+            "expression": "give something to somebody",
+            "phonetic": "/ɡɪv ˈsʌmθɪŋ tə ˈsʌmbədi/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0089",
+            "expression": "give sb. sth. (=give sth. to sb.)"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。",
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please give Ben the key.",
+          "zh": "请把钥匙给本。",
+          "sourceIds": [
+            "E0089"
+          ],
+          "branch": "person_thing"
+        },
+        {
+          "en": "Please give the key to Ben.",
+          "zh": "请把钥匙给本。",
+          "sourceIds": [
+            "E0089"
+          ],
+          "branch": "thing_to_person"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0082",
+      "sourceId": "E0082",
+      "sourceIds": [
+        "E0082"
+      ],
+      "word": "get together",
+      "meaning": "召集，聚集",
+      "sourceItems": [
+        {
+          "sourceId": "E0082",
+          "sourceKind": "phrase",
+          "expression": "get together",
+          "meaning": "召集，聚集",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "together为副词，不加介词",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0082",
+          "sourceImages": "IMG_2699.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 146,
+          "originalFields": {
+            "编号": "E0082",
+            "英文表达": "get together",
+            "中文释义": "召集，聚集",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "together为副词，不加介词",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“召集，聚集”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0082",
+            "来源图片": "IMG_2699.heic",
+            "原文英文": "get together",
+            "原文释义": "召集，聚集",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0082",
+          "introducedAtStation": 89
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0082",
+        "sourceIds": [
+          "E0082"
+        ],
+        "expression": "get together",
+        "phonetic": "/ɡet təˈɡeðə/",
+        "readingForms": [
+          {
+            "expression": "get together",
+            "phonetic": "/ɡet təˈɡeðə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0082",
+            "expression": "get together"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We get together for lunch every Sunday.",
+          "zh": "我们每周日聚在一起吃午饭。",
+          "sourceIds": [
+            "E0082"
+          ],
+          "branch": "gather"
+        },
+        {
+          "en": "Let's get the whole class together for a photo.",
+          "zh": "我们把全班召集起来拍张照吧。",
+          "sourceIds": [
+            "E0082"
+          ],
+          "branch": "assemble_people"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0016",
+      "sourceId": "E0016",
+      "sourceIds": [
+        "E0016"
+      ],
+      "word": "be different from...",
+      "meaning": "和……不同",
+      "sourceItems": [
+        {
+          "sourceId": "E0016",
+          "sourceKind": "phrase",
+          "expression": "be different from...",
+          "meaning": "和……不同",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "逻辑表达",
+          "usage": "固定介词from，辨析the same as",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0016",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 119,
+          "originalFields": {
+            "编号": "E0016",
+            "英文表达": "be different from...",
+            "中文释义": "和……不同",
+            "学习层级": "核心掌握",
+            "主题": "逻辑表达",
+            "用法与易错点": "固定介词from，辨析the same as",
+            "适用训练": "语法填空、读写综合、书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于观点组织与逻辑关系中的“和……不同”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0016",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "be different from...",
+            "原文释义": "和……不同",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0016",
+          "introducedAtStation": 85
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0016",
+        "sourceIds": [
+          "E0016"
+        ],
+        "expression": "be different from...",
+        "phonetic": "/biː ˈdɪfərənt frəm …/",
+        "readingForms": [
+          {
+            "expression": "be different from …",
+            "phonetic": "/biː ˈdɪfərənt frəm …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0016",
+            "expression": "be different from..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "My bag is different from yours in colour.",
+          "zh": "我的包和你的包颜色不同。",
+          "sourceIds": [
+            "E0016"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "逻辑表达",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0597",
+      "sourceId": "E0597",
+      "sourceIds": [
+        "E0597"
+      ],
+      "word": "agree with",
+      "meaning": "同意；与...一致",
+      "sourceItems": [
+        {
+          "sourceId": "E0597",
+          "sourceKind": "phrase",
+          "expression": "agree with",
+          "meaning": "同意；与...一致",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "with后接人或观点，区别agree to接提议或安排。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0601",
+          "sourceImages": "IMG_2715.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 130,
+          "originalFields": {
+            "编号": "E0597",
+            "英文表达": "agree with",
+            "中文释义": "同意；与...一致",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "with后接人或观点，区别agree to接提议或安排。",
+            "适用训练": "听说交际；语法填空",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0601",
+            "来源图片": "IMG_2715.heic",
+            "原文英文": "agree with",
+            "原文释义": "同意；与...一致",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0597",
+          "introducedAtStation": 86
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0597",
+        "sourceIds": [
+          "E0597"
+        ],
+        "expression": "agree with",
+        "phonetic": "/əˈɡriː wɪð/",
+        "readingForms": [
+          {
+            "expression": "agree with",
+            "phonetic": "/əˈɡriː wɪð/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0597",
+            "expression": "agree with"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I agree with your idea about the class trip.",
+          "zh": "我同意你关于班级旅行的想法。",
+          "sourceIds": [
+            "E0597"
+          ],
+          "branch": "share_opinion"
+        },
+        {
+          "en": "The result agrees with our earlier measurements.",
+          "zh": "结果与我们先前的测量一致。",
+          "sourceIds": [
+            "E0597"
+          ],
+          "branch": "match_evidence"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0580",
+      "sourceId": "E0580",
+      "sourceIds": [
+        "E0580"
+      ],
+      "word": "such as",
+      "meaning": "例如；比如……；像/诸如/例如",
+      "sourceItems": [
+        {
+          "sourceId": "E0580",
+          "sourceKind": "phrase",
+          "expression": "such as",
+          "meaning": "例如；比如……；像/诸如/例如",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "逻辑表达",
+          "usage": "such as列举例子；注意和for example的句法位置区别。",
+          "evidence": "7上U5参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0584；S090；S127",
+          "sourceImages": "IMG_2705.heic；IMG_2710.heic；IMG_2712.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 127,
+          "originalFields": {
+            "编号": "E0580",
+            "英文表达": "such as",
+            "中文释义": "例如；比如……；像/诸如/例如",
+            "学习层级": "核心掌握",
+            "主题": "逻辑表达",
+            "用法与易错点": "such as列举例子；注意和for example的句法位置区别。",
+            "适用训练": "语法填空；书面表达",
+            "教材关联证据": "7上U5参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 3,
+            "原始条目编号": "P0584；S090；S127",
+            "来源图片": "IMG_2705.heic；IMG_2710.heic；IMG_2712.heic",
+            "原文英文": "such as",
+            "原文释义": "例如；比如……；像/诸如/例如",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/20866078"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0580",
+          "introducedAtStation": 86
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0580",
+        "sourceIds": [
+          "E0580"
+        ],
+        "expression": "such as",
+        "phonetic": "/sʌtʃ əz/",
+        "readingForms": [
+          {
+            "expression": "such as",
+            "phonetic": "/sʌtʃ əz/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0580",
+            "expression": "such as"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We play team games such as football and basketball.",
+          "zh": "我们参加足球、篮球等团队运动。",
+          "sourceIds": [
+            "E0580"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "逻辑表达",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0573",
+      "sourceId": "E0573",
+      "sourceIds": [
+        "E0573"
+      ],
+      "word": "quite a lot/few",
+      "meaning": "许多，大量",
+      "sourceItems": [
+        {
+          "sourceId": "E0573",
+          "sourceKind": "phrase",
+          "expression": "quite a lot/few",
+          "meaning": "许多，大量",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "逻辑表达",
+          "usage": "quite a few后接复数可数名词；quite a lot接名词时需加of。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0577",
+          "sourceImages": "IMG_2705.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 126,
+          "originalFields": {
+            "编号": "E0573",
+            "英文表达": "quite a lot/few",
+            "中文释义": "许多，大量",
+            "学习层级": "核心掌握",
+            "主题": "逻辑表达",
+            "用法与易错点": "quite a few后接复数可数名词；quite a lot接名词时需加of。",
+            "适用训练": "语法填空；书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0577",
+            "来源图片": "IMG_2705.heic",
+            "原文英文": "quite a lot/few",
+            "原文释义": "许多，大量",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0573",
+          "introducedAtStation": 86
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0573",
+        "sourceIds": [
+          "E0573"
+        ],
+        "expression": "quite a lot/few",
+        "phonetic": "/kwaɪt ə lɒt/ 或 /kwaɪt ə fjuː/",
+        "readingForms": [
+          {
+            "expression": "quite a lot",
+            "phonetic": "/kwaɪt ə lɒt/"
+          },
+          {
+            "expression": "quite a few",
+            "phonetic": "/kwaɪt ə fjuː/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0573",
+            "expression": "quite a lot/few"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Quite a few students stay for the show.",
+          "zh": "相当多的学生留下看演出。",
+          "sourceIds": [
+            "E0573"
+          ],
+          "branch": "few_plural"
+        },
+        {
+          "en": "We have quite a lot of time before the bus comes.",
+          "zh": "公交车来之前，我们还有很多时间。",
+          "sourceIds": [
+            "E0573"
+          ],
+          "branch": "lot_of"
+        },
+        {
+          "en": "“How much do you read?” “Quite a lot.”",
+          "zh": "“你读书多吗？”“相当多。”",
+          "sourceIds": [
+            "E0573"
+          ],
+          "branch": "lot_standalone"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "逻辑表达",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0495",
+      "sourceId": "E0495",
+      "sourceIds": [
+        "E0495"
+      ],
+      "word": "thanks to",
+      "meaning": "幸亏，多亏，由于",
+      "sourceItems": [
+        {
+          "sourceId": "E0495",
+          "sourceKind": "phrase",
+          "expression": "thanks to",
+          "meaning": "幸亏，多亏，由于",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "逻辑表达",
+          "usage": "to为介词，后接原因或帮助者，区别thanks for表示感谢。",
+          "evidence": "7上U1参考教辅列出对应/同构搭配",
+          "sourceReferences": "P0499",
+          "sourceImages": "IMG_2704.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 128,
+          "originalFields": {
+            "编号": "E0495",
+            "英文表达": "thanks to",
+            "中文释义": "幸亏，多亏，由于",
+            "学习层级": "核心掌握",
+            "主题": "逻辑表达",
+            "用法与易错点": "to为介词，后接原因或帮助者，区别thanks for表示感谢。",
+            "适用训练": "语法填空；书面表达",
+            "教材关联证据": "7上U1参考教辅列出对应/同构搭配",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "对应新版沪教（广深）参考教辅已出现；在本级按词块学习，复杂语法后续深化。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0499",
+            "来源图片": "IMG_2704.heic",
+            "原文英文": "thanks to",
+            "原文释义": "幸亏，多亏，由于",
+            "校对说明": null,
+            "教材参考链接": "https://zy.21cnjy.com/20866078"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0495",
+          "introducedAtStation": 86
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0495",
+        "sourceIds": [
+          "E0495"
+        ],
+        "expression": "thanks to",
+        "phonetic": "/θæŋks tə/",
+        "readingForms": [
+          {
+            "expression": "thanks to",
+            "phonetic": "/θæŋks tə/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0495",
+            "expression": "thanks to"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Thanks to our teacher, we understand the difficult question.",
+          "zh": "多亏老师，我们理解了这道难题。",
+          "sourceIds": [
+            "E0495"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "逻辑表达",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0423",
+      "sourceId": "E0423",
+      "sourceIds": [
+        "E0423"
+      ],
+      "word": "plenty of",
+      "meaning": "大量，许多",
+      "sourceItems": [
+        {
+          "sourceId": "E0423",
+          "sourceKind": "phrase",
+          "expression": "plenty of",
+          "meaning": "大量，许多",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "逻辑表达",
+          "usage": "可修饰可数名词复数或不可数名词，不能直接接单数可数名词。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0425",
+          "sourceImages": "IMG_2703.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 125,
+          "originalFields": {
+            "编号": "E0423",
+            "英文表达": "plenty of",
+            "中文释义": "大量，许多",
+            "学习层级": "核心掌握",
+            "主题": "逻辑表达",
+            "用法与易错点": "可修饰可数名词复数或不可数名词，不能直接接单数可数名词。",
+            "适用训练": "语法填空；书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "基础生活与熟悉情境，适合七年级建立词块和简单表达。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0425",
+            "来源图片": "IMG_2703.heic",
+            "原文英文": "plenty of",
+            "原文释义": "大量，许多",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0423",
+          "introducedAtStation": 86
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0423",
+        "sourceIds": [
+          "E0423"
+        ],
+        "expression": "plenty of",
+        "phonetic": "/ˈplenti əv/",
+        "readingForms": [
+          {
+            "expression": "plenty of",
+            "phonetic": "/ˈplenti əv/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0423",
+            "expression": "plenty of"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "There is plenty of water for everyone.",
+          "zh": "水很充足，每个人都够。",
+          "sourceIds": [
+            "E0423"
+          ],
+          "branch": "uncountable"
+        },
+        {
+          "en": "We have plenty of chairs for the visitors.",
+          "zh": "我们有很多椅子供来访者使用。",
+          "sourceIds": [
+            "E0423"
+          ],
+          "branch": "plural_countable"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "逻辑表达",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0359",
+      "sourceId": "E0359",
+      "sourceIds": [
+        "E0359"
+      ],
+      "word": "ask sb. for sth.",
+      "meaning": "向某人要某物",
+      "sourceItems": [
+        {
+          "sourceId": "E0359",
+          "sourceKind": "phrase",
+          "expression": "ask sb. for sth.",
+          "meaning": "向某人要某物",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "for后接所求物，sb.用宾格",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0359",
+          "sourceImages": "IMG_2702.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 131,
+          "originalFields": {
+            "编号": "E0359",
+            "英文表达": "ask sb. for sth.",
+            "中文释义": "向某人要某物",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "for后接所求物，sb.用宾格",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“向某人要某物”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0359",
+            "来源图片": "IMG_2702.heic",
+            "原文英文": "ask sb. for sth.",
+            "原文释义": "向某人要某物",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0359",
+          "introducedAtStation": 86
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0359",
+        "sourceIds": [
+          "E0359"
+        ],
+        "expression": "ask sb. for sth.",
+        "phonetic": "/ɑːsk ˈsʌmbədi fə ˈsʌmθɪŋ/",
+        "readingForms": [
+          {
+            "expression": "ask somebody for something",
+            "phonetic": "/ɑːsk ˈsʌmbədi fə ˈsʌmθɪŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0359",
+            "expression": "ask sb. for sth."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I ask the teacher for some paper.",
+          "zh": "我向老师要一些纸。",
+          "sourceIds": [
+            "E0359"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0336",
+      "sourceId": "E0336",
+      "sourceIds": [
+        "E0336"
+      ],
+      "word": "by the way",
+      "meaning": "顺便问一下",
+      "sourceItems": [
+        {
+          "sourceId": "E0336",
+          "sourceKind": "phrase",
+          "expression": "by the way",
+          "meaning": "顺便问一下",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "用于转换话题，常放句首并用逗号隔开",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0336",
+          "sourceImages": "IMG_2702.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 136,
+          "originalFields": {
+            "编号": "E0336",
+            "英文表达": "by the way",
+            "中文释义": "顺便问一下",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "用于转换话题，常放句首并用逗号隔开",
+            "适用训练": "听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“顺便问一下”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0336",
+            "来源图片": "IMG_2702.heic",
+            "原文英文": "by the way",
+            "原文释义": "顺便问一下",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0336",
+          "introducedAtStation": 87
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0336",
+        "sourceIds": [
+          "E0336"
+        ],
+        "expression": "by the way",
+        "phonetic": "/baɪ ðə weɪ/",
+        "readingForms": [
+          {
+            "expression": "by the way",
+            "phonetic": "/baɪ ðə weɪ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0336",
+            "expression": "by the way"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "By the way, is the library open today?",
+          "zh": "顺便问一下，图书馆今天开门吗？",
+          "sourceIds": [
+            "E0336"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0322",
+      "sourceId": "E0322",
+      "sourceIds": [
+        "E0322"
+      ],
+      "word": "at the age of... (=at age...)",
+      "meaning": "在……岁时",
+      "sourceItems": [
+        {
+          "sourceId": "E0322",
+          "sourceKind": "phrase",
+          "expression": "at the age of... (=at age...)",
+          "meaning": "在……岁时",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "of后接年龄数值，可换when从句",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0322",
+          "sourceImages": "IMG_2702.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 132,
+          "originalFields": {
+            "编号": "E0322",
+            "英文表达": "at the age of... (=at age...)",
+            "中文释义": "在……岁时",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "of后接年龄数值，可换when从句",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“在……岁时”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0322",
+            "来源图片": "IMG_2702.heic",
+            "原文英文": "at the age of... (=at age...)",
+            "原文释义": "在……岁时",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0322",
+          "introducedAtStation": 87
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0322",
+        "sourceIds": [
+          "E0322"
+        ],
+        "expression": "at the age of... (=at age...)",
+        "phonetic": "/ət ði eɪdʒ əv …/ 或 /ət eɪdʒ …/",
+        "readingForms": [
+          {
+            "expression": "at the age of …",
+            "phonetic": "/ət ði eɪdʒ əv …/"
+          },
+          {
+            "expression": "at age …",
+            "phonetic": "/ət eɪdʒ …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0322",
+            "expression": "at the age of... (=at age...)"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。",
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "She learns to swim at the age of six.",
+          "zh": "她六岁时学会游泳。",
+          "sourceIds": [
+            "E0322"
+          ],
+          "branch": "at_the_age_of"
+        },
+        {
+          "en": "He starts primary school at age six.",
+          "zh": "他六岁开始上小学。",
+          "sourceIds": [
+            "E0322"
+          ],
+          "branch": "at_age"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0291",
+      "sourceId": "E0291",
+      "sourceIds": [
+        "E0291"
+      ],
+      "word": "care about",
+      "meaning": "①在意，在乎②关心；关心；在意",
+      "sourceItems": [
+        {
+          "sourceId": "E0291",
+          "sourceKind": "phrase",
+          "expression": "care about",
+          "meaning": "①在意，在乎②关心；关心；在意",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "about后接关心的对象，辨析care for",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0291；P0648",
+          "sourceImages": "IMG_2701.heic；IMG_2715.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 137,
+          "originalFields": {
+            "编号": "E0291",
+            "英文表达": "care about",
+            "中文释义": "①在意，在乎②关心；关心；在意",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "about后接关心的对象，辨析care for",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“在意，在乎”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 2,
+            "原始条目编号": "P0291；P0648",
+            "来源图片": "IMG_2701.heic；IMG_2715.heic",
+            "原文英文": "care about",
+            "原文释义": "①在意，在乎②关心；关心；在意",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0291",
+          "introducedAtStation": 87
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0291",
+        "sourceIds": [
+          "E0291"
+        ],
+        "expression": "care about",
+        "phonetic": "/keər əˈbaʊt/",
+        "readingForms": [
+          {
+            "expression": "care about",
+            "phonetic": "/keər əˈbaʊt/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0291",
+            "expression": "care about"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I care about doing my work well.",
+          "zh": "我在意把工作做好。",
+          "sourceIds": [
+            "E0291"
+          ],
+          "branch": "consider_important"
+        },
+        {
+          "en": "Good friends care about each other.",
+          "zh": "好朋友关心彼此。",
+          "sourceIds": [
+            "E0291"
+          ],
+          "branch": "concern_for_person"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0029",
+      "sourceId": "E0029",
+      "sourceIds": [
+        "E0029"
+      ],
+      "word": "be kind to...",
+      "meaning": "对……友好",
+      "sourceItems": [
+        {
+          "sourceId": "E0029",
+          "sourceKind": "phrase",
+          "expression": "be kind to...",
+          "meaning": "对……友好",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "kind为形容词，to后接人或动物",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0029",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 135,
+          "originalFields": {
+            "编号": "E0029",
+            "英文表达": "be kind to...",
+            "中文释义": "对……友好",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "kind为形容词，to后接人或动物",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“对……友好”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0029",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "be kind to...",
+            "原文释义": "对……友好",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0029",
+          "introducedAtStation": 87
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0029",
+        "sourceIds": [
+          "E0029"
+        ],
+        "expression": "be kind to...",
+        "phonetic": "/biː kaɪnd tə …/",
+        "readingForms": [
+          {
+            "expression": "be kind to …",
+            "phonetic": "/biː kaɪnd tə …/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0029",
+            "expression": "be kind to..."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "…表示实际使用时替换的语法槽位，不朗读省略号。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Please be kind to the animals.",
+          "zh": "请善待动物。",
+          "sourceIds": [
+            "E0029"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0022",
+      "sourceId": "E0022",
+      "sourceIds": [
+        "E0022"
+      ],
+      "word": "be glad to do sth.",
+      "meaning": "很高兴/乐意做某事",
+      "sourceItems": [
+        {
+          "sourceId": "E0022",
+          "sourceKind": "phrase",
+          "expression": "be glad to do sth.",
+          "meaning": "很高兴/乐意做某事",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "glad后接to do表示乐意做某事",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0022",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 134,
+          "originalFields": {
+            "编号": "E0022",
+            "英文表达": "be glad to do sth.",
+            "中文释义": "很高兴/乐意做某事",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "glad后接to do表示乐意做某事",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“很高兴/乐意做某事”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0022",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "be glad to do sth.",
+            "原文释义": "很高兴/乐意做某事",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0022",
+          "introducedAtStation": 87
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0022",
+        "sourceIds": [
+          "E0022"
+        ],
+        "expression": "be glad to do sth.",
+        "phonetic": "/biː ɡlæd tə duː ˈsʌmθɪŋ/",
+        "readingForms": [
+          {
+            "expression": "be glad to do something",
+            "phonetic": "/biː ɡlæd tə duː ˈsʌmθɪŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0022",
+            "expression": "be glad to do sth."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I am glad to help you with the poster.",
+          "zh": "我很乐意帮你做海报。",
+          "sourceIds": [
+            "E0022"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0834",
+      "sourceId": "E0834",
+      "sourceIds": [
+        "E0825"
+      ],
+      "word": "get on (well) with",
+      "meaning": "与...相处（融洽）",
+      "sourceItems": [
+        {
+          "sourceId": "E0825",
+          "sourceKind": "phrase",
+          "expression": "get on (well) with",
+          "meaning": "与...相处（融洽）",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "well修饰相处，with后接人。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0954",
+          "sourceImages": "IMG_2719.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 144,
+          "originalFields": {
+            "编号": "E0825",
+            "英文表达": "get on (well) with",
+            "中文释义": "与...相处（融洽）",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "well修饰相处，with后接人。",
+            "适用训练": "听说交际 / 书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0954",
+            "来源图片": "IMG_2719.heic",
+            "原文英文": "get on (well) with",
+            "原文释义": "与...相处（融洽）",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0834",
+          "introducedAtStation": 88
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0834",
+        "sourceIds": [
+          "E0825",
+          "E0834"
+        ],
+        "expression": "get on/along with",
+        "phonetic": "/ɡet ɒn wɪð/ 或 /ɡet əˈlɒŋ wɪð/ 或 /ɡet ɒn wel wɪð/",
+        "readingForms": [
+          {
+            "expression": "get on with",
+            "phonetic": "/ɡet ɒn wɪð/"
+          },
+          {
+            "expression": "get along with",
+            "phonetic": "/ɡet əˈlɒŋ wɪð/"
+          },
+          {
+            "expression": "get on well with",
+            "phonetic": "/ɡet ɒn wel wɪð/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0825",
+            "expression": "get on (well) with"
+          },
+          {
+            "sourceId": "E0834",
+            "expression": "get on/along with"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "We get on well with our neighbours.",
+          "zh": "我们和邻居相处得很好。",
+          "sourceIds": [
+            "E0825",
+            "E0834"
+          ],
+          "branch": "on_well_with"
+        },
+        {
+          "en": "The children get on with one another.",
+          "zh": "孩子们彼此相处融洽。",
+          "sourceIds": [
+            "E0825",
+            "E0834"
+          ],
+          "branch": "on_with"
+        },
+        {
+          "en": "I get along with my new classmates.",
+          "zh": "我和新同学相处融洽。",
+          "sourceIds": [
+            "E0834"
+          ],
+          "branch": "along_with"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0056",
+      "sourceId": "E0056",
+      "sourceIds": [
+        "E0056"
+      ],
+      "word": "come/be from",
+      "meaning": "来自",
+      "sourceItems": [
+        {
+          "sourceId": "E0056",
+          "sourceKind": "phrase",
+          "expression": "come/be from",
+          "meaning": "来自",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "come作谓语与be from结构不可混用",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0056",
+          "sourceImages": "IMG_2698.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 141,
+          "originalFields": {
+            "编号": "E0056",
+            "英文表达": "come/be from",
+            "中文释义": "来自",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "come作谓语与be from结构不可混用",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“来自”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0056",
+            "来源图片": "IMG_2698.heic",
+            "原文英文": "come/be from",
+            "原文释义": "来自",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0056",
+          "introducedAtStation": 88
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0056",
+        "sourceIds": [
+          "E0831",
+          "E0056"
+        ],
+        "expression": "come/be from",
+        "phonetic": "/kʌm frəm/ 或 /biː frəm/",
+        "readingForms": [
+          {
+            "expression": "come from",
+            "phonetic": "/kʌm frəm/"
+          },
+          {
+            "expression": "be from",
+            "phonetic": "/biː frəm/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0831",
+            "expression": "come from"
+          },
+          {
+            "sourceId": "E0056",
+            "expression": "come/be from"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "可选、斜线及等价结构分别保留完整读法；合并组的源结构变式也保留。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "Mia comes from Guangzhou.",
+          "zh": "米娅来自广州。",
+          "sourceIds": [
+            "E0831",
+            "E0056"
+          ],
+          "branch": "come_from"
+        },
+        {
+          "en": "Mia is from Guangzhou.",
+          "zh": "米娅来自广州。",
+          "sourceIds": [
+            "E0056"
+          ],
+          "branch": "be_from"
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0761",
+      "sourceId": "E0761",
+      "sourceIds": [
+        "E0761"
+      ],
+      "word": "give sb. a call",
+      "meaning": "给...打电话",
+      "sourceItems": [
+        {
+          "sourceId": "E0761",
+          "sourceKind": "phrase",
+          "expression": "give sb. a call",
+          "meaning": "给...打电话",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "call是名词，前有a；也可直接call sb。",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0847",
+          "sourceImages": "IMG_2718.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 147,
+          "originalFields": {
+            "编号": "E0761",
+            "英文表达": "give sb. a call",
+            "中文释义": "给...打电话",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "call是名词，前有a；也可直接call sb。",
+            "适用训练": "听说交际 / 书面表达",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "适合在七年级先建立基础表达；交际或语篇生成价值较高。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0847",
+            "来源图片": "IMG_2718.heic",
+            "原文英文": "give sb. a call",
+            "原文释义": "给...打电话",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0761",
+          "introducedAtStation": 89
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0761",
+        "sourceIds": [
+          "E0761"
+        ],
+        "expression": "give sb. a call",
+        "phonetic": "/ɡɪv ˈsʌmbədi ə kɔːl/",
+        "readingForms": [
+          {
+            "expression": "give somebody a call",
+            "phonetic": "/ɡɪv ˈsʌmbədi ə kɔːl/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0761",
+            "expression": "give sb. a call"
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I will give you a call after school.",
+          "zh": "我放学后给你打电话。",
+          "sourceIds": [
+            "E0761"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "E0258",
+      "sourceId": "E0258",
+      "sourceIds": [
+        "E0258"
+      ],
+      "word": "hope to do sth.",
+      "meaning": "希望做某事",
+      "sourceItems": [
+        {
+          "sourceId": "E0258",
+          "sourceKind": "phrase",
+          "expression": "hope to do sth.",
+          "meaning": "希望做某事",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "level": "核心掌握",
+          "topic": "人际情感",
+          "usage": "hope可接to do，不能用hope sb. to do",
+          "evidence": "未逐册核验；按表达难度与使用场景建议分级",
+          "sourceReferences": "P0258",
+          "sourceImages": "IMG_2701.heic",
+          "sourceFile": "七年级_英语短语学习资料包.xlsx",
+          "sheet": "短语清单",
+          "row": 151,
+          "originalFields": {
+            "编号": "E0258",
+            "英文表达": "hope to do sth.",
+            "中文释义": "希望做某事",
+            "学习层级": "核心掌握",
+            "主题": "人际情感",
+            "用法与易错点": "hope可接to do，不能用hope sb. to do",
+            "适用训练": "语法填空、听说交际",
+            "教材关联证据": "未逐册核验；按表达难度与使用场景建议分级",
+            "掌握状态": "未学习",
+            "实测考频": "未统计",
+            "分级理由": "可用于交往与情感表达中的“希望做某事”，情境具体，适合先按完整词块学习。",
+            "原资料出现次数": 1,
+            "原始条目编号": "P0258",
+            "来源图片": "IMG_2701.heic",
+            "原文英文": "hope to do sth.",
+            "原文释义": "希望做某事",
+            "校对说明": null,
+            "教材参考链接": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源短语清单未提供例句；编题例句另标原创",
+          "role": "new_learning_phrase_source",
+          "groupId": "E0258",
+          "introducedAtStation": 89
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "E0258",
+        "sourceIds": [
+          "E0258"
+        ],
+        "expression": "hope to do sth.",
+        "phonetic": "/həʊp tə duː ˈsʌmθɪŋ/",
+        "readingForms": [
+          {
+            "expression": "hope to do something",
+            "phonetic": "/həʊp tə duː ˈsʌmθɪŋ/"
+          }
+        ],
+        "sourceExpressions": [
+          {
+            "sourceId": "E0258",
+            "expression": "hope to do sth."
+          }
+        ],
+        "provenance": "本次新编读音参考；英式宽式IPA；非教材原注、非源表音标",
+        "pronunciationNotes": [
+          "sb./sth.分别按somebody/something读，不念字母缩写。"
+        ],
+        "selfCheck": {
+          "status": "passed",
+          "reviewer": "C",
+          "checks": [
+            "canonical与源ID核对",
+            "全结构与可选/斜线/等价分支核对",
+            "sb./sth.按somebody/something展开",
+            "英式元音及非卷舌形式核对",
+            "词性相关读音及词尾清浊核对"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "en": "I hope to visit the new museum next week.",
+          "zh": "我希望下周参观新博物馆。",
+          "sourceIds": [
+            "E0258"
+          ],
+          "branch": null
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": null,
+      "pos": null,
+      "unit": "人际情感",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "E0118",
+      "groupId": "E0118",
+      "direction": "zh_to_en",
+      "stem": "帮助某人做某事",
+      "options": [
+        {
+          "label": "A",
+          "text": "turn red"
+        },
+        {
+          "label": "B",
+          "text": "help sb. (to) do sth."
+        },
+        {
+          "label": "C",
+          "text": "wait for"
+        },
+        {
+          "label": "D",
+          "text": "circle"
+        }
+      ],
+      "answer": "B",
+      "word": "help sb. (to) do sth.",
+      "meaning": "帮助某人做某事"
+    },
+    {
+      "id": 2,
+      "sourceId": "E0115",
+      "groupId": "E0115",
+      "direction": "en_to_zh",
+      "stem": "hear from...",
+      "options": [
+        {
+          "label": "A",
+          "text": "收到……的来信；收到...的来信"
+        },
+        {
+          "label": "B",
+          "text": "向左转"
+        },
+        {
+          "label": "C",
+          "text": "前往；出发去某地"
+        },
+        {
+          "label": "D",
+          "text": "召集，聚集"
+        }
+      ],
+      "answer": "A",
+      "word": "hear from...",
+      "meaning": "收到……的来信；收到...的来信"
+    },
+    {
+      "id": 3,
+      "sourceId": "E0089",
+      "groupId": "E0089",
+      "direction": "zh_to_en",
+      "stem": "给某人某物",
+      "options": [
+        {
+          "label": "A",
+          "text": "keep away"
+        },
+        {
+          "label": "B",
+          "text": "give sb. sth. (=give sth. to sb.)"
+        },
+        {
+          "label": "C",
+          "text": "take somebody's place"
+        },
+        {
+          "label": "D",
+          "text": "else"
+        }
+      ],
+      "answer": "B",
+      "word": "give sb. sth. (=give sth. to sb.)",
+      "meaning": "给某人某物"
+    },
+    {
+      "id": 4,
+      "sourceId": "E0082",
+      "groupId": "E0082",
+      "direction": "en_to_zh",
+      "stem": "get together",
+      "options": [
+        {
+          "label": "A",
+          "text": "去旅行"
+        },
+        {
+          "label": "B",
+          "text": "召集，聚集"
+        },
+        {
+          "label": "C",
+          "text": "（13至19岁之间的）青少年"
+        },
+        {
+          "label": "D",
+          "text": "和...相处"
+        }
+      ],
+      "answer": "B",
+      "word": "get together",
+      "meaning": "召集，聚集"
+    },
+    {
+      "id": 5,
+      "sourceId": "E0016",
+      "groupId": "E0016",
+      "direction": "zh_to_en",
+      "stem": "和……不同",
+      "options": [
+        {
+          "label": "A",
+          "text": "be different from..."
+        },
+        {
+          "label": "B",
+          "text": "patient"
+        },
+        {
+          "label": "C",
+          "text": "pocket money"
+        },
+        {
+          "label": "D",
+          "text": "be good at"
+        }
+      ],
+      "answer": "A",
+      "word": "be different from...",
+      "meaning": "和……不同"
+    },
+    {
+      "id": 6,
+      "sourceId": "E0597",
+      "groupId": "E0597",
+      "direction": "en_to_zh",
+      "stem": "agree with",
+      "options": [
+        {
+          "label": "A",
+          "text": "去看医生"
+        },
+        {
+          "label": "B",
+          "text": "同意；与...一致"
+        },
+        {
+          "label": "C",
+          "text": "大量，许多"
+        },
+        {
+          "label": "D",
+          "text": "相像的；类似的"
+        }
+      ],
+      "answer": "B",
+      "word": "agree with",
+      "meaning": "同意；与...一致"
+    },
+    {
+      "id": 7,
+      "sourceId": "E0580",
+      "groupId": "E0580",
+      "direction": "zh_to_en",
+      "stem": "例如；比如……；像/诸如/例如",
+      "options": [
+        {
+          "label": "A",
+          "text": "look forward to"
+        },
+        {
+          "label": "B",
+          "text": "such as"
+        },
+        {
+          "label": "C",
+          "text": "geography"
+        },
+        {
+          "label": "D",
+          "text": "end"
+        }
+      ],
+      "answer": "B",
+      "word": "such as",
+      "meaning": "例如；比如……；像/诸如/例如"
+    },
+    {
+      "id": 8,
+      "sourceId": "E0573",
+      "groupId": "E0573",
+      "direction": "en_to_zh",
+      "stem": "quite a lot/few",
+      "options": [
+        {
+          "label": "A",
+          "text": "发射"
+        },
+        {
+          "label": "B",
+          "text": "影响；对……起作用"
+        },
+        {
+          "label": "C",
+          "text": "许多，大量"
+        },
+        {
+          "label": "D",
+          "text": "（常指同类的）收集物"
+        }
+      ],
+      "answer": "C",
+      "word": "quite a lot/few",
+      "meaning": "许多，大量"
+    },
+    {
+      "id": 9,
+      "sourceId": "E0495",
+      "groupId": "E0495",
+      "direction": "zh_to_en",
+      "stem": "幸亏，多亏，由于",
+      "options": [
+        {
+          "label": "A",
+          "text": "thanks to"
+        },
+        {
+          "label": "B",
+          "text": "be good at"
+        },
+        {
+          "label": "C",
+          "text": "kick"
+        },
+        {
+          "label": "D",
+          "text": "rise"
+        }
+      ],
+      "answer": "A",
+      "word": "thanks to",
+      "meaning": "幸亏，多亏，由于"
+    },
+    {
+      "id": 10,
+      "sourceId": "E0423",
+      "groupId": "E0423",
+      "direction": "en_to_zh",
+      "stem": "plenty of",
+      "options": [
+        {
+          "label": "A",
+          "text": "米"
+        },
+        {
+          "label": "B",
+          "text": "和……不同"
+        },
+        {
+          "label": "C",
+          "text": "（使）分开"
+        },
+        {
+          "label": "D",
+          "text": "大量，许多"
+        }
+      ],
+      "answer": "D",
+      "word": "plenty of",
+      "meaning": "大量，许多"
+    },
+    {
+      "id": 11,
+      "sourceId": "E0359",
+      "groupId": "E0359",
+      "direction": "zh_to_en",
+      "stem": "向某人要某物",
+      "options": [
+        {
+          "label": "A",
+          "text": "ask sb. for sth."
+        },
+        {
+          "label": "B",
+          "text": "chance"
+        },
+        {
+          "label": "C",
+          "text": "basic"
+        },
+        {
+          "label": "D",
+          "text": "personal"
+        }
+      ],
+      "answer": "A",
+      "word": "ask sb. for sth.",
+      "meaning": "向某人要某物"
+    },
+    {
+      "id": 12,
+      "sourceId": "E0336",
+      "groupId": "E0336",
+      "direction": "en_to_zh",
+      "stem": "by the way",
+      "options": [
+        {
+          "label": "A",
+          "text": "把……切成小块；切碎"
+        },
+        {
+          "label": "B",
+          "text": "顺便问一下"
+        },
+        {
+          "label": "C",
+          "text": "皇帝"
+        },
+        {
+          "label": "D",
+          "text": "在……岁时"
+        }
+      ],
+      "answer": "B",
+      "word": "by the way",
+      "meaning": "顺便问一下"
+    },
+    {
+      "id": 13,
+      "sourceId": "E0322",
+      "groupId": "E0322",
+      "direction": "zh_to_en",
+      "stem": "在……岁时",
+      "options": [
+        {
+          "label": "A",
+          "text": "mind"
+        },
+        {
+          "label": "B",
+          "text": "war"
+        },
+        {
+          "label": "C",
+          "text": "event"
+        },
+        {
+          "label": "D",
+          "text": "at the age of... (=at age...)"
+        }
+      ],
+      "answer": "D",
+      "word": "at the age of... (=at age...)",
+      "meaning": "在……岁时"
+    },
+    {
+      "id": 14,
+      "sourceId": "E0291",
+      "groupId": "E0291",
+      "direction": "en_to_zh",
+      "stem": "care about",
+      "options": [
+        {
+          "label": "A",
+          "text": "情绪；心情"
+        },
+        {
+          "label": "B",
+          "text": "①在意，在乎②关心；关心；在意"
+        },
+        {
+          "label": "C",
+          "text": "在某人的帮助下"
+        },
+        {
+          "label": "D",
+          "text": "地下水"
+        }
+      ],
+      "answer": "B",
+      "word": "care about",
+      "meaning": "①在意，在乎②关心；关心；在意"
+    },
+    {
+      "id": 15,
+      "sourceId": "E0029",
+      "groupId": "E0029",
+      "direction": "zh_to_en",
+      "stem": "对……友好",
+      "options": [
+        {
+          "label": "A",
+          "text": "dream of"
+        },
+        {
+          "label": "B",
+          "text": "be kind to..."
+        },
+        {
+          "label": "C",
+          "text": "get there"
+        },
+        {
+          "label": "D",
+          "text": "keep away from"
+        }
+      ],
+      "answer": "B",
+      "word": "be kind to...",
+      "meaning": "对……友好"
+    },
+    {
+      "id": 16,
+      "sourceId": "E0022",
+      "groupId": "E0022",
+      "direction": "en_to_zh",
+      "stem": "be glad to do sth.",
+      "options": [
+        {
+          "label": "A",
+          "text": "踢；踹"
+        },
+        {
+          "label": "B",
+          "text": "勺；匙"
+        },
+        {
+          "label": "C",
+          "text": "鲸"
+        },
+        {
+          "label": "D",
+          "text": "很高兴/乐意做某事"
+        }
+      ],
+      "answer": "D",
+      "word": "be glad to do sth.",
+      "meaning": "很高兴/乐意做某事"
+    },
+    {
+      "id": 17,
+      "sourceId": "E0825",
+      "groupId": "E0834",
+      "direction": "zh_to_en",
+      "stem": "与...相处（融洽）",
+      "options": [
+        {
+          "label": "A",
+          "text": "get on (well) with"
+        },
+        {
+          "label": "B",
+          "text": "cover"
+        },
+        {
+          "label": "C",
+          "text": "pattern"
+        },
+        {
+          "label": "D",
+          "text": "primary school"
+        }
+      ],
+      "answer": "A",
+      "word": "get on (well) with",
+      "meaning": "与...相处（融洽）"
+    },
+    {
+      "id": 18,
+      "sourceId": "E0056",
+      "groupId": "E0056",
+      "direction": "en_to_zh",
+      "stem": "come/be from",
+      "options": [
+        {
+          "label": "A",
+          "text": "大叫；叫喊"
+        },
+        {
+          "label": "B",
+          "text": "合计"
+        },
+        {
+          "label": "C",
+          "text": "珍宝；宝物"
+        },
+        {
+          "label": "D",
+          "text": "来自"
+        }
+      ],
+      "answer": "D",
+      "word": "come/be from",
+      "meaning": "来自"
+    },
+    {
+      "id": 19,
+      "sourceId": "E0761",
+      "groupId": "E0761",
+      "direction": "zh_to_en",
+      "stem": "给...打电话",
+      "options": [
+        {
+          "label": "A",
+          "text": "traffic jam"
+        },
+        {
+          "label": "B",
+          "text": "peaceful"
+        },
+        {
+          "label": "C",
+          "text": "solar system"
+        },
+        {
+          "label": "D",
+          "text": "give sb. a call"
+        }
+      ],
+      "answer": "D",
+      "word": "give sb. a call",
+      "meaning": "给...打电话"
+    },
+    {
+      "id": 20,
+      "sourceId": "E0258",
+      "groupId": "E0258",
+      "direction": "en_to_zh",
+      "stem": "hope to do sth.",
+      "options": [
+        {
+          "label": "A",
+          "text": "课题"
+        },
+        {
+          "label": "B",
+          "text": "诗"
+        },
+        {
+          "label": "C",
+          "text": "角；墙角"
+        },
+        {
+          "label": "D",
+          "text": "希望做某事"
+        }
+      ],
+      "answer": "D",
+      "word": "hope to do sth.",
+      "meaning": "希望做某事"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0118",
+      "groupId": "E0118",
+      "target": "help sb. (to) do sth.",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to demand that someone work alone"
+        },
+        {
+          "label": "B",
+          "text": "to watch someone struggle without offering support"
+        },
+        {
+          "label": "C",
+          "text": "to prevent someone from starting an action"
+        },
+        {
+          "label": "D",
+          "text": "to assist someone in doing an action"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "D",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "help Ben carry the heavy box",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "help Ben carry the heavy box"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "帮本搬那个重箱子",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “help sb. (to) do sth.” means “to assist someone in doing an action”.",
+      "parentExplanation": "本题考查“help sb. (to) do sth.”在本句中的用法；正确英文解释为“to assist someone in doing an action”。对应源表释义为“帮助某人做某事”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0115",
+      "groupId": "E0115",
+      "target": "hear from...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to receive a letter or other written message from someone"
+        },
+        {
+          "label": "B",
+          "text": "to hear a rumour about an event"
+        },
+        {
+          "label": "C",
+          "text": "to read a notice with no known writer"
+        },
+        {
+          "label": "D",
+          "text": "to send a package to another person"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "I hear from my cousin every month; she sends me a letter about her school life.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "I hear from my cousin every month; she sends me a letter about her school life."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "我每月都会收到表姐来信，她写信介绍校园生活。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “hear from...” means “to receive a letter or other written message from someone”.",
+      "parentExplanation": "本题考查“hear from...”在本句中的用法；正确英文解释为“to receive a letter or other written message from someone”。对应源表释义为“收到……的来信；收到...的来信”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0089",
+      "groupId": "E0089",
+      "target": "give sb. sth. (=give sth. to sb.)",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "blow away"
+        },
+        {
+          "label": "B",
+          "text": "cry oneself to sleep"
+        },
+        {
+          "label": "C",
+          "text": "fall off"
+        },
+        {
+          "label": "D",
+          "text": "give sb. sth. (=give sth. to sb.)"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which structure describes Grandpa’s action?",
+      "answer": "D",
+      "listenScript": "Grandpa holds out a wrapped book to An. He says it is a present for her, and she accepts it with a smile.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Grandpa holds out a wrapped book to An. He says it is a present for her, and she accepts it with a smile."
+        }
+      ],
+      "explanation": "Grandpa gives An a book as a present.",
+      "parentExplanation": "爷爷送给安一本书，体现give sb. sth.。",
+      "translation": {
+        "stem": "哪个结构描述爷爷的动作？",
+        "listenScript": "爷爷向安递出一本包好的书，说这是给她的礼物，她笑着收下。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0089",
+        "T033",
+        "T169",
+        "T286"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0082",
+      "groupId": "E0082",
+      "target": "get together",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "get together"
+        },
+        {
+          "label": "B",
+          "text": "go to bed"
+        },
+        {
+          "label": "C",
+          "text": "do the dishes"
+        },
+        {
+          "label": "D",
+          "text": "fall off"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which phrase describes the friends meeting as a group?",
+      "answer": "A",
+      "listenScript": "Friends who live in different streets agree to meet at the park on Saturday. They plan to spend the afternoon as one group.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Friends who live in different streets agree to meet at the park on Saturday. They plan to spend the afternoon as one group."
+        }
+      ],
+      "explanation": "The friends get together for a shared afternoon.",
+      "parentExplanation": "朋友们聚会，体现get together。",
+      "translation": {
+        "stem": "哪个短语描述朋友们聚在一起？",
+        "listenScript": "住在不同街道的朋友约好周六在公园见面，打算一起度过下午。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "E0082",
+        "T067",
+        "T072",
+        "T286"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0016",
+      "groupId": "E0016",
+      "target": "be different from...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to be in agreement with every opinion"
+        },
+        {
+          "label": "B",
+          "text": "to be unlike someone or something"
+        },
+        {
+          "label": "C",
+          "text": "to be exactly the same as something"
+        },
+        {
+          "label": "D",
+          "text": "to be very close to something in position"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "word_meaning_in_context",
+      "stem": "These two keys are different from each other: one has a round head and the other has a square head.\nWhat does “are different from” mean here?",
+      "translation": {
+        "stem": "这两把钥匙互不相同：一把的头是圆的，另一把是方的。 这里“are different from”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “be different from...” means “to be unlike someone or something”.",
+      "parentExplanation": "本题考查“be different from...”在本句中的用法；正确英文解释为“to be unlike someone or something”。对应源表释义为“和……不同”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0597",
+      "groupId": "E0597",
+      "target": "agree with",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to ask someone to keep a fact secret"
+        },
+        {
+          "label": "B",
+          "text": "to repeat sounds without knowing their meaning"
+        },
+        {
+          "label": "C",
+          "text": "to reject someone's opinion and contradict the facts"
+        },
+        {
+          "label": "D",
+          "text": "to match what the evidence shows"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "Our answer agrees with the evidence in the passage; both show that the girl walks to school.\nWhat does “agrees with” mean here?",
+      "translation": {
+        "stem": "我们的答案与短文证据一致，两者都表明女孩步行上学。 这里“agrees with”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “agree with” means “to match what the evidence shows”.",
+      "parentExplanation": "本题考查“agree with”在本句中的用法；正确英文解释为“to match what the evidence shows”。对应源表释义为“同意；与...一致”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0580",
+      "groupId": "E0580",
+      "target": "such as",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "used to deny all the examples just mentioned"
+        },
+        {
+          "label": "B",
+          "text": "used to show that two events happen together"
+        },
+        {
+          "label": "C",
+          "text": "used before examples of the kind of thing just mentioned"
+        },
+        {
+          "label": "D",
+          "text": "used to introduce an unrelated cause"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "I enjoy fruit such as apples, oranges and pears.\nWhat does “such as” mean here?",
+      "translation": {
+        "stem": "我喜欢苹果、橙子和梨等水果。 这里“such as”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “such as” means “used before examples of the kind of thing just mentioned”.",
+      "parentExplanation": "本题考查“such as”在本句中的用法；正确英文解释为“used before examples of the kind of thing just mentioned”。对应源表释义为“例如；比如……；像/诸如/例如”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "E0573",
+      "groupId": "E0573",
+      "target": "quite a lot/few",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a fairly large amount"
+        },
+        {
+          "label": "B",
+          "text": "only one item in total"
+        },
+        {
+          "label": "C",
+          "text": "almost nothing at all"
+        },
+        {
+          "label": "D",
+          "text": "a smaller amount than before"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "We have quite a lot of time before lunch, so there is no need to hurry.\nWhat does “quite a lot of” mean here?",
+      "translation": {
+        "stem": "午饭前我们还有很多时间，所以不用着急。 这里“quite a lot of”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “quite a lot/few” means “a fairly large amount”.",
+      "parentExplanation": "本题考查“quite a lot/few”在本句中的用法；正确英文解释为“a fairly large amount”。对应源表释义为“许多，大量”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0495",
+      "groupId": "E0495",
+      "target": "thanks to",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "thanks to"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We finish the project early t________ everyone's hard work.",
+      "answer": "thanks to",
+      "hint": "Use the two-word phrase meaning because of something helpful.",
+      "grammar": "thanks to + 名词短语",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The hard work brings the good result, expressed with thanks to.",
+      "parentExplanation": "大家努力是好结果的原因，用thanks to，to为介词。",
+      "translation": {
+        "stem": "多亏大家努力，我们提前完成了课题。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0423",
+      "groupId": "E0423",
+      "target": "plenty of",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "plenty of"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We have p________ water, so every runner can have a drink.",
+      "answer": "plenty of",
+      "hint": "Use the two-word phrase meaning a large enough amount.",
+      "grammar": "plenty of + 不可数名词",
+      "initialLetter": "p",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The water is more than enough for the runners, so plenty of fits.",
+      "parentExplanation": "水很充足，用plenty of修饰不可数名词water。",
+      "translation": {
+        "stem": "我们的水很充足，每个跑步者都能喝到。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0359",
+      "groupId": "E0359",
+      "target": "ask sb. for sth.",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "ask the teacher for some paper"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "I have no paper. I a________ so that I can finish the drawing.",
+      "answer": "ask the teacher for some paper",
+      "hint": "Use the request pattern with the teacher after the verb and the needed paper after for.",
+      "grammar": "ask + 人 + for + 物",
+      "initialLetter": "a",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The person is the teacher; the thing requested follows for.",
+      "parentExplanation": "ask后接求助对象the teacher，for后接所求物some paper。",
+      "translation": {
+        "stem": "我没有纸。我向老师要些纸，好完成这幅画。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0336",
+      "groupId": "E0336",
+      "target": "by the way",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "By the way",
+        "by the way"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The party sounds fun. B________, what time should we arrive?",
+      "answer": "By the way",
+      "hint": "Use the three-word phrase for bringing in an additional question.",
+      "grammar": "By the way引出附带话题",
+      "initialLetter": "b",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The speaker adds a related practical question using By the way.",
+      "parentExplanation": "谈话中顺便引出补充问题，用By the way，后接逗号。",
+      "translation": {
+        "stem": "聚会听起来很有趣。顺便问一下，我们应该几点到？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0322",
+      "groupId": "E0322",
+      "target": "at the age of... (=at age...)",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "at the age of"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Mia learns to ride a bicycle a________ six.",
+      "answer": "at the age of",
+      "hint": "Use the four-word age expression with the and of; the number follows it.",
+      "grammar": "at the age of + 年龄",
+      "initialLetter": "a",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The age number six follows at the age of.",
+      "parentExplanation": "表示在六岁时，用at the age of six；空后已有six。",
+      "translation": {
+        "stem": "米娅六岁时学会骑自行车。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0291",
+      "groupId": "E0291",
+      "target": "care about",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "care about"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "I c________ the quality of my work, so I check it carefully before handing it in.",
+      "answer": "care about",
+      "hint": "Use the two-word phrase meaning consider something important.",
+      "grammar": "care about + 在意事项",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Checking the quality shows that the speaker considers it important.",
+      "parentExplanation": "重视、在乎作品质量，用care about；后接关心的内容。",
+      "translation": {
+        "stem": "我在意作业质量，所以交之前会仔细检查。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0029",
+      "groupId": "E0029",
+      "target": "be kind to...",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "be kind to"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Please b________ the little dog instead of teasing it.",
+      "answer": "be kind to",
+      "hint": "Use the three-word phrase beginning with be and meaning treat an animal with care.",
+      "grammar": "祈使句be kind to",
+      "initialLetter": "b",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The instruction asks for caring treatment, so be kind to fits.",
+      "parentExplanation": "祈使句用be原形，to后接被善待对象the little dog。",
+      "translation": {
+        "stem": "请善待这只小狗，不要逗弄它。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "E0022",
+      "groupId": "E0022",
+      "target": "be glad to do sth.",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "are glad to"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We a________ see our old teacher again and greet her warmly.",
+      "answer": "are glad to",
+      "hint": "Use the phrase meaning are pleased; the following action is see.",
+      "grammar": "are glad to do",
+      "initialLetter": "a",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Seeing the old teacher is pleasing, so we are glad to see her.",
+      "parentExplanation": "高兴见到用are glad to see；We配are。",
+      "translation": {
+        "stem": "我们很高兴再次见到以前的老师，热情地向她问好。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0825",
+      "groupId": "E0834",
+      "target": "get on (well) with",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to travel on a bus with someone"
+        },
+        {
+          "label": "B",
+          "text": "have a friendly relationship with someone"
+        },
+        {
+          "label": "C",
+          "text": "to continue a task without speaking to anyone"
+        },
+        {
+          "label": "D",
+          "text": "to begin arguing with every person you meet"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “get on well with each other” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 3, “get on well with each other” means “have a friendly relationship with someone” in this situation.",
+      "parentExplanation": "第3句中“get on well with each other”在语境中表示“与...相处（融洽）”；句子为“They get on well with each other, even though their first ideas for the project are quite different.”。",
+      "translation": {
+        "stem": "短文中的“get on well with each other”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "get on well with each other"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0056",
+      "groupId": "E0056",
+      "target": "come/be from",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "have a particular place as one’s origin"
+        },
+        {
+          "label": "B",
+          "text": "to move past a place without stopping"
+        },
+        {
+          "label": "C",
+          "text": "to travel to a place for the first time"
+        },
+        {
+          "label": "D",
+          "text": "to avoid every person from a place"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “is from” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 2, “is from” means “have a particular place as one’s origin” in this situation.",
+      "parentExplanation": "第2句中“is from”在语境中表示“来自”；句子为“Lena is from a seaside town, while Amir lives near the hills.”。",
+      "translation": {
+        "stem": "短文中的“is from”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "is from"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "How do the partners include both ideas?",
+      "explanation": "Sentence 5 describes the combined design.",
+      "parentExplanation": "第5句介绍分两部分并作比较的设计。",
+      "translation": {
+        "stem": "搭档怎样容纳两个想法？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "They draw only the harbour and ignore the path."
+        },
+        {
+          "label": "B",
+          "text": "They abandon the entire project before discussing it."
+        },
+        {
+          "label": "C",
+          "text": "They make a two-part poster with a comparison."
+        },
+        {
+          "label": "D",
+          "text": "They ask the teacher to choose a new partner for each."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea?",
+      "explanation": "The partners use their differences constructively in a shared design.",
+      "parentExplanation": "搭档把不同经历融入共同设计。",
+      "translation": {
+        "stem": "主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Two pupils finish a poster without sharing any ideas."
+        },
+        {
+          "label": "B",
+          "text": "Partners must come from the same place to work together."
+        },
+        {
+          "label": "C",
+          "text": "Friendly cooperation allows different ideas to shape one project."
+        },
+        {
+          "label": "D",
+          "text": "A teacher forbids pupils to compare different places."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0761",
+      "groupId": "E0761",
+      "target": "give sb. a call",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to visit someone without notice"
+        },
+        {
+          "label": "B",
+          "text": "to write someone a paper letter"
+        },
+        {
+          "label": "C",
+          "text": "to stop a phone call before anyone answers"
+        },
+        {
+          "label": "D",
+          "text": "telephone someone"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “give her a call” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 3, “give her a call” means “telephone someone” in this situation.",
+      "parentExplanation": "第3句中“give her a call”在语境中表示“给...打电话”；句子为“The teacher offers to give her a call after we prepare a short list of questions.”。",
+      "translation": {
+        "stem": "短文中的“give her a call”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "give her a call"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "E0258",
+      "groupId": "E0258",
+      "target": "hope to do sth.",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "want and wish to do something in the future"
+        },
+        {
+          "label": "B",
+          "text": "to refuse any possible future action"
+        },
+        {
+          "label": "C",
+          "text": "to command another person to do something"
+        },
+        {
+          "label": "D",
+          "text": "to be certain about an earlier bad event"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “hope to learn” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "In sentence 2, “hope to learn” means “want and wish to do something in the future” in this situation.",
+      "parentExplanation": "第2句中“hope to learn”在语境中表示“希望做某事”；句子为“We hope to learn how drawing and careful observation help in her work.”。",
+      "translation": {
+        "stem": "短文中的“hope to learn”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "hope to learn"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What happens before the teacher makes the call?",
+      "explanation": "Sentences 3 and 4 place question preparation before the call.",
+      "parentExplanation": "第3至4句说明打电话前先准备和筛选问题。",
+      "translation": {
+        "stem": "老师打电话前发生了什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        3,
+        4
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "The class abandons the project about gardens."
+        },
+        {
+          "label": "B",
+          "text": "The visitor arrives and finishes the interview."
+        },
+        {
+          "label": "C",
+          "text": "Every pupil independently phones the visitor at once."
+        },
+        {
+          "label": "D",
+          "text": "The class prepares and selects its questions."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the main idea?",
+      "explanation": "The class identifies its learning purpose, prepares questions and arranges a time.",
+      "parentExplanation": "全班明确学习目的、准备问题并商定时间。",
+      "translation": {
+        "stem": "主旨是什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A class arranges an interview without any questions."
+        },
+        {
+          "label": "B",
+          "text": "Pupils learn that interviews need no agreed time."
+        },
+        {
+          "label": "C",
+          "text": "A garden designer chooses all school lessons for a class."
+        },
+        {
+          "label": "D",
+          "text": "A class prepares thoughtfully for a learning interview."
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Two pupils are paired for a school project about favourite places. Lena is from a seaside town, while Amir lives near the hills. They get on well with each other, even though their first ideas for the project are quite different. Lena wants to show a harbour, and Amir wants to draw a walking path through trees. They choose a two-part poster with space for both places and a short comparison in the middle. Their teacher praises how the design allows both partners to contribute rather than making one abandon an idea.",
+      "parallelText": [
+        {
+          "en": "Two pupils are paired for a school project about favourite places.",
+          "zh": "两位学生被分到一组，完成关于喜欢的地方的学校项目。"
+        },
+        {
+          "en": "Lena is from a seaside town, while Amir lives near the hills.",
+          "zh": "莉娜来自海边小镇，而阿米尔住在山丘附近。"
+        },
+        {
+          "en": "They get on well with each other, even though their first ideas for the project are quite different.",
+          "zh": "虽然最初的项目想法很不一样，但他们相处融洽。"
+        },
+        {
+          "en": "Lena wants to show a harbour, and Amir wants to draw a walking path through trees.",
+          "zh": "莉娜想展示港口，阿米尔想画林间步道。"
+        },
+        {
+          "en": "They choose a two-part poster with space for both places and a short comparison in the middle.",
+          "zh": "他们决定做两部分海报，分别呈现两地，中间留一小段比较。"
+        },
+        {
+          "en": "Their teacher praises how the design allows both partners to contribute rather than making one abandon an idea.",
+          "zh": "老师赞扬这个设计让双方都能贡献想法，而不是让一人放弃。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "harbour",
+          "meaning": "an area of water where boats can stay safely"
+        },
+        {
+          "word": "comparison",
+          "meaning": "showing how things are similar or different"
+        },
+        {
+          "word": "contribute",
+          "meaning": "add something useful"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Our class would like to interview a former pupil who now designs gardens. We hope to learn how drawing and careful observation help in her work. The teacher offers to give her a call after we prepare a short list of questions. We remove questions that repeat the same point and choose five that connect to our current project. When the teacher phones, the former pupil suggests a time that suits both her work and our lessons. We record the agreed time and prepare drawings to show her during the interview.",
+      "parallelText": [
+        {
+          "en": "Our class would like to interview a former pupil who now designs gardens.",
+          "zh": "我们班想采访一位如今从事花园设计的老校友。"
+        },
+        {
+          "en": "We hope to learn how drawing and careful observation help in her work.",
+          "zh": "我们希望了解绘画和细致观察如何帮助她工作。"
+        },
+        {
+          "en": "The teacher offers to give her a call after we prepare a short list of questions.",
+          "zh": "老师提出，在我们准备好简短问题清单后给她打电话。"
+        },
+        {
+          "en": "We remove questions that repeat the same point and choose five that connect to our current project.",
+          "zh": "我们删去重复的问题，选择五个与当前项目有关的问题。"
+        },
+        {
+          "en": "When the teacher phones, the former pupil suggests a time that suits both her work and our lessons.",
+          "zh": "老师打电话时，校友建议了一个适合她工作和我们上课的时间。"
+        },
+        {
+          "en": "We record the agreed time and prepare drawings to show her during the interview.",
+          "zh": "我们记下商定时间，并准备采访时给她看的画。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "former",
+          "meaning": "from an earlier time"
+        },
+        {
+          "word": "observation",
+          "meaning": "watching carefully"
+        },
+        {
+          "word": "suits",
+          "meaning": "is convenient or right for"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S090-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 1,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0118",
+      "groupId": "E0118",
+      "expression": "help sb. (to) do sth.",
+      "meaning": "帮助某人做某事",
+      "introducedAtStation": 89,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 90,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 2,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0115",
+      "groupId": "E0115",
+      "expression": "hear from...",
+      "meaning": "收到……的来信；收到...的来信",
+      "introducedAtStation": 89,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 90,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L1-R3",
+      "lap": 1,
+      "position": 3,
+      "questionNumber": 3,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0089",
+      "groupId": "E0089",
+      "expression": "give sb. sth. (=give sth. to sb.)",
+      "meaning": "给某人某物",
+      "introducedAtStation": 89,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 90,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L1-R4",
+      "lap": 1,
+      "position": 4,
+      "questionNumber": 4,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0082",
+      "groupId": "E0082",
+      "expression": "get together",
+      "meaning": "召集，聚集",
+      "introducedAtStation": 89,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 90,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L1-R5",
+      "lap": 1,
+      "position": 5,
+      "questionNumber": 5,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0016",
+      "groupId": "E0016",
+      "expression": "be different from...",
+      "meaning": "和……不同",
+      "introducedAtStation": 85,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 86,
+      "intervalInStations": 4,
+      "referenceDueStation": 89,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L1-R6",
+      "lap": 1,
+      "position": 6,
+      "questionNumber": 6,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0597",
+      "groupId": "E0597",
+      "expression": "agree with",
+      "meaning": "同意；与...一致",
+      "introducedAtStation": 86,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 87,
+      "intervalInStations": 3,
+      "referenceDueStation": 90,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L1-R7",
+      "lap": 1,
+      "position": 7,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0580",
+      "groupId": "E0580",
+      "expression": "such as",
+      "meaning": "例如；比如……；像/诸如/例如",
+      "introducedAtStation": 86,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 87,
+      "intervalInStations": 3,
+      "referenceDueStation": 90,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L1-R8",
+      "lap": 1,
+      "position": 8,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "E0573",
+      "groupId": "E0573",
+      "expression": "quite a lot/few",
+      "meaning": "许多，大量",
+      "introducedAtStation": 86,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 87,
+      "intervalInStations": 3,
+      "referenceDueStation": 90,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 9,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0495",
+      "groupId": "E0495",
+      "expression": "thanks to",
+      "meaning": "幸亏，多亏，由于",
+      "introducedAtStation": 86,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 87,
+      "intervalInStations": 3,
+      "referenceDueStation": 90,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 10,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0423",
+      "groupId": "E0423",
+      "expression": "plenty of",
+      "meaning": "大量，许多",
+      "introducedAtStation": 86,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 87,
+      "intervalInStations": 3,
+      "referenceDueStation": 90,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L2-R3",
+      "lap": 2,
+      "position": 3,
+      "questionNumber": 11,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0359",
+      "groupId": "E0359",
+      "expression": "ask sb. for sth.",
+      "meaning": "向某人要某物",
+      "introducedAtStation": 86,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 87,
+      "intervalInStations": 3,
+      "referenceDueStation": 90,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L2-R4",
+      "lap": 2,
+      "position": 4,
+      "questionNumber": 12,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0336",
+      "groupId": "E0336",
+      "expression": "by the way",
+      "meaning": "顺便问一下",
+      "introducedAtStation": 87,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 88,
+      "intervalInStations": 2,
+      "referenceDueStation": 91,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L2-R5",
+      "lap": 2,
+      "position": 5,
+      "questionNumber": 13,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0322",
+      "groupId": "E0322",
+      "expression": "at the age of... (=at age...)",
+      "meaning": "在……岁时",
+      "introducedAtStation": 87,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 88,
+      "intervalInStations": 2,
+      "referenceDueStation": 91,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L2-R6",
+      "lap": 2,
+      "position": 6,
+      "questionNumber": 14,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0291",
+      "groupId": "E0291",
+      "expression": "care about",
+      "meaning": "①在意，在乎②关心；关心；在意",
+      "introducedAtStation": 87,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 88,
+      "intervalInStations": 2,
+      "referenceDueStation": 91,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L2-R7",
+      "lap": 2,
+      "position": 7,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0029",
+      "groupId": "E0029",
+      "expression": "be kind to...",
+      "meaning": "对……友好",
+      "introducedAtStation": 87,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 88,
+      "intervalInStations": 2,
+      "referenceDueStation": 91,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L2-R8",
+      "lap": 2,
+      "position": 8,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "E0022",
+      "groupId": "E0022",
+      "expression": "be glad to do sth.",
+      "meaning": "很高兴/乐意做某事",
+      "introducedAtStation": 87,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 88,
+      "intervalInStations": 2,
+      "referenceDueStation": 91,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0825",
+      "groupId": "E0834",
+      "expression": "get on (well) with",
+      "meaning": "与...相处（融洽）",
+      "introducedAtStation": 88,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 2,
+      "referenceDueStation": 89,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "E0056",
+      "groupId": "E0056",
+      "expression": "come/be from",
+      "meaning": "来自",
+      "introducedAtStation": 88,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 2,
+      "referenceDueStation": 89,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0761",
+      "groupId": "E0761",
+      "expression": "give sb. a call",
+      "meaning": "给...打电话",
+      "introducedAtStation": 89,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 90,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S090-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "E0258",
+      "groupId": "E0258",
+      "expression": "hope to do sth.",
+      "meaning": "希望做某事",
+      "introducedAtStation": 89,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 90,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "源短语表：核心掌握",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

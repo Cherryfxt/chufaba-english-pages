@@ -1,0 +1,3698 @@
+{
+  "station": 34,
+  "type": "formal_review",
+  "phase": null,
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 34,
+  "newItems": [],
+  "reviewItems": [
+    {
+      "groupId": "T225",
+      "sourceId": "T225",
+      "sourceIds": [
+        "T225"
+      ],
+      "word": "suggestion",
+      "meaning": "建议；提议",
+      "sourceItems": [
+        {
+          "sourceId": "T225",
+          "sourceKind": "textbook",
+          "expression": "suggestion",
+          "meaning": "建议；提议",
+          "partOfSpeech": "n.",
+          "phonetic": "/səˈdʒestʃən/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 91,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 230,
+          "originalFields": {
+            "序号": 225,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "suggestion",
+            "音标（教材）": "/səˈdʒestʃən/",
+            "词性": "n.",
+            "中文释义": "建议；提议",
+            "教材课文页": 91,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T225",
+          "introducedAtStation": 33
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T225",
+        "word": "suggestion",
+        "ipa": "/səˈdʒestʃən/",
+        "focus": "开头/sə/轻读；重音在/dʒes/，末段/tʃən/中的/ə/弱读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "My suggestion is to visit the library after lunch.",
+          "zh": "我的建议是午饭后去图书馆。",
+          "sourceIds": [
+            "T225"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "consider",
+          "meaning": "think about an idea before deciding"
+        }
+      ],
+      "notes": null,
+      "ipa": "/səˈdʒestʃən/",
+      "pos": "n.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T224",
+      "sourceId": "T224",
+      "sourceIds": [
+        "T224"
+      ],
+      "word": "else",
+      "meaning": "其他的；别的",
+      "sourceItems": [
+        {
+          "sourceId": "T224",
+          "sourceKind": "textbook",
+          "expression": "else",
+          "meaning": "其他的；别的",
+          "partOfSpeech": "adv.",
+          "phonetic": "/els/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 88,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 229,
+          "originalFields": {
+            "序号": 224,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "else",
+            "音标（教材）": "/els/",
+            "词性": "adv.",
+            "中文释义": "其他的；别的",
+            "教材课文页": 88,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T224",
+          "introducedAtStation": 33
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T224",
+        "word": "else",
+        "ipa": "/els/",
+        "focus": "/e/短读；末尾/ls/连读，不在/l/与/s/之间加元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "What else do we need for the picnic?",
+          "zh": "野餐我们还需要别的什么？",
+          "sourceIds": [
+            "T224"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/els/",
+      "pos": "adv.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T210",
+      "sourceId": "T210",
+      "sourceIds": [
+        "T210"
+      ],
+      "word": "thousands of",
+      "meaning": "数以千计；成千上万",
+      "sourceItems": [
+        {
+          "sourceId": "T210",
+          "sourceKind": "textbook",
+          "expression": "thousands of",
+          "meaning": "数以千计；成千上万",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 5",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 78,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 215,
+          "originalFields": {
+            "序号": 210,
+            "单元": "Unit 5",
+            "类型": "短语",
+            "单词／短语": "thousands of",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "数以千计；成千上万",
+            "教材课文页": 78,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T210",
+          "introducedAtStation": 30
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T210",
+        "sourceIds": [
+          "T210"
+        ],
+        "expression": "thousands of",
+        "phonetic": "/ˈθaʊzndz əv/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Thousands of people visit the island in summer.",
+          "zh": "夏天，数以千计的人来这座岛游览。",
+          "sourceIds": [
+            "T210"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T209",
+      "sourceId": "T209",
+      "sourceIds": [
+        "T209"
+      ],
+      "word": "get into orbit",
+      "meaning": "进入轨道",
+      "sourceItems": [
+        {
+          "sourceId": "T209",
+          "sourceKind": "textbook",
+          "expression": "get into orbit",
+          "meaning": "进入轨道",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 5",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 76,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 214,
+          "originalFields": {
+            "序号": 209,
+            "单元": "Unit 5",
+            "类型": "短语",
+            "单词／短语": "get into orbit",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "进入轨道",
+            "教材课文页": 76,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T209",
+          "introducedAtStation": 30
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T209",
+        "sourceIds": [
+          "T209"
+        ],
+        "expression": "get into orbit",
+        "phonetic": "/ɡet ˈɪntuː ˈɔːbɪt/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "A rocket helps the satellite get into orbit around Earth.",
+          "zh": "火箭帮助卫星进入绕地球的轨道。",
+          "sourceIds": [
+            "T209"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "satellite",
+          "meaning": "an object that moves around a planet"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T208",
+      "sourceId": "T208",
+      "sourceIds": [
+        "T208"
+      ],
+      "word": "take photos",
+      "meaning": "拍照",
+      "sourceItems": [
+        {
+          "sourceId": "T208",
+          "sourceKind": "textbook",
+          "expression": "take photos",
+          "meaning": "拍照",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 5",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 69,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 213,
+          "originalFields": {
+            "序号": 208,
+            "单元": "Unit 5",
+            "类型": "短语",
+            "单词／短语": "take photos",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "拍照",
+            "教材课文页": 69,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T208",
+          "introducedAtStation": 30
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T208",
+        "sourceIds": [
+          "T208"
+        ],
+        "expression": "take photos",
+        "phonetic": "/teɪk ˈfəʊtəʊz/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "We take photos of the flowers with a camera.",
+          "zh": "我们用相机给花朵拍照。",
+          "sourceIds": [
+            "T208"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T207",
+      "sourceId": "T207",
+      "sourceIds": [
+        "T207"
+      ],
+      "word": "do exercise",
+      "meaning": "锻炼；运动",
+      "sourceItems": [
+        {
+          "sourceId": "T207",
+          "sourceKind": "textbook",
+          "expression": "do exercise",
+          "meaning": "锻炼；运动",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 5",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 69,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 212,
+          "originalFields": {
+            "序号": 207,
+            "单元": "Unit 5",
+            "类型": "短语",
+            "单词／短语": "do exercise",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "锻炼；运动",
+            "教材课文页": 69,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T207",
+          "introducedAtStation": 30
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T207",
+        "sourceIds": [
+          "T207"
+        ],
+        "expression": "do exercise",
+        "phonetic": "/duː ˈeksəsaɪz/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "We do exercise in the park to keep healthy.",
+          "zh": "我们在公园锻炼以保持健康。",
+          "sourceIds": [
+            "T207"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T206",
+      "sourceId": "T206",
+      "sourceIds": [
+        "T206"
+      ],
+      "word": "space station",
+      "meaning": "空间站",
+      "sourceItems": [
+        {
+          "sourceId": "T206",
+          "sourceKind": "textbook",
+          "expression": "space station",
+          "meaning": "空间站",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 5",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 68,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 211,
+          "originalFields": {
+            "序号": 206,
+            "单元": "Unit 5",
+            "类型": "短语",
+            "单词／短语": "space station",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "空间站",
+            "教材课文页": 68,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T206",
+          "introducedAtStation": 30
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T206",
+        "sourceIds": [
+          "T206"
+        ],
+        "expression": "space station",
+        "phonetic": "/speɪs ˈsteɪʃn/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "Astronauts live and work on a space station.",
+          "zh": "航天员在空间站上生活和工作。",
+          "sourceIds": [
+            "T206"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "astronaut",
+          "meaning": "a person trained to travel in space"
+        },
+        {
+          "word": "experiment",
+          "meaning": "a test used to find out or check something"
+        }
+      ],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 5",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T211",
+      "sourceId": "T211",
+      "sourceIds": [
+        "T211"
+      ],
+      "word": "guide",
+      "meaning": "指南；手册",
+      "sourceItems": [
+        {
+          "sourceId": "T211",
+          "sourceKind": "textbook",
+          "expression": "guide",
+          "meaning": "指南；手册",
+          "partOfSpeech": "n.",
+          "phonetic": "/ɡaɪd/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 85,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 216,
+          "originalFields": {
+            "序号": 211,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "guide",
+            "音标（教材）": "/ɡaɪd/",
+            "词性": "n.",
+            "中文释义": "指南；手册",
+            "教材课文页": 85,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T211",
+          "introducedAtStation": 30
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T211",
+        "word": "guide",
+        "ipa": "/ɡaɪd/",
+        "focus": "按源音标u不单独发音；元音/aɪ/有滑动，最后/d/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This guide gives us information about the island.",
+          "zh": "这本指南向我们提供关于这座岛的信息。",
+          "sourceIds": [
+            "T211"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ɡaɪd/",
+      "pos": "n.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T217",
+      "sourceId": "T217",
+      "sourceIds": [
+        "T217"
+      ],
+      "word": "popular",
+      "meaning": "大众喜爱的；广受欢迎的",
+      "sourceItems": [
+        {
+          "sourceId": "T217",
+          "sourceKind": "textbook",
+          "expression": "popular",
+          "meaning": "大众喜爱的；广受欢迎的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈpɒpjələ(r)/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 85,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 222,
+          "originalFields": {
+            "序号": 217,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "popular",
+            "音标（教材）": "/ˈpɒpjələ(r)/",
+            "词性": "adj.",
+            "中文释义": "大众喜爱的；广受欢迎的",
+            "教材课文页": 85,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T217",
+          "introducedAtStation": 31
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T217",
+        "word": "popular",
+        "ipa": "/ˈpɒpjələ(r)/",
+        "focus": "重音在/pɒp/；后面的/jə/保留/j/，末尾/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This song is popular with students.",
+          "zh": "这首歌深受学生喜爱。",
+          "sourceIds": [
+            "T217"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈpɒpjələ(r)/",
+      "pos": "adj.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T216",
+      "sourceId": "T216",
+      "sourceIds": [
+        "T216"
+      ],
+      "word": "style",
+      "meaning": "风格",
+      "sourceItems": [
+        {
+          "sourceId": "T216",
+          "sourceKind": "textbook",
+          "expression": "style",
+          "meaning": "风格",
+          "partOfSpeech": "n.",
+          "phonetic": "/staɪl/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 85,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 221,
+          "originalFields": {
+            "序号": 216,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "style",
+            "音标（教材）": "/staɪl/",
+            "词性": "n.",
+            "中文释义": "风格",
+            "教材课文页": 85,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T216",
+          "introducedAtStation": 31
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T216",
+        "word": "style",
+        "ipa": "/staɪl/",
+        "focus": "开头/st/直接连读；/aɪ/有滑动，最后/l/收尾。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The artist has a simple style of painting.",
+          "zh": "这位画家的绘画风格简洁。",
+          "sourceIds": [
+            "T216"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "recognise",
+          "meaning": "know someone or something when you see it"
+        }
+      ],
+      "notes": null,
+      "ipa": "/staɪl/",
+      "pos": "n.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T215",
+      "sourceId": "T215",
+      "sourceIds": [
+        "T215"
+      ],
+      "word": "western",
+      "meaning": "西方的；西方国家的",
+      "sourceItems": [
+        {
+          "sourceId": "T215",
+          "sourceKind": "textbook",
+          "expression": "western",
+          "meaning": "西方的；西方国家的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈwestən/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 85,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 220,
+          "originalFields": {
+            "序号": 215,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "western",
+            "音标（教材）": "/ˈwestən/",
+            "词性": "adj.",
+            "中文释义": "西方的；西方国家的",
+            "教材课文页": 85,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T215",
+          "introducedAtStation": 31
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T215",
+        "word": "western",
+        "ipa": "/ˈwestən/",
+        "focus": "重音在/wes/；后段/tən/中的/ə/弱读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "This restaurant serves western food such as pizza.",
+          "zh": "这家餐厅供应比萨饼等西方食物。",
+          "sourceIds": [
+            "T215"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈwestən/",
+      "pos": "adj.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T214",
+      "sourceId": "T214",
+      "sourceIds": [
+        "T214"
+      ],
+      "word": "mix",
+      "meaning": "混合；结合",
+      "sourceItems": [
+        {
+          "sourceId": "T214",
+          "sourceKind": "textbook",
+          "expression": "mix",
+          "meaning": "混合；结合",
+          "partOfSpeech": "n.",
+          "phonetic": "/mɪks/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 85,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 219,
+          "originalFields": {
+            "序号": 214,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "mix",
+            "音标（教材）": "/mɪks/",
+            "词性": "n.",
+            "中文释义": "混合；结合",
+            "教材课文页": 85,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T214",
+          "introducedAtStation": 31
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T214",
+        "word": "mix",
+        "ipa": "/mɪks/",
+        "focus": "字母x读/ks/；/ɪ/短读，末尾/ks/不拆开加元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The music is a mix of old and new styles.",
+          "zh": "这种音乐是旧风格与新风格的结合。",
+          "sourceIds": [
+            "T214"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "combination",
+          "meaning": "different things joined together"
+        }
+      ],
+      "notes": "T214只考n.混合；结合，不将mix作动词的用法并入。",
+      "ipa": "/mɪks/",
+      "pos": "n.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T213",
+      "sourceId": "T213",
+      "sourceIds": [
+        "T213"
+      ],
+      "word": "west",
+      "meaning": "n. 西；西方；adv. 朝西",
+      "sourceItems": [
+        {
+          "sourceId": "T213",
+          "sourceKind": "textbook",
+          "expression": "west",
+          "meaning": "n. 西；西方；adv. 朝西",
+          "partOfSpeech": "n.；adv.",
+          "phonetic": "/west/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 85,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 218,
+          "originalFields": {
+            "序号": 213,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "west",
+            "音标（教材）": "/west/",
+            "词性": "n.；adv.",
+            "中文释义": "n. 西；西方；adv. 朝西",
+            "教材课文页": 85,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": "原表n.、adv.两行均标p.85，按同一词头合并并保留词性对应。"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T213",
+          "introducedAtStation": 31
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T213",
+        "word": "west",
+        "ipa": "/west/",
+        "focus": "/e/短读；词尾/st/连贯，不加额外一拍。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Their house is in the west of the town.",
+          "zh": "他们的房子在镇的西部。",
+          "sourceIds": [
+            "T213"
+          ]
+        },
+        {
+          "en": "We walk west as the Sun goes down.",
+          "zh": "太阳落下时，我们向西走。",
+          "sourceIds": [
+            "T213"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "原源同时保留n.西；西方和adv.朝西；两个例句与两fill分别覆盖。",
+      "ipa": "/west/",
+      "pos": "n.；adv.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T212",
+      "sourceId": "T212",
+      "sourceIds": [
+        "T212"
+      ],
+      "word": "east",
+      "meaning": "n. 东；东方；adv. 朝东",
+      "sourceItems": [
+        {
+          "sourceId": "T212",
+          "sourceKind": "textbook",
+          "expression": "east",
+          "meaning": "n. 东；东方；adv. 朝东",
+          "partOfSpeech": "n.；adv.",
+          "phonetic": "/iːst/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 85,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 217,
+          "originalFields": {
+            "序号": 212,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "east",
+            "音标（教材）": "/iːst/",
+            "词性": "n.；adv.",
+            "中文释义": "n. 东；东方；adv. 朝东",
+            "教材课文页": 85,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": "原表n.、adv.两行均标p.85，按同一词头合并并保留词性对应。"
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T212",
+          "introducedAtStation": 31
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T212",
+        "word": "east",
+        "ipa": "/iːst/",
+        "focus": "/iː/拉长；词尾/st/紧接，不在/t/后加元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The village is in the east of the country.",
+          "zh": "这个村庄在国家的东部。",
+          "sourceIds": [
+            "T212"
+          ]
+        },
+        {
+          "en": "We walk east towards the rising Sun.",
+          "zh": "我们向东走，朝着太阳升起的方向。",
+          "sourceIds": [
+            "T212"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "原源同时保留n.东；东方和adv.朝东；两个例句与两fill分别覆盖。",
+      "ipa": "/iːst/",
+      "pos": "n.；adv.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T223",
+      "sourceId": "T223",
+      "sourceIds": [
+        "T223"
+      ],
+      "word": "design",
+      "meaning": "设计",
+      "sourceItems": [
+        {
+          "sourceId": "T223",
+          "sourceKind": "textbook",
+          "expression": "design",
+          "meaning": "设计",
+          "partOfSpeech": "n.",
+          "phonetic": "/dɪˈzaɪn/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 88,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 228,
+          "originalFields": {
+            "序号": 223,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "design",
+            "音标（教材）": "/dɪˈzaɪn/",
+            "词性": "n.",
+            "中文释义": "设计",
+            "教材课文页": 88,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T223",
+          "introducedAtStation": 32
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T223",
+        "word": "design",
+        "ipa": "/dɪˈzaɪn/",
+        "focus": "重音在/zaɪn/；字母s读浊辅音/z/，不是/s/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The design shows the places for the windows.",
+          "zh": "这份设计展示窗户的位置。",
+          "sourceIds": [
+            "T223"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/dɪˈzaɪn/",
+      "pos": "n.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T222",
+      "sourceId": "T222",
+      "sourceIds": [
+        "T222"
+      ],
+      "word": "customer",
+      "meaning": "顾客；主顾；客户",
+      "sourceItems": [
+        {
+          "sourceId": "T222",
+          "sourceKind": "textbook",
+          "expression": "customer",
+          "meaning": "顾客；主顾；客户",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈkʌstəmə(r)/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 88,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 227,
+          "originalFields": {
+            "序号": 222,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "customer",
+            "音标（教材）": "/ˈkʌstəmə(r)/",
+            "词性": "n.",
+            "中文释义": "顾客；主顾；客户",
+            "教材课文页": 88,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T222",
+          "introducedAtStation": 32
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T222",
+        "word": "customer",
+        "ipa": "/ˈkʌstəmə(r)/",
+        "focus": "重音在/kʌs/；后段/təmə/中的/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The customer buys a bag of rice.",
+          "zh": "这位顾客买了一袋米。",
+          "sourceIds": [
+            "T222"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/ˈkʌstəmə(r)/",
+      "pos": "n.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T229",
+      "sourceId": "T229",
+      "sourceIds": [
+        "T229"
+      ],
+      "word": "landscape",
+      "meaning": "风景；景色",
+      "sourceItems": [
+        {
+          "sourceId": "T229",
+          "sourceKind": "textbook",
+          "expression": "landscape",
+          "meaning": "风景；景色",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈlændskeɪp/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 92,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 234,
+          "originalFields": {
+            "序号": 229,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "landscape",
+            "音标（教材）": "/ˈlændskeɪp/",
+            "词性": "n.",
+            "中文释义": "风景；景色",
+            "教材课文页": 92,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T229",
+          "introducedAtStation": 33
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T229",
+        "word": "landscape",
+        "ipa": "/ˈlændskeɪp/",
+        "focus": "重音在/lænd/；后段/skeɪp/保留/sk/连缀与/eɪ/滑动。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The landscape has hills, fields and a river.",
+          "zh": "这片风景中有山丘、田野和一条河流。",
+          "sourceIds": [
+            "T229"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "features",
+          "meaning": "the parts that make a place or thing recognisable"
+        }
+      ],
+      "notes": null,
+      "ipa": "/ˈlændskeɪp/",
+      "pos": "n.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T228",
+      "sourceId": "T228",
+      "sourceIds": [
+        "T228"
+      ],
+      "word": "list",
+      "meaning": "名单；目录",
+      "sourceItems": [
+        {
+          "sourceId": "T228",
+          "sourceKind": "textbook",
+          "expression": "list",
+          "meaning": "名单；目录",
+          "partOfSpeech": "n.",
+          "phonetic": "/lɪst/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 92,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 233,
+          "originalFields": {
+            "序号": 228,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "list",
+            "音标（教材）": "/lɪst/",
+            "词性": "n.",
+            "中文释义": "名单；目录",
+            "教材课文页": 92,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T228",
+          "introducedAtStation": 33
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T228",
+        "word": "list",
+        "ipa": "/lɪst/",
+        "focus": "/ɪ/短读；末尾/st/连读，不能多加一拍。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Write the students' names on this list.",
+          "zh": "把学生们的名字写在这份名单上。",
+          "sourceIds": [
+            "T228"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/lɪst/",
+      "pos": "n.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T227",
+      "sourceId": "T227",
+      "sourceIds": [
+        "T227"
+      ],
+      "word": "historic",
+      "meaning": "历史上著名（或重要）的；可名垂青史的",
+      "sourceItems": [
+        {
+          "sourceId": "T227",
+          "sourceKind": "textbook",
+          "expression": "historic",
+          "meaning": "历史上著名（或重要）的；可名垂青史的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/hɪˈstɒrɪk/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": "只要求理解（星号）",
+          "textbookPage": 92,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 232,
+          "originalFields": {
+            "序号": 227,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "historic",
+            "音标（教材）": "/hɪˈstɒrɪk/",
+            "词性": "adj.",
+            "中文释义": "历史上著名（或重要）的；可名垂青史的",
+            "教材课文页": 92,
+            "词表PDF页": 4,
+            "教材标记": "只要求理解（星号）",
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T227",
+          "introducedAtStation": 33
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T227",
+        "word": "historic",
+        "ipa": "/hɪˈstɒrɪk/",
+        "focus": "开头/hɪ/轻读；重音在/stɒr/，/ɒ/短读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The museum stands near a historic building important to the town.",
+          "zh": "博物馆位于一座对这个镇有历史意义的建筑附近。",
+          "sourceIds": [
+            "T227"
+          ]
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "event",
+          "meaning": "something that happens, especially something important"
+        }
+      ],
+      "notes": null,
+      "ipa": "/hɪˈstɒrɪk/",
+      "pos": "adj.",
+      "unit": "Unit 6",
+      "textbookMarker": "只要求理解（星号）"
+    },
+    {
+      "groupId": "T226",
+      "sourceId": "T226",
+      "sourceIds": [
+        "T226"
+      ],
+      "word": "tip",
+      "meaning": "指点；实用的提示",
+      "sourceItems": [
+        {
+          "sourceId": "T226",
+          "sourceKind": "textbook",
+          "expression": "tip",
+          "meaning": "指点；实用的提示",
+          "partOfSpeech": "n.",
+          "phonetic": "/tɪp/",
+          "unit": "Unit 6",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 92,
+          "wordListPdfPage": 4,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 231,
+          "originalFields": {
+            "序号": 226,
+            "单元": "Unit 6",
+            "类型": "单词",
+            "单词／短语": "tip",
+            "音标（教材）": "/tɪp/",
+            "词性": "n.",
+            "中文释义": "指点；实用的提示",
+            "教材课文页": 92,
+            "词表PDF页": 4,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T226",
+          "introducedAtStation": 33
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T226",
+        "word": "tip",
+        "ipa": "/tɪp/",
+        "focus": "/ɪ/短读；最后/p/双唇闭合，不补元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The teacher gives us a useful tip for spelling.",
+          "zh": "老师给我们一条实用的拼写提示。",
+          "sourceIds": [
+            "T226"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": "/tɪp/",
+      "pos": "n.",
+      "unit": "Unit 6",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T225",
+      "groupId": "T225",
+      "direction": "zh_to_en",
+      "stem": "建议；提议",
+      "options": [
+        {
+          "label": "A",
+          "text": "loudly"
+        },
+        {
+          "label": "B",
+          "text": "suggestion"
+        },
+        {
+          "label": "C",
+          "text": "what's more"
+        },
+        {
+          "label": "D",
+          "text": "tradition"
+        }
+      ],
+      "answer": "B",
+      "word": "suggestion",
+      "meaning": "建议；提议"
+    },
+    {
+      "id": 2,
+      "sourceId": "T224",
+      "groupId": "T224",
+      "direction": "en_to_zh",
+      "stem": "else",
+      "options": [
+        {
+          "label": "A",
+          "text": "景色；风景"
+        },
+        {
+          "label": "B",
+          "text": "表示；表达；表露"
+        },
+        {
+          "label": "C",
+          "text": "其他的；别的"
+        },
+        {
+          "label": "D",
+          "text": "中等身高"
+        }
+      ],
+      "answer": "C",
+      "word": "else",
+      "meaning": "其他的；别的"
+    },
+    {
+      "id": 3,
+      "sourceId": "T210",
+      "groupId": "T210",
+      "direction": "zh_to_en",
+      "stem": "数以千计；成千上万",
+      "options": [
+        {
+          "label": "A",
+          "text": "watch over"
+        },
+        {
+          "label": "B",
+          "text": "thousands of"
+        },
+        {
+          "label": "C",
+          "text": "town"
+        },
+        {
+          "label": "D",
+          "text": "corner"
+        }
+      ],
+      "answer": "B",
+      "word": "thousands of",
+      "meaning": "数以千计；成千上万"
+    },
+    {
+      "id": 4,
+      "sourceId": "T209",
+      "groupId": "T209",
+      "direction": "en_to_zh",
+      "stem": "get into orbit",
+      "options": [
+        {
+          "label": "A",
+          "text": "行星"
+        },
+        {
+          "label": "B",
+          "text": "放学后"
+        },
+        {
+          "label": "C",
+          "text": "进入轨道"
+        },
+        {
+          "label": "D",
+          "text": "高兴的；愉快的"
+        }
+      ],
+      "answer": "C",
+      "word": "get into orbit",
+      "meaning": "进入轨道"
+    },
+    {
+      "id": 5,
+      "sourceId": "T208",
+      "groupId": "T208",
+      "direction": "zh_to_en",
+      "stem": "拍照",
+      "options": [
+        {
+          "label": "A",
+          "text": "take photos"
+        },
+        {
+          "label": "B",
+          "text": "already"
+        },
+        {
+          "label": "C",
+          "text": "harmful"
+        },
+        {
+          "label": "D",
+          "text": "rise"
+        }
+      ],
+      "answer": "A",
+      "word": "take photos",
+      "meaning": "拍照"
+    },
+    {
+      "id": 6,
+      "sourceId": "T207",
+      "groupId": "T207",
+      "direction": "en_to_zh",
+      "stem": "do exercise",
+      "options": [
+        {
+          "label": "A",
+          "text": "去旅行"
+        },
+        {
+          "label": "B",
+          "text": "沿某方向前进；向某方向移动"
+        },
+        {
+          "label": "C",
+          "text": "成年人"
+        },
+        {
+          "label": "D",
+          "text": "锻炼；运动"
+        }
+      ],
+      "answer": "D",
+      "word": "do exercise",
+      "meaning": "锻炼；运动"
+    },
+    {
+      "id": 7,
+      "sourceId": "T206",
+      "groupId": "T206",
+      "direction": "zh_to_en",
+      "stem": "空间站",
+      "options": [
+        {
+          "label": "A",
+          "text": "thousands of"
+        },
+        {
+          "label": "B",
+          "text": "suggestion"
+        },
+        {
+          "label": "C",
+          "text": "explore"
+        },
+        {
+          "label": "D",
+          "text": "space station"
+        }
+      ],
+      "answer": "D",
+      "word": "space station",
+      "meaning": "空间站"
+    },
+    {
+      "id": 8,
+      "sourceId": "T211",
+      "groupId": "T211",
+      "direction": "en_to_zh",
+      "stem": "guide",
+      "options": [
+        {
+          "label": "A",
+          "text": "指南；手册"
+        },
+        {
+          "label": "B",
+          "text": "新鲜的"
+        },
+        {
+          "label": "C",
+          "text": "哭着入睡"
+        },
+        {
+          "label": "D",
+          "text": "海平面"
+        }
+      ],
+      "answer": "A",
+      "word": "guide",
+      "meaning": "指南；手册"
+    },
+    {
+      "id": 9,
+      "sourceId": "T217",
+      "groupId": "T217",
+      "direction": "zh_to_en",
+      "stem": "大众喜爱的；广受欢迎的",
+      "options": [
+        {
+          "label": "A",
+          "text": "solar term"
+        },
+        {
+          "label": "B",
+          "text": "get up"
+        },
+        {
+          "label": "C",
+          "text": "popular"
+        },
+        {
+          "label": "D",
+          "text": "cry oneself to sleep"
+        }
+      ],
+      "answer": "C",
+      "word": "popular",
+      "meaning": "大众喜爱的；广受欢迎的"
+    },
+    {
+      "id": 10,
+      "sourceId": "T216",
+      "groupId": "T216",
+      "direction": "en_to_zh",
+      "stem": "style",
+      "options": [
+        {
+          "label": "A",
+          "text": "风格"
+        },
+        {
+          "label": "B",
+          "text": "介意"
+        },
+        {
+          "label": "C",
+          "text": "举办；上演"
+        },
+        {
+          "label": "D",
+          "text": "同一的；相同的"
+        }
+      ],
+      "answer": "A",
+      "word": "style",
+      "meaning": "风格"
+    },
+    {
+      "id": 11,
+      "sourceId": "T215",
+      "groupId": "T215",
+      "direction": "zh_to_en",
+      "stem": "西方的；西方国家的",
+      "options": [
+        {
+          "label": "A",
+          "text": "get up"
+        },
+        {
+          "label": "B",
+          "text": "western"
+        },
+        {
+          "label": "C",
+          "text": "disappear"
+        },
+        {
+          "label": "D",
+          "text": "survey"
+        }
+      ],
+      "answer": "B",
+      "word": "western",
+      "meaning": "西方的；西方国家的"
+    },
+    {
+      "id": 12,
+      "sourceId": "T214",
+      "groupId": "T214",
+      "direction": "en_to_zh",
+      "stem": "mix",
+      "options": [
+        {
+          "label": "A",
+          "text": "现代舞"
+        },
+        {
+          "label": "B",
+          "text": "其他的；别的"
+        },
+        {
+          "label": "C",
+          "text": "混合；结合"
+        },
+        {
+          "label": "D",
+          "text": "提供；供应"
+        }
+      ],
+      "answer": "C",
+      "word": "mix",
+      "meaning": "混合；结合"
+    },
+    {
+      "id": 13,
+      "sourceId": "T213",
+      "groupId": "T213",
+      "direction": "zh_to_en",
+      "stem": "n. 西；西方；adv. 朝西",
+      "options": [
+        {
+          "label": "A",
+          "text": "on foot"
+        },
+        {
+          "label": "B",
+          "text": "west"
+        },
+        {
+          "label": "C",
+          "text": "sea level"
+        },
+        {
+          "label": "D",
+          "text": "gas"
+        }
+      ],
+      "answer": "B",
+      "word": "west",
+      "meaning": "n. 西；西方；adv. 朝西"
+    },
+    {
+      "id": 14,
+      "sourceId": "T212",
+      "groupId": "T212",
+      "direction": "en_to_zh",
+      "stem": "east",
+      "options": [
+        {
+          "label": "A",
+          "text": "沿某方向前进；向某方向移动"
+        },
+        {
+          "label": "B",
+          "text": "成年人"
+        },
+        {
+          "label": "C",
+          "text": "n. 东；东方；adv. 朝东"
+        },
+        {
+          "label": "D",
+          "text": "上升到"
+        }
+      ],
+      "answer": "C",
+      "word": "east",
+      "meaning": "n. 东；东方；adv. 朝东"
+    },
+    {
+      "id": 15,
+      "sourceId": "T223",
+      "groupId": "T223",
+      "direction": "zh_to_en",
+      "stem": "设计",
+      "options": [
+        {
+          "label": "A",
+          "text": "thunder"
+        },
+        {
+          "label": "B",
+          "text": "release"
+        },
+        {
+          "label": "C",
+          "text": "design"
+        },
+        {
+          "label": "D",
+          "text": "lander"
+        }
+      ],
+      "answer": "C",
+      "word": "design",
+      "meaning": "设计"
+    },
+    {
+      "id": 16,
+      "sourceId": "T222",
+      "groupId": "T222",
+      "direction": "en_to_zh",
+      "stem": "customer",
+      "options": [
+        {
+          "label": "A",
+          "text": "顾客；主顾；客户"
+        },
+        {
+          "label": "B",
+          "text": "打扫（或清除）干净"
+        },
+        {
+          "label": "C",
+          "text": "年级"
+        },
+        {
+          "label": "D",
+          "text": "介意"
+        }
+      ],
+      "answer": "A",
+      "word": "customer",
+      "meaning": "顾客；主顾；客户"
+    },
+    {
+      "id": 17,
+      "sourceId": "T229",
+      "groupId": "T229",
+      "direction": "zh_to_en",
+      "stem": "风景；景色",
+      "options": [
+        {
+          "label": "A",
+          "text": "courage"
+        },
+        {
+          "label": "B",
+          "text": "landscape"
+        },
+        {
+          "label": "C",
+          "text": "put on"
+        },
+        {
+          "label": "D",
+          "text": "dream"
+        }
+      ],
+      "answer": "B",
+      "word": "landscape",
+      "meaning": "风景；景色"
+    },
+    {
+      "id": 18,
+      "sourceId": "T228",
+      "groupId": "T228",
+      "direction": "en_to_zh",
+      "stem": "list",
+      "options": [
+        {
+          "label": "A",
+          "text": "提供；供应"
+        },
+        {
+          "label": "B",
+          "text": "名单；目录"
+        },
+        {
+          "label": "C",
+          "text": "有生气；有活力"
+        },
+        {
+          "label": "D",
+          "text": "文章"
+        }
+      ],
+      "answer": "B",
+      "word": "list",
+      "meaning": "名单；目录"
+    },
+    {
+      "id": 19,
+      "sourceId": "T227",
+      "groupId": "T227",
+      "direction": "zh_to_en",
+      "stem": "历史上著名（或重要）的；可名垂青史的",
+      "options": [
+        {
+          "label": "A",
+          "text": "view"
+        },
+        {
+          "label": "B",
+          "text": "historic"
+        },
+        {
+          "label": "C",
+          "text": "cry oneself to sleep"
+        },
+        {
+          "label": "D",
+          "text": "take somebody's place"
+        }
+      ],
+      "answer": "B",
+      "word": "historic",
+      "meaning": "历史上著名（或重要）的；可名垂青史的"
+    },
+    {
+      "id": 20,
+      "sourceId": "T226",
+      "groupId": "T226",
+      "direction": "en_to_zh",
+      "stem": "tip",
+      "options": [
+        {
+          "label": "A",
+          "text": "举办；上演"
+        },
+        {
+          "label": "B",
+          "text": "指点；实用的提示"
+        },
+        {
+          "label": "C",
+          "text": "砍倒"
+        },
+        {
+          "label": "D",
+          "text": "（把……）打包"
+        }
+      ],
+      "answer": "B",
+      "word": "tip",
+      "meaning": "指点；实用的提示"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T225",
+      "groupId": "T225",
+      "target": "suggestion",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "an idea offered for someone to consider"
+        },
+        {
+          "label": "B",
+          "text": "a place where people wait for buses"
+        },
+        {
+          "label": "C",
+          "text": "a tool used to draw a straight line"
+        },
+        {
+          "label": "D",
+          "text": "a mark made by a person's foot"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "A",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "suggestion",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "suggestion"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "建议；提议",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “suggestion” means “an idea offered for someone to consider”.",
+      "parentExplanation": "本题考查“suggestion”在本句中的用法；正确英文解释为“an idea offered for someone to consider”。对应源表释义为“建议；提议”。",
+      "wordHelp": [
+        {
+          "word": "consider",
+          "meaning": "think about an idea before deciding"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T224",
+      "groupId": "T224",
+      "target": "else",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "other than the person already mentioned"
+        },
+        {
+          "label": "B",
+          "text": "in the same place as before"
+        },
+        {
+          "label": "C",
+          "text": "at an earlier time"
+        },
+        {
+          "label": "D",
+          "text": "in the direction where the Sun rises"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "listening_sentence_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "Nobody else is in the classroom. Only Mia is here.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Nobody else is in the classroom. Only Mia is here."
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "教室里没有其他人。只有米娅在这里。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “else” means “other than the person already mentioned”.",
+      "parentExplanation": "本题考查“else”在本句中的用法；正确英文解释为“other than the person already mentioned”。对应源表释义为“其他的；别的”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T210",
+      "groupId": "T210",
+      "target": "thousands of",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "take a trip"
+        },
+        {
+          "label": "B",
+          "text": "thousands of"
+        },
+        {
+          "label": "C",
+          "text": "full of energy"
+        },
+        {
+          "label": "D",
+          "text": "solar system"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which phrase describes the number of visitors?",
+      "answer": "B",
+      "listenScript": "The organiser counts more than nine thousand visitors at an exhibition. People fill several large halls, and many more are still waiting outside.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "The organiser counts more than nine thousand visitors at an exhibition. People fill several large halls, and many more are still waiting outside."
+        }
+      ],
+      "explanation": "A number above nine thousand can be described as thousands of visitors.",
+      "parentExplanation": "九千多名观众属于数以千计，选thousands of；其余短语不表示数量。",
+      "translation": {
+        "stem": "哪个短语描述观众的数量？",
+        "listenScript": "主办者统计，展览已有九千多名观众。人们挤满几个大厅，外面还有许多人等待。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T158",
+        "T112",
+        "T075",
+        "T210"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T209",
+      "groupId": "T209",
+      "target": "get into orbit",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "get into orbit"
+        },
+        {
+          "label": "B",
+          "text": "work one's land"
+        },
+        {
+          "label": "C",
+          "text": "do exercise"
+        },
+        {
+          "label": "D",
+          "text": "take photos"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which phrase describes the craft reaching this path?",
+      "answer": "A",
+      "listenScript": "In a space story, an engineer cheers after a launch. The craft is now following a path around the Earth and repeats the journey without landing.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "In a space story, an engineer cheers after a launch. The craft is now following a path around the Earth and repeats the journey without landing."
+        }
+      ],
+      "explanation": "The craft reached a path around the Earth, so it got into orbit.",
+      "parentExplanation": "航天器已到达绕地球运行的轨道，对应get into orbit，不是拍照、运动或耕地。",
+      "translation": {
+        "stem": "哪个短语描述航天器已经完成的状态变化？",
+        "listenScript": "太空故事里，发射后工程师欢呼起来。航天器正沿地球周围的一条路径反复运行，没有着陆。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T207",
+        "T111",
+        "T209",
+        "T208"
+      ],
+      "wordHelp": [
+        {
+          "word": "satellite",
+          "meaning": "an object that moves around a planet"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T208",
+      "groupId": "T208",
+      "target": "take photos",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to read poems in front of a class"
+        },
+        {
+          "label": "B",
+          "text": "to put names on a shopping list"
+        },
+        {
+          "label": "C",
+          "text": "make pictures using a camera"
+        },
+        {
+          "label": "D",
+          "text": "to draw pictures with coloured pencils"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "We use this camera to take photos of the birds.\nWhat does “take photos” mean here?",
+      "translation": {
+        "stem": "我们用这台相机给鸟拍照。 这里“take photos”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “take photos” means “make pictures using a camera”.",
+      "parentExplanation": "本题考查“take photos”在本句中的用法；正确英文解释为“make pictures using a camera”。对应源表释义为“拍照”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T207",
+      "groupId": "T207",
+      "target": "do exercise",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "to write answers in a school workbook"
+        },
+        {
+          "label": "B",
+          "text": "to look at stars through a telescope"
+        },
+        {
+          "label": "C",
+          "text": "do physical activities to keep fit"
+        },
+        {
+          "label": "D",
+          "text": "to take pictures with a camera"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Lena does exercise in the park every day to stay fit.\nWhat does “does exercise” mean here?",
+      "translation": {
+        "stem": "莉娜每天在公园锻炼以保持健康。 这里“does exercise”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “do exercise” means “do physical activities to keep fit”.",
+      "parentExplanation": "本题考查“do exercise”在本句中的用法；正确英文解释为“do physical activities to keep fit”。对应源表释义为“锻炼；运动”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T206",
+      "groupId": "T206",
+      "target": "space station",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a vehicle that drives across a desert"
+        },
+        {
+          "label": "B",
+          "text": "a telescope on the roof of a school"
+        },
+        {
+          "label": "C",
+          "text": "a building where trains stop in a town"
+        },
+        {
+          "label": "D",
+          "text": "a structure in space where people live and work"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "The astronauts stay for months on a large space station, where they live and work above Earth.\nWhat does “space station” mean here?",
+      "translation": {
+        "stem": "航天员在地球上空的大型空间站里生活和工作，一住就是几个月。 这里“space station”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “space station” means “a structure in space where people live and work”.",
+      "parentExplanation": "本题考查“space station”在本句中的用法；正确英文解释为“a structure in space where people live and work”。对应源表释义为“空间站”。",
+      "wordHelp": [
+        {
+          "word": "astronaut",
+          "meaning": "a person trained to travel in space"
+        },
+        {
+          "word": "experiment",
+          "meaning": "a test used to find out or check something"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T211",
+      "groupId": "T211",
+      "target": "guide",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a book or document with useful information or instructions"
+        },
+        {
+          "label": "B",
+          "text": "a machine that takes photos"
+        },
+        {
+          "label": "C",
+          "text": "a spacecraft that lands on the Moon"
+        },
+        {
+          "label": "D",
+          "text": "a person who sells things in a shop"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "This printed guide explains how to care for the camera and use all its buttons.\nWhat does “guide” mean here?",
+      "translation": {
+        "stem": "这本印刷手册说明怎样保养相机并使用它的全部按钮。 这里“guide”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “guide” means “a book or document with useful information or instructions”.",
+      "parentExplanation": "本题考查“guide”在本句中的用法；正确英文解释为“a book or document with useful information or instructions”。对应源表释义为“指南；手册”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T217",
+      "groupId": "T217",
+      "target": "popular",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "popular"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Many students love this song. It is very p________.",
+      "answer": "popular",
+      "hint": "liked by many people",
+      "grammar": "Adjective after be",
+      "initialLetter": "p",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Popular describes something that many people like.",
+      "parentExplanation": "popular表示大众喜爱的、广受欢迎的，作表语。",
+      "translation": {
+        "stem": "许多学生喜爱这首歌。它很受欢迎。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T216",
+      "groupId": "T216",
+      "target": "style",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "style"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "You can recognise her paintings by their colourful s________.",
+      "answer": "style",
+      "hint": "a particular way of making or showing something",
+      "grammar": "Singular countable noun",
+      "initialLetter": "s",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Style names the particular way the paintings are made.",
+      "parentExplanation": "style表示风格，说明绘画呈现的特定方式。",
+      "translation": {
+        "stem": "你可以从鲜艳多彩的风格认出她的画。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": [
+        {
+          "word": "recognise",
+          "meaning": "know someone or something when you see it"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T215",
+      "groupId": "T215",
+      "target": "western",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "western"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This book introduces music from w________ countries such as France.",
+      "answer": "western",
+      "hint": "connected with the West or countries in it",
+      "grammar": "Adjective before a plural noun",
+      "initialLetter": "w",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Western describes the countries; it is not the direction noun west.",
+      "parentExplanation": "western修饰countries，表示西方国家的，不填方位名词west。",
+      "translation": {
+        "stem": "这本书介绍法国等西方国家的音乐。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T214",
+      "groupId": "T214",
+      "target": "mix",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "mix"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This song uses a m________ of modern and traditional sounds.",
+      "answer": "mix",
+      "hint": "a combination of different kinds of things",
+      "grammar": "A mix of + nouns",
+      "initialLetter": "m",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A mix of means a combination of different things.",
+      "parentExplanation": "a mix of表示……的混合或结合；不考动词混合义。",
+      "translation": {
+        "stem": "这首歌结合了现代和传统的声音。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 1,
+      "wordHelp": [
+        {
+          "word": "combination",
+          "meaning": "different things joined together"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T213",
+      "groupId": "T213",
+      "target": "west",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "west"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The Sun sets in the w________.",
+      "answer": "west",
+      "hint": "the direction where the Sun goes down in the evening",
+      "grammar": "Direction noun after the",
+      "initialLetter": "w",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "West is a noun naming the direction in this sentence.",
+      "parentExplanation": "west在此作名词，表示西、西方，前接the。",
+      "translation": {
+        "stem": "太阳从西方落下。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T212",
+      "groupId": "T212",
+      "target": "east",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "east"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The Sun rises in the e________.",
+      "answer": "east",
+      "hint": "the direction where the Sun rises",
+      "grammar": "Direction noun after the",
+      "initialLetter": "e",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "East is a noun naming the direction in this sentence.",
+      "parentExplanation": "east在此作名词表示东、东方，前接the。",
+      "translation": {
+        "stem": "太阳从东方升起。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T223",
+      "groupId": "T223",
+      "target": "design",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "design"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "This drawing shows the plan for the new house. It is the house d________.",
+      "answer": "design",
+      "hint": "a plan or drawing showing how something looks or works",
+      "grammar": "Singular countable noun",
+      "initialLetter": "d",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Design is a noun here, naming the plan for the house.",
+      "parentExplanation": "design在此作名词设计，不考动词设计。",
+      "translation": {
+        "stem": "这张图展示新房子的规划。它是房屋设计。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T222",
+      "groupId": "T222",
+      "target": "customer",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "customer"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "The woman buys a coat in the shop. She is a c________.",
+      "answer": "customer",
+      "hint": "a person who buys goods or services",
+      "grammar": "Singular countable noun",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A customer buys something from a business.",
+      "parentExplanation": "customer表示顾客、客户；此处买衣服的女士是顾客。",
+      "translation": {
+        "stem": "这位女士在商店买一件外套。她是一位顾客。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T229",
+      "groupId": "T229",
+      "target": "landscape",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the price of a bus ticket"
+        },
+        {
+          "label": "B",
+          "text": "the scenery of an area"
+        },
+        {
+          "label": "C",
+          "text": "the names of people on a trip"
+        },
+        {
+          "label": "D",
+          "text": "a tool used for drawing"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “landscape” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Landscape means the scenery of an area, including the river, fields and houses.",
+      "parentExplanation": "第3句landscape统指山下河流、田野和房屋构成的风景，不是单幅画作。",
+      "translation": {
+        "stem": "短文中的“landscape”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "landscape"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T228",
+      "groupId": "T228",
+      "target": "list",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a place for parking the bus"
+        },
+        {
+          "label": "B",
+          "text": "a box containing pencils"
+        },
+        {
+          "label": "C",
+          "text": "a written set of names"
+        },
+        {
+          "label": "D",
+          "text": "a drawing of the whole town"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “list” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "List is a written set of names used to check who is present.",
+      "parentExplanation": "第1句list of everyone's names为名单，保留教材名单、目录的名词义项。",
+      "translation": {
+        "stem": "短文中的“list”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "list"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why does the leader check the names before the bus leaves?",
+      "explanation": "Sentence 6 says the check makes sure nobody is missing.",
+      "parentExplanation": "第6句明确说明，核对姓名是为确保没有人落下。",
+      "translation": {
+        "stem": "公交车出发前，负责人为什么核对姓名？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "To find out who owns every pencil in the town."
+        },
+        {
+          "label": "B",
+          "text": "To make sure every pupil is back with the group."
+        },
+        {
+          "label": "C",
+          "text": "To choose which picture will cost the most."
+        },
+        {
+          "label": "D",
+          "text": "To stop anyone from drawing the same river."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the passage mainly about?",
+      "explanation": "The club goes to a hill, draws the view and returns with different pictures.",
+      "parentExplanation": "全文是美术社团上山写生、观察同一景色并各自作画的过程。",
+      "translation": {
+        "stem": "短文主要讲什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A bus journey with no chance to stop and draw."
+        },
+        {
+          "label": "B",
+          "text": "A competition to find the oldest list in town."
+        },
+        {
+          "label": "C",
+          "text": "An art outing where pupils draw the same scenery in different ways."
+        },
+        {
+          "label": "D",
+          "text": "A lesson about building houses beside a river."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T227",
+      "groupId": "T227",
+      "target": "historic",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "important in history"
+        },
+        {
+          "label": "B",
+          "text": "popular only because of its colour"
+        },
+        {
+          "label": "C",
+          "text": "only recently painted"
+        },
+        {
+          "label": "D",
+          "text": "made entirely from natural stone"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “historic” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Historic means important in history; the bridge changed how the town's places were connected.",
+      "parentExplanation": "第1至2句说明桥因连接两岸、改变生活而有历史重要性，historic不只是古老。",
+      "translation": {
+        "stem": "短文中的“historic”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        1
+      ],
+      "targetSpan": "historic"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T226",
+      "groupId": "T226",
+      "target": "tip",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a small amount of money given for service"
+        },
+        {
+          "label": "B",
+          "text": "the final page of a map book"
+        },
+        {
+          "label": "C",
+          "text": "a useful practical suggestion"
+        },
+        {
+          "label": "D",
+          "text": "the pointed end of an object"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “tip” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Tip is a useful suggestion that helps the pupils understand the bridge.",
+      "parentExplanation": "第4句tip是先看旧地图的实用指点，不是小费或物体尖端。",
+      "translation": {
+        "stem": "短文中的“tip”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "tip"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What helps the writer understand why the bridge matters?",
+      "explanation": "The maps show villages becoming connected by roads, explaining the bridge's effect.",
+      "parentExplanation": "第4至6句通过新旧地图比较，看出连接对当地的影响。",
+      "translation": {
+        "stem": "什么帮助作者理解这座桥为何重要？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        4,
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Drawing only the shape without reading anything."
+        },
+        {
+          "label": "B",
+          "text": "Asking to leave the museum immediately."
+        },
+        {
+          "label": "C",
+          "text": "Counting every window on the bridge model."
+        },
+        {
+          "label": "D",
+          "text": "Comparing maps from before and after the connection."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title best fits the passage?",
+      "explanation": "The writer moves from noticing appearance to understanding the bridge's historical importance.",
+      "parentExplanation": "全文写作者从只看外形，到通过地图理解历史意义。",
+      "translation": {
+        "stem": "哪个标题最适合这篇短文？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "How to Draw without Taking Notes"
+        },
+        {
+          "label": "B",
+          "text": "A New Bridge Built inside a Museum"
+        },
+        {
+          "label": "C",
+          "text": "Looking beyond the Shape of a Bridge"
+        },
+        {
+          "label": "D",
+          "text": "The Map That Shows No Villages"
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Before our art club leaves school, the leader checks a list of everyone's names. We carry paper and pencils up a hill outside the town. The landscape below includes a river, green fields and many small houses. Some pupils draw the river while others choose the shapes of the houses. When I cannot find my eraser, a friend lets me use hers. Before the bus leaves, our leader checks the names again to make sure nobody is missing. Everyone returns with a different picture of the same place.",
+      "parallelText": [
+        {
+          "en": "Before our art club leaves school, the leader checks a list of everyone's names.",
+          "zh": "美术社团离开学校前，负责人核对每个人的名单。"
+        },
+        {
+          "en": "We carry paper and pencils up a hill outside the town.",
+          "zh": "我们带着纸和铅笔，爬上镇外的小山。"
+        },
+        {
+          "en": "The landscape below includes a river, green fields and many small houses.",
+          "zh": "山下的风景包括河流、绿田和许多小房子。"
+        },
+        {
+          "en": "Some pupils draw the river while others choose the shapes of the houses.",
+          "zh": "有些学生画河流，有些选择画房子的形状。"
+        },
+        {
+          "en": "When I cannot find my eraser, a friend lets me use hers.",
+          "zh": "我找不到橡皮时，一位朋友把她的借给我。"
+        },
+        {
+          "en": "Before the bus leaves, our leader checks the names again to make sure nobody is missing.",
+          "zh": "公交车出发前，负责人再次核对姓名，确保没有人落下。"
+        },
+        {
+          "en": "Everyone returns with a different picture of the same place.",
+          "zh": "大家带着同一地方的不同画作返回。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "outing",
+          "meaning": "a short trip for enjoyment"
+        },
+        {
+          "word": "eraser",
+          "meaning": "a small object used to remove pencil marks"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "During a museum visit, our guide shows a model of our town's historic bridge. It first connected the two river banks and changed local life, she explains. At first, I notice only the shape of the model. The guide gives us a tip: look at the old map before studying the newer one. The old map shows separate villages, but the newer one shows roads joining them. Now I understand why people remember this bridge, not just how it looks. I add a note about the maps beside my drawing.",
+      "parallelText": [
+        {
+          "en": "During a museum visit, our guide shows a model of our town's historic bridge.",
+          "zh": "参观博物馆时，导游展示了我们镇上一座历史名桥的模型。"
+        },
+        {
+          "en": "It first connected the two river banks and changed local life, she explains.",
+          "zh": "她解释，这座桥首次连接了两岸，改变了当地生活。"
+        },
+        {
+          "en": "At first, I notice only the shape of the model.",
+          "zh": "起初，我只注意模型的形状。"
+        },
+        {
+          "en": "The guide gives us a tip: look at the old map before studying the newer one.",
+          "zh": "导游给了我们一个提示：先看旧地图，再看较新的地图。"
+        },
+        {
+          "en": "The old map shows separate villages, but the newer one shows roads joining them.",
+          "zh": "旧地图显示村庄相互分开，较新的地图上则有道路连通。"
+        },
+        {
+          "en": "Now I understand why people remember this bridge, not just how it looks.",
+          "zh": "现在我不只知道桥的外观，也明白人们为什么记住它。"
+        },
+        {
+          "en": "I add a note about the maps beside my drawing.",
+          "zh": "我在画旁边加了一条关于地图的笔记。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "bank",
+          "meaning": "the land beside a river"
+        },
+        {
+          "word": "model",
+          "meaning": "a smaller copy of something"
+        },
+        {
+          "word": "separate",
+          "meaning": "not joined together"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S034-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 1,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T225",
+      "groupId": "T225",
+      "expression": "suggestion",
+      "meaning": "建议；提议",
+      "introducedAtStation": 33,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 34,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 2,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T224",
+      "groupId": "T224",
+      "expression": "else",
+      "meaning": "其他的；别的",
+      "introducedAtStation": 33,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 34,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L1-R3",
+      "lap": 1,
+      "position": 3,
+      "questionNumber": 3,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T210",
+      "groupId": "T210",
+      "expression": "thousands of",
+      "meaning": "数以千计；成千上万",
+      "introducedAtStation": 30,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 31,
+      "intervalInStations": 3,
+      "referenceDueStation": 34,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L1-R4",
+      "lap": 1,
+      "position": 4,
+      "questionNumber": 4,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T209",
+      "groupId": "T209",
+      "expression": "get into orbit",
+      "meaning": "进入轨道",
+      "introducedAtStation": 30,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 31,
+      "intervalInStations": 3,
+      "referenceDueStation": 34,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L1-R5",
+      "lap": 1,
+      "position": 5,
+      "questionNumber": 5,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T208",
+      "groupId": "T208",
+      "expression": "take photos",
+      "meaning": "拍照",
+      "introducedAtStation": 30,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 31,
+      "intervalInStations": 3,
+      "referenceDueStation": 34,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L1-R6",
+      "lap": 1,
+      "position": 6,
+      "questionNumber": 6,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T207",
+      "groupId": "T207",
+      "expression": "do exercise",
+      "meaning": "锻炼；运动",
+      "introducedAtStation": 30,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 31,
+      "intervalInStations": 3,
+      "referenceDueStation": 34,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L1-R7",
+      "lap": 1,
+      "position": 7,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T206",
+      "groupId": "T206",
+      "expression": "space station",
+      "meaning": "空间站",
+      "introducedAtStation": 30,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 31,
+      "intervalInStations": 3,
+      "referenceDueStation": 34,
+      "reviewPriorityWeight": 2,
+      "reviewPriorityReason": "教材完整词块复用",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L1-R8",
+      "lap": 1,
+      "position": 8,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T211",
+      "groupId": "T211",
+      "expression": "guide",
+      "meaning": "指南；手册",
+      "introducedAtStation": 30,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 31,
+      "intervalInStations": 3,
+      "referenceDueStation": 34,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 9,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T217",
+      "groupId": "T217",
+      "expression": "popular",
+      "meaning": "大众喜爱的；广受欢迎的",
+      "introducedAtStation": 31,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 32,
+      "intervalInStations": 2,
+      "referenceDueStation": 35,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 10,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T216",
+      "groupId": "T216",
+      "expression": "style",
+      "meaning": "风格",
+      "introducedAtStation": 31,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 32,
+      "intervalInStations": 2,
+      "referenceDueStation": 35,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L2-R3",
+      "lap": 2,
+      "position": 3,
+      "questionNumber": 11,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T215",
+      "groupId": "T215",
+      "expression": "western",
+      "meaning": "西方的；西方国家的",
+      "introducedAtStation": 31,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 32,
+      "intervalInStations": 2,
+      "referenceDueStation": 35,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L2-R4",
+      "lap": 2,
+      "position": 4,
+      "questionNumber": 12,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T214",
+      "groupId": "T214",
+      "expression": "mix",
+      "meaning": "混合；结合",
+      "introducedAtStation": 31,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 32,
+      "intervalInStations": 2,
+      "referenceDueStation": 35,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L2-R5",
+      "lap": 2,
+      "position": 5,
+      "questionNumber": 13,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T213",
+      "groupId": "T213",
+      "expression": "west",
+      "meaning": "n. 西；西方；adv. 朝西",
+      "introducedAtStation": 31,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 32,
+      "intervalInStations": 2,
+      "referenceDueStation": 35,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L2-R6",
+      "lap": 2,
+      "position": 6,
+      "questionNumber": 14,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T212",
+      "groupId": "T212",
+      "expression": "east",
+      "meaning": "n. 东；东方；adv. 朝东",
+      "introducedAtStation": 31,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 32,
+      "intervalInStations": 2,
+      "referenceDueStation": 35,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L2-R7",
+      "lap": 2,
+      "position": 7,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T223",
+      "groupId": "T223",
+      "expression": "design",
+      "meaning": "设计",
+      "introducedAtStation": 32,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 33,
+      "intervalInStations": 1,
+      "referenceDueStation": 36,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L2-R8",
+      "lap": 2,
+      "position": 8,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T222",
+      "groupId": "T222",
+      "expression": "customer",
+      "meaning": "顾客；主顾；客户",
+      "introducedAtStation": 32,
+      "reviewOrdinal": 2,
+      "previousReviewStation": 33,
+      "intervalInStations": 1,
+      "referenceDueStation": 36,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T229",
+      "groupId": "T229",
+      "expression": "landscape",
+      "meaning": "风景；景色",
+      "introducedAtStation": 33,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 34,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T228",
+      "groupId": "T228",
+      "expression": "list",
+      "meaning": "名单；目录",
+      "introducedAtStation": 33,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 34,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T227",
+      "groupId": "T227",
+      "expression": "historic",
+      "meaning": "历史上著名（或重要）的；可名垂青史的",
+      "introducedAtStation": 33,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 34,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S034-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T226",
+      "groupId": "T226",
+      "expression": "tip",
+      "meaning": "指点；实用的提示",
+      "introducedAtStation": 33,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 1,
+      "referenceDueStation": 34,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}

@@ -1,0 +1,3610 @@
+{
+  "station": 7,
+  "type": "formal_review",
+  "phase": null,
+  "revision": "24题 首字母填空 全季滚动复习版",
+  "sourcePlanTask": 7,
+  "newItems": [],
+  "reviewItems": [
+    {
+      "groupId": "T018",
+      "sourceId": "T018",
+      "sourceIds": [
+        "T018"
+      ],
+      "word": "basic",
+      "meaning": "基本的；基础的",
+      "sourceItems": [
+        {
+          "sourceId": "T018",
+          "sourceKind": "textbook",
+          "expression": "basic",
+          "meaning": "基本的；基础的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈbeɪsɪk/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 12,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 23,
+          "originalFields": {
+            "序号": 18,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "basic",
+            "音标（教材）": "/ˈbeɪsɪk/",
+            "词性": "adj.",
+            "中文释义": "基本的；基础的",
+            "教材课文页": 12,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T018",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T018",
+        "word": "basic",
+        "ipa": "/ˈbeɪsɪk/",
+        "focus": "重音在/beɪ/；第二段/sɪk/用短/ɪ/，词尾/k/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "We learn some basic words before we read the story.",
+          "zh": "读故事之前，我们先学一些基础词汇。",
+          "sourceIds": [
+            "T018"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/ˈbeɪsɪk/",
+      "pos": "adj.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T016",
+      "sourceId": "T016",
+      "sourceIds": [
+        "T016"
+      ],
+      "word": "dark",
+      "meaning": "褐色的；乌黑的",
+      "sourceItems": [
+        {
+          "sourceId": "T016",
+          "sourceKind": "textbook",
+          "expression": "dark",
+          "meaning": "褐色的；乌黑的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/dɑːk/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 11,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 21,
+          "originalFields": {
+            "序号": 16,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "dark",
+            "音标（教材）": "/dɑːk/",
+            "词性": "adj.",
+            "中文释义": "褐色的；乌黑的",
+            "教材课文页": 11,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T016",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T016",
+        "word": "dark",
+        "ipa": "/dɑːk/",
+        "focus": "/ɑː/是长元音；词尾/k/收住，不在后面补元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "He has dark hair and brown eyes.",
+          "zh": "他头发乌黑，眼睛是褐色的。",
+          "sourceIds": [
+            "T016"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "源义为发色等的褐色、乌黑；不以黑暗房间义替代。",
+      "ipa": "/dɑːk/",
+      "pos": "adj.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T015",
+      "sourceId": "T015",
+      "sourceIds": [
+        "T015"
+      ],
+      "word": "straight",
+      "meaning": "直的",
+      "sourceItems": [
+        {
+          "sourceId": "T015",
+          "sourceKind": "textbook",
+          "expression": "straight",
+          "meaning": "直的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/streɪt/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 11,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 20,
+          "originalFields": {
+            "序号": 15,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "straight",
+            "音标（教材）": "/streɪt/",
+            "词性": "adj.",
+            "中文释义": "直的",
+            "教材课文页": 11,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T015",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T015",
+        "word": "straight",
+        "ipa": "/streɪt/",
+        "focus": "开头/str/不加元音；重读元音为/eɪ/，最后以/t/收尾。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Her hair is long and straight.",
+          "zh": "她的头发又长又直。",
+          "sourceIds": [
+            "T015"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/streɪt/",
+      "pos": "adj.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T014",
+      "sourceId": "T014",
+      "sourceIds": [
+        "T014"
+      ],
+      "word": "appearance",
+      "meaning": "外貌",
+      "sourceItems": [
+        {
+          "sourceId": "T014",
+          "sourceKind": "textbook",
+          "expression": "appearance",
+          "meaning": "外貌",
+          "partOfSpeech": "n.",
+          "phonetic": "/əˈpɪərəns/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 11,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 19,
+          "originalFields": {
+            "序号": 14,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "appearance",
+            "音标（教材）": "/əˈpɪərəns/",
+            "词性": "n.",
+            "中文释义": "外貌",
+            "教材课文页": 11,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T014",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T014",
+        "word": "appearance",
+        "ipa": "/əˈpɪərəns/",
+        "focus": "开头/ə/轻读；重音在/pɪə/，末尾/rəns/中的/ə/也轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "The picture helps us talk about the man's appearance.",
+          "zh": "这张图片帮助我们谈论那位男士的外貌。",
+          "sourceIds": [
+            "T014"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/əˈpɪərəns/",
+      "pos": "n.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T012",
+      "sourceId": "T012",
+      "sourceIds": [
+        "T012"
+      ],
+      "word": "caring",
+      "meaning": "关心他人的；体贴人的",
+      "sourceItems": [
+        {
+          "sourceId": "T012",
+          "sourceKind": "textbook",
+          "expression": "caring",
+          "meaning": "关心他人的；体贴人的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈkeərɪŋ/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 8,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 17,
+          "originalFields": {
+            "序号": 12,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "caring",
+            "音标（教材）": "/ˈkeərɪŋ/",
+            "词性": "adj.",
+            "中文释义": "关心他人的；体贴人的",
+            "教材课文页": 8,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T012",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T012",
+        "word": "caring",
+        "ipa": "/ˈkeərɪŋ/",
+        "focus": "重读/keə/，/eə/有滑动；词尾/ŋ/是后鼻音，不另加/ɡ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "A caring friend notices when you need help.",
+          "zh": "体贴的朋友会留意到你何时需要帮助。",
+          "sourceIds": [
+            "T012"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/ˈkeərɪŋ/",
+      "pos": "adj.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T011",
+      "sourceId": "T011",
+      "sourceIds": [
+        "T011"
+      ],
+      "word": "quality",
+      "meaning": "品质；品德",
+      "sourceItems": [
+        {
+          "sourceId": "T011",
+          "sourceKind": "textbook",
+          "expression": "quality",
+          "meaning": "品质；品德",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈkwɒləti/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 8,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 16,
+          "originalFields": {
+            "序号": 11,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "quality",
+            "音标（教材）": "/ˈkwɒləti/",
+            "词性": "n.",
+            "中文释义": "品质；品德",
+            "教材课文页": 8,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T011",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T011",
+        "word": "quality",
+        "ipa": "/ˈkwɒləti/",
+        "focus": "开头字母组合qu读成/kw/连缀；重音在/kwɒ/，后面的/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Being patient is an important quality in a good teacher.",
+          "zh": "有耐心是好老师的一项重要品质。",
+          "sourceIds": [
+            "T011"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "锁定人的品质、品德义。",
+      "ipa": "/ˈkwɒləti/",
+      "pos": "n.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T010",
+      "sourceId": "T010",
+      "sourceIds": [
+        "T010"
+      ],
+      "word": "personal",
+      "meaning": "个性的",
+      "sourceItems": [
+        {
+          "sourceId": "T010",
+          "sourceKind": "textbook",
+          "expression": "personal",
+          "meaning": "个性的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈpɜːsənl/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 8,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 15,
+          "originalFields": {
+            "序号": 10,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "personal",
+            "音标（教材）": "/ˈpɜːsənl/",
+            "词性": "adj.",
+            "中文释义": "个性的",
+            "教材课文页": 8,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T010",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T010",
+        "word": "personal",
+        "ipa": "/ˈpɜːsənl/",
+        "focus": "首音节重读，元音为/ɜː/；后面轻读，词尾/l/不再接额外元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Honesty is one of the personal qualities I look for in a friend.",
+          "zh": "诚实是我选择朋友时看重的一种个性品质。",
+          "sourceIds": [
+            "T010"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "保留教材“个性的”义；不改用personal information的个人信息义题。",
+      "ipa": "/ˈpɜːsənl/",
+      "pos": "adj.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T009",
+      "sourceId": "T009",
+      "sourceIds": [
+        "T009"
+      ],
+      "word": "survey",
+      "meaning": "调查",
+      "sourceItems": [
+        {
+          "sourceId": "T009",
+          "sourceKind": "textbook",
+          "expression": "survey",
+          "meaning": "调查",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈsɜːveɪ/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 8,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 14,
+          "originalFields": {
+            "序号": 9,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "survey",
+            "音标（教材）": "/ˈsɜːveɪ/",
+            "词性": "n.",
+            "中文释义": "调查",
+            "教材课文页": 8,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T009",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T009",
+        "word": "survey",
+        "ipa": "/ˈsɜːveɪ/",
+        "focus": "本项名词重音在/sɜː/；/ɜː/拉长，结尾/veɪ/带双元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Our class does a survey about favourite school subjects.",
+          "zh": "我们班就最喜欢的学科做调查。",
+          "sourceIds": [
+            "T009"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/ˈsɜːveɪ/",
+      "pos": "n.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T008",
+      "sourceId": "T008",
+      "sourceIds": [
+        "T008"
+      ],
+      "word": "trust",
+      "meaning": "信任；信赖",
+      "sourceItems": [
+        {
+          "sourceId": "T008",
+          "sourceKind": "textbook",
+          "expression": "trust",
+          "meaning": "信任；信赖",
+          "partOfSpeech": "n.",
+          "phonetic": "/trʌst/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 5,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 13,
+          "originalFields": {
+            "序号": 8,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "trust",
+            "音标（教材）": "/trʌst/",
+            "词性": "n.",
+            "中文释义": "信任；信赖",
+            "教材课文页": 5,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T008",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T008",
+        "word": "trust",
+        "ipa": "/trʌst/",
+        "focus": "/tr/直接连到短元音/ʌ/；词尾/st/连在一起，不加一拍。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "There is trust between us because we keep our promises.",
+          "zh": "我们信守承诺，所以彼此信任。",
+          "sourceIds": [
+            "T008"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "源词性为名词；本组不以动词trust算覆盖。",
+      "ipa": "/trʌst/",
+      "pos": "n.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T007",
+      "sourceId": "T007",
+      "sourceIds": [
+        "T007"
+      ],
+      "word": "friendship",
+      "meaning": "友谊；朋友关系",
+      "sourceItems": [
+        {
+          "sourceId": "T007",
+          "sourceKind": "textbook",
+          "expression": "friendship",
+          "meaning": "友谊；朋友关系",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈfrendʃɪp/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 5,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 12,
+          "originalFields": {
+            "序号": 7,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "friendship",
+            "音标（教材）": "/ˈfrendʃɪp/",
+            "词性": "n.",
+            "中文释义": "友谊；朋友关系",
+            "教材课文页": 5,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T007",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T007",
+        "word": "friendship",
+        "ipa": "/ˈfrendʃɪp/",
+        "focus": "friend中的元音是/e/；接ship时/dʃ/紧接，词尾/p/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Our friendship grows as we help each other.",
+          "zh": "我们在互相帮助中增进友谊。",
+          "sourceIds": [
+            "T007"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/ˈfrendʃɪp/",
+      "pos": "n.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T006",
+      "sourceId": "T006",
+      "sourceIds": [
+        "T006"
+      ],
+      "word": "courage",
+      "meaning": "勇气；胆量",
+      "sourceItems": [
+        {
+          "sourceId": "T006",
+          "sourceKind": "textbook",
+          "expression": "courage",
+          "meaning": "勇气；胆量",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈkʌrɪdʒ/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 5,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 11,
+          "originalFields": {
+            "序号": 6,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "courage",
+            "音标（教材）": "/ˈkʌrɪdʒ/",
+            "词性": "n.",
+            "中文释义": "勇气；胆量",
+            "教材课文页": 5,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T006",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T006",
+        "word": "courage",
+        "ipa": "/ˈkʌrɪdʒ/",
+        "focus": "重读/kʌ/中的/ʌ/；结尾/dʒ/要合成一个浊辅音，不读成/ɡ/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "It takes courage to tell the truth about your own mistake.",
+          "zh": "说出自己的错误需要勇气。",
+          "sourceIds": [
+            "T006"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/ˈkʌrɪdʒ/",
+      "pos": "n.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T005",
+      "sourceId": "T005",
+      "sourceIds": [
+        "T005"
+      ],
+      "word": "confident",
+      "meaning": "自信的；有自信心的",
+      "sourceItems": [
+        {
+          "sourceId": "T005",
+          "sourceKind": "textbook",
+          "expression": "confident",
+          "meaning": "自信的；有自信心的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈkɒnfɪdənt/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 5,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 10,
+          "originalFields": {
+            "序号": 5,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "confident",
+            "音标（教材）": "/ˈkɒnfɪdənt/",
+            "词性": "adj.",
+            "中文释义": "自信的；有自信心的",
+            "教材课文页": 5,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T005",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T005",
+        "word": "confident",
+        "ipa": "/ˈkɒnfɪdənt/",
+        "focus": "重音在开头/kɒn/；末段/dənt/中的/ə/轻读，末尾/nt/不添元音。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "After a week of practice, Leo feels confident about his talk.",
+          "zh": "经过一周练习，利奥对自己的演讲充满信心。",
+          "sourceIds": [
+            "T005"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/ˈkɒnfɪdənt/",
+      "pos": "adj.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T003",
+      "sourceId": "T003",
+      "sourceIds": [
+        "T003"
+      ],
+      "word": "patient",
+      "meaning": "有耐心的",
+      "sourceItems": [
+        {
+          "sourceId": "T003",
+          "sourceKind": "textbook",
+          "expression": "patient",
+          "meaning": "有耐心的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈpeɪʃnt/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 4,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 8,
+          "originalFields": {
+            "序号": 3,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "patient",
+            "音标（教材）": "/ˈpeɪʃnt/",
+            "词性": "adj.",
+            "中文释义": "有耐心的",
+            "教材课文页": 4,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T003",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T003",
+        "word": "patient",
+        "ipa": "/ˈpeɪʃnt/",
+        "focus": "首音节重读，/eɪ/有滑动；后面的/ʃ/用清音，第二音节轻读，保留/n/和/t/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Our teacher is patient when we ask the same question again.",
+          "zh": "我们再次问同一个问题时，老师很有耐心。",
+          "sourceIds": [
+            "T003"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/ˈpeɪʃnt/",
+      "pos": "adj.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T002",
+      "sourceId": "T002",
+      "sourceIds": [
+        "T002"
+      ],
+      "word": "honest",
+      "meaning": "诚实的",
+      "sourceItems": [
+        {
+          "sourceId": "T002",
+          "sourceKind": "textbook",
+          "expression": "honest",
+          "meaning": "诚实的",
+          "partOfSpeech": "adj.",
+          "phonetic": "/ˈɒnɪst/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 4,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 7,
+          "originalFields": {
+            "序号": 2,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "honest",
+            "音标（教材）": "/ˈɒnɪst/",
+            "词性": "adj.",
+            "中文释义": "诚实的",
+            "教材课文页": 4,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T002",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T002",
+        "word": "honest",
+        "ipa": "/ˈɒnɪst/",
+        "focus": "开头h不发音，从/ɒ/起读；重音在首段，词尾/st/连读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Ella is honest: she tells the teacher about her mistake.",
+          "zh": "埃拉很诚实：她把自己的错误告诉老师。",
+          "sourceIds": [
+            "T002"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/ˈɒnɪst/",
+      "pos": "adj.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T001",
+      "sourceId": "T001",
+      "sourceIds": [
+        "T001"
+      ],
+      "word": "guitar",
+      "meaning": "吉他",
+      "sourceItems": [
+        {
+          "sourceId": "T001",
+          "sourceKind": "textbook",
+          "expression": "guitar",
+          "meaning": "吉他",
+          "partOfSpeech": "n.",
+          "phonetic": "/ɡɪˈtɑː(r)/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 4,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 6,
+          "originalFields": {
+            "序号": 1,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "guitar",
+            "音标（教材）": "/ɡɪˈtɑː(r)/",
+            "词性": "n.",
+            "中文释义": "吉他",
+            "教材课文页": 4,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T001",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T001",
+        "word": "guitar",
+        "ipa": "/ɡɪˈtɑː(r)/",
+        "focus": "重音在后段/tɑː/；/ɑː/要拉长，开头/ɡɪ/轻短。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "Sam plays the guitar in the school music club.",
+          "zh": "萨姆在学校音乐社团弹吉他。",
+          "sourceIds": [
+            "T001"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/ɡɪˈtɑː(r)/",
+      "pos": "n.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T114",
+      "sourceId": "T114",
+      "sourceIds": [
+        "T114"
+      ],
+      "word": "in fact",
+      "meaning": "事实上",
+      "sourceItems": [
+        {
+          "sourceId": "T114",
+          "sourceKind": "textbook",
+          "expression": "in fact",
+          "meaning": "事实上",
+          "partOfSpeech": null,
+          "phonetic": null,
+          "unit": "Unit 3",
+          "itemType": "短语",
+          "textbookMark": null,
+          "textbookPage": 46,
+          "wordListPdfPage": 2,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 119,
+          "originalFields": {
+            "序号": 114,
+            "单元": "Unit 3",
+            "类型": "短语",
+            "单词／短语": "in fact",
+            "音标（教材）": null,
+            "词性": null,
+            "中文释义": "事实上",
+            "教材课文页": 46,
+            "词表PDF页": 2,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "new_learning",
+          "groupId": "T114",
+          "introducedAtStation": 1
+        }
+      ],
+      "pronunciationSupport": {
+        "groupId": "T114",
+        "sourceIds": [
+          "T114"
+        ],
+        "expression": "in fact",
+        "phonetic": "/ɪn fækt/",
+        "provenance": "本次新编英式宽式参考读音，非教材原注",
+        "selfCheck": "逐项核对音段、复数/过去分词尾音及连读r；不规定唯一句重音"
+      },
+      "examples": [
+        {
+          "en": "The bag looks heavy. In fact, it is very light.",
+          "zh": "这个包看起来很重。事实上，它很轻。",
+          "sourceIds": [
+            "T114"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": null,
+      "ipa": null,
+      "pos": null,
+      "unit": "Unit 3",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T039",
+      "sourceId": "T039",
+      "sourceIds": [
+        "T039"
+      ],
+      "word": "corner",
+      "meaning": "角；墙角",
+      "sourceItems": [
+        {
+          "sourceId": "T039",
+          "sourceKind": "textbook",
+          "expression": "corner",
+          "meaning": "角；墙角",
+          "partOfSpeech": "n.",
+          "phonetic": "/ˈkɔːnə(r)/",
+          "unit": "Unit 2",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 21,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 44,
+          "originalFields": {
+            "序号": 39,
+            "单元": "Unit 2",
+            "类型": "单词",
+            "单词／短语": "corner",
+            "音标（教材）": "/ˈkɔːnə(r)/",
+            "词性": "n.",
+            "中文释义": "角；墙角",
+            "教材课文页": 21,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T039",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T039",
+        "word": "corner",
+        "ipa": "/ˈkɔːnə(r)/",
+        "focus": "重读/kɔː/，/ɔː/拉长；最后的/ə/轻读。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "There is a small bookshelf in the corner of our classroom.",
+          "zh": "教室角落里有一个小书架。",
+          "sourceIds": [
+            "T039"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/ˈkɔːnə(r)/",
+      "pos": "n.",
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T038",
+      "sourceId": "T038",
+      "sourceIds": [
+        "T038"
+      ],
+      "word": "geography",
+      "meaning": "地理（学）",
+      "sourceItems": [
+        {
+          "sourceId": "T038",
+          "sourceKind": "textbook",
+          "expression": "geography",
+          "meaning": "地理（学）",
+          "partOfSpeech": "n.",
+          "phonetic": "/dʒiˈɒɡrəfi/",
+          "unit": "Unit 2",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 21,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 43,
+          "originalFields": {
+            "序号": 38,
+            "单元": "Unit 2",
+            "类型": "单词",
+            "单词／短语": "geography",
+            "音标（教材）": "/dʒiˈɒɡrəfi/",
+            "词性": "n.",
+            "中文释义": "地理（学）",
+            "教材课文页": 21,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T038",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T038",
+        "word": "geography",
+        "ipa": "/dʒiˈɒɡrəfi/",
+        "focus": "重音在中间/ɒ/；开头字母g读/dʒ/，词中的字母组合ph读/f/。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "In geography, we learn about rivers and mountains.",
+          "zh": "地理课上，我们学习河流与山脉。",
+          "sourceIds": [
+            "T038"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/dʒiˈɒɡrəfi/",
+      "pos": "n.",
+      "unit": "Unit 2",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T023",
+      "sourceId": "T023",
+      "sourceIds": [
+        "T023"
+      ],
+      "word": "heart",
+      "meaning": "心",
+      "sourceItems": [
+        {
+          "sourceId": "T023",
+          "sourceKind": "textbook",
+          "expression": "heart",
+          "meaning": "心",
+          "partOfSpeech": "n.",
+          "phonetic": "/hɑːt/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 15,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 28,
+          "originalFields": {
+            "序号": 23,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "heart",
+            "音标（教材）": "/hɑːt/",
+            "词性": "n.",
+            "中文释义": "心",
+            "教材课文页": 15,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T023",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T023",
+        "word": "heart",
+        "ipa": "/hɑːt/",
+        "focus": "/ɑː/拉长；按源音标不另添字母r的音，最后以/t/收尾。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "My heart beats faster after running.",
+          "zh": "跑步后，我的心跳得更快。",
+          "sourceIds": [
+            "T023"
+          ]
+        },
+        {
+          "en": "She has a kind heart and likes helping others.",
+          "zh": "她心地善良，喜欢帮助别人。",
+          "sourceIds": [
+            "T023"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "",
+      "ipa": "/hɑːt/",
+      "pos": "n.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    },
+    {
+      "groupId": "T019",
+      "sourceId": "T019",
+      "sourceIds": [
+        "T019"
+      ],
+      "word": "thought",
+      "meaning": "想法",
+      "sourceItems": [
+        {
+          "sourceId": "T019",
+          "sourceKind": "textbook",
+          "expression": "thought",
+          "meaning": "想法",
+          "partOfSpeech": "n.",
+          "phonetic": "/θɔːt/",
+          "unit": "Unit 1",
+          "itemType": "单词",
+          "textbookMark": null,
+          "textbookPage": 12,
+          "wordListPdfPage": 1,
+          "sourceFile": "七年级上册_按单元教材词本.xlsx",
+          "sheet": "教材词本",
+          "row": 24,
+          "originalFields": {
+            "序号": 19,
+            "单元": "Unit 1",
+            "类型": "单词",
+            "单词／短语": "thought",
+            "音标（教材）": "/θɔːt/",
+            "词性": "n.",
+            "中文释义": "想法",
+            "教材课文页": 12,
+            "词表PDF页": 1,
+            "教材标记": null,
+            "掌握情况": "未学习",
+            "核对备注": null
+          },
+          "exampleSentence": null,
+          "exampleSentenceProvenance": "源教材词表未提供例句；编题例句另标原创",
+          "role": "baseline",
+          "groupId": "T019",
+          "introducedAtStation": 0
+        }
+      ],
+      "pronunciationSupport": {
+        "sourceId": "T019",
+        "word": "thought",
+        "ipa": "/θɔːt/",
+        "focus": "开头字母组合th读清辅音/θ/，舌尖轻放在上下齿间；/ɔː/拉长，末尾/t/收住。",
+        "basis": "retained_source_ipa",
+        "reviewedAgainstSource": true
+      },
+      "examples": [
+        {
+          "en": "A kind thought can lead to a helpful action.",
+          "zh": "一个善意的想法可以带来一次助人行动。",
+          "sourceIds": [
+            "T019"
+          ]
+        }
+      ],
+      "wordHelp": [],
+      "notes": "源词性为名词；不以动词think过去式替代。",
+      "ipa": "/θɔːt/",
+      "pos": "n.",
+      "unit": "Unit 1",
+      "textbookMarker": null
+    }
+  ],
+  "warmup": [
+    {
+      "id": 1,
+      "sourceId": "T018",
+      "groupId": "T018",
+      "direction": "zh_to_en",
+      "stem": "基本的；基础的",
+      "options": [
+        {
+          "label": "A",
+          "text": "fresh"
+        },
+        {
+          "label": "B",
+          "text": "clear"
+        },
+        {
+          "label": "C",
+          "text": "basic"
+        },
+        {
+          "label": "D",
+          "text": "sincerely"
+        }
+      ],
+      "answer": "C",
+      "word": "basic",
+      "meaning": "基本的；基础的"
+    },
+    {
+      "id": 2,
+      "sourceId": "T016",
+      "groupId": "T016",
+      "direction": "en_to_zh",
+      "stem": "dark",
+      "options": [
+        {
+          "label": "A",
+          "text": "海报"
+        },
+        {
+          "label": "B",
+          "text": "（使）分开"
+        },
+        {
+          "label": "C",
+          "text": "铺满沙子的；含沙的"
+        },
+        {
+          "label": "D",
+          "text": "褐色的；乌黑的"
+        }
+      ],
+      "answer": "D",
+      "word": "dark",
+      "meaning": "褐色的；乌黑的"
+    },
+    {
+      "id": 3,
+      "sourceId": "T015",
+      "groupId": "T015",
+      "direction": "zh_to_en",
+      "stem": "直的",
+      "options": [
+        {
+          "label": "A",
+          "text": "after school"
+        },
+        {
+          "label": "B",
+          "text": "same"
+        },
+        {
+          "label": "C",
+          "text": "mood"
+        },
+        {
+          "label": "D",
+          "text": "straight"
+        }
+      ],
+      "answer": "D",
+      "word": "straight",
+      "meaning": "直的"
+    },
+    {
+      "id": 4,
+      "sourceId": "T014",
+      "groupId": "T014",
+      "direction": "en_to_zh",
+      "stem": "appearance",
+      "options": [
+        {
+          "label": "A",
+          "text": "期待，盼望；盼望；期待"
+        },
+        {
+          "label": "B",
+          "text": "自信的；有自信心的"
+        },
+        {
+          "label": "C",
+          "text": "放学后"
+        },
+        {
+          "label": "D",
+          "text": "外貌"
+        }
+      ],
+      "answer": "D",
+      "word": "appearance",
+      "meaning": "外貌"
+    },
+    {
+      "id": 5,
+      "sourceId": "T012",
+      "groupId": "T012",
+      "direction": "zh_to_en",
+      "stem": "关心他人的；体贴人的",
+      "options": [
+        {
+          "label": "A",
+          "text": "end"
+        },
+        {
+          "label": "B",
+          "text": "caring"
+        },
+        {
+          "label": "C",
+          "text": "diary"
+        },
+        {
+          "label": "D",
+          "text": "thunder"
+        }
+      ],
+      "answer": "B",
+      "word": "caring",
+      "meaning": "关心他人的；体贴人的"
+    },
+    {
+      "id": 6,
+      "sourceId": "T011",
+      "groupId": "T011",
+      "direction": "en_to_zh",
+      "stem": "quality",
+      "options": [
+        {
+          "label": "A",
+          "text": "品质；品德"
+        },
+        {
+          "label": "B",
+          "text": "求助于某人"
+        },
+        {
+          "label": "C",
+          "text": "关心他人的；体贴人的"
+        },
+        {
+          "label": "D",
+          "text": "基本的；基础的"
+        }
+      ],
+      "answer": "A",
+      "word": "quality",
+      "meaning": "品质；品德"
+    },
+    {
+      "id": 7,
+      "sourceId": "T010",
+      "groupId": "T010",
+      "direction": "zh_to_en",
+      "stem": "个性的",
+      "options": [
+        {
+          "label": "A",
+          "text": "divide"
+        },
+        {
+          "label": "B",
+          "text": "part"
+        },
+        {
+          "label": "C",
+          "text": "personal"
+        },
+        {
+          "label": "D",
+          "text": "be willing to do something"
+        }
+      ],
+      "answer": "C",
+      "word": "personal",
+      "meaning": "个性的"
+    },
+    {
+      "id": 8,
+      "sourceId": "T009",
+      "groupId": "T009",
+      "direction": "en_to_zh",
+      "stem": "survey",
+      "options": [
+        {
+          "label": "A",
+          "text": "技术；技能"
+        },
+        {
+          "label": "B",
+          "text": "调查"
+        },
+        {
+          "label": "C",
+          "text": "年级"
+        },
+        {
+          "label": "D",
+          "text": "上升到"
+        }
+      ],
+      "answer": "B",
+      "word": "survey",
+      "meaning": "调查"
+    },
+    {
+      "id": 9,
+      "sourceId": "T008",
+      "groupId": "T008",
+      "direction": "zh_to_en",
+      "stem": "信任；信赖",
+      "options": [
+        {
+          "label": "A",
+          "text": "trust"
+        },
+        {
+          "label": "B",
+          "text": "sincerely"
+        },
+        {
+          "label": "C",
+          "text": "gather"
+        },
+        {
+          "label": "D",
+          "text": "go to bed"
+        }
+      ],
+      "answer": "A",
+      "word": "trust",
+      "meaning": "信任；信赖"
+    },
+    {
+      "id": 10,
+      "sourceId": "T007",
+      "groupId": "T007",
+      "direction": "en_to_zh",
+      "stem": "friendship",
+      "options": [
+        {
+          "label": "A",
+          "text": "友谊；朋友关系"
+        },
+        {
+          "label": "B",
+          "text": "基本的；基础的"
+        },
+        {
+          "label": "C",
+          "text": "上升到"
+        },
+        {
+          "label": "D",
+          "text": "蛇"
+        }
+      ],
+      "answer": "A",
+      "word": "friendship",
+      "meaning": "友谊；朋友关系"
+    },
+    {
+      "id": 11,
+      "sourceId": "T006",
+      "groupId": "T006",
+      "direction": "zh_to_en",
+      "stem": "勇气；胆量",
+      "options": [
+        {
+          "label": "A",
+          "text": "success"
+        },
+        {
+          "label": "B",
+          "text": "get up"
+        },
+        {
+          "label": "C",
+          "text": "corner"
+        },
+        {
+          "label": "D",
+          "text": "courage"
+        }
+      ],
+      "answer": "D",
+      "word": "courage",
+      "meaning": "勇气；胆量"
+    },
+    {
+      "id": 12,
+      "sourceId": "T005",
+      "groupId": "T005",
+      "direction": "en_to_zh",
+      "stem": "confident",
+      "options": [
+        {
+          "label": "A",
+          "text": "描述；形容"
+        },
+        {
+          "label": "B",
+          "text": "自信的；有自信心的"
+        },
+        {
+          "label": "C",
+          "text": "去旅行"
+        },
+        {
+          "label": "D",
+          "text": "个性的"
+        }
+      ],
+      "answer": "B",
+      "word": "confident",
+      "meaning": "自信的；有自信心的"
+    },
+    {
+      "id": 13,
+      "sourceId": "T003",
+      "groupId": "T003",
+      "direction": "zh_to_en",
+      "stem": "有耐心的",
+      "options": [
+        {
+          "label": "A",
+          "text": "skill"
+        },
+        {
+          "label": "B",
+          "text": "presentation"
+        },
+        {
+          "label": "C",
+          "text": "patient"
+        },
+        {
+          "label": "D",
+          "text": "wet"
+        }
+      ],
+      "answer": "C",
+      "word": "patient",
+      "meaning": "有耐心的"
+    },
+    {
+      "id": 14,
+      "sourceId": "T002",
+      "groupId": "T002",
+      "direction": "en_to_zh",
+      "stem": "honest",
+      "options": [
+        {
+          "label": "A",
+          "text": "大叫；叫喊"
+        },
+        {
+          "label": "B",
+          "text": "蛇"
+        },
+        {
+          "label": "C",
+          "text": "打扫干净"
+        },
+        {
+          "label": "D",
+          "text": "诚实的"
+        }
+      ],
+      "answer": "D",
+      "word": "honest",
+      "meaning": "诚实的"
+    },
+    {
+      "id": 15,
+      "sourceId": "T001",
+      "groupId": "T001",
+      "direction": "zh_to_en",
+      "stem": "吉他",
+      "options": [
+        {
+          "label": "A",
+          "text": "go to bed"
+        },
+        {
+          "label": "B",
+          "text": "describe"
+        },
+        {
+          "label": "C",
+          "text": "get ... ready for"
+        },
+        {
+          "label": "D",
+          "text": "guitar"
+        }
+      ],
+      "answer": "D",
+      "word": "guitar",
+      "meaning": "吉他"
+    },
+    {
+      "id": 16,
+      "sourceId": "T114",
+      "groupId": "T114",
+      "direction": "en_to_zh",
+      "stem": "in fact",
+      "options": [
+        {
+          "label": "A",
+          "text": "中等身高"
+        },
+        {
+          "label": "B",
+          "text": "事实上"
+        },
+        {
+          "label": "C",
+          "text": "现代舞"
+        },
+        {
+          "label": "D",
+          "text": "技术；技能"
+        }
+      ],
+      "answer": "B",
+      "word": "in fact",
+      "meaning": "事实上"
+    },
+    {
+      "id": 17,
+      "sourceId": "T039",
+      "groupId": "T039",
+      "direction": "zh_to_en",
+      "stem": "角；墙角",
+      "options": [
+        {
+          "label": "A",
+          "text": "geography"
+        },
+        {
+          "label": "B",
+          "text": "do the dishes"
+        },
+        {
+          "label": "C",
+          "text": "culture"
+        },
+        {
+          "label": "D",
+          "text": "corner"
+        }
+      ],
+      "answer": "D",
+      "word": "corner",
+      "meaning": "角；墙角"
+    },
+    {
+      "id": 18,
+      "sourceId": "T038",
+      "groupId": "T038",
+      "direction": "en_to_zh",
+      "stem": "geography",
+      "options": [
+        {
+          "label": "A",
+          "text": "文章"
+        },
+        {
+          "label": "B",
+          "text": "南；南方"
+        },
+        {
+          "label": "C",
+          "text": "地理（学）"
+        },
+        {
+          "label": "D",
+          "text": "（使）分开"
+        }
+      ],
+      "answer": "C",
+      "word": "geography",
+      "meaning": "地理（学）"
+    },
+    {
+      "id": 19,
+      "sourceId": "T023",
+      "groupId": "T023",
+      "direction": "zh_to_en",
+      "stem": "心",
+      "options": [
+        {
+          "label": "A",
+          "text": "improve"
+        },
+        {
+          "label": "B",
+          "text": "heart"
+        },
+        {
+          "label": "C",
+          "text": "wet"
+        },
+        {
+          "label": "D",
+          "text": "just"
+        }
+      ],
+      "answer": "B",
+      "word": "heart",
+      "meaning": "心"
+    },
+    {
+      "id": 20,
+      "sourceId": "T019",
+      "groupId": "T019",
+      "direction": "en_to_zh",
+      "stem": "thought",
+      "options": [
+        {
+          "label": "A",
+          "text": "取（某物）"
+        },
+        {
+          "label": "B",
+          "text": "庆祝；庆贺"
+        },
+        {
+          "label": "C",
+          "text": "初级中学"
+        },
+        {
+          "label": "D",
+          "text": "想法"
+        }
+      ],
+      "answer": "D",
+      "word": "thought",
+      "meaning": "想法"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T018",
+      "groupId": "T018",
+      "target": "basic",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "unnecessary for everyone involved"
+        },
+        {
+          "label": "B",
+          "text": "simple and important as a starting point for learning or doing something"
+        },
+        {
+          "label": "C",
+          "text": "complicated and for experts only"
+        },
+        {
+          "label": "D",
+          "text": "added only to make something pretty"
+        }
+      ],
+      "accepted": [],
+      "wordOnlyListeningOccurrence": 0,
+      "answer": "B",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "basic",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "basic"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "基本的；基础的",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “basic” means “simple and important as a starting point for learning or doing something”.",
+      "parentExplanation": "本题考查“basic”在本句中的用法；正确英文解释为“simple and important as a starting point for learning or doing something”。对应源表释义为“基本的；基础的”。",
+      "wordHelp": []
+    },
+    {
+      "id": 2,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T016",
+      "groupId": "T016",
+      "target": "dark",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "very pale or almost white"
+        },
+        {
+          "label": "B",
+          "text": "clear and without any colour"
+        },
+        {
+          "label": "C",
+          "text": "bright red or orange in colour"
+        },
+        {
+          "label": "D",
+          "text": "close to black or deep brown in colour"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "listening_word_meaning_choice",
+      "stem": "Listen to the word, phrase or sentence. Choose the matching meaning.",
+      "listenScript": "dark",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "dark"
+        }
+      ],
+      "translation": {
+        "stem": "听词条或句子，选择相符的英文释义。",
+        "listenScript": "褐色的；乌黑的",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_word_meaning",
+      "explanation": "Here, “dark” means “close to black or deep brown in colour”.",
+      "parentExplanation": "本题考查“dark”在本句中的用法；正确英文解释为“close to black or deep brown in colour”。对应源表释义为“褐色的；乌黑的”。",
+      "wordHelp": []
+    },
+    {
+      "id": 3,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T015",
+      "groupId": "T015",
+      "target": "straight",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "basic"
+        },
+        {
+          "label": "B",
+          "text": "glad"
+        },
+        {
+          "label": "C",
+          "text": "dark"
+        },
+        {
+          "label": "D",
+          "text": "straight"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "Which word describes the line?",
+      "answer": "D",
+      "listenScript": "Lily draws a line with a ruler. The line goes in one direction and has no bends.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Lily draws a line with a ruler. The line goes in one direction and has no bends."
+        }
+      ],
+      "explanation": "A line with no bends is straight.",
+      "parentExplanation": "没有弯曲的线是直的，对应straight。",
+      "translation": {
+        "stem": "哪个词描述这条线？",
+        "listenScript": "莉莉用尺子画一条线。这条线沿一个方向延伸，没有弯曲。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T015",
+        "T016",
+        "T018",
+        "T020"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 4,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T014",
+      "groupId": "T014",
+      "target": "appearance",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "appearance"
+        },
+        {
+          "label": "B",
+          "text": "friendship"
+        },
+        {
+          "label": "C",
+          "text": "courage"
+        },
+        {
+          "label": "D",
+          "text": "thought"
+        }
+      ],
+      "accepted": [],
+      "kind": "listening_context_choice",
+      "stem": "What is Ben describing?",
+      "answer": "A",
+      "listenScript": "Ben describes his new classmate. He talks about her hair, eyes and height, not her hobbies.",
+      "listenLines": [
+        {
+          "speaker": null,
+          "text": "Ben describes his new classmate. He talks about her hair, eyes and height, not her hobbies."
+        }
+      ],
+      "explanation": "Hair, eyes and height are parts of a person's appearance.",
+      "parentExplanation": "头发、眼睛和身高描述外貌，对应appearance。",
+      "translation": {
+        "stem": "本在描述什么？",
+        "listenScript": "本描述他的新同学。他谈的是她的头发、眼睛和身高，而不是爱好。",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "listening_context_meaning",
+      "choiceSourceIds": [
+        "T014",
+        "T007",
+        "T019",
+        "T006"
+      ],
+      "wordHelp": []
+    },
+    {
+      "id": 5,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T012",
+      "groupId": "T012",
+      "target": "caring",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "unable to remember recent events"
+        },
+        {
+          "label": "B",
+          "text": "unwilling to think about others"
+        },
+        {
+          "label": "C",
+          "text": "kind and showing concern for other people"
+        },
+        {
+          "label": "D",
+          "text": "always trying to win every game"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "word_meaning_in_context",
+      "stem": "Amy notices that I am sad and stays to help me. She is a caring friend.\nWhat does “caring” mean here?",
+      "translation": {
+        "stem": "埃米注意到我难过，留下来帮助我。她是个体贴的朋友。 这里“caring”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “caring” means “kind and showing concern for other people”.",
+      "parentExplanation": "本题考查“caring”在本句中的用法；正确英文解释为“kind and showing concern for other people”。对应源表释义为“关心他人的；体贴人的”。",
+      "wordHelp": []
+    },
+    {
+      "id": 6,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T011",
+      "groupId": "T011",
+      "target": "quality",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a part of a person's character, such as honesty or kindness"
+        },
+        {
+          "label": "B",
+          "text": "a type of school furniture"
+        },
+        {
+          "label": "C",
+          "text": "a number used for a house"
+        },
+        {
+          "label": "D",
+          "text": "a place where people buy food"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "word_meaning_in_context",
+      "stem": "Honesty is a good quality in a friend because it helps us believe each other.\nWhat does “quality” mean here?",
+      "translation": {
+        "stem": "诚实是朋友的一项好品质，因为它有助于我们互相信任。 这里“quality”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “quality” means “a part of a person's character, such as honesty or kindness”.",
+      "parentExplanation": "本题考查“quality”在本句中的用法；正确英文解释为“a part of a person's character, such as honesty or kindness”。对应源表释义为“品质；品德”。",
+      "wordHelp": []
+    },
+    {
+      "id": 7,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T010",
+      "groupId": "T010",
+      "target": "personal",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "used for measuring the speed of a car"
+        },
+        {
+          "label": "B",
+          "text": "shared by every animal of a species"
+        },
+        {
+          "label": "C",
+          "text": "connected with the shape of a building"
+        },
+        {
+          "label": "D",
+          "text": "connected with an individual person and their own character"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "Kindness and patience are personal qualities that can make a person a good friend.\nWhat does “personal” mean here?",
+      "translation": {
+        "stem": "善良和耐心是能让人成为好朋友的个性品质。 这里“personal”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “personal” means “connected with an individual person and their own character”.",
+      "parentExplanation": "本题考查“personal”在本句中的用法；正确英文解释为“connected with an individual person and their own character”。对应源表释义为“个性的”。",
+      "wordHelp": []
+    },
+    {
+      "id": 8,
+      "lap": 1,
+      "points": 10,
+      "sourceId": "T009",
+      "groupId": "T009",
+      "target": "survey",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a plan showing the rooms in a house"
+        },
+        {
+          "label": "B",
+          "text": "a story about an imaginary animal"
+        },
+        {
+          "label": "C",
+          "text": "a message asking someone to a party"
+        },
+        {
+          "label": "D",
+          "text": "a set of questions used to find out what people think or do"
+        }
+      ],
+      "accepted": [],
+      "answer": "D",
+      "kind": "word_meaning_in_context",
+      "stem": "We ask every student the same five questions for our class survey.\nWhat does “survey” mean here?",
+      "translation": {
+        "stem": "我们为班级调查向每名学生问同样的五个问题。 这里“survey”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "word_meaning_in_context",
+      "explanation": "Here, “survey” means “a set of questions used to find out what people think or do”.",
+      "parentExplanation": "本题考查“survey”在本句中的用法；正确英文解释为“a set of questions used to find out what people think or do”。对应源表释义为“调查”。",
+      "wordHelp": []
+    },
+    {
+      "id": 9,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T008",
+      "groupId": "T008",
+      "target": "trust",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "trust"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "I have complete t________ in my sister because she always keeps her promises.",
+      "answer": "trust",
+      "hint": "Use a noun meaning belief that another person is reliable.",
+      "grammar": "have trust in + 人",
+      "initialLetter": "t",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Keeping promises gives the speaker trust in her sister.",
+      "parentExplanation": "此处用名词trust；have trust in表示信任。",
+      "translation": {
+        "stem": "我完全信任姐姐，因为她总是信守承诺。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 10,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T007",
+      "groupId": "T007",
+      "target": "friendship",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "friendship"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "We became good friends years ago, and our f________ is very important to us.",
+      "answer": "friendship",
+      "hint": "Name the relationship shared by people who are friends.",
+      "grammar": "物主代词 + 名词",
+      "initialLetter": "f",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The relationship between the friends is their friendship.",
+      "parentExplanation": "人与朋友之间的关系为friendship，不填表示人物的friend。",
+      "translation": {
+        "stem": "我们做了多年好朋友，我们的友谊对彼此很重要。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 11,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T006",
+      "groupId": "T006",
+      "target": "courage",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "courage"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Ben is afraid of speaking in class, but he finds the c________ to stand up and try.",
+      "answer": "courage",
+      "hint": "Name the quality that helps you act even when you feel afraid.",
+      "grammar": "不可数名词；the courage to do",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "The quality that lets Ben act despite fear is courage.",
+      "parentExplanation": "克服害怕、站起来尝试，体现courage；此处是不可数名词。",
+      "translation": {
+        "stem": "本害怕在课堂上发言，但他鼓起勇气，站起来试一试。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 12,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T005",
+      "groupId": "T005",
+      "target": "confident",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "confident"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "I know I can answer the question well. I feel c________.",
+      "answer": "confident",
+      "hint": "Use the nine-letter adjective for feeling sure of your own ability.",
+      "grammar": "feel + 形容词",
+      "initialLetter": "c",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Being sure of your ability means feeling confident.",
+      "parentExplanation": "确信自己有能力做好，表示自信；feel后接形容词。",
+      "translation": {
+        "stem": "我知道自己能把这个问题回答好。我感到很自信。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 13,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T003",
+      "groupId": "T003",
+      "target": "patient",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "patient"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Grandpa is p________ with me. He shows me the same step five times without getting angry.",
+      "answer": "patient",
+      "hint": "Use an adjective for staying calm when a task takes a long time.",
+      "grammar": "be patient with + 人",
+      "initialLetter": "p",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Helping calmly again and again shows that Grandpa is patient.",
+      "parentExplanation": "重复教同一步骤而不生气，体现有耐心；不能用patient的病人名词义。",
+      "translation": {
+        "stem": "爷爷对我很有耐心。他把同一个步骤给我演示五遍也不生气。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 14,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T002",
+      "groupId": "T002",
+      "target": "honest",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "honest"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "I believe Tom because he is h________ and never tells lies.",
+      "answer": "honest",
+      "hint": "Use an adjective meaning truthful and not trying to cheat.",
+      "grammar": "be + 形容词",
+      "initialLetter": "h",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "Someone who tells the truth and does not lie is honest.",
+      "parentExplanation": "never tells lies说明他诚实；be动词后用形容词。",
+      "translation": {
+        "stem": "我相信汤姆，因为他诚实，从不说谎。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 15,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T001",
+      "groupId": "T001",
+      "target": "guitar",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "guitar"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "Lily plays six strings with her fingers. Her favourite instrument is the g________.",
+      "answer": "guitar",
+      "hint": "Name the six-string instrument that you can play while holding it against your body.",
+      "grammar": "名词单数；乐器名称",
+      "initialLetter": "g",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "A six-string instrument held against the body is a guitar.",
+      "parentExplanation": "六根弦、用手指拨奏的乐器指吉他；此处填写名词单数。",
+      "translation": {
+        "stem": "莉莉用手指拨动六根弦。她最喜欢的乐器是吉他。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 16,
+      "lap": 2,
+      "points": 15,
+      "sourceId": "T114",
+      "groupId": "T114",
+      "target": "in fact",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": false,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [],
+      "accepted": [
+        "In fact"
+      ],
+      "kind": "initial_letter_fill",
+      "stem": "People think this animal is a fish. I________, it is a whale.",
+      "answer": "In fact",
+      "hint": "used to introduce the real situation",
+      "grammar": "Sentence adverbial phrase",
+      "initialLetter": "i",
+      "answerEntry": "full_word_or_phrase_including_given_initial",
+      "hintDisplay": {
+        "label": "提示",
+        "defaultVisible": true,
+        "newLine": true,
+        "fontSizePt": 9
+      },
+      "explanation": "In fact introduces the truth, which differs from what people think.",
+      "parentExplanation": "in fact用于引出与人们想法不同的真实情况；句首In可大写。",
+      "translation": {
+        "stem": "人们以为这种动物是鱼。事实上，它是一头鲸。",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "spelling_and_grammar",
+      "bankVariant": 0,
+      "wordHelp": []
+    },
+    {
+      "id": 17,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T039",
+      "groupId": "T039",
+      "target": "corner",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a tool for drawing circles"
+        },
+        {
+          "label": "B",
+          "text": "the place where two edges meet"
+        },
+        {
+          "label": "C",
+          "text": "an idea in someone's mind"
+        },
+        {
+          "label": "D",
+          "text": "a subject about the world"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “corner” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Corner means the place where two edges meet, here at the edge of the paper.",
+      "parentExplanation": "corner在此指纸张两边相交的角。",
+      "translation": {
+        "stem": "短文中的“corner”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "corner"
+    },
+    {
+      "id": 18,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T038",
+      "groupId": "T038",
+      "target": "geography",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "the practice of a musical instrument"
+        },
+        {
+          "label": "B",
+          "text": "the school subject about places and the world"
+        },
+        {
+          "label": "C",
+          "text": "a book used to record daily events"
+        },
+        {
+          "label": "D",
+          "text": "a story performed on stage"
+        }
+      ],
+      "accepted": [],
+      "answer": "B",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “geography” mean in this passage?",
+      "passageId": "A",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Geography is the school subject about places and the world.",
+      "parentExplanation": "geography为研究地点和世界的学科地理。",
+      "translation": {
+        "stem": "短文中的“geography”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        3
+      ],
+      "targetSpan": "geography"
+    },
+    {
+      "id": 19,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "Why does Ben walk from the gate to the library?",
+      "explanation": "He checks the map on the walk and finds a missing path.",
+      "parentExplanation": "第5至6句表明，本实地核对地图并发现漏画的小路。",
+      "translation": {
+        "stem": "本为什么从大门走到图书馆？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5,
+        6
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "To borrow a ruler from the librarian."
+        },
+        {
+          "label": "B",
+          "text": "To check whether the map is complete."
+        },
+        {
+          "label": "C",
+          "text": "To meet visitors outside the school."
+        },
+        {
+          "label": "D",
+          "text": "To move the school gate to a new place."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "A",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "What is the passage mainly about?",
+      "explanation": "The pupils draw, check and improve a map for people new to the school.",
+      "parentExplanation": "全文围绕制作并核对校园地图展开。",
+      "translation": {
+        "stem": "短文主要讲什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A class changes its school lesson times."
+        },
+        {
+          "label": "B",
+          "text": "Visitors draw pictures of the school gate."
+        },
+        {
+          "label": "C",
+          "text": "Pupils make and check a useful school map."
+        },
+        {
+          "label": "D",
+          "text": "A pupil searches for a missing library book."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T023",
+      "groupId": "T023",
+      "target": "heart",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a person's feelings or kindness"
+        },
+        {
+          "label": "B",
+          "text": "a sound made by a small bird"
+        },
+        {
+          "label": "C",
+          "text": "a place where flowers grow"
+        },
+        {
+          "label": "D",
+          "text": "a part of a chair"
+        }
+      ],
+      "accepted": [],
+      "answer": "A",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “heart” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "A kind heart describes caring feelings, not the chair or a body measurement.",
+      "parentExplanation": "heart在kind heart中指善良的心、心地。",
+      "translation": {
+        "stem": "短文中的“heart”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        4
+      ],
+      "targetSpan": "heart"
+    },
+    {
+      "id": 22,
+      "lap": 3,
+      "points": 20,
+      "sourceId": "T019",
+      "groupId": "T019",
+      "target": "thought",
+      "status": "review",
+      "directVocabularyEvidence": true,
+      "independentWithoutHint": true,
+      "assessmentTarget": "词义或正确表达形式",
+      "options": [
+        {
+          "label": "A",
+          "text": "a room for keeping chairs"
+        },
+        {
+          "label": "B",
+          "text": "a mark made by a foot"
+        },
+        {
+          "label": "C",
+          "text": "an idea in someone's mind"
+        },
+        {
+          "label": "D",
+          "text": "a loud sound in a crowd"
+        }
+      ],
+      "accepted": [],
+      "answer": "C",
+      "kind": "reading_vocabulary_in_context",
+      "stem": "What does “thought” mean in this passage?",
+      "passageId": "B",
+      "readingSkill": "vocabulary in context",
+      "explanation": "Thought means the idea Mia has about helping Grandpa.",
+      "parentExplanation": "thought是米娅脑海中帮助爷爷的想法。",
+      "translation": {
+        "stem": "短文中的“thought”是什么意思？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_vocabulary_in_context",
+      "evidenceSentenceIndices": [
+        2
+      ],
+      "targetSpan": "thought"
+    },
+    {
+      "id": 23,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_detail_integration",
+      "readingSkill": "detail or integration",
+      "assessmentTarget": "阅读细节、因果或信息整合",
+      "stem": "What does the father do before Grandpa uses the chair?",
+      "explanation": "Sentence 5 says that the father checks that the chair is strong.",
+      "parentExplanation": "第5句说明爸爸检查椅子是否结实。",
+      "translation": {
+        "stem": "爷爷使用椅子前，爸爸做了什么？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_detail_integration",
+      "evidenceSentenceIndices": [
+        5
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "He paints a picture of the old seat."
+        },
+        {
+          "label": "B",
+          "text": "He moves Grandpa to another house."
+        },
+        {
+          "label": "C",
+          "text": "He checks that it is strong."
+        },
+        {
+          "label": "D",
+          "text": "He carries every flower indoors."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "lap": 3,
+      "points": 20,
+      "status": "review",
+      "sourceId": null,
+      "groupId": null,
+      "target": null,
+      "directVocabularyEvidence": false,
+      "independentWithoutHint": true,
+      "accepted": [],
+      "passageId": "B",
+      "kind": "reading_main_idea",
+      "readingSkill": "main idea",
+      "assessmentTarget": "篇章主旨理解",
+      "stem": "Which title best fits the passage?",
+      "explanation": "Mia notices Grandpa's need, and the family works together to help.",
+      "parentExplanation": "全文讲米娅提出善意想法，家人一起帮助爷爷。",
+      "translation": {
+        "stem": "哪个标题最合适？",
+        "listenScript": "",
+        "availableAfterSubmit": true,
+        "defaultHidden": true,
+        "triggerLabel": "Translate"
+      },
+      "evidenceType": "reading_main_idea",
+      "evidenceSentenceIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "A Race Through the Garden"
+        },
+        {
+          "label": "B",
+          "text": "A Family Leaves Its Flowers"
+        },
+        {
+          "label": "C",
+          "text": "A Caring Idea for Grandpa"
+        },
+        {
+          "label": "D",
+          "text": "A Lesson About Drawing Chairs"
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "passages": [
+    {
+      "id": "A",
+      "text": "Our class makes a small map of the school for new pupils. Mia puts the library in one corner of the paper, where two edges meet. In geography, we learn how maps help people understand places. We add the playground, the gate and the paths between them. Ben checks the map by walking from the gate to the library. He finds one missing path, so we draw it before making copies. Now visitors can use our map to find the places they need.",
+      "parallelText": [
+        {
+          "en": "Our class makes a small map of the school for new pupils.",
+          "zh": "我们班为新同学制作一张小校园地图。"
+        },
+        {
+          "en": "Mia puts the library in one corner of the paper, where two edges meet.",
+          "zh": "米娅把图书馆画在纸张的一个角上，也就是两条边相交的地方。"
+        },
+        {
+          "en": "In geography, we learn how maps help people understand places.",
+          "zh": "地理课上，我们学习地图怎样帮助人们了解地点。"
+        },
+        {
+          "en": "We add the playground, the gate and the paths between them.",
+          "zh": "我们加上操场、大门和连接它们的小路。"
+        },
+        {
+          "en": "Ben checks the map by walking from the gate to the library.",
+          "zh": "本从大门走到图书馆，核对地图。"
+        },
+        {
+          "en": "He finds one missing path, so we draw it before making copies.",
+          "zh": "他发现少了一条小路，于是我们在复印前把它画上。"
+        },
+        {
+          "en": "Now visitors can use our map to find the places they need.",
+          "zh": "现在来访者可以使用我们的地图找到需要去的地方。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "edge",
+          "meaning": "the outside line of a flat object"
+        },
+        {
+          "word": "copies",
+          "meaning": "extra versions of the same written or printed thing"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "text": "Grandpa enjoys sitting outside, but the old garden seat is broken. Mia has a thought: the family can help him find a comfortable chair. She tells her brother, and they ask their parents about a spare chair. Their father says Mia has a kind heart because she notices what Grandpa needs. The children clean the spare chair while their father checks that it is strong. They place it beside the flowers where Grandpa likes to sit. Grandpa smiles, and the family spends a quiet afternoon there together.",
+      "parallelText": [
+        {
+          "en": "Grandpa enjoys sitting outside, but the old garden seat is broken.",
+          "zh": "爷爷喜欢坐在户外，但花园里的旧座椅坏了。"
+        },
+        {
+          "en": "Mia has a thought: the family can help him find a comfortable chair.",
+          "zh": "米娅有个想法：家人可以帮他找一把舒适的椅子。"
+        },
+        {
+          "en": "She tells her brother, and they ask their parents about a spare chair.",
+          "zh": "她告诉哥哥／弟弟，两人向父母询问备用椅子。"
+        },
+        {
+          "en": "Their father says Mia has a kind heart because she notices what Grandpa needs.",
+          "zh": "爸爸说米娅心地善良，因为她注意到了爷爷的需要。"
+        },
+        {
+          "en": "The children clean the spare chair while their father checks that it is strong.",
+          "zh": "孩子们清洁备用椅子，爸爸则检查它是否结实。"
+        },
+        {
+          "en": "They place it beside the flowers where Grandpa likes to sit.",
+          "zh": "他们把椅子放在爷爷喜欢坐的花丛旁。"
+        },
+        {
+          "en": "Grandpa smiles, and the family spends a quiet afternoon there together.",
+          "zh": "爷爷笑了，一家人在那里一起度过安静的下午。"
+        }
+      ],
+      "wordHelp": [
+        {
+          "word": "spare",
+          "meaning": "extra and available to use"
+        },
+        {
+          "word": "comfortable",
+          "meaning": "pleasant to sit on or use"
+        }
+      ]
+    }
+  ],
+  "reviewSlots": [
+    {
+      "slotId": "S007-L1-R1",
+      "lap": 1,
+      "position": 1,
+      "questionNumber": 1,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T018",
+      "groupId": "T018",
+      "expression": "basic",
+      "meaning": "基本的；基础的",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L1-R2",
+      "lap": 1,
+      "position": 2,
+      "questionNumber": 2,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T016",
+      "groupId": "T016",
+      "expression": "dark",
+      "meaning": "褐色的；乌黑的",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L1-R3",
+      "lap": 1,
+      "position": 3,
+      "questionNumber": 3,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T015",
+      "groupId": "T015",
+      "expression": "straight",
+      "meaning": "直的",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L1-R4",
+      "lap": 1,
+      "position": 4,
+      "questionNumber": 4,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T014",
+      "groupId": "T014",
+      "expression": "appearance",
+      "meaning": "外貌",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L1-R5",
+      "lap": 1,
+      "position": 5,
+      "questionNumber": 5,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T012",
+      "groupId": "T012",
+      "expression": "caring",
+      "meaning": "关心他人的；体贴人的",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L1-R6",
+      "lap": 1,
+      "position": 6,
+      "questionNumber": 6,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T011",
+      "groupId": "T011",
+      "expression": "quality",
+      "meaning": "品质；品德",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L1-R7",
+      "lap": 1,
+      "position": 7,
+      "questionNumber": 7,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T010",
+      "groupId": "T010",
+      "expression": "personal",
+      "meaning": "个性的",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L1-R8",
+      "lap": 1,
+      "position": 8,
+      "questionNumber": 8,
+      "readingPassageNumber": null,
+      "kind": "meaning_choice",
+      "sourceId": "T009",
+      "groupId": "T009",
+      "expression": "survey",
+      "meaning": "调查",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L2-R1",
+      "lap": 2,
+      "position": 1,
+      "questionNumber": 9,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T008",
+      "groupId": "T008",
+      "expression": "trust",
+      "meaning": "信任；信赖",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L2-R2",
+      "lap": 2,
+      "position": 2,
+      "questionNumber": 10,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T007",
+      "groupId": "T007",
+      "expression": "friendship",
+      "meaning": "友谊；朋友关系",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L2-R3",
+      "lap": 2,
+      "position": 3,
+      "questionNumber": 11,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T006",
+      "groupId": "T006",
+      "expression": "courage",
+      "meaning": "勇气；胆量",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L2-R4",
+      "lap": 2,
+      "position": 4,
+      "questionNumber": 12,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T005",
+      "groupId": "T005",
+      "expression": "confident",
+      "meaning": "自信的；有自信心的",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L2-R5",
+      "lap": 2,
+      "position": 5,
+      "questionNumber": 13,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T003",
+      "groupId": "T003",
+      "expression": "patient",
+      "meaning": "有耐心的",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L2-R6",
+      "lap": 2,
+      "position": 6,
+      "questionNumber": 14,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T002",
+      "groupId": "T002",
+      "expression": "honest",
+      "meaning": "诚实的",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L2-R7",
+      "lap": 2,
+      "position": 7,
+      "questionNumber": 15,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T001",
+      "groupId": "T001",
+      "expression": "guitar",
+      "meaning": "吉他",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L2-R8",
+      "lap": 2,
+      "position": 8,
+      "questionNumber": 16,
+      "readingPassageNumber": null,
+      "kind": "initial_letter_gapfill",
+      "sourceId": "T114",
+      "groupId": "T114",
+      "expression": "in fact",
+      "meaning": "事实上",
+      "introducedAtStation": 1,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 6,
+      "referenceDueStation": 2,
+      "reviewPriorityWeight": 3,
+      "reviewPriorityReason": "教材高复用功能词/短语：显式清单（教学判断，非实测考频）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L3-R1",
+      "lap": 3,
+      "position": 1,
+      "questionNumber": 17,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T039",
+      "groupId": "T039",
+      "expression": "corner",
+      "meaning": "角；墙角",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L3-R2",
+      "lap": 3,
+      "position": 2,
+      "questionNumber": 18,
+      "readingPassageNumber": 1,
+      "kind": "reading_direct",
+      "sourceId": "T038",
+      "groupId": "T038",
+      "expression": "geography",
+      "meaning": "地理（学）",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L3-R3",
+      "lap": 3,
+      "position": 3,
+      "questionNumber": 21,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T023",
+      "groupId": "T023",
+      "expression": "heart",
+      "meaning": "心",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    },
+    {
+      "slotId": "S007-L3-R4",
+      "lap": 3,
+      "position": 4,
+      "questionNumber": 22,
+      "readingPassageNumber": 2,
+      "kind": "reading_direct",
+      "sourceId": "T019",
+      "groupId": "T019",
+      "expression": "thought",
+      "meaning": "想法",
+      "introducedAtStation": 0,
+      "reviewOrdinal": 1,
+      "previousReviewStation": null,
+      "intervalInStations": 7,
+      "referenceDueStation": 1,
+      "reviewPriorityWeight": 1,
+      "reviewPriorityReason": "教材普通目标（保持覆盖）",
+      "directAssessmentRequired": true
+    }
+  ],
+  "scoring": {
+    "firstAnswerMax": 360,
+    "coinsMax": 180,
+    "pointsPerLapQuestion": [
+      10,
+      15,
+      20
+    ],
+    "mileage": "待另行调整，本材料不套用原36题门槛",
+    "honors": "待另行调整"
+  },
+  "preparation": {
+    "showFullListBeforeStart": true,
+    "manualStart": true
+  },
+  "hintPolicy": "Lap2题面英文提示默认显示；不作为无提示独立掌握证据",
+  "provenance": "词条与中文释义来自源表；英语简释、例句、题目、情境和短文为本次新编或已验收材料的修订"
+}
