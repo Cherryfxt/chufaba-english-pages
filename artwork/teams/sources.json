@@ -1,0 +1,116 @@
+{
+  "checked": "2026-10-24",
+  "rightsGuidance": "https://www.formula1.com/en/information/guidelines.4EOKE9RRqevL4niTK9kWyt",
+  "teams": [
+    {
+      "id": "mercedes",
+      "name": "Mercedes",
+      "color": "#34c9bf",
+      "asset": "teams/mercedes.webp",
+      "sourcePage": "https://www.formula1.com/en/teams",
+      "originalUrl": "https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+      "downloadUrl": "https://media.formula1.com/image/upload/c_fit,w_512/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
+      "status": "Official-source identity reference only; no licence granted; local review, not deployed"
+    },
+    {
+      "id": "ferrari",
+      "name": "Ferrari",
+      "color": "#ed474e",
+      "asset": "teams/ferrari.webp",
+      "sourcePage": "https://www.formula1.com/en/teams",
+      "originalUrl": "https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+      "downloadUrl": "https://media.formula1.com/image/upload/c_fit,w_512/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
+      "status": "Official-source identity reference only; no licence granted; local review, not deployed"
+    },
+    {
+      "id": "mclaren",
+      "name": "McLaren",
+      "color": "#ff9b38",
+      "asset": "teams/mclaren.webp",
+      "sourcePage": "https://www.formula1.com/en/teams",
+      "originalUrl": "https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+      "downloadUrl": "https://media.formula1.com/image/upload/c_fit,w_512/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
+      "status": "Official-source identity reference only; no licence granted; local review, not deployed"
+    },
+    {
+      "id": "redbullracing",
+      "name": "Red Bull Racing",
+      "color": "#6c8edc",
+      "asset": "teams/redbullracing.webp",
+      "sourcePage": "https://www.formula1.com/en/teams",
+      "originalUrl": "https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+      "downloadUrl": "https://media.formula1.com/image/upload/c_fit,w_512/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
+      "status": "Official-source identity reference only; no licence granted; local review, not deployed"
+    },
+    {
+      "id": "racingbulls",
+      "name": "Racing Bulls",
+      "color": "#86abff",
+      "asset": "teams/racingbulls.webp",
+      "sourcePage": "https://www.formula1.com/en/teams",
+      "originalUrl": "https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+      "downloadUrl": "https://media.formula1.com/image/upload/c_fit,w_512/q_auto/v1740000001/common/f1/2026/racingbulls/2026racingbullslogowhite.webp",
+      "status": "Official-source identity reference only; no licence granted; local review, not deployed"
+    },
+    {
+      "id": "alpine",
+      "name": "Alpine",
+      "color": "#e895c8",
+      "asset": "teams/alpine.webp",
+      "sourcePage": "https://www.formula1.com/en/teams",
+      "originalUrl": "https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+      "downloadUrl": "https://media.formula1.com/image/upload/c_fit,w_512/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
+      "status": "Official-source identity reference only; no licence granted; local review, not deployed"
+    },
+    {
+      "id": "haasf1team",
+      "name": "Haas F1 Team",
+      "color": "#e9e9ea",
+      "asset": "teams/haasf1team.webp",
+      "sourcePage": "https://www.formula1.com/en/teams",
+      "originalUrl": "https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+      "downloadUrl": "https://media.formula1.com/image/upload/c_fit,w_512/q_auto/v1740000001/common/f1/2026/haasf1team/2026haasf1teamlogowhite.webp",
+      "status": "Official-source identity reference only; no licence granted; local review, not deployed"
+    },
+    {
+      "id": "audi",
+      "name": "Audi",
+      "color": "#ed695e",
+      "asset": "teams/audi.webp",
+      "sourcePage": "https://www.formula1.com/en/teams",
+      "originalUrl": "https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+      "downloadUrl": "https://media.formula1.com/image/upload/c_fit,w_512/q_auto/v1740000001/common/f1/2026/audi/2026audilogowhite.webp",
+      "status": "Official-source identity reference only; no licence granted; local review, not deployed"
+    },
+    {
+      "id": "williams",
+      "name": "Williams",
+      "color": "#64a1ff",
+      "asset": "teams/williams.webp",
+      "sourcePage": "https://www.formula1.com/en/teams",
+      "originalUrl": "https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+      "downloadUrl": "https://media.formula1.com/image/upload/c_fit,w_512/q_auto/v1740000001/common/f1/2026/williams/2026williamslogowhite.webp",
+      "status": "Official-source identity reference only; no licence granted; local review, not deployed"
+    },
+    {
+      "id": "astonmartin",
+      "name": "Aston Martin",
+      "color": "#56b39b",
+      "asset": "teams/astonmartin.webp",
+      "sourcePage": "https://www.formula1.com/en/teams",
+      "originalUrl": "https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+      "downloadUrl": "https://media.formula1.com/image/upload/c_fit,w_512/q_auto/v1740000001/common/f1/2026/astonmartin/2026astonmartinlogowhite.webp",
+      "status": "Official-source identity reference only; no licence granted; local review, not deployed"
+    },
+    {
+      "id": "cadillac",
+      "name": "Cadillac",
+      "color": "#bcbcc3",
+      "asset": "teams/cadillac.webp",
+      "sourcePage": "https://www.formula1.com/en/teams",
+      "originalUrl": "https://media.formula1.com/image/upload/c_lfill,w_48/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+      "downloadUrl": "https://media.formula1.com/image/upload/c_fit,w_512/q_auto/v1740000001/common/f1/2026/cadillac/2026cadillaclogowhite.webp",
+      "status": "Official-source identity reference only; no licence granted; local review, not deployed"
+    }
+  ]
+}

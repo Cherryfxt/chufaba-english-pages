@@ -1,0 +1,7 @@
+/* Confirmed first-round A. Keep the established header and selection layout. */
+.top .brand{display:inline-flex;align-items:center;flex:0 0 auto;line-height:1}
+.top .brand-logo{display:block;width:169px;height:40px;object-fit:contain;object-position:left center}
+.team-card .team-logo{display:block;width:55px;height:29px;object-fit:contain;object-position:left center}
+.team-card:has(.team-logo){gap:7px}
+.team-logo-inline{display:inline-block;width:44px;height:30px;object-fit:contain;vertical-align:middle;margin-right:10px}
+.keyboard-open .top .brand-logo{width:152px;height:36px}

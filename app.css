@@ -155,10 +155,10 @@ body{font-size:17px;line-height:1.5}
 .page-body .schedule-main{height:100%;min-width:0}
 .page-body .schedule-main>.split{grid-template-columns:minmax(0,1.35fr) minmax(0,1fr)}
 .page-body .honors-layout{overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin}
-.page-body .honor-feature{flex:none;min-height:210px;grid-template-columns:120px minmax(0,1fr);align-items:center;overflow:visible}
+.page-body .honor-feature{flex:none;min-height:210px;grid-template-columns:120px minmax(150px,.85fr) minmax(300px,1.4fr);align-items:center;overflow:visible}
 .page-body .honor-feature>.d05-medal-art{--medal-size:120px}
 .page-body .honor-feature>div{min-width:0}
-.page-body .honor-feature>.honor-progress{grid-column:1/-1}
+.page-body .honor-feature>.honor-progress{grid-column:auto;margin-top:0;gap:10px}
 .page-body .honor-feature:not(:has(>.d05-medal-art)){grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
 .page-body .honor-feature:not(:has(>.d05-medal-art))>.honor-progress{grid-column:auto}
 .page-body .honor-grid{grid-template-columns:repeat(4,minmax(0,1fr));grid-template-rows:repeat(2,minmax(116px,auto))}
@@ -189,6 +189,7 @@ body{font-size:17px;line-height:1.5}
 .explanation p{margin:0 0 12px;font-size:17px;line-height:1.7}
 .glossary{margin-top:20px;padding-top:16px;border-top:1px solid var(--line);font-size:17px;line-height:1.65;color:var(--dim)}
 .glossary h3{font-size:20px;color:var(--ink);margin:0 0 10px}
+.glossary-zh,.glossary-en{display:block}.glossary-zh{color:var(--text)}.glossary-en{margin-top:4px}.glossary p>span{min-width:0}
 .glossary p,.glossary ul,.glossary dl{margin:0 0 10px}
 .glossary ul{padding-left:22px}.glossary dt{color:var(--ink);font-weight:600}.glossary dd{margin:0 0 10px}
 .study-card{scroll-padding-bottom:24px}
@@ -203,7 +204,9 @@ body{font-size:17px;line-height:1.5}
   .app-layout{grid-template-columns:126px minmax(0,1fr);gap:16px}
   .side-nav{padding-right:10px}.side-nav button{padding:10px}
   .page-body .schedule-main>.split{grid-template-columns:minmax(0,1.45fr) minmax(0,.85fr)}
-  .page-body .honor-grid{grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:none;grid-auto-rows:minmax(104px,auto)}
+  .page-body .honor-grid{grid-template-columns:repeat(4,minmax(0,1fr));grid-template-rows:repeat(2,minmax(116px,auto));grid-auto-rows:minmax(116px,auto)}
+  .page-body .honor-card{grid-template-columns:40px minmax(0,1fr);gap:0 7px;padding:8px}
+  .page-body .honor-card .d05-medal-art{--medal-size:40px}
   .page-body .station-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
   .question-layout,.reading-layout{gap:18px}
   .question-material,.question-answer{padding:18px}

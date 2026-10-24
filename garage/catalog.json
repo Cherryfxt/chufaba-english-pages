@@ -1,0 +1,1445 @@
+{
+  "schemaVersion": 1,
+  "status": "confirmed",
+  "ruleID": "chufaba-24q-v1-20261022",
+  "device": {
+    "model": "iPad Air 2025",
+    "sizeInches": 11,
+    "orientation": "landscape"
+  },
+  "counts": {
+    "starter": 3,
+    "random": 45
+  },
+  "slots": [
+    {
+      "id": "front",
+      "title": "前翼",
+      "randomCandidateCount": 9
+    },
+    {
+      "id": "rear",
+      "title": "尾翼",
+      "randomCandidateCount": 9
+    },
+    {
+      "id": "wheels",
+      "title": "轮组",
+      "randomCandidateCount": 9
+    },
+    {
+      "id": "sidepod",
+      "title": "侧箱",
+      "randomCandidateCount": 9
+    },
+    {
+      "id": "livery",
+      "title": "涂装",
+      "randomCandidateCount": 9
+    }
+  ],
+  "constraints": {
+    "productionEnabled": true,
+    "slotDistributionApproval": "confirmed",
+    "starterSlotDistributionApproval": "confirmed",
+    "rarityOrProbabilityChanges": false,
+    "claimDoesNotEquip": true,
+    "assetAbsenceMustNotChangeRewardIdentity": true,
+    "legacyRecordPolicy": "readOnlyUntouched"
+  },
+  "assetRequirements": {
+    "geometrySlots": [
+      "front",
+      "rear",
+      "wheels",
+      "sidepod"
+    ],
+    "liveryUsesSharedBodyGeometry": true,
+    "requiredForAll": [
+      "material definitions",
+      "PBR textures",
+      "thumbnail",
+      "license and source record",
+      "11-inch visual review"
+    ],
+    "requiredForGeometry": [
+      "production mesh",
+      "attachment transforms",
+      "bounds and clipping check"
+    ],
+    "requiredForLivery": [
+      "shared body UV validation",
+      "paint and decal masks",
+      "material-slot mapping"
+    ],
+    "assemblyPointsAreProposedLogicalNames": true,
+    "texturesField": "path to a texture manifest, not a single texture"
+  },
+  "items": [
+    {
+      "id": "starter-1",
+      "reviewCode": "S01",
+      "name": "入门涂装",
+      "slot": "livery",
+      "pool": "starter",
+      "designIntent": "炭黑主体、琥珀腰线与鼻锥小面积点色。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/entry.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.livery"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "variant": "starter"
+    },
+    {
+      "id": "starter-2",
+      "reviewCode": "S02",
+      "name": "入门尾翼",
+      "slot": "rear",
+      "pool": "starter",
+      "designIntent": "碳黑连续弧面尾翼，沿用确认入门R02形体。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/entry.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.rear"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "variant": "starter"
+    },
+    {
+      "id": "starter-3",
+      "reviewCode": "S03",
+      "name": "入门轮组",
+      "slot": "wheels",
+      "pool": "starter",
+      "designIntent": "八辐开放轮心和细金属轮辋。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/entry.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.wheels"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "variant": "starter"
+    },
+    {
+      "id": "random-1",
+      "reviewCode": "F01",
+      "name": "赤焰锋翼",
+      "slot": "front",
+      "pool": "random",
+      "designIntent": "参考 Ferrari SF-26：大面积红色车身、白色上舱与窄肩带、碳黑前后翼及轮组。保留连续气动曲面，不复制商标与赞助贴纸。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/F01.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.front"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "赤焰",
+      "palette": [
+        "#aa0015",
+        "#f3f2ed",
+        "#121416"
+      ]
+    },
+    {
+      "id": "random-2",
+      "reviewCode": "F02",
+      "name": "旭日锋翼",
+      "slot": "front",
+      "pool": "random",
+      "designIntent": "参考 McLaren 的木瓜橙和大面积碳黑留白。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/F02.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.front"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "炽橙",
+      "palette": [
+        "#f57a15",
+        "#131517",
+        "#eeeeeb"
+      ]
+    },
+    {
+      "id": "random-3",
+      "reviewCode": "F03",
+      "name": "银箭锋翼",
+      "slot": "front",
+      "pool": "random",
+      "designIntent": "参考 Mercedes 银黑主体与克制的青绿色边线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/F03.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.front"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "银箭",
+      "palette": [
+        "#aebabc",
+        "#16191b",
+        "#00aaa3"
+      ]
+    },
+    {
+      "id": "random-4",
+      "reviewCode": "F04",
+      "name": "雷霆锋翼",
+      "slot": "front",
+      "pool": "random",
+      "designIntent": "参考 Red Bull 海军蓝底色、上舱黄色识别区域和细红线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/F04.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.front"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "疾牛",
+      "palette": [
+        "#10203c",
+        "#eabc17",
+        "#d91628"
+      ]
+    },
+    {
+      "id": "random-5",
+      "reviewCode": "F05",
+      "name": "翠影锋翼",
+      "slot": "front",
+      "pool": "random",
+      "designIntent": "参考 Aston Martin 的绿漆与克制荧黄边线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/F05.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.front"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "翠影",
+      "palette": [
+        "#00624d",
+        "#c7db22",
+        "#111619"
+      ]
+    },
+    {
+      "id": "random-6",
+      "reviewCode": "F06",
+      "name": "蓝湾锋翼",
+      "slot": "front",
+      "pool": "random",
+      "designIntent": "参考 Williams 明确的蓝白大色块。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/F06.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.front"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "蓝湾",
+      "palette": [
+        "#1763c2",
+        "#e8eef1",
+        "#102b56"
+      ]
+    },
+    {
+      "id": "random-7",
+      "reviewCode": "F07",
+      "name": "峰影锋翼",
+      "slot": "front",
+      "pool": "random",
+      "designIntent": "参考 Alpine 蓝色主漆与侧箱粉色大色块。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/F07.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.front"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "峰影",
+      "palette": [
+        "#1673c4",
+        "#ed91bd",
+        "#17191c"
+      ]
+    },
+    {
+      "id": "random-8",
+      "reviewCode": "F08",
+      "name": "锋芒前翼",
+      "slot": "front",
+      "pool": "random",
+      "designIntent": "参考 Haas 白黑主体及红色局部识别。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/F08.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.front"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "锋芒",
+      "palette": [
+        "#e9ebeb",
+        "#161819",
+        "#c52230"
+      ]
+    },
+    {
+      "id": "random-9",
+      "reviewCode": "F09",
+      "name": "钛锋前翼",
+      "slot": "front",
+      "pool": "random",
+      "designIntent": "参考 Audi 银灰车头、黑色下沿与红色后部。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/F09.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.front"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "钛锋",
+      "palette": [
+        "#acb2b6",
+        "#e43020",
+        "#181b1d"
+      ]
+    },
+    {
+      "id": "random-10",
+      "reviewCode": "R01",
+      "name": "跃马飞翼",
+      "slot": "rear",
+      "pool": "random",
+      "designIntent": "参考 Ferrari SF-26：大面积红色车身、白色上舱与窄肩带、碳黑前后翼及轮组。保留连续气动曲面，不复制商标与赞助贴纸。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/R01.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.rear"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "赤焰",
+      "palette": [
+        "#aa0015",
+        "#f3f2ed",
+        "#121416"
+      ]
+    },
+    {
+      "id": "random-11",
+      "reviewCode": "R02",
+      "name": "疾光尾翼",
+      "slot": "rear",
+      "pool": "random",
+      "designIntent": "参考 McLaren 的木瓜橙和大面积碳黑留白。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/R02.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.rear"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "炽橙",
+      "palette": [
+        "#f57a15",
+        "#131517",
+        "#eeeeeb"
+      ]
+    },
+    {
+      "id": "random-12",
+      "reviewCode": "R03",
+      "name": "追风尾翼",
+      "slot": "rear",
+      "pool": "random",
+      "designIntent": "参考 Mercedes 银黑主体与克制的青绿色边线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/R03.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.rear"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "银箭",
+      "palette": [
+        "#aebabc",
+        "#16191b",
+        "#00aaa3"
+      ]
+    },
+    {
+      "id": "random-13",
+      "reviewCode": "R04",
+      "name": "破阵尾翼",
+      "slot": "rear",
+      "pool": "random",
+      "designIntent": "参考 Red Bull 海军蓝底色、上舱黄色识别区域和细红线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/R04.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.rear"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "疾牛",
+      "palette": [
+        "#10203c",
+        "#eabc17",
+        "#d91628"
+      ]
+    },
+    {
+      "id": "random-14",
+      "reviewCode": "R05",
+      "name": "猎风尾翼",
+      "slot": "rear",
+      "pool": "random",
+      "designIntent": "参考 Aston Martin 的绿漆与克制荧黄边线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/R05.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.rear"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "翠影",
+      "palette": [
+        "#00624d",
+        "#c7db22",
+        "#111619"
+      ]
+    },
+    {
+      "id": "random-15",
+      "reviewCode": "R06",
+      "name": "海啸尾翼",
+      "slot": "rear",
+      "pool": "random",
+      "designIntent": "参考 Williams 明确的蓝白大色块。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/R06.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.rear"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "蓝湾",
+      "palette": [
+        "#1763c2",
+        "#e8eef1",
+        "#102b56"
+      ]
+    },
+    {
+      "id": "random-16",
+      "reviewCode": "R07",
+      "name": "雪峰尾翼",
+      "slot": "rear",
+      "pool": "random",
+      "designIntent": "参考 Alpine 蓝色主漆与侧箱粉色大色块。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/R07.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.rear"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "峰影",
+      "palette": [
+        "#1673c4",
+        "#ed91bd",
+        "#17191c"
+      ]
+    },
+    {
+      "id": "random-17",
+      "reviewCode": "R08",
+      "name": "猛隼尾翼",
+      "slot": "rear",
+      "pool": "random",
+      "designIntent": "参考 Haas 白黑主体及红色局部识别。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/R08.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.rear"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "锋芒",
+      "palette": [
+        "#e9ebeb",
+        "#161819",
+        "#c52230"
+      ]
+    },
+    {
+      "id": "random-18",
+      "reviewCode": "R09",
+      "name": "冲刺尾翼",
+      "slot": "rear",
+      "pool": "random",
+      "designIntent": "参考 Audi 银灰车头、黑色下沿与红色后部。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/R09.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.rear"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "钛锋",
+      "palette": [
+        "#acb2b6",
+        "#e43020",
+        "#181b1d"
+      ]
+    },
+    {
+      "id": "random-19",
+      "reviewCode": "W01",
+      "name": "熔核轮组",
+      "slot": "wheels",
+      "pool": "random",
+      "designIntent": "参考 Ferrari SF-26：大面积红色车身、白色上舱与窄肩带、碳黑前后翼及轮组。保留连续气动曲面，不复制商标与赞助贴纸。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/W01.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.wheel.fl",
+          "mount.wheel.fr",
+          "mount.wheel.rl",
+          "mount.wheel.rr"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "赤焰",
+      "palette": [
+        "#aa0015",
+        "#f3f2ed",
+        "#121416"
+      ]
+    },
+    {
+      "id": "random-20",
+      "reviewCode": "W02",
+      "name": "逐日轮组",
+      "slot": "wheels",
+      "pool": "random",
+      "designIntent": "参考 McLaren 的木瓜橙和大面积碳黑留白。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/W02.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.wheel.fl",
+          "mount.wheel.fr",
+          "mount.wheel.rl",
+          "mount.wheel.rr"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "炽橙",
+      "palette": [
+        "#f57a15",
+        "#131517",
+        "#eeeeeb"
+      ]
+    },
+    {
+      "id": "random-21",
+      "reviewCode": "W03",
+      "name": "流星轮组",
+      "slot": "wheels",
+      "pool": "random",
+      "designIntent": "参考 Mercedes 银黑主体与克制的青绿色边线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/W03.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.wheel.fl",
+          "mount.wheel.fr",
+          "mount.wheel.rl",
+          "mount.wheel.rr"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "银箭",
+      "palette": [
+        "#aebabc",
+        "#16191b",
+        "#00aaa3"
+      ]
+    },
+    {
+      "id": "random-22",
+      "reviewCode": "W04",
+      "name": "奔雷轮组",
+      "slot": "wheels",
+      "pool": "random",
+      "designIntent": "参考 Red Bull 海军蓝底色、上舱黄色识别区域和细红线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/W04.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.wheel.fl",
+          "mount.wheel.fr",
+          "mount.wheel.rl",
+          "mount.wheel.rr"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "疾牛",
+      "palette": [
+        "#10203c",
+        "#eabc17",
+        "#d91628"
+      ]
+    },
+    {
+      "id": "random-23",
+      "reviewCode": "W05",
+      "name": "暗影轮组",
+      "slot": "wheels",
+      "pool": "random",
+      "designIntent": "参考 Aston Martin 的绿漆与克制荧黄边线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/W05.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.wheel.fl",
+          "mount.wheel.fr",
+          "mount.wheel.rl",
+          "mount.wheel.rr"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "翠影",
+      "palette": [
+        "#00624d",
+        "#c7db22",
+        "#111619"
+      ]
+    },
+    {
+      "id": "random-24",
+      "reviewCode": "W06",
+      "name": "潮汐轮组",
+      "slot": "wheels",
+      "pool": "random",
+      "designIntent": "参考 Williams 明确的蓝白大色块。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/W06.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.wheel.fl",
+          "mount.wheel.fr",
+          "mount.wheel.rl",
+          "mount.wheel.rr"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "蓝湾",
+      "palette": [
+        "#1763c2",
+        "#e8eef1",
+        "#102b56"
+      ]
+    },
+    {
+      "id": "random-25",
+      "reviewCode": "W07",
+      "name": "凌云轮组",
+      "slot": "wheels",
+      "pool": "random",
+      "designIntent": "参考 Alpine 蓝色主漆与侧箱粉色大色块。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/W07.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.wheel.fl",
+          "mount.wheel.fr",
+          "mount.wheel.rl",
+          "mount.wheel.rr"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "峰影",
+      "palette": [
+        "#1673c4",
+        "#ed91bd",
+        "#17191c"
+      ]
+    },
+    {
+      "id": "random-26",
+      "reviewCode": "W08",
+      "name": "疾驰轮组",
+      "slot": "wheels",
+      "pool": "random",
+      "designIntent": "参考 Haas 白黑主体及红色局部识别。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/W08.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.wheel.fl",
+          "mount.wheel.fr",
+          "mount.wheel.rl",
+          "mount.wheel.rr"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "锋芒",
+      "palette": [
+        "#e9ebeb",
+        "#161819",
+        "#c52230"
+      ]
+    },
+    {
+      "id": "random-27",
+      "reviewCode": "W09",
+      "name": "脉动轮组",
+      "slot": "wheels",
+      "pool": "random",
+      "designIntent": "参考 Audi 银灰车头、黑色下沿与红色后部。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/W09.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.wheel.fl",
+          "mount.wheel.fr",
+          "mount.wheel.rl",
+          "mount.wheel.rr"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "钛锋",
+      "palette": [
+        "#acb2b6",
+        "#e43020",
+        "#181b1d"
+      ]
+    },
+    {
+      "id": "random-28",
+      "reviewCode": "B01",
+      "name": "烈风侧舱",
+      "slot": "sidepod",
+      "pool": "random",
+      "designIntent": "参考 Ferrari SF-26：大面积红色车身、白色上舱与窄肩带、碳黑前后翼及轮组。保留连续气动曲面，不复制商标与赞助贴纸。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/B01.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.sidepod.left",
+          "mount.sidepod.right"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "赤焰",
+      "palette": [
+        "#aa0015",
+        "#f3f2ed",
+        "#121416"
+      ]
+    },
+    {
+      "id": "random-29",
+      "reviewCode": "B02",
+      "name": "焰流侧舱",
+      "slot": "sidepod",
+      "pool": "random",
+      "designIntent": "参考 McLaren 的木瓜橙和大面积碳黑留白。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/B02.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.sidepod.left",
+          "mount.sidepod.right"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "炽橙",
+      "palette": [
+        "#f57a15",
+        "#131517",
+        "#eeeeeb"
+      ]
+    },
+    {
+      "id": "random-30",
+      "reviewCode": "B03",
+      "name": "疾风侧舱",
+      "slot": "sidepod",
+      "pool": "random",
+      "designIntent": "参考 Mercedes 银黑主体与克制的青绿色边线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/B03.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.sidepod.left",
+          "mount.sidepod.right"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "银箭",
+      "palette": [
+        "#aebabc",
+        "#16191b",
+        "#00aaa3"
+      ]
+    },
+    {
+      "id": "random-31",
+      "reviewCode": "B04",
+      "name": "风暴侧舱",
+      "slot": "sidepod",
+      "pool": "random",
+      "designIntent": "参考 Red Bull 海军蓝底色、上舱黄色识别区域和细红线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/B04.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.sidepod.left",
+          "mount.sidepod.right"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "疾牛",
+      "palette": [
+        "#10203c",
+        "#eabc17",
+        "#d91628"
+      ]
+    },
+    {
+      "id": "random-32",
+      "reviewCode": "B05",
+      "name": "飞梭侧舱",
+      "slot": "sidepod",
+      "pool": "random",
+      "designIntent": "参考 Aston Martin 的绿漆与克制荧黄边线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/B05.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.sidepod.left",
+          "mount.sidepod.right"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "翠影",
+      "palette": [
+        "#00624d",
+        "#c7db22",
+        "#111619"
+      ]
+    },
+    {
+      "id": "random-33",
+      "reviewCode": "B06",
+      "name": "远洋侧舱",
+      "slot": "sidepod",
+      "pool": "random",
+      "designIntent": "参考 Williams 明确的蓝白大色块。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/B06.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.sidepod.left",
+          "mount.sidepod.right"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "蓝湾",
+      "palette": [
+        "#1763c2",
+        "#e8eef1",
+        "#102b56"
+      ]
+    },
+    {
+      "id": "random-34",
+      "reviewCode": "B07",
+      "name": "峰流侧舱",
+      "slot": "sidepod",
+      "pool": "random",
+      "designIntent": "参考 Alpine 蓝色主漆与侧箱粉色大色块。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/B07.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.sidepod.left",
+          "mount.sidepod.right"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "峰影",
+      "palette": [
+        "#1673c4",
+        "#ed91bd",
+        "#17191c"
+      ]
+    },
+    {
+      "id": "random-35",
+      "reviewCode": "B08",
+      "name": "切风侧舱",
+      "slot": "sidepod",
+      "pool": "random",
+      "designIntent": "参考 Haas 白黑主体及红色局部识别。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/B08.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.sidepod.left",
+          "mount.sidepod.right"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "锋芒",
+      "palette": [
+        "#e9ebeb",
+        "#161819",
+        "#c52230"
+      ]
+    },
+    {
+      "id": "random-36",
+      "reviewCode": "B09",
+      "name": "钛流侧舱",
+      "slot": "sidepod",
+      "pool": "random",
+      "designIntent": "参考 Audi 银灰车头、黑色下沿与红色后部。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/B09.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "mount.sidepod.left",
+          "mount.sidepod.right"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "钛锋",
+      "palette": [
+        "#acb2b6",
+        "#e43020",
+        "#181b1d"
+      ]
+    },
+    {
+      "id": "random-37",
+      "reviewCode": "L01",
+      "name": "红域疾驰",
+      "slot": "livery",
+      "pool": "random",
+      "designIntent": "参考 Ferrari SF-26：大面积红色车身、白色上舱与窄肩带、碳黑前后翼及轮组。保留连续气动曲面，不复制商标与赞助贴纸。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/L01.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "surface.body"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "赤焰",
+      "palette": [
+        "#aa0015",
+        "#f3f2ed",
+        "#121416"
+      ]
+    },
+    {
+      "id": "random-38",
+      "reviewCode": "L02",
+      "name": "极速黎明",
+      "slot": "livery",
+      "pool": "random",
+      "designIntent": "参考 McLaren 的木瓜橙和大面积碳黑留白。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/L02.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "surface.body"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "炽橙",
+      "palette": [
+        "#f57a15",
+        "#131517",
+        "#eeeeeb"
+      ]
+    },
+    {
+      "id": "random-39",
+      "reviewCode": "L03",
+      "name": "银翼破空",
+      "slot": "livery",
+      "pool": "random",
+      "designIntent": "参考 Mercedes 银黑主体与克制的青绿色边线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/L03.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "surface.body"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "银箭",
+      "palette": [
+        "#aebabc",
+        "#16191b",
+        "#00aaa3"
+      ]
+    },
+    {
+      "id": "random-40",
+      "reviewCode": "L04",
+      "name": "深蓝竞速",
+      "slot": "livery",
+      "pool": "random",
+      "designIntent": "参考 Red Bull 海军蓝底色、上舱黄色识别区域和细红线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/L04.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "surface.body"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "疾牛",
+      "palette": [
+        "#10203c",
+        "#eabc17",
+        "#d91628"
+      ]
+    },
+    {
+      "id": "random-41",
+      "reviewCode": "L05",
+      "name": "翡翠巡航",
+      "slot": "livery",
+      "pool": "random",
+      "designIntent": "参考 Aston Martin 的绿漆与克制荧黄边线。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/L05.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "surface.body"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "翠影",
+      "palette": [
+        "#00624d",
+        "#c7db22",
+        "#111619"
+      ]
+    },
+    {
+      "id": "random-42",
+      "reviewCode": "L06",
+      "name": "蓝域突围",
+      "slot": "livery",
+      "pool": "random",
+      "designIntent": "参考 Williams 明确的蓝白大色块。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/L06.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "surface.body"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "蓝湾",
+      "palette": [
+        "#1763c2",
+        "#e8eef1",
+        "#102b56"
+      ]
+    },
+    {
+      "id": "random-43",
+      "reviewCode": "L07",
+      "name": "云巅疾行",
+      "slot": "livery",
+      "pool": "random",
+      "designIntent": "参考 Alpine 蓝色主漆与侧箱粉色大色块。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/L07.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "surface.body"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "峰影",
+      "palette": [
+        "#1673c4",
+        "#ed91bd",
+        "#17191c"
+      ]
+    },
+    {
+      "id": "random-44",
+      "reviewCode": "L08",
+      "name": "极境挑战",
+      "slot": "livery",
+      "pool": "random",
+      "designIntent": "参考 Haas 白黑主体及红色局部识别。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/L08.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "surface.body"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "锋芒",
+      "palette": [
+        "#e9ebeb",
+        "#161819",
+        "#c52230"
+      ]
+    },
+    {
+      "id": "random-45",
+      "reviewCode": "L09",
+      "name": "觉醒之速",
+      "slot": "livery",
+      "pool": "random",
+      "designIntent": "参考 Audi 银灰车头、黑色下沿与红色后部。",
+      "status": "confirmed",
+      "approval": "confirmed",
+      "assetStatus": "runtime-available",
+      "assets": {
+        "runtime": "viewer.html",
+        "thumbnail": "thumbs/L09.jpg"
+      },
+      "assembly": {
+        "status": "unverified",
+        "attachmentPoints": [
+          "surface.body"
+        ],
+        "rigVersion": "departure-car-rig-v1"
+      },
+      "theme": "钛锋",
+      "palette": [
+        "#acb2b6",
+        "#e43020",
+        "#181b1d"
+      ]
+    }
+  ]
+}
