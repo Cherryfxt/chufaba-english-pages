@@ -7,6 +7,7 @@ import * as G from './garage-state.mjs';
 import * as C from './closing.mjs?v=quotes-v1-20261024';
 import * as R from './test-reset.mjs';
 import * as P from './photo-engine.mjs?v=photo-v1-20261024';
+import {randomPhotoTemplate,photoRectStyle} from './photo-templates.mjs';
 import {PhotoStore} from './photo-store.mjs?v=photo-v1-20261024';
 import * as offline from './offline.mjs?v=loadfix-20261024-1';
 import {AudioPlayer} from './audio.mjs?v=confirmed-v4-20261024';
@@ -21,6 +22,7 @@ let quoteMap=null,quotePromise=null,quoteError='',closingStationID=null,closingR
 const photoStore=new PhotoStore(),camera=new P.CameraSession();
 let photoStationID=null,photoPhase='offer',photoError='',photoDraft=null,photoDraftURL='',photoDriverImage=null,photoGeneration=0,photoWorking=false,photoRecord=null,photoFiles=[],photoFileURLs=[],photoReturn='finish',closingPhoto=null,closingPhotoURL='';
 let schedulePhotoKey='',schedulePhotoURL='',schedulePhotoStatus='idle';
+let activePhotoTemplate=null,photoTemplateImage=null;
 let garageCatalog=null,garageCatalogPromise=null,garageCatalogError='',garageProfile=null,garageDraft=null,garageSaved=null,garageSlot='livery',garageMessage='',garageReadError=false;
 function ensureGarageCatalog(){if(garageCatalog)return Promise.resolve(garageCatalog);if(garageCatalogPromise)return garageCatalogPromise;garageCatalogPromise=fetch('garage/catalog.json').then(r=>{if(!r.ok)throw new Error('配件资源暂时不可用');return r.json();}).then(data=>{garageCatalog=data;garageCatalogError='';return data;}).catch(e=>{garageCatalogError=e.message;throw e;}).finally(()=>{garageCatalogPromise=null;});return garageCatalogPromise;}
 const activityKey=()=>`chufaba-learning-activity-v1:${state?.profile?.profileID||'unactivated'}`;
@@ -58,7 +60,7 @@ function ensureQuotes(){
 }
 function photoErrorText(e){return ({cameraPermissionDenied:'相机权限未开启。可以在浏览器的网站设置中允许相机后重试，也可以跳过合影。',cameraNotFound:'没有找到可用相机，可以跳过合影。',cameraBusy:'相机可能正被其他应用使用，请关闭后重试。',cameraUnavailable:'当前浏览器无法使用相机，请用 iPad Safari 打开正式网址，或跳过。',cameraNotReady:'画面还没有准备好，请重新打开相机。',cameraVideoFailed:'相机画面无法播放，请重新打开相机。',cameraStartFailed:'相机启动失败，请重试或跳过合影。',driverImageNotReady:'车手素材尚未加载完成，请联网后重试。',photoTextTooLong:'纪念版文字排版未完成，请重试；你的试拍仍保留。',photoStorageUnavailable:'本机照片存储不可用，请检查浏览器权限。',QuotaExceededError:'本机存储空间不足，照片尚未确认保存。试拍仍保留，可以释放空间后重试。'})[e.code||e.message]||({QuotaExceededError:'本机空间不足，照片没有保存。'}[e.name])||errorText(e);}
 function clearPhotoURLs(){if(photoDraftURL)URL.revokeObjectURL(photoDraftURL);photoDraftURL='';for(const u of photoFileURLs)URL.revokeObjectURL(u);photoFileURLs=[];}
-function leavePhoto(){camera.stop();photoGeneration++;photoWorking=false;clearPhotoURLs();photoDraft=null;photoDriverImage=null;photoFiles=[];photoRecord=null;photoStationID=null;photoPhase='offer';}
+function leavePhoto(){camera.stop();photoGeneration++;photoWorking=false;clearPhotoURLs();photoDraft=null;photoDriverImage=null;activePhotoTemplate=null;photoTemplateImage=null;photoFiles=[];photoRecord=null;photoStationID=null;photoPhase='offer';}
 function setClosingPhoto(record){if(closingPhotoURL)URL.revokeObjectURL(closingPhotoURL);closingPhoto=record?.status==='confirmed'?record:null;closingPhotoURL=closingPhoto?URL.createObjectURL(closingPhoto.clean):'';}
 function photoSession(){return state.sessions.find(s=>s.stationID===photoStationID&&s.completedDay);}
 function schedulePhotoHTML(id,done){
@@ -73,7 +75,7 @@ function schedulePhotoHTML(id,done){
 async function openPhoto(id){
  if(!state.sessions.some(s=>s.stationID===id&&s.completedDay))return;
  leavePhoto();photoStationID=id;photoPhase='loading';photoError='';photoReturn='finish';view('photo');const generation=photoGeneration,profileID=state.profile.profileID;
- try{const record=await photoStore.get(profileID,id);if(generation!==photoGeneration||screen!=='photo')return;if(record){openClosing(id,false,record);return;}photoPhase='offer';render();}
+ try{const record=await photoStore.get(profileID,id);if(generation!==photoGeneration||screen!=='photo')return;if(record){openClosing(id,false,record);return;}activePhotoTemplate=randomPhotoTemplate();photoPhase='offer';render();}
  catch(e){if(generation!==photoGeneration||screen!=='photo')return;photoPhase='read-error';photoError=photoErrorText(e);render();}
 }
 async function readClosingPhoto(id,history=false){
@@ -82,10 +84,11 @@ async function readClosingPhoto(id,history=false){
  catch(e){notice(`照片未能读取：${photoErrorText(e)}。没有删除照片，可稍后重试。`);}
 }
 function driverImageForPhoto(){return new Promise((resolve,reject)=>{const source=catalog.portraits[state.profile.driverID];if(!source){reject(new Error('driverImageNotReady'));return;}const img=new Image();img.onload=()=>resolve(img);img.onerror=()=>reject(new Error('driverImageNotReady'));img.src=`activation/${typeof source==='string'?source:source.src}`;});}
+function frameImageForPhoto(){return new Promise((resolve,reject)=>{const img=new Image();img.onload=()=>resolve(img);img.onerror=()=>reject(new Error('合影边框尚未加载完成，请重试。'));img.src=activePhotoTemplate.asset;});}
 async function startPhotoCamera(){
  if(photoWorking||!['offer','preview'].includes(photoPhase))return;
  camera.stop();photoGeneration++;const generation=photoGeneration;photoPhase='requesting';photoError='';photoWorking=true;render();
- try{const [image]=await Promise.all([driverImageForPhoto(),ensureQuotes()]);if(generation!==photoGeneration||screen!=='photo')return;photoDriverImage=image;await camera.start(document.querySelector('#photo-video'));if(generation!==photoGeneration||screen!=='photo')return;photoPhase='camera';photoWorking=false;paintPhotoCamera();}
+ try{const [image,frame]=await Promise.all([driverImageForPhoto(),frameImageForPhoto(),ensureQuotes()]);if(generation!==photoGeneration||screen!=='photo')return;photoDriverImage=image;photoTemplateImage=frame;await camera.start(document.querySelector('#photo-video'));if(generation!==photoGeneration||screen!=='photo')return;photoPhase='camera';photoWorking=false;paintPhotoCamera();}
  catch(e){if(generation!==photoGeneration||screen!=='photo'||e.code==='cameraCancelled')return;photoPhase=photoDraft?'preview':'offer';photoWorking=false;photoError=photoErrorText(e);render();}
 }
 function paintPhotoCamera(){const button=document.querySelector('[data-act="photo-shutter"]');if(button)button.disabled=photoPhase!=='camera';const status=document.querySelector('[data-photo-status]');if(status)status.textContent='相机已开启 · 点击即拍一张';}
@@ -115,7 +118,7 @@ async function photoAction(action){
   // Synchronous capture before any await: one tap, one frame, no countdown or burst.
   let frame;try{frame=camera.captureFrame();}catch(e){photoError=photoErrorText(e);camera.stop();photoPhase='offer';render();return;}
   camera.stop();const generation=++photoGeneration;photoWorking=true;photoPhase='building';photoError='';render();
-  try{const entry=quoteMap.get(photoStationID),session=photoSession(),team=catalog.teams.find(t=>t.id===state.profile.teamID);const result=await P.composePhotos(frame,{driverImage:photoDriverImage,teamColor:team.color,nickname:state.profile.nickname,stationID:photoStationID,date:session.completedDay,quote:entry.quote});if(generation!==photoGeneration||screen!=='photo')return;clearPhotoURLs();photoDraft=result;photoDraftURL=URL.createObjectURL(result.clean);photoPhase='preview';}
+  try{const entry=quoteMap.get(photoStationID),session=photoSession(),team=catalog.teams.find(t=>t.id===state.profile.teamID);const result=await P.composePhotos(frame,{driverImage:photoDriverImage,driverName:state.profile.driverID,templateImage:photoTemplateImage,templateID:activePhotoTemplate.id,teamColor:team.color,nickname:state.profile.nickname,stationID:photoStationID,date:session.completedDay,quote:entry.quote});if(generation!==photoGeneration||screen!=='photo')return;clearPhotoURLs();photoDraft=result;photoDraftURL=URL.createObjectURL(result.clean);photoPhase='preview';}
   catch(e){if(generation!==photoGeneration||screen!=='photo')return;photoError=photoErrorText(e);photoPhase=photoDraft?'preview':'offer';}
   finally{if(generation===photoGeneration&&screen==='photo'){photoWorking=false;render();}}return;
  }
@@ -134,20 +137,26 @@ async function photoAction(action){
  }
  if(key==='photo-continue'&&photoPhase==='export'){const id=photoStationID,record=photoRecord,history=photoReturn==='history';openClosing(id,history,record);}
 }
+function photoStageHTML(live=false){
+ const t=activePhotoTemplate;
+ if(!t)return '<div class="photo-preparing">正在准备合影边框…</div>';
+ const labels=[['title','出发吧！ · 我的高光时刻'],['name',state.profile.driverID],['slogan','每一程，都值得喝彩。']].map(([key,text])=>`<span class="photo-template-label photo-template-${key}" style="left:${t.labels[key][0]/1536*100}%;top:${t.labels[key][1]/1024*100}%">${esc(text)}</span>`).join('');
+ return `<div class="photo-stage photo-template-${t.id}" data-photo-template="${t.id}"><div class="photo-camera-window ${live?'':'photo-empty'}" style="${photoRectStyle(t.camera)}">${live?'<video id="photo-video" autoplay muted playsinline aria-label="前置相机实时画面"></video>':'<div class="photo-silhouette" aria-hidden="true"></div><strong>你的入镜位置</strong>'}</div><img class="photo-frame-art" src="${t.asset}" alt=""><div class="photo-template-driver" style="${photoRectStyle(t.driver)}">${portrait(state.profile.driverID)}</div>${labels}</div>`;
+}
 function renderPhoto(){
  const session=photoSession();if(!session){view('home');return;}const profile=state.profile,team=catalog.teams.find(t=>t.id===profile.teamID);
  const error=photoError?`<div class="photo-error" role="alert"><p>${esc(photoError)}</p>${['offer','preview'].includes(photoPhase)?btn('暂不拍照，继续完赛','photo-defer'):''}</div>`:'';
  if(photoPhase==='export'){
-  shell('保存我的完赛合影',`<div class="photo-export-layout"><div class="photo-export-images">${photoFileURLs.map((url,i)=>`<figure><figcaption>${i===0?'纯净版 · 无文字覆盖':'纪念版 · 寄语、署名与日期'}</figcaption><div class="photo-export-image-scroll"><img src="${url}" alt="${i===0?'已确认的纯净版合影':'已确认的完整纪念版照片'}"></div><a class="photo-download" href="${url}" download="${esc(photoFiles[i].name)}">下载${i===0?'纯净版':'纪念版'}</a></figure>`).join('')}</div><aside class="photo-copy"><span class="tag">第${photoStationID}站 · 同一张合影</span><h2>两版照片，已经准备好</h2><p>两版均已保留在本机。还需你在系统面板选择“存储图像”，才能放入相册。</p>${btn('打开系统保存面板','photo-share',true)}<p data-photo-status role="status">如果没有“存储图像”，可分别下载到文件，或长按两张图片另存。</p><p class="muted">学习存档备份不包含照片；清理网站数据可能丢失本机副本，请另存两版。</p></aside></div>`,'不会自动上传照片；系统保存结果请到相册或文件中确认。',btn('继续，看本站寄语','photo-continue',true));return;
+  shell('保存我的完赛合影',`<div class="photo-export-layout"><div class="photo-export-images">${photoFileURLs.map((url,i)=>`<figure><figcaption>${i===0?'合影版 · 不含寄语':'纪念版 · 寄语、署名与日期'}</figcaption><div class="photo-export-image-scroll"><img src="${url}" alt="${i===0?'已确认的纯净版合影':'已确认的完整纪念版照片'}"></div><a class="photo-download" href="${url}" download="${esc(photoFiles[i].name)}">下载${i===0?'纯净版':'纪念版'}</a></figure>`).join('')}</div><aside class="photo-copy"><span class="tag">第${photoStationID}站 · 同一张合影</span><h2>两版照片，已经准备好</h2><p>两版均已保留在本机。还需你在系统面板选择“存储图像”，才能放入相册。</p>${btn('打开系统保存面板','photo-share',true)}<p data-photo-status role="status">如果没有“存储图像”，可分别下载到文件，或长按两张图片另存。</p><p class="muted">学习存档备份不包含照片；清理网站数据可能丢失本机副本，请另存两版。</p></aside></div>`,'不会自动上传照片；系统保存结果请到相册或文件中确认。',btn('继续，看本站寄语','photo-continue',true));return;
  }
  let stage='',controls='',copy='';
  if(['camera','requesting'].includes(photoPhase)){
-  stage=`<div class="photo-stage" style="--team:${esc(team.color)}"><div class="photo-camera-half"><video id="photo-video" autoplay muted playsinline aria-label="前置相机实时画面"></video><span class="photo-position">把自己放在画面左侧</span></div><div class="photo-driver-half">${portrait(profile.driverID)}</div></div>`;
+  stage=photoStageHTML(true);
   controls=btn('取消拍摄','photo-cancel-camera')+btn('拍一张','photo-shutter',true,photoPhase!=='camera');copy='<h2>准备好，就拍一张</h2><p>点击后立即拍摄，不倒计时、不连拍。</p><p data-photo-status role="status">正在准备相机，请在系统提示中选择是否允许…</p>';
  }else if(photoPhase==='preview'){
   stage=`<img class="photo-preview" src="${photoDraftURL}" alt="本次试拍预览，尚未保存">`;controls=btn('重拍','photo-retake',false,photoWorking)+btn(photoWorking?'正在保存两版…':'确认这张，保存两版','photo-confirm',true,photoWorking);copy='<h2>这一张，喜欢吗？</h2><p>确认后，以同一张合影生成纯净版和带本站寄语的纪念版。</p><p>试拍不会自动存入相册；重拍或跳过都不会上传照片。</p>';
  }else if(photoPhase==='offer'){
-  stage=`<div class="photo-stage" style="--team:${esc(team.color)}"><div class="photo-camera-half photo-empty"><div class="photo-silhouette" aria-hidden="true"></div><strong>你的入镜位置</strong></div><div class="photo-driver-half">${portrait(profile.driverID)}</div></div>`;controls=btn('打开相机','photo-start',true);copy='<h2>给这一站，留张合影</h2><p>和你已选的陪练车手同框，记录今天的努力。</p><p>这是创意合影。只有你点击打开相机后，才会申请相机权限，不使用麦克风。</p>';
+  stage=photoStageHTML();controls=btn('打开相机','photo-start',true);copy='<h2>给这一站，留张合影</h2><p>和你已选的陪练车手同框，记录今天的努力。</p><p>每次开启新的合影，随机遇见一款边框。重拍时保留这一款。</p><p>这是创意合影。只有你点击打开相机后，才会申请相机权限，不使用麦克风。</p>';
  }else{stage='<div class="photo-preparing"><h2>你的成绩已经保存</h2><p>正在准备完赛合影…</p></div>';copy='<h2>照片自愿，收获不变</h2><p>不拍照也可以完整领取本次学习收获。</p>';if(photoPhase==='read-error')controls=btn('重新读取照片状态','photo-retry-read')+btn('暂不拍照，继续完赛','photo-defer',true);}
  shell('我的高光时刻',`<div class="photo-layout"><section class="photo-canvasbox">${stage}</section><aside class="photo-copy"><span class="tag">第${photoStationID}站 · ${esc(profile.driverID)}</span>${copy}${error}<p class="muted">仅在本机处理与保存。离开拍摄页、切到后台或拍完后，相机都会停止。</p></aside></div>`,['offer','camera','requesting','preview'].includes(photoPhase)?btn('跳过合影','photo-skip',false,photoWorking&&photoPhase!=='requesting'):'',controls);
 }

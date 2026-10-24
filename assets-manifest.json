@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "departure-public-22ff1216e0146c9b",
+  "version": "departure-public-ad4fc5b82cacd512",
   "mode": "public-online-local-records",
   "files": [
     {
@@ -429,6 +429,27 @@
       "stationIDs": [],
       "bytes": 2768,
       "sha256": "ea40ec1fddd27d9642e5af924a92e5ca48103e8e4886fa1357be66dcd8e7c4c3"
+    },
+    {
+      "url": "assets/photo-templates/corner-v4.png",
+      "group": "shell",
+      "stationIDs": [],
+      "bytes": 1973183,
+      "sha256": "2a84717ae10849e5759e8a2724abc99ec8d04e53c9ab790ff6d6f8b131787df0"
+    },
+    {
+      "url": "assets/photo-templates/scene-v4.png",
+      "group": "shell",
+      "stationIDs": [],
+      "bytes": 2069855,
+      "sha256": "40f7284e2e6fccd8d414c50795a6b04a3b8e5bb9e66b08bcc72a60d98760c0f3"
+    },
+    {
+      "url": "assets/photo-templates/sidebar-v4.png",
+      "group": "shell",
+      "stationIDs": [],
+      "bytes": 1650848,
+      "sha256": "66292e264c030fce0fcefa2c8ea80d08bc39e6b5e2d801f759f54f7d43cad5f9"
     },
     {
       "url": "brand.css",
@@ -67644,8 +67665,8 @@
     },
     {
       "url": "index.html",
-      "sha256": "094fef92c933ee5c4173157a710189e47e57c8ee4f0925abd6bbcd9422fbc9a8",
-      "bytes": 1354,
+      "sha256": "1c9d0196059d2c13206087d50e4cc7416d217800e42759f49349a752f5e437e4",
+      "bytes": 1374,
       "group": "shell",
       "stationIDs": []
     },
@@ -67660,8 +67681,8 @@
       "url": "photo.css",
       "group": "shell",
       "stationIDs": [],
-      "bytes": 3677,
-      "sha256": "a9ad17e23a5dc005d448a642c240a3dfd94b086218e0d4980cdb863dd1074bfc"
+      "bytes": 4135,
+      "sha256": "1d059ab4be629ad9f381ee7679bb6b88c4551801fb94c934db6617aedc9814f3"
     },
     {
       "url": "robots.txt",
@@ -67679,8 +67700,8 @@
     },
     {
       "url": "src/app.mjs",
-      "sha256": "c5f1fb2b61d89b98aa7b26bb94d9ba454cab49bfcbcd4a1861bcbf6dc1249859",
-      "bytes": 87806,
+      "sha256": "2a7f446471239a85cdc16d6cc53b226ada93626920daf5f206a6f1a7d4a1bda3",
+      "bytes": 88980,
       "group": "shell",
       "stationIDs": []
     },
@@ -67744,8 +67765,8 @@
       "url": "src/photo-engine.mjs",
       "group": "shell",
       "stationIDs": [],
-      "bytes": 7593,
-      "sha256": "9e3e1ed25a75efe05e1b78032c49950b446a07e6720196a9f222497f6e3091f6"
+      "bytes": 8535,
+      "sha256": "d87cdcdaad80d066dec46e72c7cc5851ebe6544d61e6c96e58e9c96dba116db1"
     },
     {
       "url": "src/photo-store.mjs",
@@ -67753,6 +67774,13 @@
       "stationIDs": [],
       "bytes": 5293,
       "sha256": "f92df466412bff8ee193562de02c2b47f0bb46853547a146329e6c54adc8ddec"
+    },
+    {
+      "url": "src/photo-templates.mjs",
+      "group": "shell",
+      "stationIDs": [],
+      "bytes": 1451,
+      "sha256": "254cce983fc8d5208a685306ae13f238dc454533d596a1637e11b0461afde6a2"
     },
     {
       "url": "src/store.mjs",
@@ -67779,8 +67807,8 @@
       "url": "runtime-manifest.json",
       "group": "shell",
       "stationIDs": [],
-      "bytes": 68505,
-      "sha256": "6767617cbe7d11f93e338878af0befe4bab4eaa673e43d34f2ed5b48bf2fb8d9"
+      "bytes": 69173,
+      "sha256": "7a0b2d992a5199f0fa633cdcef17848c9515acb5f4e68e50634a8e8c71384847"
     }
   ]
 }

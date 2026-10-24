@@ -1,4 +1,5 @@
-// Local-only photo primitives. No network, persistence, uploads or implicit shutter.
+// Local-only photo primitives. No persistence, uploads or implicit shutter.
+import {photoTemplate} from './photo-templates.mjs';
 function fault(code,cause){const e=new Error(code,{cause});e.code=code;return e;}
 function canvas(width,height){const c=document.createElement('canvas');c.width=width;c.height=height;return c;}
 function size(image){return [image.videoWidth||image.naturalWidth||image.width,image.videoHeight||image.naturalHeight||image.height];}
@@ -70,17 +71,29 @@ function wrap(ctx,text,maxWidth){
  }
  return lines;
 }
-export async function composePhotos(frameCanvas,{driverImage,teamColor='#e0a22a',nickname='',stationID,date,quote}={}){
+export async function composePhotos(frameCanvas,{driverImage,driverName='',templateImage,templateID='corner-v4',teamColor='#e0a22a',nickname='',stationID,date,quote}={}){
  const [dw,dh]=size(driverImage||{});if(!(dw>0&&dh>0))throw fault('driverImageNotReady');
  if(!quote?.original||!quote?.chinese||!quote?.author||!quote?.work)throw fault('quoteMissing');
- const width=1920,height=1280,left=1152;
+ const template=photoTemplate(templateID);
+ if(!size(templateImage||{}).every(n=>n>0))throw fault('photoTemplateNotReady');
+ const width=1920,height=1280;
  const cleanCanvas=canvas(width,height),ctx=cleanCanvas.getContext('2d');
  ctx.fillStyle='#14171d';ctx.fillRect(0,0,width,height);
- cover(ctx,frameCanvas,0,0,left,height,frameCanvas.photoMirrored!==false);
- const gradient=ctx.createLinearGradient(left,0,width,height);gradient.addColorStop(0,teamColor);gradient.addColorStop(1,'#14171d');ctx.fillStyle=gradient;ctx.fillRect(left,0,width-left,height);
- const scale=Math.min((width-left-48)/dw,(height-48)/dh),w=dw*scale,h=dh*scale;
- ctx.drawImage(driverImage,left+(width-left-w)/2,height-h,w,h);
- ctx.strokeStyle='rgba(255,255,255,.22)';ctx.lineWidth=4;ctx.strokeRect(2,2,width-4,height-4);
+ ctx.save();ctx.scale(1.25,1.25);
+ const c=template.camera,d=template.driver;
+ cover(ctx,frameCanvas,c.x,c.y,c.w,c.h,frameCanvas.photoMirrored!==false);
+ ctx.drawImage(templateImage,0,0,1536,1024);
+ // Crop the original photograph from its top edge: a close half-body sticker,
+ // never a resynthesized face. This is identical to live CSS cover/center top.
+ const scale=Math.max(d.w/dw,d.h/dh),sw=d.w/scale,sh=d.h/scale,sx=(dw-sw)/2;
+ ctx.save();ctx.shadowColor='rgba(0,0,0,.4)';ctx.shadowBlur=18;ctx.shadowOffsetY=8;
+ ctx.drawImage(driverImage,sx,0,sw,sh,d.x,d.y,d.w,d.h);ctx.restore();
+ ctx.textAlign='center';ctx.textBaseline='middle';ctx.fillStyle='#f6edd8';ctx.font='600 38px sans-serif';ctx.fillText('出发吧！ · 我的高光时刻',...template.labels.title);
+ if(template.id==='scene-v4'){
+  ctx.fillStyle='rgba(12,26,39,.84)';ctx.beginPath();ctx.roundRect(template.labels.name[0]-200,template.labels.name[1]-24,400,48,12);ctx.fill();
+ }
+ ctx.fillStyle=template.id==='corner-v4'?'#152638':'#f6edd8';ctx.font='600 26px sans-serif';ctx.fillText(driverName,...template.labels.name);
+ ctx.fillStyle='#ead9b5';ctx.font='24px sans-serif';ctx.fillText('每一程，都值得喝彩。',...template.labels.slogan);ctx.restore();
  const layout=canvas(width,1).getContext('2d');layout.font='38px sans-serif';
  const original=wrap(layout,quote.original,width-128),chinese=wrap(layout,quote.chinese,width-128);
  layout.font='34px sans-serif';
@@ -95,7 +108,7 @@ export async function composePhotos(frameCanvas,{driverImage,teamColor='#e0a22a'
  y+=24;out.font='34px sans-serif';out.fillStyle='#d5b774';for(const line of credit){out.fillText(line,64,y);y+=48;}
  y+=20;out.fillStyle='#c1c6ce';for(const line of details){out.fillText(line,64,y);y+=48;}
  const [clean,commemorative]=await Promise.all([jpeg(cleanCanvas),jpeg(commemorativeCanvas)]);
- return {clean,commemorative,width,height,commemorativeHeight:totalHeight};
+ return {clean,commemorative,width,height,commemorativeHeight:totalHeight,templateID};
 }
 export function buildPhotoFiles(record){
  if(!(record?.clean instanceof Blob)||!(record?.commemorative instanceof Blob))throw fault('photoNotReady');
