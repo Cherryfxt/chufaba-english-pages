@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "departure-public-0bd3fb8f8db2e68a",
+  "version": "departure-public-e90c6c34a28a568b",
   "mode": "public-online-local-records",
   "files": [
     {
@@ -271,8 +271,8 @@
     },
     {
       "url": "app.css",
-      "sha256": "5b5cad921ab94557684847f0711ac0a9286c38ea1daa6f6eacd4f3801f5e56c5",
-      "bytes": 33856,
+      "sha256": "5bdd16cb5b9de276d3d31894e7e5fadc0bb11e3ad734eaec96e838fcf0b5bb3a",
+      "bytes": 44514,
       "group": "shell",
       "stationIDs": []
     },
@@ -44782,7 +44782,7 @@
     },
     {
       "url": "index.html",
-      "sha256": "3f5ff4b5b03ce3c9d56b782741a133bf7049ed4f00253cb9fc41fca4daeecf64",
+      "sha256": "477306eb7a377ce115dc9d13c0c94d054f3dd258301b6689175368188747df82",
       "bytes": 1089,
       "group": "shell",
       "stationIDs": []
@@ -44810,8 +44810,8 @@
     },
     {
       "url": "src/app.mjs",
-      "sha256": "d9f584d692721294a29d483d4e36a4401551f28a98405af1cdd8e8b97e5e316d",
-      "bytes": 52156,
+      "sha256": "314a321cc02c6f9046064b22a17eca242a4b2cdb3833a1bee134b98e61c5df1d",
+      "bytes": 56324,
       "group": "shell",
       "stationIDs": []
     },
@@ -44821,6 +44821,13 @@
       "bytes": 2927,
       "group": "shell",
       "stationIDs": []
+    },
+    {
+      "url": "src/calendar.mjs",
+      "group": "shell",
+      "stationIDs": [],
+      "bytes": 4585,
+      "sha256": "b8c69d88a354fd535f4e1fa44e45c0d42b70b4ddef98646191124439ffbe827b"
     },
     {
       "url": "src/domain.mjs",
@@ -44851,11 +44858,18 @@
       "stationIDs": []
     },
     {
+      "url": "src/zh-explanations.mjs",
+      "group": "shell",
+      "stationIDs": [],
+      "bytes": 3778,
+      "sha256": "c9f6fe23fa6a4bc679e2bd92ee88e1eba4e7e53cd92fdf3095c5b594c4981e94"
+    },
+    {
       "url": "runtime-manifest.json",
       "group": "shell",
       "stationIDs": [],
-      "bytes": 51942,
-      "sha256": "3ad29f308175df4d25a0ccd1ac0bf4706748dc289c2ab4efd60841eb4260510a"
+      "bytes": 52245,
+      "sha256": "64979a1b8124a85c68ff5e11946d227419ec4a5988afbdcf441367bf92c14a65"
     }
   ]
 }
