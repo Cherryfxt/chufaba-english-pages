@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "departure-public-2b2b47f7461a7784",
+  "version": "departure-public-09380646215afabc",
   "mode": "public-online-local-records",
   "files": [
     {
@@ -271,8 +271,8 @@
     },
     {
       "url": "app.css",
-      "sha256": "5e8dcd4802a31511a10d1e821cd5c948cc9acd10828330c98e53df6574a4a48a",
-      "bytes": 47153,
+      "sha256": "283aa3025de6dc8a96c6c87c04601c6923df1b4e3420c7b3fc118f176f5bf118",
+      "bytes": 47481,
       "group": "shell",
       "stationIDs": []
     },
@@ -67665,8 +67665,8 @@
     },
     {
       "url": "index.html",
-      "sha256": "edbedf83a2715ea5b592d23ff29504ba7b0c21470eb6a8aacb95ab32d8fc27eb",
-      "bytes": 1375,
+      "sha256": "a7e4c97a1bb8a900ff8605d235cd96845d0071c6fbfb75e2db83514d27d58bf8",
+      "bytes": 1369,
       "group": "shell",
       "stationIDs": []
     },
@@ -67815,7 +67815,7 @@
       "group": "shell",
       "stationIDs": [],
       "bytes": 69322,
-      "sha256": "b490043ebf578b3c22d92aead39617e7ea60ea546e08b46fcbf40ce7f47fa0f2"
+      "sha256": "972530b61f6932f3fb1877b1eb0cb378bdbe72b27dc71de34bf8306b2e813b7e"
     }
   ]
 }
