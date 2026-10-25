@@ -9,10 +9,22 @@ function keyFor(profileID,stationID){
   return [profileID,stationID];
 }
 function validateImage(image){assert(image instanceof Blob&&image.type==='image/jpeg'&&image.size>0&&image.size<=MAX_IMAGE_BYTES,'invalidPhotoImage');}
+const QUOTE_FIELDS=['id','original','chinese','chineseLabel','author','work','locator','language','sourceUrl','sourceTitle','attributionNote'];
+export function makeQuoteSnapshot(quote){
+  const snapshot=Object.fromEntries(QUOTE_FIELDS.map(key=>[key,quote?.[key]??'']));
+  validateQuoteSnapshot(snapshot,quote?.id);return snapshot;
+}
+function validateQuoteSnapshot(snapshot,quoteID){
+  exact(snapshot,QUOTE_FIELDS);
+  for(const field of QUOTE_FIELDS)assert(typeof snapshot[field]==='string'&&snapshot[field].length<=12000&&!/[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f]/.test(snapshot[field]),'invalidPhotoQuote');
+  for(const field of ['id','original','chinese','author','work','language'])assert(snapshot[field].trim().length>0,'invalidPhotoQuote');
+  assert(snapshot.id===quoteID,'invalidPhotoQuote');
+}
 function validateMetadata(metadata){
-  exact(metadata,['driverID','teamID','date','quoteID']);
+  exact(metadata,['driverID','teamID','date','quoteID',...(Object.hasOwn(metadata||{},'quoteSnapshot')?['quoteSnapshot']:[])]);
   for(const name of ['driverID','teamID'])assert(typeof metadata[name]==='string'&&metadata[name].length>0&&metadata[name].length<=80&&metadata[name].trim()===metadata[name]&&!/[\u0000-\u001f\u007f]/.test(metadata[name]),'invalidPhotoMetadata');
   assert(typeof metadata.quoteID==='string'&&/^[A-Za-z0-9][A-Za-z0-9._:-]{0,79}$/.test(metadata.quoteID),'invalidPhotoMetadata');
+  if(Object.hasOwn(metadata,'quoteSnapshot'))validateQuoteSnapshot(metadata.quoteSnapshot,metadata.quoteID);
   assert(typeof metadata.date==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(metadata.date),'invalidPhotoDate');
   const parsed=new Date(metadata.date+'T00:00:00.000Z');
   assert(Number.isFinite(parsed.getTime())&&parsed.toISOString().slice(0,10)===metadata.date,'invalidPhotoDate');
@@ -21,8 +33,9 @@ function validateRecord(record,profileID,stationID){
   if(record===undefined)return null;
   assert(record&&record.profileID===profileID&&record.stationID===stationID,'invalidPhotoRecord');
   if(record.status==='skipped'){exact(record,['profileID','stationID','status']);return record;}
-  exact(record,['profileID','stationID','status','clean','commemorative','metadata']);
-  assert(record.status==='confirmed','invalidPhotoRecord');validateImage(record.clean);validateImage(record.commemorative);validateMetadata(record.metadata);return record;
+  // Read legacy two-image entries without rewriting or deleting historical data.
+  exact(record,['profileID','stationID','status','clean','metadata',...(Object.hasOwn(record,'commemorative')?['commemorative']:[])]);
+  assert(record.status==='confirmed','invalidPhotoRecord');validateImage(record.clean);if(Object.hasOwn(record,'commemorative'))validateImage(record.commemorative);validateMetadata(record.metadata);return record;
 }
 export class PhotoStore{
   constructor({indexedDB=globalThis.indexedDB}={}){this.indexedDB=indexedDB;this.db=null;this.opening=null;}
@@ -49,9 +62,9 @@ export class PhotoStore{
     });
   }
   async getConfirmed(profileID,stationID){const record=await this.get(profileID,stationID);return record?.status==='confirmed'?record:null;}
-  async confirm(profileID,stationID,{clean,commemorative,metadata}={}){
-    keyFor(profileID,stationID);validateImage(clean);validateImage(commemorative);validateMetadata(metadata);
-    return this.firstWrite({profileID,stationID,status:'confirmed',clean,commemorative,metadata:structuredClone(metadata)});
+  async confirm(profileID,stationID,{clean,metadata}={}){
+    keyFor(profileID,stationID);validateImage(clean);validateMetadata(metadata);
+    return this.firstWrite({profileID,stationID,status:'confirmed',clean,metadata:structuredClone(metadata)});
   }
   async skip(profileID,stationID){keyFor(profileID,stationID);return this.firstWrite({profileID,stationID,status:'skipped'});}
   async firstWrite(candidate){

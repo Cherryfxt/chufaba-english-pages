@@ -54,26 +54,8 @@ function cover(ctx,image,x,y,w,h,mirror){
  ctx.save();if(mirror){ctx.translate(x+w,y);ctx.scale(-1,1);x=0;y=0;}
  ctx.drawImage(image,sx,sy,sw,sh,x,y,w,h);ctx.restore();
 }
-function wrap(ctx,text,maxWidth){
- // Keep Latin/numeric words together; CJK still wraps character by character.
- // Whitespace stays in the text; only an individually over-wide token is split.
- const lines=[];
- for(const paragraph of String(text??'').split('\n')){
-  let line='';
-  const tokens=paragraph.match(/[\p{Script=Latin}\p{M}\p{N}]+(?:[’'\-][\p{Script=Latin}\p{M}\p{N}]+)*|\s+|[^\p{Script=Latin}\p{M}\p{N}\s]/gu)||[];
-  for(const token of tokens){
-   if(ctx.measureText(token).width>maxWidth){
-    for(const char of Array.from(token)){if(line&&ctx.measureText(line+char).width>maxWidth){lines.push(line);line=char;}else line+=char;}
-   }else if(line&&ctx.measureText(line+token).width>maxWidth){lines.push(line);line=token;}
-   else line+=token;
-  }
-  lines.push(line);
- }
- return lines;
-}
-export async function composePhotos(frameCanvas,{driverImage,driverName='',templateImage,templateID='corner-v4',teamColor='#e0a22a',nickname='',stationID,date,quote}={}){
+export async function composePhotos(frameCanvas,{driverImage,driverName='',templateImage,templateID='corner-v4'}={}){
  const [dw,dh]=size(driverImage||{});if(!(dw>0&&dh>0))throw fault('driverImageNotReady');
- if(!quote?.original||!quote?.chinese||!quote?.author||!quote?.work)throw fault('quoteMissing');
  const template=photoTemplate(templateID);
  if(!size(templateImage||{}).every(n=>n>0))throw fault('photoTemplateNotReady');
  const width=1920,height=1280;
@@ -94,25 +76,13 @@ export async function composePhotos(frameCanvas,{driverImage,driverName='',templ
  }
  ctx.fillStyle=template.id==='corner-v4'?'#152638':'#f6edd8';ctx.font='600 26px sans-serif';ctx.fillText(driverName,...template.labels.name);
  ctx.fillStyle='#ead9b5';ctx.font='24px sans-serif';ctx.fillText('每一程，都值得喝彩。',...template.labels.slogan);ctx.restore();
- const layout=canvas(width,1).getContext('2d');layout.font='38px sans-serif';
- const original=wrap(layout,quote.original,width-128),chinese=wrap(layout,quote.chinese,width-128);
- layout.font='34px sans-serif';
- const credit=wrap(layout,`${quote.author} · ${quote.work}${quote.locator?' · '+quote.locator:''}`,width-128);
- const details=wrap(layout,[nickname&&String(nickname),`第${stationID}站`,String(date??'')].filter(Boolean).join(' · '),width-128);
- const footer=64+(original.length+chinese.length)*56+24+credit.length*48+20+details.length*48+48,totalHeight=height+footer;
- if(totalHeight>4096)throw fault('photoTextTooLong');
- const commemorativeCanvas=canvas(width,totalHeight),out=commemorativeCanvas.getContext('2d');out.fillStyle='#14171d';out.fillRect(0,0,width,totalHeight);out.drawImage(cleanCanvas,0,0);
- let y=height+64;out.textBaseline='top';out.fillStyle='#ffffff';out.font='38px sans-serif';
- for(const line of original){out.fillText(line,64,y);y+=56;}
- out.fillStyle='#e5e6e9';for(const line of chinese){out.fillText(line,64,y);y+=56;}
- y+=24;out.font='34px sans-serif';out.fillStyle='#d5b774';for(const line of credit){out.fillText(line,64,y);y+=48;}
- y+=20;out.fillStyle='#c1c6ce';for(const line of details){out.fillText(line,64,y);y+=48;}
- const [clean,commemorative]=await Promise.all([jpeg(cleanCanvas),jpeg(commemorativeCanvas)]);
- return {clean,commemorative,width,height,commemorativeHeight:totalHeight,templateID};
+ // Quote text belongs in local metadata and the closing page, not a second image.
+ const clean=await jpeg(cleanCanvas);
+ return {clean,width,height,templateID};
 }
 export function buildPhotoFiles(record){
- if(!(record?.clean instanceof Blob)||!(record?.commemorative instanceof Blob))throw fault('photoNotReady');
+ if(!(record?.clean instanceof Blob))throw fault('photoNotReady');
  const safe=value=>String(value??'').normalize('NFKC').replace(/[^\p{L}\p{N}._-]+/gu,'-').slice(0,64)||'photo';
  const base=`chufaba-station-${safe(record.stationID)}-${safe(record.date)}`;
- return [new File([record.clean],`${base}-clean.jpg`,{type:'image/jpeg'}),new File([record.commemorative],`${base}-commemorative.jpg`,{type:'image/jpeg'})];
+ return [new File([record.clean],`${base}-clean.jpg`,{type:'image/jpeg'})];
 }

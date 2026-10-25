@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "departure-public-ad4fc5b82cacd512",
+  "version": "departure-public-395f6b6e8722b131",
   "mode": "public-online-local-records",
   "files": [
     {
@@ -271,8 +271,8 @@
     },
     {
       "url": "app.css",
-      "sha256": "67530220b226d4f0e11047798f116a4bab045b88c11e50156a80894408d20219",
-      "bytes": 44863,
+      "sha256": "5e8dcd4802a31511a10d1e821cd5c948cc9acd10828330c98e53df6574a4a48a",
+      "bytes": 47153,
       "group": "shell",
       "stationIDs": []
     },
@@ -462,8 +462,8 @@
       "url": "closing.css",
       "group": "shell",
       "stationIDs": [],
-      "bytes": 3295,
-      "sha256": "4ed8ad6257fc06d1fd2bb464b13e6b3d75c0c860fc42ae72350c2afa99a46702"
+      "bytes": 3632,
+      "sha256": "fbb7afd204064eb903f550e796ac899743518fcc00be8eb28a1ea108f060caea"
     },
     {
       "url": "content/audio-manifest.json",
@@ -67665,8 +67665,8 @@
     },
     {
       "url": "index.html",
-      "sha256": "1c9d0196059d2c13206087d50e4cc7416d217800e42759f49349a752f5e437e4",
-      "bytes": 1374,
+      "sha256": "7b503c044d9032936a38a719c4e733d40f25280024e4da9dab7807f73a7fd854",
+      "bytes": 1373,
       "group": "shell",
       "stationIDs": []
     },
@@ -67681,8 +67681,8 @@
       "url": "photo.css",
       "group": "shell",
       "stationIDs": [],
-      "bytes": 4135,
-      "sha256": "1d059ab4be629ad9f381ee7679bb6b88c4551801fb94c934db6617aedc9814f3"
+      "bytes": 4155,
+      "sha256": "0dc46fee777f6e2b72f5efb5216bfbc133b5e75ca962e3cf3a9e157ab8a8f4bb"
     },
     {
       "url": "robots.txt",
@@ -67700,8 +67700,8 @@
     },
     {
       "url": "src/app.mjs",
-      "sha256": "2a7f446471239a85cdc16d6cc53b226ada93626920daf5f206a6f1a7d4a1bda3",
-      "bytes": 88980,
+      "sha256": "8749b6e996da3e5f7c5e73ab74426d6276922625b393a000cacafcd2c40c4d05",
+      "bytes": 87051,
       "group": "shell",
       "stationIDs": []
     },
@@ -67765,15 +67765,15 @@
       "url": "src/photo-engine.mjs",
       "group": "shell",
       "stationIDs": [],
-      "bytes": 8535,
-      "sha256": "d87cdcdaad80d066dec46e72c7cc5851ebe6544d61e6c96e58e9c96dba116db1"
+      "bytes": 6175,
+      "sha256": "153f87669b9afd148d555b58a3d4c8debe8de359e2d72db07f6e9bf588151968"
     },
     {
       "url": "src/photo-store.mjs",
       "group": "shell",
       "stationIDs": [],
-      "bytes": 5293,
-      "sha256": "f92df466412bff8ee193562de02c2b47f0bb46853547a146329e6c54adc8ddec"
+      "bytes": 6394,
+      "sha256": "ddf14f465ebca10d6ad648cc19a28022fae04c2b3b73034abc620599c1367c33"
     },
     {
       "url": "src/photo-templates.mjs",
@@ -67808,7 +67808,7 @@
       "group": "shell",
       "stationIDs": [],
       "bytes": 69173,
-      "sha256": "7a0b2d992a5199f0fa633cdcef17848c9515acb5f4e68e50634a8e8c71384847"
+      "sha256": "4c7e91ea6e4adc9eef864c00baf6f547fbb2423c3092c58907c3f97d81648a59"
     }
   ]
 }
