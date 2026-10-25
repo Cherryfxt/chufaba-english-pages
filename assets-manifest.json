@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "departure-public-395f6b6e8722b131",
+  "version": "departure-public-440fb1628fb65801",
   "mode": "public-online-local-records",
   "files": [
     {
@@ -67665,8 +67665,8 @@
     },
     {
       "url": "index.html",
-      "sha256": "7b503c044d9032936a38a719c4e733d40f25280024e4da9dab7807f73a7fd854",
-      "bytes": 1373,
+      "sha256": "33962fded936700488581b12b8d7b4b1727cc79ed9ae9760a1058f34e07e8213",
+      "bytes": 1366,
       "group": "shell",
       "stationIDs": []
     },
@@ -67700,8 +67700,8 @@
     },
     {
       "url": "src/app.mjs",
-      "sha256": "8749b6e996da3e5f7c5e73ab74426d6276922625b393a000cacafcd2c40c4d05",
-      "bytes": 87051,
+      "sha256": "db4962490929cc2240716bb3c704b7221f833cde09205c31ab5636e340f166cf",
+      "bytes": 93458,
       "group": "shell",
       "stationIDs": []
     },
@@ -67728,8 +67728,8 @@
     },
     {
       "url": "src/domain.mjs",
-      "sha256": "4495d0b44d5fe2a751ac73fbfa59b09e875eb3cb0630131a0dd9df190ef2c1fd",
-      "bytes": 22614,
+      "sha256": "274698407fdb4e16cd3d84e3dd0d543998cdf1f326fcb263c2b68cc16810f98b",
+      "bytes": 25180,
       "group": "shell",
       "stationIDs": []
     },
@@ -67746,6 +67746,13 @@
       "stationIDs": [],
       "bytes": 10386,
       "sha256": "4f0a9ae5b6a677527146b33a79f0c33e31d798c7274f66a51074971f6e3fcc65"
+    },
+    {
+      "url": "src/legacy36.mjs",
+      "group": "shell",
+      "stationIDs": [],
+      "bytes": 3343,
+      "sha256": "3e148db6faf373f6566a67570baae29aa48eb6ac135ed9c09764d2dbe3f978af"
     },
     {
       "url": "src/offline.mjs",
@@ -67784,8 +67791,8 @@
     },
     {
       "url": "src/store.mjs",
-      "sha256": "792fccd5833a47b9bbdea07fee2ce3e8b69fcc4fd8c05a7f035727e65687de1f",
-      "bytes": 9922,
+      "sha256": "1b40c9595c945fe82710c0a9a46ef4ab23512daebbfecc9ea7da8f7de3694bec",
+      "bytes": 11920,
       "group": "shell",
       "stationIDs": []
     },
@@ -67807,8 +67814,8 @@
       "url": "runtime-manifest.json",
       "group": "shell",
       "stationIDs": [],
-      "bytes": 69173,
-      "sha256": "4c7e91ea6e4adc9eef864c00baf6f547fbb2423c3092c58907c3f97d81648a59"
+      "bytes": 69322,
+      "sha256": "fcbacb3355adf4e1a1f9dadc1d46a10583c80cb023e637af6c483c32d686ccec"
     }
   ]
 }

@@ -1,4 +1,4 @@
-import {createState,validateState,snapshot} from './domain.mjs';
+import {createState,validateState,snapshot,importLegacy36,reselectRoster} from './domain.mjs?v=legacy36-20261025';
 
 export function canonicalJSON(value){
   if(value===null||typeof value!=='object')return JSON.stringify(value);
@@ -70,7 +70,7 @@ export class Store {
     });
   }
   enqueue(operation){const task=this.queue.then(operation);this.queue=task.catch(()=>{});return task;}
-  async commit(change,expectedRevision,{allowProfileReplace=false}={}){
+  async commit(change,expectedRevision,{allowProfileReplace=false,backupBefore=false}={}){
     const db=await this.open();
     const record=await new Promise((resolve,reject)=>{
       const tx=db.transaction('state','readwrite'),os=tx.objectStore('state'),request=os.get('main');let value,failure;
@@ -80,9 +80,16 @@ export class Store {
           assert(old.revision===expectedRevision,'revisionConflict');
           const next=change(structuredClone(old.state));assert(!(next instanceof Promise),'asyncTransactionNotAllowed');
           validateState(next,this.context);
-          if(!allowProfileReplace&&old.state.profile)assert(canonicalJSON(old.state.profile)===canonicalJSON(next.profile),'profileImmutable');
+          if(!allowProfileReplace&&old.state.legacy36&&old.state.legacy36.rosterConfirmed!==next.legacy36?.rosterConfirmed){
+            assert(!old.state.legacy36.rosterConfirmed&&next.legacy36?.rosterConfirmed&&canonicalJSON(reselectRoster(old.state,next.profile.teamID,next.profile.driverID,this.context.catalog))===canonicalJSON(next),'profileImmutable');
+          }
+          if(!allowProfileReplace&&old.state.profile&&canonicalJSON(old.state.profile)!==canonicalJSON(next.profile)){
+            const eligible=old.state.legacy36&&!old.state.legacy36.rosterConfirmed&&next.legacy36?.rosterConfirmed;
+            assert(eligible&&canonicalJSON(reselectRoster(old.state,next.profile.teamID,next.profile.driverID,this.context.catalog))===canonicalJSON(next),'profileImmutable');
+          }
           value={revision:old.revision+1,state:structuredClone(next)};
           if(canonicalJSON(old.state)===canonicalJSON(next)){value=old;return;}
+          if(backupBefore)os.put(structuredClone(old),'pre-legacy36-r'+old.revision);
           os.put(value,'main');
         }catch(error){failure=error;tx.abort();}
       };
@@ -95,6 +102,20 @@ export class Store {
   transact(change){return this.enqueue(async()=>{assert(this.revision!==null,'storeNotLoaded');return this.commit(change,this.revision);});}
   async exportBackup(){
     const state=await this.load();return encodeBackup(state,this.revision,this.context);
+  }
+  async previewLegacyImport(text){
+    await this.load();
+    const next=importLegacy36(this.state,text,this.context.catalog);
+    validateState(next,this.context);
+    const summary=snapshot(next),preview={state:structuredClone(next),currentRevision:this.revision,summary:{nickname:next.profile.nickname,answered:36,firstCorrect:next.sessions[0].firstAnswers.filter(a=>a.correct).length,points:summary.points,coins:summary.coins,miles:summary.miles,claimed:0,photo:'未合影',roster:'车队和车手可重新选择一次，确认后锁定'}};
+    this.previews.set(preview,{state:structuredClone(next),expectedRevision:this.revision,legacy:true});return preview;
+  }
+  importLegacy(preview,{expectedRevision}={}){
+    return this.enqueue(async()=>{
+      const saved=this.previews.get(preview);assert(saved?.legacy,'importPreviewRequired');assert(expectedRevision===saved.expectedRevision,'revisionConflict');
+      const result=await this.commit(old=>{assert(!old.legacy36&&old.sessions.length===0&&old.claimedIDs.length===0,'legacyImportConflict');return structuredClone(saved.state);},expectedRevision,{backupBefore:true});
+      this.previews.delete(preview);return result;
+    });
   }
   async previewImport(text){
     const preview=await decodeBackup(text,this.context);

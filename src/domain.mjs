@@ -1,4 +1,5 @@
 // Business rules ported from the confirmed 2026-10-22 native core. No network or storage.
+import {LEGACY36_VERSION,readLegacy36,legacy36Projection} from './legacy36.mjs';
 export const RULE_VERSION = 'chufaba-24q-v1-20261022';
 export const HONORS = [
   [1,'正式发车',0,0],[2,'起步新秀',1300,500],[3,'稳定车手',4000,1800],
@@ -15,6 +16,20 @@ const current = s => s.sessions.find(x=>x.stationID===s.activeStationID) || fail
 const requireRoute = (s,...routes) => check(routes.includes(s.route),'invalidRoute');
 const studyItems = station => station.newItems.length ? station.newItems : station.reviewItems;
 export function createState(){return {schemaVersion:1,ruleVersion:RULE_VERSION,profile:null,randomOrder:[],sessions:[],claimedIDs:[],activeStationID:null,route:'activation',feedbackNumbers:[]};}
+export function importLegacy36(state,archiveJSON,catalog){
+  check(!state.legacy36,'legacyAlreadyImported');
+  check(state.sessions.length===0&&state.claimedIDs.length===0&&!(state.correctionEvents||[]).length,'legacyImportConflict');
+  const archive=readLegacy36(archiveJSON),projection=legacy36Projection(archive);
+  const s=state.profile?copy(state):activate(state,{teamID:archive.learnerSelection.team,driverID:archive.learnerSelection.driver,nickname:archive.learnerSelection.nickname},catalog);
+  s.legacy36={archiveJSON,rosterConfirmed:false};s.sessions=[projection.session];s.correctionEvents=projection.correctionEvents;
+  delete s.correctionStart;s.claimedIDs=[];s.activeStationID=1;s.route='result';s.feedbackNumbers=[];return s;
+}
+export function reselectRoster(state,teamID,driverID,catalog){
+  check(state.legacy36&&!state.legacy36.rosterConfirmed,'rosterAlreadyLocked');
+  check(catalog.teams.find(t=>t.id===teamID)?.drivers.includes(driverID),'invalidRoster');
+  const s=copy(state);s.profile.teamID=teamID;s.profile.driverID=driverID;s.legacy36.rosterConfirmed=true;s.activeStationID=1;s.route='result';s.feedbackNumbers=[];return s;
+}
+const requireRosterConfirmed=state=>check(!state.legacy36||state.legacy36.rosterConfirmed,'legacyRosterRequired');
 export function activate(state,{teamID,driverID,nickname,profileID=globalThis.crypto.randomUUID()},catalog){
   check(!state.profile,'alreadyActivated');
   check(catalog.teams.find(t=>t.id===teamID)?.drivers.includes(driverID),'invalidRoster');
@@ -37,6 +52,7 @@ function nextRoute(session,showBreak=true){
   return showBreak && count>0 && count%8===0 ? 'lapBreak':'question';
 }
 export function openStation(state,station,{contentVersion}={}){
+  requireRosterConfirmed(state);
   check(state.profile,'notActivated');check(station&&int(station.station,1,126),'invalidStation');
   const s=copy(state);let session=s.sessions.find(x=>x.stationID===station.station);
   if(!session){
@@ -45,7 +61,7 @@ export function openStation(state,station,{contentVersion}={}){
     check(station.questions.length===24&&studyItems(station).length>0&&station.warmup.length>0,'invalidContent');
     session={stationID:station.station,contentVersion,attempt:1,studyCount:studyItems(station).length,warmupCount:station.warmup.length,studiedCount:0,warmupAnswers:[],formalStarted:false,firstAnswers:[],completedDay:null};
     s.sessions.push(session);
-  }else if(contentVersion){check(session.contentVersion===contentVersion,'contentVersionMismatch');}
+  }else if(contentVersion&&session.contentVersion!==LEGACY36_VERSION){check(session.contentVersion===contentVersion,'contentVersionMismatch');}
   s.activeStationID=session.stationID;s.feedbackNumbers=[];s.route=nextRoute(session);return s;
 }
 export function advanceStudy(state){requireRoute(state,'studyCards');const s=copy(state),c=current(s);check(c.studiedCount<c.studyCount);c.studiedCount++;s.route=nextRoute(c);return s;}
@@ -85,6 +101,7 @@ export function finish(state,{date=new Date()}={}){
   const s=copy(state);current(s).completedDay=day;s.route='result';s.feedbackNumbers=[];return s;
 }
 export function stationSummary(session){
+  if(session.stationID===1&&session.contentVersion===LEGACY36_VERSION)return {version:LEGACY36_VERSION,firstCorrect:32,questionCount:36,firstPoints:480,firstCoinsInQuarters:960,coins:240,miles:140,stars:3,champion:false};
   const firstCorrect=session.firstAnswers.filter(x=>x.correct).length;
   const firstPoints=session.firstAnswers.reduce((n,x)=>n+(x.correct?[10,15,20][Math.floor((x.number-1)/8)]:0),0);
   return {version:RULE_VERSION,firstCorrect,questionCount:24,firstPoints,firstCoinsInQuarters:firstPoints*2,coins:firstPoints/2,miles:firstCorrect>=20?140:firstCorrect>=15?100:0,stars:firstCorrect>=20?3:firstCorrect>=15?2:1,champion:firstCorrect===24};
@@ -129,7 +146,8 @@ function settlementEvents(state){
     result.push({stationID:c.stationID,date:c.completedDay,sourceEventID:`station-${c.stationID}-corrections-0`,points:summary.firstPoints,coins:summary.coins,miles:summary.miles});
     for(const e of (state.correctionEvents||[]).filter(e=>e.afterCompletedStations===i+1)){
       const count=(counts.get(e.stationID)||0)+e.receipts.length;counts.set(e.stationID,count);
-      const points=e.receipts.reduce((n,a)=>n+(a.correct?[5,7.5,10][Math.floor((a.number-1)/8)]:0),0);
+      const lapSize=state.sessions[e.stationID-1]?.contentVersion===LEGACY36_VERSION?12:8;
+      const points=e.receipts.reduce((n,a)=>n+(a.correct?[5,7.5,10][Math.floor((a.number-1)/lapSize)]:0),0);
       result.push({...e,sourceEventID:`station-${e.stationID}-corrections-${count}`,points,coins:points/2,miles:0});
     }
   }
@@ -152,7 +170,7 @@ export function rewards(state){
   }
   return {points,coins,miles,claims,dropProgress,lockedDropInterval,trainingDaysSinceDrop};
 }
-export function claim(state,claimID){check(rewards(state).claims.some(x=>x.id===claimID),'unknownClaim');const s=copy(state);if(!s.claimedIDs.includes(claimID))s.claimedIDs.push(claimID);return s;}
+export function claim(state,claimID){requireRosterConfirmed(state);check(rewards(state).claims.some(x=>x.id===claimID),'unknownClaim');const s=copy(state);if(!s.claimedIDs.includes(claimID))s.claimedIDs.push(claimID);return s;}
 export function returnToSchedule(state){check(state.profile,'notActivated');const s=copy(state);s.activeStationID=null;s.route='schedule';s.feedbackNumbers=[];return s;}
 export function restartStation(state){
   const old=current(state);check(!old.completedDay&&state.sessions.at(-1).stationID===old.stationID,'notLatestUnfinishedTask');
@@ -170,12 +188,12 @@ export function snapshot(state,station){
   const allEvents=settlementEvents(state),corrections=allEvents.filter(e=>e.receipts),run=correcting?corrections.slice(state.correctionStart??corrections.length):[];
   const correctionRun={corrected:run.reduce((n,e)=>n+e.receipts.filter(a=>a.correct).length,0),points:run.reduce((n,e)=>n+e.points,0),coins:run.reduce((n,e)=>n+e.coins,0),eventIDs:run.map(e=>e.sourceEventID)};
   const rewardEventIDs=correcting?correctionRun.eventIDs:c?[`station-${c.stationID}-corrections-0`]:[];
-  return {route:state.route,profile:copy(state.profile),stationID:c?.stationID??null,contentVersion:c?.contentVersion??null,studyIndex:c?.studiedCount??0,warmupIndex:state.route==='warmupFeedback'?(c?.warmupAnswers.length??1)-1:(c?.warmupAnswers.length??0),warmupAnswer:copy(c?.warmupAnswers.at(-1)||null),questionNumbers,questions:station?questionNumbers.map(n=>safeQuestion(station.questions[n-1],station)):[],feedback,correctionRun,rewardEventIDs,rewardEventID:rewardEventIDs.at(-1)||null,remainingMistakes:c?remainingMistakes(state,c.stationID):[],answered:c?.firstAnswers.length??0,questionCount:24,result:c?.completedDay?stationSummary(c):null,currentStationID:state.sessions.find(x=>!x.completedDay)?.stationID??(state.sessions.length<126?state.sessions.length+1:null),completedStationIDs:state.sessions.filter(x=>x.completedDay).map(x=>x.stationID),...r,pendingHonors:r.claims.filter(x=>x.kind==='honor'&&!x.claimed),pendingParts:r.claims.filter(x=>x.kind!=='honor'&&!x.claimed),honorsDot:r.claims.some(x=>x.kind==='honor'&&!x.claimed),garageDot:r.claims.some(x=>x.kind!=='honor'&&!x.claimed)};
+  return {route:state.route,profile:copy(state.profile),stationID:c?.stationID??null,contentVersion:c?.contentVersion??null,studyIndex:c?.studiedCount??0,warmupIndex:state.route==='warmupFeedback'?(c?.warmupAnswers.length??1)-1:(c?.warmupAnswers.length??0),warmupAnswer:copy(c?.warmupAnswers.at(-1)||null),questionNumbers,questions:station?questionNumbers.map(n=>safeQuestion(station.questions[n-1],station)):[],feedback,correctionRun,rewardEventIDs,rewardEventID:rewardEventIDs.at(-1)||null,remainingMistakes:c?remainingMistakes(state,c.stationID):[],answered:c?.firstAnswers.length??0,questionCount:c?.contentVersion===LEGACY36_VERSION?36:24,result:c?.completedDay?stationSummary(c):null,currentStationID:state.sessions.find(x=>!x.completedDay)?.stationID??(state.sessions.length<126?state.sessions.length+1:null),completedStationIDs:state.sessions.filter(x=>x.completedDay).map(x=>x.stationID),...r,pendingHonors:r.claims.filter(x=>x.kind==='honor'&&!x.claimed),pendingParts:r.claims.filter(x=>x.kind!=='honor'&&!x.claimed),honorsDot:r.claims.some(x=>x.kind==='honor'&&!x.claimed),garageDot:r.claims.some(x=>x.kind!=='honor'&&!x.claimed)};
 }
 function lookup(map,key){return map instanceof Map?map.get(key):map?.[key];}
 /** Regrades every receipt against the shipped, version-bound source. Never trusts balances in a backup. */
 export function validateState(state,{catalog,stations,contentVersions}){
-  exact(state,['schemaVersion','ruleVersion','profile','randomOrder','sessions','claimedIDs','activeStationID','route','feedbackNumbers',...['correctionEvents','correctionStart'].filter(k=>Object.hasOwn(state,k))]);
+  exact(state,['schemaVersion','ruleVersion','profile','randomOrder','sessions','claimedIDs','activeStationID','route','feedbackNumbers',...['correctionEvents','correctionStart','legacy36'].filter(k=>Object.hasOwn(state,k))]);
   check(state.schemaVersion===1&&state.ruleVersion===RULE_VERSION,'unsupportedArchive');
   check(Array.isArray(state.sessions)&&state.sessions.length<=126&&Array.isArray(state.claimedIDs)&&Array.isArray(state.randomOrder)&&Array.isArray(state.feedbackNumbers));
   if(!state.profile){check(same(state,createState()),'invalidUnactivatedState');return true;}
@@ -184,10 +202,20 @@ export function validateState(state,{catalog,stations,contentVersions}){
   check(catalog.teams.find(t=>t.id===p.teamID)?.drivers.includes(p.driverID),'invalidRoster');
   check(typeof p.nickname==='string'&&p.nickname===p.nickname.trim()&&p.nickname.length>0&&p.nickname.length<=40,'invalidNickname');
   check(same([...state.randomOrder].sort((a,b)=>a-b),Array.from({length:45},(_,i)=>i+1)),'invalidRandomOrder');
+  let legacy=null;
+  if(Object.hasOwn(state,'legacy36')){
+    exact(state.legacy36,['archiveJSON','rosterConfirmed']);check(typeof state.legacy36.rosterConfirmed==='boolean','invalidLegacyRoster');
+    legacy=legacy36Projection(readLegacy36(state.legacy36.archiveJSON));
+    check(same(state.sessions[0],legacy.session),'legacySessionMismatch');
+    check(same((state.correctionEvents||[]).filter(e=>e.stationID===1),legacy.correctionEvents),'legacyCorrectionsMismatch');
+    if(!state.legacy36.rosterConfirmed)check(state.sessions.length===1&&state.claimedIDs.length===0,'legacyRosterRequired');
+  }
   let previousDay='';
   for(let i=0;i<state.sessions.length;i++){
     const c=state.sessions[i];exact(c,['stationID','contentVersion','attempt','studyCount','warmupCount','studiedCount','warmupAnswers','formalStarted','firstAnswers','completedDay']);
-    check(c.stationID===i+1,'invalidStationOrder');const station=lookup(stations,c.stationID);check(station,'contentUnavailable');
+    check(c.stationID===i+1,'invalidStationOrder');
+    if(i===0&&legacy){previousDay=c.completedDay;continue;}
+    const station=lookup(stations,c.stationID);check(station,'contentUnavailable');
     check(c.contentVersion===lookup(contentVersions,c.stationID),'contentVersionMismatch');
     check(int(c.attempt,1,1000000)&&c.studyCount===studyItems(station).length&&c.warmupCount===station.warmup.length&&int(c.studiedCount,0,c.studyCount));
     check(Array.isArray(c.warmupAnswers)&&c.warmupAnswers.length<=c.warmupCount&&typeof c.formalStarted==='boolean'&&Array.isArray(c.firstAnswers)&&c.firstAnswers.length<=24);
@@ -214,6 +242,7 @@ export function validateState(state,{catalog,stations,contentVersions}){
     exact(e,['stationID','date','afterCompletedStations','receipts']);
     check(int(e.stationID,1,state.sessions.length)&&int(e.afterCompletedStations,1,state.sessions.filter(x=>x.completedDay).length)&&e.afterCompletedStations>=previousCount,'invalidCorrectionOrder');
     previousCount=e.afterCompletedStations;
+    if(legacy&&e.stationID===1){replay.correctionEvents.push(e);continue;}
     const c=state.sessions[e.stationID-1],station=lookup(stations,e.stationID);
     check(c.completedDay&&e.stationID<=e.afterCompletedStations&&validDay(e.date)&&Array.isArray(e.receipts)&&e.receipts.length>=1&&e.receipts.length<=4,'invalidCorrectionEvent');
     const first=e.receipts[0]?.number;check(int(first,1,24),'invalidCorrectionQuestion');
