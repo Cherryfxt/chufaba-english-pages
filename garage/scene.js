@@ -4,6 +4,7 @@ import { RectAreaLightUniformsLib } from 'three/addons/lights/RectAreaLightUnifo
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 import { installStarterParts } from './starter-parts.js';
 import { installReviewParts } from './parts.js';
+import {loadCarBytes} from './asset-loader.mjs';
 
 // Runtime uses Qvist_designs' F1 2026 concept geometry, CC BY 4.0, via the credited
 // sixteen-part adaptation in assets/candidates/qvist. Materials and modular additions
@@ -72,11 +73,11 @@ function texture(kind) {
 }
 
 
-async function buildAssetCar() {
+async function buildAssetCar(options={}) {
   const url=new URL('./assets/qvist-2026-assemblies.glb',import.meta.url);
-  const response=await fetch(url);if(!response.ok)throw new Error('高精度赛车资源加载失败');
-  const bytes=await response.arrayBuffer();
-  if(bytes.byteLength!==new DataView(bytes).getUint32(8,true))throw new Error('赛车资源不完整，请重试');
+  const bytes=await loadCarBytes(url,options);
+  if(options.signal?.aborted)throw new DOMException('Cancelled','AbortError');
+  options.onProgress?.({stage:'parsing'});
   const gltf=await new GLTFLoader().parseAsync(bytes,url.href.substring(0,url.href.lastIndexOf('/')+1));
   const root=gltf.scene;root.name='Qvist 2026 concept · Departure material and modular adaptation';
   const materials=[],textures=[texture('carbon'),texture('rubber')];
@@ -211,11 +212,15 @@ async function buildAssetCar() {
   return {root,setPart:setStarter,setLivery,selected,dispose,starter,dimensions:{length:size.x,width:size.z,height:size.y}};
 }
 
-export async function createCarScene(container) {
+export async function createCarScene(container,options={}) {
   if(!container)throw new Error('Missing 3D container');
-  const car=await buildAssetCar();
+  const car=await buildAssetCar(options);
+  let renderer;
+  try{
+  if(options.signal?.aborted)throw new DOMException('Cancelled','AbortError');
+  options.onProgress?.({stage:'rendering'});
   RectAreaLightUniformsLib.init();
-  const renderer=new THREE.WebGLRenderer({antialias:true,alpha:false,powerPreference:'high-performance',preserveDrawingBuffer:true});
+  renderer=new THREE.WebGLRenderer({antialias:true,alpha:false,powerPreference:'high-performance',preserveDrawingBuffer:false});
   renderer.setPixelRatio(Math.min(window.devicePixelRatio||1,1.7));renderer.outputColorSpace=THREE.SRGBColorSpace;
   renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=1.15;
   renderer.shadowMap.enabled=true;renderer.shadowMap.type=THREE.VSMShadowMap;
@@ -278,6 +283,7 @@ export async function createCarScene(container) {
     setLivery(id){const ok=car.setLivery(id);if(ok){status.livery=id;invalidate();}return ok;},
     setView,zoom,resetCamera(){setAutoRotate(false);setView('overview');},setAutoRotate,setLight,
     getInfo(){return {...status,parts:{...status.parts},dimensions:{...car.dimensions},geometrySource:'Qvist_designs F1 2026 concept / CC BY 4.0 / 16-assembly adaptation',modularMethod:'One high-detail source car. Sport and aero add independent surface-mounted aerodynamic details or wheel-cover details; they are not three full source bodies.',materialMethod:'Authored clear-coated microflake paint, triplanar carbon weave with roughness and micro-normal response, circumferential rubber wear and separated wheel-cover shading. Studio reflection panels plus soft cast/contact shadows; not photographic textures.',camera:camera.position.toArray(),baseDistance};},
-    dispose(){if(disposed)return;disposed=true;cancelAnimationFrame(raf);observer.disconnect();document.removeEventListener('visibilitychange',onVisibility);renderer.domElement.removeEventListener('keydown',onKey);renderer.domElement.removeEventListener('webglcontextlost',onLost);controls.dispose();car.dispose();floor.geometry.dispose();floorMat.dispose();shadowObjects.forEach(o=>o.geometry.dispose());shadowMaterial.dispose();shadowTexture.dispose();env.dispose();renderer.dispose();renderer.domElement.remove();}
+    dispose(){if(disposed)return;disposed=true;cancelAnimationFrame(raf);observer.disconnect();document.removeEventListener('visibilitychange',onVisibility);renderer.domElement.removeEventListener('keydown',onKey);renderer.domElement.removeEventListener('webglcontextlost',onLost);controls.dispose();car.dispose();floor.geometry.dispose();floorMat.dispose();shadowObjects.forEach(o=>o.geometry.dispose());shadowMaterial.dispose();shadowTexture.dispose();env.dispose();renderer.dispose();renderer.forceContextLoss();renderer.domElement.remove();}
   };
+  }catch(error){car.dispose();if(renderer){renderer.dispose();renderer.forceContextLoss();renderer.domElement.remove();}throw error;}
 }

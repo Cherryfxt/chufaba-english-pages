@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "departure-public-e4f64cafda68decc",
+  "version": "departure-public-64a72ac8c1c399a2",
   "mode": "public-online-local-records",
   "files": [
     {
@@ -67118,6 +67118,13 @@
       "sha256": "0dd56fea8b99f5496f3a3d0e81f93d21c0f668b5094297d9ce4431baa7b08ffb"
     },
     {
+      "url": "garage/asset-loader.mjs",
+      "group": "shell",
+      "stationIDs": [],
+      "bytes": 3968,
+      "sha256": "88db0423de9f859dbc6a9939ecff9cbbb1709fec6a1e481948322f81649de6c3"
+    },
+    {
       "url": "garage/assets/ATTRIBUTION.txt",
       "group": "shell",
       "stationIDs": [],
@@ -67149,8 +67156,8 @@
       "url": "garage/scene.js",
       "group": "shell",
       "stationIDs": [],
-      "bytes": 29064,
-      "sha256": "28146cee775d53868e24740dd4568c444b80551b8660c8aa44da0451d48f377d"
+      "bytes": 29350,
+      "sha256": "c49110f1d363ac77e8ff0fc4c1285f96fcf2fb1ca8ba03c8a3a5af7dd12b05f8"
     },
     {
       "url": "garage/starter-parts.js",
@@ -67625,15 +67632,15 @@
       "url": "garage/viewer.html",
       "group": "shell",
       "stationIDs": [],
-      "bytes": 1818,
-      "sha256": "f4209e3eb05128287224e76bd7d1a833ffa381f3bfa55bbb86c16d35c6ac654d"
+      "bytes": 2070,
+      "sha256": "3a61affbf13dbb55563ec0bcbac729a31be46dca4216186cfb78595c8ab13f32"
     },
     {
       "url": "garage/viewer.js",
       "group": "shell",
       "stationIDs": [],
-      "bytes": 2432,
-      "sha256": "990ac5d8794bb4251da5cc0929a01633ab229c912c45ac3a1738607263ab9374"
+      "bytes": 3932,
+      "sha256": "e3136fd089d2317c75e256fd05c5927a78a16ae8c6843c85204b61b290bf1867"
     },
     {
       "url": "icon-192.png",
@@ -67665,8 +67672,8 @@
     },
     {
       "url": "index.html",
-      "sha256": "36ca01008a18a163432c757564df0cbac6ff64bbb0fe6b992edc0b812a272064",
-      "bytes": 1366,
+      "sha256": "544baa723c4c3b419670a511a5dc9dd75d5ce3ed22c358940e0112b9b619d2de",
+      "bytes": 1368,
       "group": "shell",
       "stationIDs": []
     },
@@ -67700,8 +67707,8 @@
     },
     {
       "url": "src/app.mjs",
-      "sha256": "1cbf46d8deaceb06e563b9055e2161ee796de996f7a71ab1c5715bf8b057ed78",
-      "bytes": 93157,
+      "sha256": "9d62830e26642255cd738f23c5f92d909a09a21b99a564afe6fd0c4ffb8ed426",
+      "bytes": 93546,
       "group": "shell",
       "stationIDs": []
     },
@@ -67814,8 +67821,8 @@
       "url": "runtime-manifest.json",
       "group": "shell",
       "stationIDs": [],
-      "bytes": 69322,
-      "sha256": "afa28e6d45aafa4fd2b8a6962902c9f64e3edcf88fbf48e8af9edd19c8b6156a"
+      "bytes": 69477,
+      "sha256": "cf2b47e1255b7de3e2d4951cd64e7a25471250220663f4f64ee8e9455dcde356"
     }
   ]
 }
