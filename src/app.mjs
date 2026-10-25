@@ -2,7 +2,7 @@ import * as D from './domain.mjs?v=legacy36-20261025';
 import {explanationZh} from './zh-explanations.mjs';
 import {glossaryZh} from './glossary-zh.mjs';
 import {calendarHTML,monthKey,todayKey} from './calendar.mjs';
-import * as S from './store.mjs?v=legacy36-20261025';
+import * as S from './store.mjs?v=ipad-preserve-20261025';
 import * as G from './garage-state.mjs';
 import * as C from './closing.mjs?v=quotes-v1-20261024';
 import * as R from './test-reset.mjs';
@@ -20,7 +20,7 @@ let audioKey='',lastAudio=null,modal=null,saveError='',studyViewIndex=null,study
 let calendarMonth=monthKey();
 function legacyImportPanel(){
  const allowed=!state.legacy36&&!state.sessions.length&&!state.claimedIDs.length&&!(state.correctionEvents||[]).length;
- return '<div class="resource-row"><h3>导入历史第1站 · 36题记录</h3><p>专用导入入口，不是整档替换。保留当前昵称与身份，只能在本机没有学习和领奖记录时导入。历史成绩、原错题和已完成纠错保持原样；新站继续使用24题规则。</p>'+(allowed?'<label><span>选择历史记录文件 </span><input type="file" id="legacy-file" accept=".json,application/json"></label>':state.legacy36?'<p>历史记录已经导入，不可重复导入。</p>':'<p>本机已有学习或领奖记录，不能导入；当前存档保持不变。</p>')+(legacyPreview?'<div class="feedback"><h3>确认历史记录导入</h3><p>首次答对 '+esc(legacyPreview.summary?.firstCorrect)+' / '+esc(legacyPreview.summary?.answered)+' 题 · 成长积分 '+esc(legacyPreview.summary?.points)+' · 金币 '+esc(legacyPreview.summary?.coins)+' · 里程 '+esc(legacyPreview.summary?.miles)+'</p><p>昵称：'+esc(legacyPreview.summary?.nickname)+'。奖励未领取，未合影。</p><p>确认时会自动保存导入前副本，并检查其他窗口是否更新过存档。奖励保持未领取，不会创建合影；随后可在规则结尾重新确认一次车队和车手。</p>'+btn('确认导入历史记录','confirm-legacy',true)+btn('取消导入','cancel-legacy')+'</div>':'')+'</div>';
+ return '<div class="resource-row"><h3>导入历史第1站 · 36题记录</h3><p>专用导入入口，不是整档替换。可选择隔空投送收到的存档文件，只提取36题记录，保留本机已确认的名字、车队和车手，不要求重选。仅限本机没有学习和领奖记录时导入；新站继续使用24题规则。</p>'+(allowed?'<label><span>选择历史记录文件 </span><input type="file" id="legacy-file" accept=".json,application/json"></label>':state.legacy36?'<p>历史记录已经导入，不可重复导入。</p>':'<p>本机已有学习或领奖记录，不能导入；当前存档保持不变。</p>')+(legacyPreview?'<div class="feedback"><h3>确认历史记录导入</h3><p>首次答对 '+esc(legacyPreview.summary?.firstCorrect)+' / '+esc(legacyPreview.summary?.answered)+' 题 · 成长积分 '+esc(legacyPreview.summary?.points)+' · 金币 '+esc(legacyPreview.summary?.coins)+' · 里程 '+esc(legacyPreview.summary?.miles)+'</p><p>昵称：'+esc(legacyPreview.summary?.nickname)+' · 车队：'+esc(legacyPreview.summary?.teamID)+' · 车手：'+esc(legacyPreview.summary?.driverID)+'</p><p>'+esc(legacyPreview.summary?.roster)+'。奖励未领取，未合影。</p><p>确认时会自动保存导入前副本，并检查其他窗口是否更新过存档。历史成绩和纠错保持原样，不会领取奖励或创建合影。</p>'+btn('确认导入历史记录','confirm-legacy',true)+btn('取消导入','cancel-legacy')+'</div>':'')+'</div>';
 }
 async function assertLegacyPhotoEmpty(){
  if(state?.profile&&await photoStore.get(state.profile.profileID,1))throw new Error('legacyPhotoConflict');
@@ -29,7 +29,7 @@ async function legacyAction(key){
  if(key==='cancel-legacy'){legacyPreview=null;legacyRevision=null;render();return;}
  if(!legacyPreview)return;
  busy=true;paintSaving();
- try{await assertLegacyPhotoEmpty();state=await store.importLegacy(legacyPreview,{expectedRevision:legacyRevision});legacyPreview=null;legacyRevision=null;restorePreview=null;backupOffered=false;draft={teamID:null,driverID:null,nickname:state.profile.nickname};resetView();selectedStation=1;screen='home';render();notice('历史第1站已导入。请在赛程规则结尾确认出发阵容；奖励尚未领取，未创建照片。');}
+ try{await assertLegacyPhotoEmpty();state=await store.importLegacy(legacyPreview,{expectedRevision:legacyRevision});legacyPreview=null;legacyRevision=null;restorePreview=null;backupOffered=false;draft={teamID:null,driverID:null,nickname:state.profile.nickname};resetView();selectedStation=1;screen='home';render();notice(state.legacy36.rosterConfirmed?'第1站已导入，已保留本机名字、车队和车手。奖励尚未领取，未创建照片。':'历史第1站已导入。请在赛程规则结尾确认出发阵容；奖励尚未领取，未创建照片。');}
  catch(e){notice('历史记录未导入：'+errorText(e));}
  finally{busy=false;paintSaving();}
 }

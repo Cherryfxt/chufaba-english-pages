@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "departure-public-09380646215afabc",
+  "version": "departure-public-e4f64cafda68decc",
   "mode": "public-online-local-records",
   "files": [
     {
@@ -67665,8 +67665,8 @@
     },
     {
       "url": "index.html",
-      "sha256": "a7e4c97a1bb8a900ff8605d235cd96845d0071c6fbfb75e2db83514d27d58bf8",
-      "bytes": 1369,
+      "sha256": "36ca01008a18a163432c757564df0cbac6ff64bbb0fe6b992edc0b812a272064",
+      "bytes": 1366,
       "group": "shell",
       "stationIDs": []
     },
@@ -67700,8 +67700,8 @@
     },
     {
       "url": "src/app.mjs",
-      "sha256": "71da1087b5b320bdb6fc4380a0140cee0f2ca9697ca96d15477011b63724b679",
-      "bytes": 92855,
+      "sha256": "1cbf46d8deaceb06e563b9055e2161ee796de996f7a71ab1c5715bf8b057ed78",
+      "bytes": 93157,
       "group": "shell",
       "stationIDs": []
     },
@@ -67791,8 +67791,8 @@
     },
     {
       "url": "src/store.mjs",
-      "sha256": "1b40c9595c945fe82710c0a9a46ef4ab23512daebbfecc9ea7da8f7de3694bec",
-      "bytes": 11920,
+      "sha256": "7fd6e43b1a73132444030290cd6a36bd47d83567a96efb74b7c8093c1d30a12e",
+      "bytes": 12614,
       "group": "shell",
       "stationIDs": []
     },
@@ -67815,7 +67815,7 @@
       "group": "shell",
       "stationIDs": [],
       "bytes": 69322,
-      "sha256": "972530b61f6932f3fb1877b1eb0cb378bdbe72b27dc71de34bf8306b2e813b7e"
+      "sha256": "afa28e6d45aafa4fd2b8a6962902c9f64e3edcf88fbf48e8af9edd19c8b6156a"
     }
   ]
 }

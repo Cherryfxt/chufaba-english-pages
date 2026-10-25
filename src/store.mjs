@@ -105,9 +105,19 @@ export class Store {
   }
   async previewLegacyImport(text){
     await this.load();
-    const next=importLegacy36(this.state,text,this.context.catalog);
+    let archiveText=text,keepCurrentRoster=false;
+    if(JSON.parse(text)?.kind==='chufaba-pwa-backup'){
+      const source=await decodeBackup(text,this.context);
+      assert(source.state.legacy36,'unsupportedArchive');
+      archiveText=source.state.legacy36.archiveJSON;
+      keepCurrentRoster=!!this.state.profile;
+    }
+    let next=importLegacy36(this.state,archiveText,this.context.catalog);
+    if(keepCurrentRoster)next=reselectRoster(next,this.state.profile.teamID,this.state.profile.driverID,this.context.catalog);
     validateState(next,this.context);
     const summary=snapshot(next),preview={state:structuredClone(next),currentRevision:this.revision,summary:{nickname:next.profile.nickname,answered:36,firstCorrect:next.sessions[0].firstAnswers.filter(a=>a.correct).length,points:summary.points,coins:summary.coins,miles:summary.miles,claimed:0,photo:'未合影',roster:'车队和车手可重新选择一次，确认后锁定'}};
+    preview.summary.teamID=next.profile.teamID;preview.summary.driverID=next.profile.driverID;
+    preview.summary.roster=keepCurrentRoster?'保留本机已确认的名字、车队和车手，不再要求重选':preview.summary.roster;
     this.previews.set(preview,{state:structuredClone(next),expectedRevision:this.revision,legacy:true});return preview;
   }
   importLegacy(preview,{expectedRevision}={}){
